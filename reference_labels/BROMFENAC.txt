@@ -1,0 +1,147 @@
+6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described elsewhere in the labeling:• Slow or Delayed Healing [see Warnings and Precautions (5.1)]• Potential for Cross-Sensitivity [see Warnings and Precautions (5.2)]• Increased Bleeding Time of Ocular Tissue [see Warnings and Precautions (5.3)]• Keratitis and Corneal Reactions [see Warnings and Precautions (5.4)]• Contact Lens Wear [see Warnings and Precautions (5.5)]
+
+
+
+
+
+The most commonly reported adverse reactions in 1-8% of patients were: anterior chamber inflammation, headache, vitreous floaters, iritis, eye pain and ocular hypertension. (6.1)
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc. at 1-800-406-7984 (toll free), or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+
+
+
+
+
+
+
+6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.The most commonly reported adverse reactions in 1 to 8% of patients were: anterior chamber inflammation, headache, vitreous floaters, iritis, eye pain and ocular hypertension.
+5 WARNINGS AND PRECAUTIONS
+
+
+
+
+
+
+•Slow or Delayed Healing (5.1)
+
+•Potential for Cross-Sensitivity (5.2)
+
+•Increased Bleeding Time of Ocular Tissue (5.3)
+
+•Keratitis and Corneal Effects (5.4)
+
+•Contact Lens Wear (5.5)
+
+
+
+
+
+
+
+
+5.1 Slow or Delayed Healing
+
+All topical nonsteroidal anti-inflammatory drugs (NSAIDs), including bromfenac ophthalmic solution 0.075%, may slow or delay healing. Topical corticosteroids are also known to slow or delay healing. Concomitant use of topical NSAIDs and topical steroids may increase the potential for healing problems.
+
+
+
+
+
+
+
+
+5.2 Potential for Cross-Sensitivity
+
+There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other NSAIDs, including bromfenac ophthalmic solution 0.075%. Therefore, caution should be used when treating individuals who have previously exhibited sensitivities to these drugs.
+
+
+
+
+
+
+
+
+5.3 Increased Bleeding Time of Ocular Tissue
+
+With some NSAIDs, including bromfenac ophthalmic solution 0.075%, there exists the potential for increased bleeding time due to interference with platelet aggregation. There have been reports that ocularly applied NSAIDs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.
+It is recommended that bromfenac ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications which may prolong bleeding time.
+
+
+
+
+
+
+
+
+5.4 Keratitis and Corneal Reactions
+
+Use of topical NSAIDs may result in keratitis. In some susceptible patients, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration or corneal perforation. These events may be sight threatening. Patients with evidence of corneal epithelial breakdown should immediately discontinue use of topical NSAIDs, including bromfenac ophthalmic solution 0.075%, and should be closely monitored for corneal health.
+Postmarketing experience with topical NSAIDs suggests that patients with complicated ocular surgeries, corneal denervation, corneal epithelial defects, diabetes mellitus, ocular surface diseases (e.g., dry eye syndrome), rheumatoid arthritis, or repeat ocular surgeries within a short period of time may be at increased risk for corneal adverse events which may become sight threatening. Topical NSAIDs should be used with caution in these patients.
+Postmarketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days postsurgery may increase patient risk for the occurrence and severity of corneal adverse events.
+
+
+
+
+
+
+
+
+5.5 Contact Lens Wear
+
+Bromfenac ophthalmic solution should not be administered while wearing contact lenses. The preservative in bromfenac ophthalmic solution, benzalkonium chloride, may be absorbed by soft contact lenses.
+8 USE IN SPECIFIC POPULATIONS
+
+
+
+
+
+8.1 Pregnancy
+
+
+Risk Summary
+There are no adequate and well-controlled studies in pregnant women to inform any drug associated risks. Treatment of pregnant rats and rabbits with oral bromfenac did not produce teratogenic effects at clinically relevant doses.
+Clinical Considerations
+Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of bromfenac ophthalmic solution during late pregnancy should be avoided.
+
+Data
+
+Animal Data
+Treatment of rats with bromfenac at oral doses up to 0.9 mg/kg/day (195 times a unilateral daily human ophthalmic dose on a mg/m2 basis, assuming 100% absorbed) and rabbits at oral doses up to 7.5 mg/kg/day (3243 times a unilateral daily dose on a mg/m2 basis) produced no structural teratogenicity in reproduction studies. However, embryo-fetal lethality, neonatal mortality and reduced postnatal growth were produced in rats at 0.9 mg/kg/day, and embryo-fetal lethality was produced in rabbits at 7.5 mg/kg/day. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+
+
+
+
+
+
+
+8.2 Lactation
+
+There are no data on the presence of bromfenac in human milk, the effects on the breastfed infant, or the effects on milk production; however, systemic exposure to bromfenac from ocular administration is low [see Clinical Pharmacology (12.3)]. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for bromfenac and any potential adverse effects on the breast-fed child from bromfenac or from the underlying maternal condition.
+
+
+
+
+
+
+
+
+8.4 Pediatric Use
+
+Safety and efficacy in pediatric patients below the age of 18 years have not been established.
+
+
+
+
+
+
+
+
+8.5 Geriatric Use
+
+There is no evidence that the efficacy or safety profiles for bromfenac ophthalmic solution differ in patients 65 years of age and older compared to younger adult patients.

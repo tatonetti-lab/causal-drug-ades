@@ -1,0 +1,639 @@
+6 ADVERSE REACTIONS
+
+The following serious adverse reactions are discussed below and elsewhere in the labeling:
+
+Bleeding
+  
+   [see
+   
+    Warnings and Precautions (5.2)]
+  
+   
+
+Thrombotic thrombocytopenic purpura
+  
+   [see
+   
+    Warnings and Precautions (5.4)]
+  
+   
+
+
+
+
+
+
+
+Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. (
+ 
+    6.1)
+
+   
+
+
+To report SUSPECTED ADVERSE REACTIONS, contact Accord Healthcare Inc. at 1-866-941-7875 or
+  
+     
+www.accordhealthcare.us
+or FDA at 1-800-FDA-1088 or
+  
+     www.fda.gov/medwatch.
+ 
+    
+
+
+
+
+
+
+
+
+6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions and durations of follow -up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Clopidogrel bisulfate has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for one year or more. The clinically important adverse reactions observed in trials comparing clopidogrel bisulfate plus aspirin to placebo plus aspirin and trials comparing clopidogrel bisulfate alone to aspirin alone are discussed below.
+
+
+Bleeding
+
+
+CURE
+In CURE, clopidogrel bisulfate use with aspirin was associated with an increase in major bleeding (primarily gastrointestinal and at puncture sites) compared to placebo with aspirin (see
+ 
+  Table 1). The incidence of intracranial hemorrhage (0.1%) and fatal bleeding (0.2%) were the same in both groups. Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis, hematuria, and bruise.
+
+ 
+The overall incidence of bleeding is described in Table 1.
+
+Table 1: CURE Incidence of Bleeding Complications (% patients)
+
+
+
+
+
+
+Event
+
+
+Clopidogrel Bisulfate 
+        (+ aspirin) 
+        (n=6259)
+     
+
+
+Placebo 
+        (+ aspirin) 
+        (n=6303)
+     
+
+
+
+
+
+
+*Life-threatening and other major bleeding. 
+     
+†Led to interruption of study medication.
+   
+    
+
+
+
+
+
+Major bleeding
+*
+
+
+3.7
+2.7
+
+
+  Life-threatening bleeding
+2.2
+1.8
+
+
+    Fatal
+0.2
+0.2
+
+
+    5 g/dL hemoglobin drop
+0.9
+0.9
+
+
+    Requiring surgical intervention
+0.7
+0.7
+
+
+    Hemorrhagic strokes
+0.1
+0.1
+
+
+    Requiring inotropes
+0.5
+0.5
+
+
+    Requiring transfusion (≥4 units)
+1.2
+1.0
+
+
+Other major bleeding
+1.6
+1.0
+
+
+    Significantly disabling
+0.4
+0.3
+
+
+    Intraocular bleeding with 
+                   significant loss of vision
+    
+0.05
+0.03
+
+
+    Requiring 2 to 3 units of blood
+1.3
+0.9
+
+
+
+Minor bleeding
+†
+
+
+5.1
+2.4
+
+
+
+COMMIT
+In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisulfate and placebo groups, both of which also received aspirin (see
+ 
+  Table 2).
+
+ 
+
+Table 2: Incidence of Bleeding Events in COMMIT (% patients)
+
+
+
+
+
+
+Type of Bleeding
+Clopidogrel Bisulfate 
+       (+ aspirin) 
+       (n=22961)
+    
+Placebo 
+       (+ aspirin) 
+       (n=22891)
+    
+p-value
+
+
+
+
+Major
+    
+     Major bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion.noncerebral or cerebral bleeding
+   
+    
+0.6
+0.5
+0.59
+
+
+  Major noncerebral
+0.4
+0.3
+0.48
+
+
+    Fatal
+0.2
+0.2
+0.90
+
+
+Hemorrhagic stroke
+0.2
+0.2
+0.91
+
+
+  Fatal
+0.2
+0.2
+0.81
+
+
+Other noncerebral bleeding (nonmajor)
+3.6
+3.1
+0.005
+
+
+Any noncerebral bleeding
+3.9
+3.4
+0.004
+
+
+
+
+CAPRIE (Clopidogrel Bisulfate vs Aspirin)
+
+In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel bisulfate versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively. The incidence of intracranial hemorrhage was 0.4% for clopidogrel bisulfate compared to 0.5% for aspirin.
+Other bleeding events that were reported more frequently in the clopidogrel bisulfate group were epistaxis and hematoma.
+
+Other Adverse Events
+
+In CURE and CHARISMA, which compared clopidogrel bisulfate plus aspirin to aspirin alone, there was no difference in the rate of adverse events (other than bleeding) between clopidogrel bisulfate and placebo.
+In CAPRIE, which compared clopidogrel bisulfate to aspirin, pruritus was more frequently reported in those taking clopidogrel bisulfate. No other difference in the rate of adverse events (other than bleeding) was reported.
+
+
+
+
+
+
+
+
+6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of clopidogrel bisulfate. Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel bisulfate.
+
+
+Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
+ 
+  
+
+Gastrointestinal disorders:Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
+ 
+  
+
+General disorders and administration site condition: Fever
+ 
+  
+
+Hepatobiliary disorders:Acute liver failure, hepatitis (noninfectious), abnormal liver function test
+ 
+  
+
+Immune system disorders:Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia
+ 
+  
+
+Musculoskeletal, connective tissue and bone disorders:Myalgia, arthralgia, arthritis
+ 
+  
+
+Nervous system disorders: Taste disorders, headache, ageusia
+ 
+  
+
+Psychiatric disorders:Confusion, hallucinations
+ 
+  
+
+Respiratory, thoracic and mediastinal disorders:Bronchospasm, interstitial pneumonitis, eosinophilic pneumonia
+ 
+  
+
+Renal and urinary disorders:Increased creatinine levels
+ 
+  
+
+Skin and subcutaneous tissue disorders:Maculopapular, erythematous or exfoliative rash, urticaria, bullous dermatitis, eczema, toxic epidermal necrolysis, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis (AGEP), angioedema, drug-induced hypersensitivity syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), erythema multiforme, lichen planus, generalized pruritus
+ 
+  
+
+Vascular disorders:Vasculitis, hypotension
+WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+
+
+
+WARNING: DIMINISHED ANTIPLATELET EFFECT IN PATIENTS WITH TWO LOSS-OF-FUNCTION ALLELES OF THE CYP2C19 GENE
+
+
+See full prescribing information for complete boxed warning.
+
+
+
+
+Effectiveness of clopidogrel bisulfate depends on conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19. (
+   
+      5.1,
+   
+      12.3)
+  
+     
+
+
+Tests are available to identify patients who are CYP2C19 poor metabolizers. (
+   
+      12.5)
+  
+     
+
+
+Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers. (
+   
+      5.1)
+  
+     
+
+
+
+
+
+
+
+
+
+
+
+
+The effectiveness of clopidogrel bisulfate results from its antiplatelet activity, which is dependent on its conversion to an active metabolite by the cytochrome P450 (CYP) system, principally CYP2C19
+  
+   [see
+   
+    Warnings and Precautions (5.1)
+,
+  
+   
+Clinical Pharmacology (12.3)]
+  
+   . Clopidogrel bisulfate at recommended doses forms less of the active metabolite and so has a reduced effect on platelet activity in patients who are homozygous for nonfunctional alleles of the CYP2C19 gene, (termed “CYP2C19 poor metabolizers”). Tests are available to identify patients who are CYP2C19 poor metabolizers
+  
+   [see
+   
+    Clinical Pharmacology (12.5)]
+  
+   . Consider use of another platelet P2Y12 inhibitor in patients identified as CYP2C19 poor metabolizers.
+5 WARNINGS AND PRECAUTIONS
+
+
+
+
+
+CYP2C19 inhibitors: Avoid concomitant use of omeprazole or esomeprazole. (
+  
+     5.1)
+ 
+    
+Bleeding: Clopidogrel bisulfate increases risk of bleeding. (
+  
+     5.2)
+ 
+    
+
+Discontinuation:Premature discontinuation increases risk of cardiovascular events. Discontinue 5 days prior to elective surgery that has a major risk of bleeding. (
+  
+     5.3)
+ 
+    
+Thrombotic thrombocytopenic purpura (TTP) has been reported. (
+  
+     5.4)
+ 
+    
+Cross-reactivity among thienopyridines has been reported. (
+  
+     5.5)
+ 
+    
+
+
+
+
+
+
+
+
+5.1 Diminished Antiplatelet Activity in Patients with Impaired CYP2C19 Function
+
+Clopidogrel is a prodrug. Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19
+ 
+  [see
+  
+   Boxed Warning].
+ 
+  
+
+The metabolism of clopidogrel can also be impaired by drugs that inhibit CYP2C19, such as omeprazole or esomeprazole. Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole because both significantly reduce the antiplatelet activity of clopidogrel bisulfate
+ 
+  [see
+  
+   Drug Interactions (7.1)].
+ 
+  
+
+
+
+
+
+
+
+
+
+5.2 General Risk of Bleeding
+
+P2Y12 inhibitors (thienopyridines), including clopidogrel bisulfate, increase the risk of bleeding.
+P2Y12 inhibitors (thienopyridines), inhibit platelet aggregation for the lifetime of the platelet (7 to 10 days). Because the half-life of clopidogrel’s active metabolite is short, it may be possible to restore hemostasis by administering exogenous platelets; however, platelet transfusions within 4 hours of the loading dose or 2 hours of the maintenance dose may be less effective.
+Use of drugs that induce the activity of CYP2C19 would be expected to result in increased drug levels of the active metabolite of clopidogrel and might potentiate the bleeding risk. As a precaution, avoid concomitant use of strong CYP2C19 inducers
+ 
+  [see
+  
+   Drug Interactions (7.1)and
+  
+   Clinical Pharmacology (12.3)
+.
+
+ 
+Risk factors for bleeding include concomitant use of other drugs that increase the risk of bleeding (e.g., anticoagulants, antiplatelet agents, and chronic use of NSAIDs).
+ 
+  [see
+  
+   Drug Interactions (7.4, 7.5, 7.6, 7.7)].
+
+
+
+
+
+
+
+
+
+
+5.3 Discontinuation of Clopidogrel Bisulfate
+
+Discontinuation of clopidogrel bisulfate increases the risk of cardiovascular events. If clopidogrel bisulfate must be temporarily discontinued (e.g., to treat bleeding or for surgery with a major risk of bleeding), restart it as soon as possible. When possible, interrupt therapy with clopidogrel bisulfate for five days prior to such surgery. Resume clopidogrel bisulfate as soon as hemostasis is achieved.
+
+
+
+
+
+
+
+
+5.4 Thrombotic Thrombocytopenic Purpura (TTP)
+
+TTP, sometimes fatal, has been reported following use of clopidogrel bisulfate, sometimes after a short exposure (<2 weeks). TTP is a serious condition that requires urgent treatment including plasmapheresis (plasma exchange). It is characterized by thrombocytopenia, microangiopathic hemolytic anemia (schistocytes [fragmented RBCs] seen on peripheral smear), neurological findings, renal dysfunction, and fever
+ 
+  [see
+  
+   Adverse Reactions (6.2)].
+ 
+  
+
+
+
+
+
+
+
+
+
+5.5 Cross-Reactivity among Thienopyridines
+
+Hypersensitivity including rash, angioedema or hematologic reaction has been reported in patients receiving clopidogrel bisulfate, including patients with a history of hypersensitivity or hematologic reaction to other thienopyridines
+ 
+  [see
+  
+   Contraindications(4.2)and
+  
+   Adverse Reactions(6.2)].
+8 USE IN SPECIFIC POPULATIONS
+
+
+
+
+
+8.1 Pregnancy
+
+
+Risk Summary
+
+Available data from cases reported in published literature and postmarketing surveillance with clopidogrel use in pregnant women have not identified any drug-associated risks for major birth defects or miscarriage
+ 
+  [see Data].There are risks to the pregnant woman and fetus associated with myocardial infarction and stroke
+ 
+  [see Clinical Considerations]. No evidence of fetotoxicity was observed when clopidogrel was administered to pregnant rats and rabbits during organogenesis at doses corresponding to 65 and 78 times the recommended daily human dose
+ 
+  [see Data].
+
+ 
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defects, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk 
+    Myocardial infarction and stroke are medical emergencies. Therapy for the pregnant woman should not be withheld because of potential concerns regarding the effects of clopidogrel on the fetus.
+ 
+Labor or delivery
+Clopidogrel use during labor or delivery will increase the risk of maternal bleeding and hemorrhage. Avoid neuraxial blockade during clopidogrel use because of the risk of spinal hematoma. When possible, discontinue clopidogrel 5 to 7 days prior to labor, delivery, or neuraxial blockade.
+
+Data
+
+Human data
+The available data from published case reports over two decades of postmarketing use have not identified an association with clopidogrel use in pregnancy and major birth defects, miscarriage, or adverse fetal outcomes.
+Animal data
+Embryo-fetal developmental toxicology studies were performed in pregnant rats and rabbits with doses up to 500 and 300 mg/kg/day, respectively, administered during organogenesis. These doses, corresponding to 65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis, revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
+
+
+
+
+
+
+
+
+8.2 Lactation
+
+
+Risk Summary
+
+There are no data on the presence of clopidogrel in human milk or the effects on milk production. No adverse effects on breastfed infants have been observed with maternal clopidogrel use during lactation in a small number of postmarketing cases. Studies in rats have shown that clopidogrel and/or its metabolites are present in the milk. When a drug is present in animal milk, it is likely that the drug will be present in human milk. The developmental and health benefits of breastfeeding should be considered along with mother’s clinical need for clopidogrel and any potential adverse effects on the breastfed infant from clopidogrel or from underlying maternal condition.
+
+
+
+
+
+
+
+
+8.4 Pediatric Use
+
+Safety and effectiveness in pediatric populations have not been established.
+A randomized, placebo-controlled trial (CLARINET) did not demonstrate a clinical benefit of clopidogrel in neonates and infants with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt. Possible factors contributing to this outcome were the dose of clopidogrel, the concomitant administration of aspirin, and the late initiation of therapy following shunt palliation. It cannot be ruled out that a trial with a different design would demonstrate a clinical benefit in this patient population.
+
+
+
+
+
+
+
+
+8.5 Geriatric Use
+
+Of the total number of subjects in the CAPRIE and CURE controlled clinical studies, approximately 50% of patients treated with clopidogrel bisulfate were 65 years of age and older, and 15% were 75 years and older. In COMMIT, approximately 58% of the patients treated with clopidogrel bisulfate were 60 years and older, 26% of whom were 70 years and older.
+The observed risk of bleeding events with clopidogrel bisulfate plus aspirin versus placebo plus aspirin by age category is provided in Table 1 and Table 2 for the CURE and COMMIT trials, respectively
+ 
+  [see
+  
+   Adverse Reactions (6.1)]
+ 
+  . No dosage adjustment is necessary in elderly patients.
+
+ 
+
+
+
+
+
+
+
+
+8.6 Renal Impairment
+
+Experience is limited in patients with severe and moderate renal impairment
+ 
+  [see
+  
+   Clinical Pharmacology (12.2)].
+ 
+  
+
+
+
+
+
+
+
+
+
+8.7 Hepatic Impairment
+
+No dosage adjustment is necessary in patients with hepatic impairment
+ 
+  [see
+  
+   Clinical Pharmacology (12.2)]
+ 
+  .
+10 OVERDOSAGE
+
+Platelet inhibition by clopidogrel bisulfate is irreversible and will last for the life of the platelet. Overdose following clopidogrel administration may result in bleeding complications. A single oral dose of clopidogrel at 1500 or 2000 mg/kg was lethal to mice and to rats and at 3000 mg/kg to baboons. Symptoms of acute toxicity were vomiting, prostration, difficult breathing, and gastrointestinal hemorrhage in animals.
+Based on biological plausibility, platelet transfusion may restore clotting ability.
