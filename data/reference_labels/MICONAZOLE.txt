@@ -1,0 +1,821 @@
+6 ADVERSE REACTIONS
+
+The following serious adverse drug reactions are discussed in detail in other sections of labeling:
+
+
+Hypersensitivity reactions 
+        
+  
+   [see Warnings and Precautions (5.1)]
+
+
+
+
+
+
+
+Most common adverse reactions (≥2%) are: diarrhea, headache, nausea, dysgeusia, upper abdominal pain, and vomiting (6.1).
+         
+ 
+    
+
+
+
+ To report SUSPECTED ADVERSE REACTIONS, contact Galt 
+Pharmaceuticals, LLC Marietta, GA 30067 at 1-833-757-0904 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+
+
+
+
+
+
+
+6.1 Clinical Trial Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+         
+ 
+  
+
+The overall safety of ORAVIG was assessed in 480 adult subjects: 315 HIV-infected subjects, 147 subjects with head and neck cancer, and 18 healthy subjects. 
+
+
+
+HIV Infected Patients
+           
+   
+    
+
+Two trials were conducted in immunocompromised HIV-infected patients: one randomized, double-blind, double-dummy, active-controlled design (N = 290 ORAVIG, 287 control) and one non-comparative trial (N = 25).
+         
+ 
+  
+
+
+
+
+
+In the randomized, double blind trial (Study 1), 290 HIV infected subjects used ORAVIG once daily for 14 days, and 287 subjects used 10 mg clotrimazole troches five times daily for 14 days. Adverse reactions occurring in ≥ 2% of patients in either treatment are presented in Table 1. 
+
+ Table 1 Adverse Reactions (Treatment-Emergent) Occurring in ≥ 2% of HIV-Infected Patients in the Controlled Clinical Trial
+          
+  
+   
+
+ 
+
+
+
+
+
+
+
+Adverse Reaction
+            
+    
+     (MedDRA v 9.1 System Organ             Class and Preferred Term)
+            
+    
+     
+
+ORAVIG
+            
+    
+     N = 290 (%)
+            
+    
+     
+
+Clotrimazole troches
+            
+    
+     N = 287 (%)
+            
+    
+     
+
+
+
+
+Patients with any adverse reaction during the study
+
+
+
+158 (54.5)
+
+
+
+146 (50.9)
+
+
+
+
+
+Gastrointestinal disorders
+    Diarrhea
+            
+    
+         Nausea 
+            
+    
+         Vomiting
+            
+    
+         Dry mouth 
+            
+    
+         Abdominal pain upper
+            
+    
+     
+
+
+25.9
+9.0
+            
+    
+     6.6
+            
+    
+     3.8
+            
+    
+     2.8
+            
+    
+     1.7
+            
+    
+     
+
+
+23.7
+8.0
+            
+    
+     7.7
+            
+    
+     3.1
+            
+    
+     1.7
+            
+    
+     2.8
+            
+    
+     
+
+
+
+
+Infections and infestations
+    Upper respiratory infection
+            
+    
+         Gastroenteritis
+            
+    
+     
+
+
+15.9
+2.1
+            
+    
+     1.4
+            
+    
+     
+
+
+17.1
+2.4
+            
+    
+     2.8
+            
+    
+     
+
+
+
+
+Nervous system disorders
+    Headache
+            
+    
+         Ageusia 
+            
+    
+     
+
+
+13.1
+7.6
+            
+    
+     2.4
+            
+    
+     
+
+
+8.4
+6.6
+            
+    
+     0.3
+            
+    
+     
+
+
+
+
+Blood and lymphatic disorders
+    Anemia
+            
+    
+         Lymphopenia
+            
+    
+         Neutropenia
+            
+    
+     
+
+
+6.9
+2.8
+            
+    
+     1.7
+            
+    
+     0.7
+            
+    
+     
+
+
+8.4
+1.7
+            
+    
+     2.1
+            
+    
+     2.1
+            
+    
+     
+
+
+
+
+General disorders and administration site conditions
+    Fatigue
+            
+    
+         Pain
+            
+    
+     
+
+
+6.6
+ 
+            
+    
+     2.8
+            
+    
+     1.0
+            
+    
+     
+
+
+8.0
+ 
+            
+    
+     2.1
+            
+    
+     2.8
+            
+    
+     
+
+
+
+
+Respiratory/thoracic
+    Cough
+            
+    
+         Pharyngeal pain
+            
+    
+     
+
+
+5.2
+2.8
+            
+    
+     0.7
+            
+    
+     
+
+
+7.7
+1.7
+            
+    
+     2.4
+            
+    
+     
+
+
+
+
+Investigations
+    Increased GGT
+            
+    
+     
+
+
+5.5
+1.0
+            
+    
+     
+
+
+6.3
+2.8
+            
+    
+     
+
+
+
+
+Overall local adverse reactions, including oral discomfort, oral burning, oral pain, gingival pain, gingival swelling, gingival pruritis, tongue ulceration, mouth ulceration, glossodynia, dry mouth, application site pain or discomfort, toothache, loss of taste, and altered taste, were reported by 35 (12.1%) patients who received miconazole buccal tablet compared to 27 (9.4%) patients who received clotrimazole troches. 
+
+
+
+ Head and Neck Cancer Patients
+           
+   
+    
+
+In the randomized, open-label comparative trial of oropharyngeal candidiasis in patients with head and neck cancer who had received radiation therapy (Study 2), 147 patients used ORAVIG once daily for 14 days and 147 patients used 125 mg of miconazole oral gel four times daily for 14 days. Adverse reactions occurring in ≥2% of patients in either arm are listed in Table 2.
+         
+ 
+  
+ 
+
+
+
+Table 2: Adverse Reactions (Treatment-Emergent) Occurring in ≥ 2% of Patients with Head and Neck Cancer who had Received Radiation Therapy (Controlled Clinical Trial)
+          
+  
+   
+
+ 
+
+
+
+
+
+
+
+Adverse Reaction
+            
+    
+     (MedDRA v 9.1             System Organ Class and Preferred Term)
+            
+    
+     
+
+ORAVIG
+            
+    
+     N = 147 (%)
+            
+    
+     
+
+Miconazole gel
+            
+    
+     N = 147 (%)
+            
+    
+     
+
+
+
+
+Patients with at least one adverse reaction
+
+
+
+30             (20.4)
+
+
+
+32             (21.8)
+
+
+
+
+
+Gastrointestinal disorders
+      Abdominal pain, upper
+            
+    
+           Oral discomfort
+            
+    
+           Nausea
+            
+    
+           Vomiting
+            
+    
+           Glossodynia
+            
+    
+     
+
+
+8.8
+1.4
+            
+    
+     2.7
+            
+    
+     0.7
+            
+    
+     0.7
+            
+    
+     0
+            
+    
+     
+
+
+13.6
+2.0
+            
+    
+     2.7
+            
+    
+     2.7
+            
+    
+     2.0
+            
+    
+     2.0
+            
+    
+     
+
+
+
+
+Nervous system disorders
+      Dysgeusia
+            
+    
+     
+
+
+5.4
+4.1
+            
+    
+     
+
+
+1.4
+0
+            
+    
+     
+
+
+
+
+Skin and subcutaneous
+      Pruritus
+            
+    
+     
+
+
+3.4
+2.0
+            
+    
+     
+
+
+0.7
+0.7
+            
+    
+     
+
+
+
+
+Overall local adverse reactions, including oral discomfort, oral pain, dry mouth, glossodynia, loss of taste, altered taste, tongue ulceration, mouth ulceration, tooth disorder, and application site discomfort or pain, were experienced by 14 (9.5%) patients who used ORAVIG compared to 16 (10.9%) patients who used miconazole gel. 
+
+
+
+Overall ORAVIG Safety Experience In Patients and Healthy Subjects
+           
+   
+    
+
+Adverse reactions reported in the overall safety database of 480 subjects who received miconazole buccal tablet is listed in Table 3.
+         
+ 
+  
+
+
+
+
+
+
+ Table 3 Adverse Reactions Reported in 
+≥
+ 2% of Patients and Healthy Subjects who Received ORAVIG in Clinical Trials
+          
+  
+   
+
+
+
+
+
+
+
+
+Adverse reaction
+            
+    
+     (MedDRA v 9.1             System Organ Class and Preferred Term)
+            
+    
+     
+
+ORAVIG
+            
+    
+     N = 480 (%)
+            
+    
+     
+
+
+
+Patients with at least one AE
+            
+    
+     
+
+209 (43.5)
+            
+    
+     
+
+
+
+
+ Gastrointestinal disorders
+     Diarrhea
+            
+    
+          Nausea
+            
+    
+          Abdominal pain upper 
+            
+    
+          Vomiting
+            
+    
+     
+
+
+20.6
+6.0
+            
+    
+     4.6
+            
+    
+     2.5
+            
+    
+     2.5
+            
+    
+     
+
+
+
+
+Infections and infestations
+
+
+
+11.9
+
+
+
+
+
+Nervous system disorders
+     Headache
+            
+    
+          Dysgeusia
+            
+    
+     
+
+
+10.6
+5.0
+            
+    
+     2.9
+            
+    
+     
+
+
+
+
+Discontinuation of ORAVIG due to adverse drug reactions occurred in 0.6% overall.
+5 WARNINGS AND PRECAUTIONS
+
+
+
+
+Hypersensitivity reactions: Anaphylactic reactions have been reported in patients receiving miconazole. Discontinue ORAVIG immediately at the first sign of hypersensitivity (5.1).
+
+
+
+
+
+
+
+5.1 Hypersensitivity
+
+Allergic reactions, including anaphylactic reactions and hypersensitivity, have been reported with the administration of miconazole products, including ORAVIG.  Discontinue ORAVIG immediately at the first sign of hypersensitivity.
+         
+ 
+  
+
+There is no information regarding cross-hypersensitivity between miconazole and other azole antifungal agents. Monitor patients with a history of hypersensitivity to azoles.
+8 USE IN SPECIFIC POPULATIONS
+
+
+
+
+
+Pregnancy: Based on animal data, may cause     fetal harm (8.1).
+Pediatric Use: Safety and efficacy not     established in patients less than 16 years of age (8.4). 
+
+
+See 12 for PATIENT COUNSELING INFORMATION and FDA-Approved Patient Labeling                                                                                                                                                    
+
+
+
+
+
+
+
+
+8.1 Pregnancy
+
+
+Risk Summary
+
+Based on findings from animal data, ORAVIG may cause fetal harm when administered to pregnant women. 
+         There are no available data on ORAVIG use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.   In animal reproduction studies, prolonged gestation, dystocia and/or increased number of resorptions were observed after oral administration of miconazole nitrate during organogenesis to pregnant rats and rabbits. 
+         
+ 
+  (See Data).  Advise pregnant women of the potential risk to a fetus.
+        
+
+ 
+ The background risk of major birth defects and miscarriage for the indicated population is unknown.  All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the US general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+ 
+         
+ 
+  Data
+
+
+Animal Data:  
+
+Miconazole nitrate administered orally at doses of 80 mg/kg/day or higher to pregnant rats or rabbits crossed the placenta and resulted in embryo- and fetotoxicity, including increased fetal resorptions. These doses also resulted in prolonged gestation and dystocia in rats, but not in rabbits.  Embryofetotoxicity was not observed in intravenous studies with miconazole at lower doses of 40 mg/kg/day in rats and 20 mg/kg/day in rabbits, which are approximately 8 times higher than the dose a patient would receive if she swallowed an ORAVIG buccal tablet, based on body surface area comparisons. Teratogenicity was not reported in any animal study with miconazole.
+         
+ 
+   
+
+
+
+
+
+
+
+
+
+8.2 Lactation
+
+
+Risk Summary
+
+There 
+         is no available information on the presence of miconazole in human milk, or the effects on the breastfed child, or the effects on milk production following use of ORAVIG.
+        
+ The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ORAVIG and any potential adverse effects on the breastfed infant from ORAVIG or from the underlying maternal condition.
+
+
+
+
+
+
+
+
+8.4 Pediatric Use
+
+Safety and effectiveness of ORAVIG in pediatric patients below the age of 16 years have not been established. The ability of pediatric patients to comply with the application instructions has not been evaluated. Use in younger children is not recommended due to potential risk of choking.
+
+
+
+
+
+
+
+
+8.5 Geriatric Use
+
+Clinical studies of ORAVIG did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. 
+
+
+
+
+
+
+
+
+8.6 Hepatic Impairment
+
+Miconazole is metabolized by the liver.  While miconazole systemic exposure is minimal following the application of ORAVIG, ORAVIG should be administered with caution in patients with hepatic impairment.
+         
+ 
+  
+
+
+
+
+
+
+
+
+
+8.7 Renal Impairment
+
+Less than 1% of miconazole is excreted as unchanged drug in the urine; therefore, no adjustment to therapy is necessary in patients with renal impairment.
+10 OVERDOSAGE
+
+Overdose with miconazole in humans has not been reported in the literature.
+Miconazole absorption and systemic exposure following application of ORAVIG are minimal 
+       
+ 
+  
+[see Clinical Pharmacology (12.3)].
+
+
+Symptomatic and supportive care is the basis for management.

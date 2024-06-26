@@ -1,0 +1,754 @@
+6 ADVERSE REACTIONS
+
+
+The following serious adverse reactions are discussed in greater detail in other sections:
+  
+
+
+
+• Severe anaphylactic and anaphylactoid reactions 
+   [see 
+
+Warnings and Precautions (5.1)
+
+]
+
+
+
+
+• Abnormal thinking, behavior changes, and complex behaviors 
+   [see 
+
+Warnings and Precautions (5.3)
+
+]
+
+
+
+
+• CNS effects 
+  [see 
+
+Warnings and Precautions (5.4)
+
+]
+
+
+
+
+
+
+
+
+
+• Most common adverse reactions (≥3% and more common than with placebo) are: somnolence, dizziness, fatigue, nausea, and exacerbated insomnia. 
+    (6.1)
+
+
+
+
+
+
+
+
+To report SUSPECTED ADVERSE REACTIONS, contact AvKARE at 1-855-361-3993 or FDA at 1-800-FDA-1088 or 
+
+www.fda.gov/medwatch
+
+.
+
+
+
+
+
+
+
+
+
+6.1 Clinical Trials Experience
+
+
+
+
+
+Adverse Reactions Resulting in Discontinuation of Treatment
+
+
+
+
+The data described in this section reflect exposure to ramelteon tablets in 5,373 subjects, including 722 exposed for six months or longer and 448 subjects for one year.
+  
+
+
+
+
+
+
+
+Six percent of the 5,373 individual subjects exposed to Ramelteon tablets in clinical studies discontinued treatment owing to an adverse event, compared with 2% of the 2,279 subjects receiving placebo. The most frequent adverse events leading to discontinuation in subjects receiving ramelteon tablets were somnolence, dizziness, nausea, fatigue, headache, and insomnia; all of which occurred in 1% of the patients or less.
+  
+
+
+
+
+
+
+
+Ramelteon Tablets Most Commonly Observed Adverse Events 
+
+
+
+
+
+
+
+
+Table 1 displays the incidence of adverse events reported by the 2,861 patients with chronic insomnia who participated in placebo-controlled trials of ramelteon tablets.
+  
+
+
+
+
+
+
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in clinical trials of other drugs, and may not reflect the rates observed in practice. The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1. Incidence (% of subjects) of Treatment-Emergent Adverse Events
+
+
+
+MedDRA Preferred Term
+Placebo (n=1,456)
+Ramelteon 8 mg (n=1,405)
+
+
+Somnolence
+2%
+3%
+
+
+Fatigue
+2%
+3%
+
+
+Dizziness
+3%
+4%
+
+
+Nausea
+2%
+3%
+
+
+Insomnia exacerbated
+2%
+3%
+
+
+
+
+To report SUSPECTED ADVERSE REACTIONS contact AvKARE at 1-855-361-3993; email drugsafety@avkare.com; or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+5 WARNINGS AND PRECAUTIONS
+
+
+
+
+
+• Severe anaphylactic/anaphylactoid reactions: Angioedema and anaphylaxis have been reported. Do not rechallenge if such reactions occur. 
+    
+         
+ 
+    (5.1)
+
+
+• Need to evaluate for comorbid diagnoses: Reevaluate if insomnia persists after 7 to 10 days of treatment. 
+    
+         
+ 
+    (5.2)
+
+
+• Abnormal thinking, behavioral changes, complex behaviors: May include "sleep-driving" and hallucinations. Immediately evaluate any new onset behavioral changes. 
+    
+         
+ 
+    (5.3)
+
+
+• Depression: Worsening of depression or suicidal thinking may occur. 
+    
+         
+ 
+    (5.3)
+
+
+• CNS effects: Potential impairment of activities requiring complete mental alertness such as operating machinery or driving a motor vehicle, after ingesting the drug. 
+    
+         
+ 
+    (5.4)
+
+
+• Reproductive effects: Include decreased testosterone and increased prolactin levels. Effect on reproductive axis in developing humans is unknown. 
+    
+         
+ 
+    (5.5)
+
+
+• Patients with severe sleep apnea: Ramelteon tablets are not recommended for use in this population. 
+    
+         
+ 
+    (5.6)
+
+
+
+
+
+
+
+
+
+5.1 Severe Anaphylactic and Anaphylactoid Reactions
+
+
+
+
+Rare cases of angioedema involving the tongue, glottis or larynx have been reported in patients after taking the first or subsequent doses of ramelteon tablets. Some patients have had additional symptoms such as dyspnea, throat closing, or nausea and vomiting that suggest anaphylaxis. Some patients have required medical therapy in the emergency department. If angioedema involves the tongue, glottis or larynx, airway obstruction may occur and be fatal. Patients who develop angioedema after treatment with ramelteon tablets should not be rechallenged with the drug.
+
+
+
+
+
+
+
+
+
+
+
+5.2 Need to Evaluate for Comorbid Diagnoses
+
+
+
+
+Since sleep disturbances may be the presenting manifestation of a physical and/or psychiatric disorder, symptomatic treatment of insomnia should be initiated only after a careful evaluation of the patient. 
+  
+         
+ 
+  The failure of insomnia to remit after 7 to 10 days of treatment may indicate the presence of a primary psychiatric and/or medical illness that should be evaluated. Worsening of insomnia, or the emergence of new cognitive or behavioral abnormalities, may be the result of an unrecognized underlying psychiatric or physical disorder and requires further evaluation of the patient. Exacerbation of insomnia and emergence of cognitive and behavioral abnormalities were seen with ramelteon tablets during the clinical development program.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+5.3 Abnormal Thinking and Behavioral Changes
+
+
+
+
+A variety of cognitive and behavior changes have been reported to occur in association with the use of hypnotics. In primarily depressed patients, worsening of depression (including suicidal ideation and completed suicides) has been reported in association with the use of hypnotics.
+  
+         
+ 
+  
+
+
+
+Hallucinations, as well as behavioral changes such as bizarre behavior, agitation and mania have been reported with ramelteon tablets use. Amnesia, anxiety and other neuro-psychiatric symptoms may also occur unpredictably.
+  
+         
+ 
+  
+
+
+
+Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a hypnotic) and other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex), with amnesia for the event, have been reported in association with hypnotic use. The use of alcohol and other CNS depressants may increase the risk of such behaviors. These events can occur in hypnotic-naive as well as in hypnotic-experienced persons. Complex behaviors have been reported with the use of ramelteon tablets. Discontinuation of ramelteon tablets should be strongly considered for patients who report any complex sleep behavior.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.4 CNS Effects
+
+
+
+
+Patients should avoid engaging in hazardous activities that require concentration (such as operating a motor vehicle or heavy machinery) after taking ramelteon tablets.
+
+After taking ramelteon tablets, patients should confine their activities to those necessary to prepare for bed.
+
+Patients should be advised not to consume alcohol in combination with ramelteon tablets as alcohol and ramelteon tablets may have additive effects when used in conjunction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.5 Reproductive Effects
+
+
+
+
+Ramelteon tablets have been associated with an effect on reproductive hormones in adults, e.g., decreased testosterone levels and increased prolactin levels. It is not known what effect chronic or even chronic intermittent use of ramelteon tablets may have on the reproductive axis in developing humans 
+  
+         
+ 
+   [see 
+   
+          
+  
+   Clinical Trials (14.3)]. 
+  
+         
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+5.6 Use in Patients with Concomitant Illness
+
+
+
+
+Ramelteon tablets have not been studied in subjects with severe sleep apnea and are not recommended for use in this population 
+  
+         
+ 
+   [see 
+   
+          
+  
+   Use in Specific Populations (8.7)]. 
+  
+         
+ 
+  
+
+
+
+
+Ramelteon tablets should not be used by patients with severe hepatic impairment 
+  
+         
+ 
+   [see 
+   
+          
+  
+   Clinical Pharmacology (12.4)]. 
+  
+         
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.7 Laboratory Tests
+
+
+
+
+
+Monitoring 
+
+
+No standard monitoring is required.
+
+For patients presenting with unexplained amenorrhea, galactorrhea, decreased libido, or problems with fertility, assessment of prolactin levels and testosterone levels should be considered as appropriate.
+  
+         
+ 
+  
+
+Interference with Laboratory Tests 
+
+
+Ramelteon tablets are not known to interfere with commonly used clinical laboratory tests. In addition, 
+  
+         
+ 
+  in vitro data indicate that ramelteon does not cause false-positive results for benzodiazepines, opiates, barbiturates, cocaine, cannabinoids, or amphetamines in two standard urine drug screening methods 
+  
+         
+ 
+  in vitro.
+8 USE IN SPECIFIC POPULATIONS
+
+
+
+
+
+• Pediatric use: Safety and effectiveness not established. 
+    (8.4)
+
+
+
+
+• Geriatric use: No overall differences in safety and efficacy between elderly and younger adult subjects. 
+    (8.5)
+
+
+
+
+• Hepatic impairment: Is not recommended in patients with severe impairment; use with caution in moderate impairment. 
+    (8.8)
+
+
+
+
+
+
+
+
+
+
+
+
+8.1 Pregnancy
+
+
+
+
+
+
+Risk Summary
+
+
+
+Available data from post marketing reported with ramelteon use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. In animal studies, ramelteon produced evidence of developmental toxicity, including teratogenic effects, in rats at doses greater than 36 times the recommended human dose (RHD) of 8 mg/day based on body surface area (mg/m) (see Data).
+  
+         
+ 
+  
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+Data 
+
+
+Animal Data
+
+
+Oral administration of ramelteon (10, 40, 150 or 600 mg/kg/day) to pregnant rats during the period of organogenesis was associated with increased incidences of fetal structural abnormalities (malformations and variations) at doses greater than 40 mg/kg/day. The no-effect dose is approximately 50 times the RHD based on mg/m
+  
+         
+ 
+  2. Treatment of pregnant rabbits during the period of organogenesis produced no evidence of embryo-fetal toxicity at oral doses of up to 300 mg/kg/day (or up to 720 times the RHD based on mg/m
+  
+         
+ 
+  2).
+  
+         
+ 
+  
+
+When rats were orally administered ramelteon (30, 100, or 300 mg/kg/day) throughout gestation and lactation, growth retardation, developmental delay, and behavioral changes were observed in the offspring at doses greater than 30 mg/kg/day. The no-effect dose is 36 times the RHD on a based on mg/m
+  
+         
+ 
+  2. Increased incidences of malformation and death among offspring were seen at the highest dose.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.2 Lactation
+
+
+
+
+
+Risk Summary 
+
+
+There are no data regarding the presence of ramelteon or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production. Ramelteon and/or its metabolites are present in rat milk. When a drug is present in animal milk, it is likely that the drug will be present in human milk. Because of the mechanism of action of ramelteon, there is a potential risk for somnolence in a breastfed infant 
+  
+         
+ 
+  ( 
+   
+          
+  
+   see Clinical Considerations)
+  
+         
+ 
+  . The developmental and health benefits of breastfeeding should be considered along with the mothers clinical need for ramelteon tablets and any potential adverse effects on the breastfed infant from ramelteon tablets or from the underlying maternal condition.
+  
+         
+ 
+  
+
+Clinical Considerations 
+
+
+Infants exposed to ramelteon tablets through breastmilk should be monitored for somnolence and feeding problems. A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment and for 25 hours (approximately 5 elimination half-lives) after ramelteon tablets administration in order to minimize drug exposure to a breastfed infant.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8.4 Pediatric Use
+
+
+Safety and effectiveness of ramelteon tablets in pediatric patients have not been established. Further study is needed prior to determining that this product may be used safely in prepubescent and pubescent patients.
+
+
+
+
+
+
+
+
+
+8.5 Geriatric Use
+
+
+A total of 654 subjects in double-blind, placebo-controlled, efficacy trials who received ramelteon tablets were at least 65 years of age; of these, 199 were 75 years of age or older. No overall differences in safety or efficacy were observed between elderly and younger adult subjects.
+
+
+A double-blind, randomized, placebo-controlled study in elderly subjects with insomnia (n=33) evaluated the effect of a single dose of ramelteon tablets on balance, mobility, and memory functions after middle of the night awakening. There is no information on the effect of multiple dosing. Night time dosing of Ramelteon Tablets, 8 mg did not impair middle of the night balance, mobility, or memory functions relative to placebo. The effects on night balance in the elderly cannot be definitively known from this study.
+
+
+
+
+
+
+
+
+
+
+
+8.6 Chronic Obstructive Pulmonary Disease
+
+
+
+
+The respiratory depressant effect of ramelteon was evaluated in a crossover design study of subjects (n=26) with mild to moderate COPD after administering a single 16 mg dose or placebo, and in a separate study (n=25), the effects of ramelteon on respiratory parameters were evaluated after administering an 8 mg dose or placebo in a crossover design to patients with moderate to severe COPD, defined as patients who had forced expiratory volume at one second (FEV 
+  
+         
+ 
+  1 )/forced vital capacity ratio of <70%, and a FEV 
+  
+         
+ 
+  1 <80% of predicted with <12% reversibility to albuterol. Treatment with a single dose of ramelteon tablets has no demonstrable respiratory depressant effects in subjects with mild to severe COPD, as measured by arterial O 
+  
+         
+ 
+  2 saturation (SaO 
+  
+         
+ 
+  2). There is no available information on the respiratory effects of multiple doses of ramelteon tablets in patients with COPD. The respiratory depressant effects in patients with COPD cannot be definitively known from this study.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+8.7 Sleep Apnea
+
+
+The effects of ramelteon tablets were evaluated after administering a 16 mg dose or placebo in a crossover design to subjects (n=26) with mild to moderate obstructive sleep apnea. Treatment with ramelteon tablets 16 mg for one night showed no difference compared with placebo on the Apnea/Hypopnea Index (the primary outcome variable), apnea index, hypopnea index, central apnea index, mixed apnea index, and obstructive apnea index. Treatment with a single dose of ramelteon tablets does not exacerbate mild to moderate obstructive sleep apnea. There is no available information on the respiratory effects of multiple doses of ramelteon tablets in patients with sleep apnea. The effects on exacerbation in patients with mild to moderate sleep apnea cannot be definitively known from this study.
+  
+         
+ 
+  
+
+
+
+Ramelteon tablets have not been studied in subjects with severe obstructive sleep apnea; use of ramelteon tablets are not recommended in such patients.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+8.8 Hepatic Impairment
+
+
+Exposure to ramelteon tablets were increased by four-fold in subjects with mild hepatic impairment and by more than ten-fold in subjects with moderate hepatic impairment. Ramelteon tablets should be used with caution in patients with moderate hepatic impairment 
+  
+         
+ 
+   [see 
+
+Clinical Pharmacology (12.4)
+
+]. Ramelteon tablets are not recommended in patients with severe hepatic impairment.
+ 
+        
+
+ 
+
+
+
+
+
+
+
+
+
+8.9 Renal Impairment
+
+
+No effects on C 
+  
+         
+ 
+  max and AUC 
+  
+         
+ 
+  0-t of parent drug or M-II were seen. No adjustment of ramelteon dosage is required in patients with renal impairment 
+  
+         
+ 
+   [see 
+
+Clinical Pharmacology (12.4)
+
+].
+10 OVERDOSAGE
+
+
+General symptomatic and supportive measures should be used, along with immediate gastric lavage where appropriate. Intravenous fluids should be administered as needed. As in all cases of drug overdose, respiration, pulse, blood pressure, and other appropriate vital signs should be monitored, and general supportive measures employed.
+Hemodialysis does not effectively reduce exposure to ramelteon tablets. Therefore, the use of dialysis in the treatment of overdosage is not appropriate.
+
+Poison Control Center
+
+As with the management of all overdosage, the possibility of multiple drug ingestion should be considered. Contact a poison control center for current information on the management of overdosage.

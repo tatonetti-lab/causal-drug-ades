@@ -1,6 +1,9 @@
 # ignore the api keys
 config.json
 
+# ignor submissions
+submission/
+
 # ignore the embed files
 data/drug_ade_embed.pkl
 data/drug_ade_embed_modeluae.pkl

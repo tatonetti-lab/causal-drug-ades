@@ -1,0 +1,154 @@
+condition_name,cohort_id,concept_name,meddra_pt
+Acute kidney injury,500000401,Postrenal failure,10059345
+Acute kidney injury,500000401,Hepatorenal syndrome,10019846
+Acute kidney injury,500000401,Hepatorenal failure,10019845
+Acute kidney injury,500000401,Crush syndrome,10050702
+Acute liver injury,500000301,Hepatic vein thrombosis,10019713
+Acute liver injury,500000301,Chronic hepatitis,10008909
+Acute liver injury,500000301,Allergic hepatitis,10071198
+Acute liver injury,500000301,Hepatic infarction,10019680
+Acute liver injury,500000301,Liver disorder,10024670
+Acute liver injury,500000301,Hepatobiliary disease,10062000
+Acute liver injury,500000301,Hepatic cyst,10019646
+Acute liver injury,500000301,Non-alcoholic fatty liver,10029530
+Acute liver injury,500000301,Chronic hepatic failure,10057573
+Acute liver injury,500000301,Cytomegalovirus hepatitis,10011830
+Acute liver injury,500000301,Hepatic haemorrhage,10019677
+Acute liver injury,500000301,Hepatotoxicity,10019851
+Acute liver injury,500000301,Hepatopulmonary syndrome,10052274
+Acute liver injury,500000301,Hepatitis cholestatic,10019754
+Acute liver injury,500000301,Radiation hepatitis,10051015
+Acute liver injury,500000301,Cholestasis of pregnancy,10049055
+Acute liver injury,500000301,Hepatorenal syndrome,10019846
+Acute liver injury,500000301,Hepatorenal failure,10019845
+Acute liver injury,500000301,Liver transplant failure,10083175
+Acute liver injury,500000301,Alcoholic liver disease,10001627
+Acute liver injury,500000301,Hepatocellular carcinoma,10073071
+Acute liver injury,500000301,Hepatic cirrhosis,10019641
+Acute liver injury,500000301,Hepatic failure,10019663
+Acute liver injury,500000301,Haemangioma of liver,10018821
+Acute liver injury,500000301,Acute hepatic failure,10000804
+Acute liver injury,500000301,Hepatic steatosis,10019708
+Acute liver injury,500000301,Venoocclusive liver disease,10047216
+Acute liver injury,500000301,Hepatitis C,10019744
+Acute liver injury,500000301,Hepatic haematoma,10019676
+Acute liver injury,500000301,Hepatitis toxic,10019795
+Acute liver injury,500000301,Hepatic infection,10056522
+Acute liver injury,500000301,Hepatitis acute,10019727
+Acute liver injury,500000301,Hepatic fibrosis,10019668
+Acute liver injury,500000301,Portal fibrosis,10074726
+Acute liver injury,500000301,Graft versus host disease in liver,10064676
+Acute liver injury,500000301,Hepatosplenomegaly,10019847
+Acute liver injury,500000301,Hepatoblastoma,10062001
+Acute liver injury,500000301,Hepatitis E,10019768
+Acute liver injury,500000301,Autoimmune hepatitis,10003827
+Acute liver injury,500000301,Hepatitis B reactivation,10058827
+Acute liver injury,500000301,Non-alcoholic steatohepatitis,10053219
+Acute liver injury,500000301,Steatohepatitis,10076331
+Acute liver injury,500000301,Hepatic cytolysis,10049199
+Acute liver injury,500000301,Hepatocellular injury,10019837
+Acute liver injury,500000301,Hepatitis non-A non-B,10019786
+Acute liver injury,500000301,Asymptomatic viral hepatitis,10063838
+Acute liver injury,500000301,Hepatitis viral,10019799
+Acute liver injury,500000301,Hepatitis non-A non-B non-C,10019787
+Acute liver injury,500000301,Chronic hepatitis C,10008912
+Acute liver injury,500000301,Liver abscess,10024652
+Acute liver injury,500000301,Cardiac cirrhosis,10054936
+Acute liver injury,500000301,Chronic hepatitis B,10008910
+Acute liver injury,500000301,Metastases to liver,10027457
+Acute liver injury,500000301,Hepatic cancer metastatic,10055110
+Acute liver injury,500000301,Hepatitis A,10019719
+Acute liver injury,500000301,Hepatitis,10019717
+Acute liver injury,500000301,Drug-induced liver injury,10072268
+Acute liver injury,500000301,Liver transplant rejection,10024715
+Acute liver injury,500000301,Cryptogenic cirrhosis,10063075
+Acute liver injury,500000301,Hepatomegaly,10019842
+Acute liver injury,500000301,Hepatic necrosis,10019692
+Acute liver injury,500000301,Portal vein thrombosis,10036206
+Acute liver injury,500000301,Hepatic cancer,10073069
+Acute liver injury,500000301,Hepatic cancer recurrent,10073070
+Acute liver injury,500000301,Primary biliary cholangitis,10080429
+Acute liver injury,500000301,Hepatitis fulminant,10019772
+Acute liver injury,500000301,Hepatic calcification,10065274
+Acute liver injury,500000301,Liver sarcoidosis,10068664
+Acute liver injury,500000301,Liver injury,10067125
+Acute liver injury,500000301,Mucopolysaccharidosis II,10056889
+Acute liver injury,500000301,Hepatitis B,10019731
+Acute liver injury,500000301,Cirrhosis alcoholic,10009208
+Acute liver injury,500000301,Gallbladder injury,10017642
+Acute liver injury,500000301,Gallbladder obstruction,10017636
+Acute liver injury,500000301,Hepatobiliary disease,10062000
+Acute liver injury,500000301,Gallbladder cancer,10017614
+Acute liver injury,500000301,Biliary sepsis,10057847
+Acute liver injury,500000301,Biliary tract infection,10061695
+Acute liver injury,500000301,Bile duct stone,10004637
+Acute liver injury,500000301,Hepatitis cholestatic,10019754
+Acute liver injury,500000301,Cholestasis of pregnancy,10049055
+Acute liver injury,500000301,Primary biliary cholangitis,10080429
+Acute liver injury,500000301,Bile duct stenosis,10051341
+Acute liver injury,500000301,Cholecystitis,10008612
+Acute liver injury,500000301,Cholecystocholangitis,10049634
+Acute liver injury,500000301,Cholecystitis infective,10062631
+Acute liver injury,500000301,Cholecystitis acute,10008614
+Acute liver injury,500000301,Cholangitis,10008604
+Acute liver injury,500000301,Cholecystocholangitis,10049634
+Acute liver injury,500000301,Gallbladder disorder,10017626
+Acute liver injury,500000301,Gallbladder polyp,10049704
+Acute liver injury,500000301,AIDS cholangiopathy,10067092
+Acute liver injury,500000301,Malignant biliary obstruction,10081590
+Acute liver injury,500000301,Biliary dyskinesia,10056529
+Acute liver injury,500000301,Cholelithiasis,10008629
+Acute liver injury,500000301,Cholecystitis chronic,10008617
+Acute liver injury,500000301,Hepatic encephalopathy,10019660
+Acute liver injury,500000301,Hepatic infarction,10019680
+Acute liver injury,500000301,Cytomegalovirus hepatitis,10011830
+Acute liver injury,500000301,Hepatitis B,10019731
+Acute liver injury,500000301,Hepatitis B reactivation,10058827
+Acute liver injury,500000301,Chronic hepatitis C,10008912
+Acute liver injury,500000301,Chronic hepatitis B,10008910
+Acute liver injury,500000301,Hepatitis C,10019744
+Acute liver injury,500000301,Hepatitis A,10019719
+Acute liver injury,500000301,Hepatitis E,10019768
+Acute liver injury,500000301,Hepatitis non-A non-B,10019786
+Acute liver injury,500000301,Asymptomatic viral hepatitis,10063838
+Acute liver injury,500000301,Hepatitis viral,10019799
+Acute liver injury,500000301,Hepatitis non-A non-B non-C,10019787
+Acute liver injury,500000301,Hepatopulmonary syndrome,10052274
+Acute liver injury,500000301,Hepatorenal syndrome,10019846
+Acute liver injury,500000301,Hepatorenal failure,10019845
+Acute liver injury,500000301,Hepatitis acute,10019727
+Acute liver injury,500000301,Hepatitis toxic,10019795
+Acute liver injury,500000301,Hepatitis fulminant,10019772
+Acute liver injury,500000301,Hepatitis,10019717
+Acute liver injury,500000301,Liver sarcoidosis,10068664
+Acute liver injury,500000301,Hepatitis B,10019731
+Acute liver injury,500000301,Chronic hepatitis,10008909
+Acute liver injury,500000301,Cytomegalovirus hepatitis,10011830
+Acute liver injury,500000301,Hepatitis cholestatic,10019754
+Acute liver injury,500000301,Steatohepatitis,10076331
+Acute liver injury,500000301,Non-alcoholic steatohepatitis,10053219
+Acute liver injury,500000301,Allergic hepatitis,10071198
+Acute liver injury,500000301,Primary biliary cholangitis,10080429
+Acute liver injury,500000301,Chronic hepatitis C,10008912
+Acute liver injury,500000301,Hepatitis A,10019719
+Acute liver injury,500000301,Autoimmune hepatitis,10003827
+Acute liver injury,500000301,Hepatitis non-A non-B,10019786
+Acute liver injury,500000301,Asymptomatic viral hepatitis,10063838
+Acute liver injury,500000301,Hepatitis viral,10019799
+Acute liver injury,500000301,Hepatitis non-A non-B non-C,10019787
+Acute liver injury,500000301,Hepatitis E,10019768
+Acute liver injury,500000301,Chronic hepatitis B,10008910
+Acute liver injury,500000301,Radiation hepatitis,10051015
+Acute liver injury,500000301,Hepatitis B reactivation,10058827
+Acute liver injury,500000301,Hepatitis C,10019744
+Acute liver injury,500000301,Jaundice neonatal,10023138
+Acute liver injury,500000301,Jaundice,10023126
+Acute myocardial infarction,500000801,Acute myocardial infarction,10000891
+Acute myocardial infarction,500000801,Angina pectoris,10002383
+Acute myocardial infarction,500000801,Coronary artery insufficiency,10052895
+Acute myocardial infarction,500000801,Angina unstable,10002388
+Acute myocardial infarction,500000801,Angina unstable,10002388
+Acute myocardial infarction,500000801,Coronary artery insufficiency,10052895
+GI bleed,500001001,Oesophageal varices haemorrhage,10030210
+GI bleed,500001001,Haematemesis,10018830
+GI bleed,500001001,Erosive duodenitis,10062532

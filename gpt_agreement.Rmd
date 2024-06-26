@@ -1,0 +1,310 @@
+---
+title: "gpt_agre"
+author: "undina"
+date: "2024-06-21"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(tidyr)
+library(cowplot)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pryan_set <- read_csv('data/pryan_reference_set_ades.csv') %>% 
+        filter(affect == 1) %>%
+        mutate(drug_name = str_to_lower(drug_name),
+               condition_name = str_to_lower(condition_name))      
+pryan_set %>% head()
+pryan_set %>% filter(affect == 1) %>% group_by(condition_name) %>% summarise(n_distinct(drug_concept_id))
+```
+
+```{r}
+pryan_set %>% 
+  inner_join(meddra_reference_map) %>% 
+  head()
+```
+
+
+
+```{r}
+onsides_latest_release = read_csv('./adverse_reactions_active_labels.csv.gz') %>%
+              filter(num_ingredients == 1,!is.na(ingredients_names)) %>%
+              mutate(pt_meddra_term = str_to_lower(pt_meddra_term), 
+                     ingredients_names = str_to_lower(ingredients_names))
+onsides_latest_release %>% head()
+```
+```{r}
+# onsides_latest_release %>%
+#   inner_join(pryan_set, by = c('ingredients_names'='drug_name')) %>% 
+#   inner_join(meddra_reference_map, by = c('condition_name'='condition_name',
+#                                           'cohort_id' = 'cohort_id')) %>%
+#   pivot_longer(cols = matches('meddra_term|concept_name')) %>% select(-condition_name, -cohort_id, -meddra_pt) %>%
+#   inner_join(meddra_reference_map, by = c('value'='concept_name')) %>% 
+#   distinct(set_id, pt_meddra_id, meddra_pt, ingredients_rxcuis, ingredients_names,
+#            drug_concept_id, affect, meddra_term = value, condition_name, cohort_id) %>%
+#   group_by(condition_name) %>%
+#   summarise(n_distinct(ingredients_names))
+
+temp <- onsides_latest_release %>%
+  inner_join(meddra_reference_map, by = c('pt_meddra_term'='concept_name',
+                                           'pt_meddra_id'='meddra_pt')) %>%
+  distinct(cohort_id, condition_name,
+           drug_name = ingredients_names, concept_name = pt_meddra_term,
+           meddra_pt = pt_meddra_id)
+```
+```{r}
+pryan_set %>% 
+  inner_join(meddra_reference_map) %>% 
+  full_join(temp) %>% filter(affect == 1) %>% 
+  group_by(condition_name, drug_name) %>%
+  summarise(n = n()) %>%
+  group_by(condition_name, n) %>%
+  summarise(num = n())
+```
+
+```{r}
+pryan_set %>% 
+  inner_join(meddra_reference_map) %>% 
+  full_join(temp) %>%
+  write_csv('data/labels_with_reference_ADRs.csv')
+```
+
+
+
+
+
+```{r}
+adr_section = read_csv('/Users/undinagisladottir/Documents/Columbia/Tatonetti_Lab/20231113_onsides/adverse_reactions_active_labels.csv') %>%
+              filter(num_ingredients == 1)
+meddra_reference_map <- read_csv('./data/mapping_reference.csv') %>%
+      mutate(concept_name = str_to_lower(concept_name),
+             condition_name = str_to_lower(condition_name))
+adr_condition_name = adr_section %>%
+    left_join(
+      meddra_reference_map, by = c('pt_meddra_id' = 'meddra_pt')
+      ) %>%
+  filter(!is.na(ingredients_names)) %>%
+  select(condition_name, cohort_id, pt_meddra_term, pt_meddra_id, ingredients_names, ingredients_rxcuis) %>%
+  distinct() %>%
+  mutate(ingredients_names = str_to_lower(ingredients_names))
+adr_condition_name %>% head
+```
+
+```{r}
+reference_set = read_csv('data/reference_set_labels.csv') %>%
+    mutate(drug_name = str_to_lower(drug_name))
+reference_set %>% distinct(condition_name)
+```
+
+```{r}
+adr_condition_name %>%
+  filter(!is.na(condition_name)) %>%  distinct(condition_name, ingredients_names) %>%
+  group_by(condition_name) %>% summarise(n())
+  left_join(pryan_set, by = c(
+    'condition_name'='condition_name',
+    'cohort_id'='cohort_id',
+    'ingredients_names'='drug_name'
+  )) %>% distinct(ingredients_names, condition_name) %>%
+  group_by(condition_name) %>%
+  summarize(n())
+# write_csv('data/labels_with_reference_ADRs.csv')
+```
+
+```{r}
+results <- read_csv('pharmaco-expert_adverse-reaction_run1.csv') %>%
+            mutate(response = grepl('true', gpt_output, ignore.case = TRUE))
+results %>% head()
+results
+```
+
+```{r}
+reference_set %>% 
+  filter(condition_name == 'Acute kidney injury') %>%
+  distinct(condition_name, drug_name) %>%
+  left_join(meddra_reference_map) %>%
+  left_join(adr_condition_name %>% distinct(ingredients_names, pt_meddra_term, pt_meddra_id) %>%
+              mutate(seen = 1),
+            by = c('drug_name' = 'ingredients_names',
+                   'concept_name' = 'pt_meddra_term',
+                   'meddra_pt' = 'pt_meddra_id'))
+```
+
+
+
+```{r}
+results %>% 
+  inner_join(adr_condition_name, by = c('drug_name'='ingredients_names',
+                                        'adr_name' = 'pt_meddra_term')) %>%
+  left_join(reference_set, by = c('condition_name', 'cohort_id', 'drug_name')) %>%
+  group_by(condition_name, drug_name, affect) %>%
+  mutate(final_response = any(response == 'true')) %>% ungroup() %>%
+  mutate(group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Negative')) %>%
+  group_by(group) %>%
+  mutate(total = n()) %>%
+  group_by(group, response, affect, total) %>% 
+  summarise(n = n()) %>%
+  mutate(perc = n/total)
+```
+
+
+```{r}
+results %>% 
+  inner_join(adr_condition_name, by = c('drug_name'='ingredients_names',
+                                        'adr_name' = 'pt_meddra_term')) %>%
+  left_join(reference_set, by = c('condition_name', 'cohort_id', 'drug_name')) %>%
+  mutate(group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Positive')) %>%
+  filter(!is.na(drug_name), group == 'Positive') %>%
+  group_by(condition_name) %>% summarize(n_distinct(drug_name))
+```
+
+
+```{r}
+results %>% 
+  inner_join(adr_condition_name, by = c('drug_name'='ingredients_names',
+                                        'adr_name' = 'pt_meddra_term')) %>%
+  
+```
+
+
+```{r}
+results %>% 
+  inner_join(adr_condition_name, by = c('drug_name'='ingredients_names',
+                                        'adr_name' = 'pt_meddra_term')) %>%
+  left_join(reference_set, by = c('condition_name', 'cohort_id', 'drug_name')) %>%
+  mutate(group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Negative')) %>% 
+  filter(group != 'Negative', !is.na(condition_name)) %>%
+  group_by(condition_name, drug_name, group) %>% 
+  summarise(final_response = factor(ifelse(max(response), 'Agree', 'Disagree'),
+                                    levels = c('Disagree', 'Agree'))) %>%
+  ungroup() %>% 
+  group_by(condition_name, group, final_response) %>%
+  summarise(n = n()) %>%
+  group_by(condition_name, group) %>%
+  mutate(perc = n/sum(n)) %>% head
+  mutate(newgroup = str_glue('{condition_name}_{group}')) %>%
+ggplot(mapping = aes(x = group, fill = final_response, y = n)) +
+    geom_bar(stat = 'identity', position = "fill") +
+    scale_y_continuous(labels = scales::percent) +
+    facet_wrap(~condition_name, nrow = 2) +
+  theme_classic() +
+  xlab('') + ylab('') +
+  panel_border() +
+  scale_fill_manual(values = c('#EF4444','#394BA0')) +
+  theme(legend.title = element_blank())
+```
+
+```{r}
+results %>% 
+  inner_join(adr_condition_name, by = c('drug_name'='ingredients_names',
+                                        'adr_name' = 'pt_meddra_term')) %>%
+  left_join(reference_set, by = c('condition_name', 'cohort_id', 'drug_name')) %>%
+  mutate(group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Negative')) %>% 
+  filter(group != 'Negative', !is.na(condition_name)) %>%
+  group_by(condition_name, drug_name, group) %>% 
+  summarise(final_response = factor(ifelse(max(response), 'Agree', 'Disagree'),
+                                    levels = c('Disagree', 'Agree'))) %>% 
+  group_by(group, final_response) %>% summarise(n= n()) %>%
+  group_by(group) %>% 
+  mutate(total = sum(n),
+         perc = n/total*100)
+```
+
+
+
+```{r}
+reference_set %>% filter(condition_name == 'Acute liver injury') %>% head()
+```
+
+
+```{r}
+results %>% 
+  inner_join(adr_condition_name, by = c('drug_name'='ingredients_names',
+                                        'adr_name' = 'pt_meddra_term')) %>%
+  left_join(reference_set, by = c('condition_name', 'cohort_id', 'drug_name')) %>%
+  mutate(group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Negative')) %>% 
+  filter(group != 'Negative', !is.na(condition_name)) %>%
+  mutate(total = n()) %>%
+  group_by(response, total) %>% 
+  summarise(n = n()) %>%
+  mutate(perc = n/total)
+```
+
+
+## Updated analysis
+
+```{r}
+data <- read_csv('pharmaco-expert_adverse-reaction_adr_run0.csv')
+data %>% head()
+```
+```{r}
+data %>%
+  mutate(response = grepl('true', gpt_output, ignore.case = TRUE),
+          group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Negative')) %>% 
+  filter(group != 'Negative', !is.na(condition_name)) %>% 
+  group_by(condition_name, drug_name, group) %>% 
+  summarise(final_response = factor(ifelse(max(response), 'Agree', 'Disagree'),
+                                    levels = c('Disagree', 'Agree'))) %>%
+  ungroup() %>% 
+  group_by(condition_name, group, final_response) %>%
+  summarise(n = n()) %>%
+  group_by(condition_name, group) %>%
+  mutate(perc = n/sum(n),
+         condition = case_when(condition_name == 'acute kidney injury' ~ 'AKI',
+                               condition_name == 'acute liver injury' ~ 'ALI',
+                               condition_name == 'acute myocardial infarction' ~ 'AMI',
+                               condition_name == 'gi bleed' ~ 'GIB')) %>%
+  # filter(final_response == 'Agree', group == 'Positive')
+  
+ggplot(mapping = aes(x = group, fill = final_response, y = n)) +
+    geom_bar(stat = 'identity', position = "fill") +
+    scale_y_continuous(labels = scales::percent) +
+    facet_wrap(~condition, nrow = 2) +
+  theme_classic() +
+  xlab('') + ylab('') +
+  panel_border() +
+  scale_fill_manual(values = c('#EF4444','#394BA0')) +
+  theme(legend.title = element_blank(), text = element_text(size = 20))
+
+ggsave('figures/gpt_agreement_bar.png', width = 10, height = 10,
+       dpi = 1200)
+```
+
+
+
+```{r}
+data %>%
+  mutate(response = grepl('true', gpt_output, ignore.case = TRUE),
+          group = case_when(is.na(affect) ~ 'Non-Positive',
+                           affect == 1 ~ 'Positive',
+                           affect == 0 ~ 'Negative')) %>% 
+  filter(group != 'Negative', !is.na(condition_name)) %>% 
+  group_by(condition_name, drug_name, group) %>% 
+  summarise(final_response = factor(ifelse(max(response), 'Agree', 'Disagree'),
+                                    levels = c('Disagree', 'Agree'))) %>%
+  ungroup() %>%
+  group_by(group, final_response) %>% summarise(n = n()) %>%
+  group_by(group) %>% mutate(total = sum(n),
+                             perc =  n/total)
+```
+
+
+
+
+
+
+

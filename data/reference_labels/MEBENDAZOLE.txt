@@ -1,0 +1,359 @@
+6 ADVERSE REACTIONS
+
+
+
+
+
+Adverse reactions reported in clinical trials were anorexia, abdominal pain, diarrhea, flatulence, nausea, vomiting and rash (6.1).
+
+
+
+To report SUSPECTED ADVERSE REACTIONS, contact  Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.1	Clinical Studies
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The safety of mebendazole was evaluated in 6276 subjects who participated in 39 clinical trials for treatment of single or mixed parasitic infections of the gastrointestinal tract. In these trials, the formulations, dosages and duration of mebendazole treatment varied. Adverse reactions reported in mebendazole-treated subjects from the 39 clinical trials are shown in Table 2 below.
+
+Table 2: Adverse Reactions Reported in Mebendazole-treated Subjects from 39 Clinical Trials*
+
+
+
+
+
+
+Adverse Reaction(s)
+
+
+
+
+
+
+Gastrointestinal Disorders
+
+
+
+
+
+Anorexia
+
+
+
+
+Abdominal Pain
+
+
+
+
+Diarrhea
+
+
+
+
+Flatulence
+
+
+
+
+Nausea
+
+
+
+
+Vomiting
+
+
+
+
+
+Skin and Subcutaneous Tissue Disorders
+
+
+
+
+
+Rash
+
+
+
+
+*Includes mebendazole formulations, dosages and treatment duration other than EMVERM® 100 mg tablet
+
+
+
+
+
+
+
+
+6.2	Postmarketing Experience
+
+The following adverse reactions have been identified in adult and pediatric patients postmarketing with mebendazole formulations and dosages other than the EMVERM® 100 mg chewable tablet. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Table 3: Adverse Reactions Identified During Postmarketing Experience with Mebendazole*
+
+
+
+
+
+ 
+
+Adverse Reaction(s) 
+
+
+
+Blood and Lymphatic System Disorders 
+
+ Agranulocytosis, Neutropenia
+
+
+
+Immune System Disorders
+
+ Hypersensitivity including anaphylactic reactions
+
+
+
+Nervous System Disorders 
+
+ Convulsions, Dizziness
+
+
+
+Hepatobiliary Disorders
+
+ Hepatitis, Abnormal liver tests
+
+
+
+Renal and Urinary Disorders
+
+ Glomerulonephritis
+
+
+
+Skin and Subcutaneous Tissue Disorders
+
+
+ Toxic epidermal necrolysis, Stevens-Johnson syndrome, Exanthema, Angioedema, Urticaria, Alopecia 
+
+
+
+
+*Includes mebendazole formulations, dosages and treatment duration other than EMVERM® 100 mg chewable tablets
+5 WARNINGS AND PRECAUTIONS
+
+
+
+
+
+
+Risk of Convulsions: Convulsions in infants below the age of 1 year have been reported (5.1).
+
+Hematologic Effects: Neutropenia and agranulocytosis have been reported in patients receiving mebendazole at higher doses and for prolonged duration. Monitor blood counts in these patients (5.2).
+
+Metronidazole and Serious Skin Reactions: Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) have been reported with the concomitant use of mebendazole and metronidazole. Avoid concomitant use of mebendazole and metronidazole (5.3).
+
+
+
+
+
+
+
+
+5.1	Risk of Convulsions
+
+Although EMVERM® is approved for use in children two years of age and older, convulsions have been reported in infants below the age of 1 year during post-marketing experience with mebendazole, including EMVERM® 
+[see Adverse Reactions (6.2) and Use in Specific Populations (8.4)]. 
+
+
+
+
+
+
+
+
+5.2	Hematologic Effects
+
+Agranulocytosis and neutropenia have been reported with mebendazole use at higher doses and for more prolonged durations than is recommended for the treatment of soil-transmitted helminth infections. Monitor blood counts if EMVERM® is used at higher doses or for prolonged duration. 
+
+
+
+
+
+
+
+
+5.3	Metronidazole Drug Interaction and Serious Skin Reactions
+
+Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) have been reported with the concomitant use of mebendazole and metronidazole. Avoid concomitant use of mebendazole, including EMVERM® and metronidazole.
+8 USE IN SPECIFIC POPULATIONS
+
+
+
+
+
+8.1 Pregnancy
+
+
+
+
+
+
+
+
+
+Risk Summary
+
+
+The available published literature on mebendazole use in pregnant women has not reported a clear association between mebendazole and a potential risk of major birth defects or miscarriages [see Data]. There are risks to the mother and fetus associated with untreated helminthic infection during pregnancy [see Clinical Considerations].
+In animal reproduction studies, adverse developmental effects (i.e., skeletal malformations, soft tissue malformations, decreased pup weight, embryolethality) were observed when mebendazole was administered to pregnant rats during the period of organogenesis at single oral doses as low as 10 mg/kg (approximately 0.5-fold the total daily maximum recommended human dose [MRHD]). Maternal toxicity was present at the highest of these doses [see Data].
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+
+
+
+
+
+
+
+
+
+
+
+Clinical Considerations
+
+
+
+
+Disease-Associated Maternal and/or Embryo/Fetal Risks 
+
+
+Untreated soil transmitted helminth infections in pregnancy are associated with adverse outcomes including maternal iron deficiency anemia, low birth weight, neonatal and maternal death.
+
+
+
+
+
+
+
+
+
+
+
+
+Data
+
+
+
+
+Human Data
+
+
+Several published studies, including prospective pregnancy registries, case-control, retrospective cohort, and randomized controlled studies, have reported no association between mebendazole use and a potential risk of major birth defects or miscarriage. Overall, these studies did not identify a specific pattern or frequency of major birth defects with mebendazole use. However, these studies cannot definitely establish the absence of any mebendazole-associated risk because of methodological limitations, including recall bias, confounding factors and, in some cases, small sample size or exclusion of first trimester mebendazole exposures.
+
+
+Animal Data
+
+
+Embryo-fetal developmental toxicity studies in rats revealed no adverse effects on dams or their progeny at doses up to 2.5 mg/kg/day on gestation days 6–15 (the period of organogenesis). Dosing at ≥10 mg/kg/day resulted in a lowered body weight gain and a decreased pregnancy rate. Maternal toxicity, including body weight loss in one animal and maternal death in 11 of 20 animals, was seen at 40 mg/kg/day. At 10 mg/kg/day, increased embryo-fetal resorption (100% were resorbed at 40 mg/kg/day), decreased pup weight and increased incidence of malformations (primarily skeletal) were observed. Mebendazole was also embryotoxic and teratogenic in pregnant rats at single oral doses during organogenesis as low as 10 mg/kg (approximately 0.5-fold the total daily MRHD, based on mg/m2).
+In embryo-fetal developmental toxicity studies in mice dosed on gestation days 6–15, doses of 10 mg/kg/day and higher resulted in decreased body weight gain at 10 and 40 mg/kg/day and a higher mortality rate at 40 mg/kg/day. At doses of 10 mg/kg/day (approximately 0.2-fold the total daily MRHD, based on mg/m2) and higher, embryo-fetal resorption increased (100% at 40 mg/kg) and fetal malformations, including skeletal, cranial, and soft tissue anomalies, were present. Dosing of hamsters and rabbits did not result in embryotoxicity or teratogenicity at doses up to 40 mg/kg/day (1.6 to 3.9-fold the total daily MRHD, based on mg/m2).
+In a peri- and post-natal toxicity study in rats, mebendazole did not adversely affect dams or their progeny at 20 mg/kg/day. At 40 mg/kg (1.9-fold the total daily MRHD, based on mg/m2), a reduction of the number of live pups was observed and there was no survival at weaning. No abnormalities were found on gross and radiographic examination of pups at birth.
+
+
+
+
+
+
+
+
+
+
+8.2	Lactation
+
+
+
+
+
+
+
+
+
+Risk Summary
+
+
+ Limited data from case reports demonstrate that a small amount of mebendazole is present in human milk following oral administration. There are no reports of effects on the breastfed infant, and the limited reports on the effects on milk production are inconsistent. The limited clinical data during lactation precludes a clear determination of the risk of EMVERM® to a breastfed infant; therefore, developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for EMVERM® and any potential adverse effects on the breastfed infant from EMVERM® or from the underlying maternal condition.
+
+
+
+
+
+
+
+
+
+
+8.4 Pediatric Use
+
+The safety and effectiveness of EMVERM® 100 mg chewable tablets has not been established in pediatric patients less than two years of age. Convulsions have been reported with mebendazole use in children less than one year of age [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)]. 
+
+
+
+
+
+
+
+
+
+8.5 Geriatric Use
+
+Clinical studies of mebendazole did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.
+10 OVERDOSAGE
+
+In patients treated at dosages substantially higher than recommended or for prolonged periods of time, the following adverse reactions have been reported: alopecia, reversible transaminase elevations, hepatitis, agranulocytosis, neutropenia, and glomerulonephritis.
+
+
+
+
+
+
+
+
+
+
+Symptoms and signs
+
+
+In the event of accidental overdose, gastrointestinal signs/symptoms may occur.
+
+
+
+
+
+
+
+
+
+
+
+
+Treatment
+
+
+There is no specific antidote.
