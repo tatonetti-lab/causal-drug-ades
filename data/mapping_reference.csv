@@ -3,6 +3,10 @@ Acute kidney injury,500000401,Postrenal failure,10059345
 Acute kidney injury,500000401,Hepatorenal syndrome,10019846
 Acute kidney injury,500000401,Hepatorenal failure,10019845
 Acute kidney injury,500000401,Crush syndrome,10050702
+Acute kidney injury,500000401,renal failure,10038435
+Acute kidney injury,500000401,renal impairment,10062237
+Acute kidney injury,500000401,renal artery stenosis,10038378
+Acute kidney injury,500000401,acute kidney injury,10069339
 Acute liver injury,500000301,Hepatic vein thrombosis,10019713
 Acute liver injury,500000301,Chronic hepatitis,10008909
 Acute liver injury,500000301,Allergic hepatitis,10071198
@@ -149,6 +153,8 @@ Acute myocardial infarction,500000801,Coronary artery insufficiency,10052895
 Acute myocardial infarction,500000801,Angina unstable,10002388
 Acute myocardial infarction,500000801,Angina unstable,10002388
 Acute myocardial infarction,500000801,Coronary artery insufficiency,10052895
+Acute myocardial infarction,500000801,myocardial infarction,10028596
 GI bleed,500001001,Oesophageal varices haemorrhage,10030210
 GI bleed,500001001,Haematemesis,10018830
 GI bleed,500001001,Erosive duodenitis,10062532
+GI bleed,500001001,gastrointestinal haemorrhage,10017955
