@@ -1,0 +1,192 @@
+condition_name,HLT,meddra_pt_id,meddra_pt_term
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019717,Hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10008909,Chronic hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10056522,Hepatic infection
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10003827,Autoimmune hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10039012,Reye's syndrome
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10001627,Alcoholic liver disease
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10029530,Non-alcoholic fatty liver
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10071198,Allergic hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10053250,Glycogen storage disease type III
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10067969,Cholestatic liver injury
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10075331,Portal tract inflammation
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10077267,Lysosomal acid lipase deficiency
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10083521,Immune-mediated hepatic disorder
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10072160,Chronic graft versus host disease in liver
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10023025,Ischaemic hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019755,Hepatitis chronic active
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10064676,Graft versus host disease in liver
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10079686,Hepatic lymphocytic infiltration
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019728,Hepatitis alcoholic
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10080576,Alloimmune hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10070815,Acute yellow liver atrophy
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10053240,Glycogen storage disease type VI
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10053244,Hepatocellular foamy cell syndrome
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10067125,Liver injury
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10048255,Zieve syndrome
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10078962,Immune-mediated hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10016262,Fatty liver alcoholic
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019834,Hepatocellular damage neonatal
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019837,Hepatocellular injury
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10076331,Steatohepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10000746,Acute fatty liver of pregnancy
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019772,Hepatitis fulminant
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019759,Hepatitis chronic persistent
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019851,Hepatotoxicity
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019727,Hepatitis acute
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10049199,Hepatic cytolysis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019795,Hepatitis toxic
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10018704,Granulomatous liver disease
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10072268,Drug-induced liver injury
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10051015,Radiation hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10066758,Mixed liver injury
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10066263,Acute graft versus host disease in liver
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10077215,Hepatic steato-fibrosis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10053219,Non-alcoholic steatohepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019708,Hepatic steatosis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10018464,Glycogen storage disease type I
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10067737,Lupus hepatitis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019785,Hepatitis neonatal
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10019692,Hepatic necrosis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10064668,Hepatic infiltration eosinophilic
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10034229,Peliosis hepatis
+Acute Liver Injury,Hepatocellular damage and hepatitis NEC (35902864),10068289,Cystic fibrosis hepatic disease
+Acute Kidney Injury,Renal failure and impairment (37003669),10002847,Anuria
+Acute Kidney Injury,Renal failure and impairment (37003669),10012660,Diabetic end stage renal disease
+Acute Kidney Injury,Renal failure and impairment (37003669),10018932,Haemolytic uraemic syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10056675,Postoperative renal failure
+Acute Kidney Injury,Renal failure and impairment (37003669),10064848,Chronic kidney disease
+Acute Kidney Injury,Renal failure and impairment (37003669),10061481,Renal injury
+Acute Kidney Injury,Renal failure and impairment (37003669),10078987,Foetal renal impairment
+Acute Kidney Injury,Renal failure and impairment (37003669),10079840,Atypical haemolytic uraemic syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10081980,Subacute kidney injury
+Acute Kidney Injury,Renal failure and impairment (37003669),10063181,Propofol infusion syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10068230,Cardiorenal syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10049778,Neonatal anuria
+Acute Kidney Injury,Renal failure and impairment (37003669),10059345,Postrenal failure
+Acute Kidney Injury,Renal failure and impairment (37003669),10030302,Oliguria
+Acute Kidney Injury,Renal failure and impairment (37003669),10056277,Pancreatorenal syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10050702,Crush syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10063431,Nail-patella syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10069339,Acute kidney injury
+Acute Kidney Injury,Renal failure and impairment (37003669),10044501,Traumatic anuria
+Acute Kidney Injury,Renal failure and impairment (37003669),10038435,Renal failure
+Acute Kidney Injury,Renal failure and impairment (37003669),10062553,Scleroderma renal crisis
+Acute Kidney Injury,Renal failure and impairment (37003669),10019845,Hepatorenal failure
+Acute Kidney Injury,Renal failure and impairment (37003669),10062237,Renal impairment
+Acute Kidney Injury,Renal failure and impairment (37003669),10019846,Hepatorenal syndrome
+Acute Kidney Injury,Renal failure and impairment (37003669),10049776,Renal impairment neonatal
+Acute Kidney Injury,Renal failure and impairment (37003669),10038447,Renal failure neonatal
+Acute Kidney Injury,Renal failure and impairment (37003669),10077512,End stage renal disease
+Acute Kidney Injury,Renal failure and impairment (37003669),10072370,Prerenal failure
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10080787,Wellens' syndrome
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10076419,Anginal equivalent
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10008469,Chest discomfort
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10066592,Post procedural myocardial infarction
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10008479,Chest pain
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10064994,Subclavian coronary steal syndrome
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10068534,Coronary no-reflow phenomenon
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10051592,Acute coronary syndrome
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10085242,Chronic coronary syndrome
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10058144,Postinfarction angina
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10069167,Kounis syndrome
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10051624,Myocardial reperfusion injury
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10033697,Papillary muscle infarction
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10003225,Arteriospasm coronary
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10028600,Myocardial ischaemia
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10079319,Periprocedural myocardial infarction
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10049768,Silent myocardial infarction
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10072685,Microvascular coronary artery disease
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10072186,Myocardial stunning
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10036759,Prinzmetal angina
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10000891,Acute myocardial infarction
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10002383,Angina pectoris
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10058145,Subendocardial ischaemia
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10002388,Angina unstable
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10084081,Coronary steal syndrome
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10083602,Cardiac perfusion defect
+Acute Myocardial Infarction,Ischaemic coronary artery disorders (35202472),10028596,Myocardial infarction
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10074437,Gastrointestinal polyp haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10043959,Tongue haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10064946,Tooth socket haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10050399,Chronic gastrointestinal bleeding
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10014896,Enterocolitis haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10013541,Diverticulitis intestinal haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10080561,Gastrointestinal vascular malformation haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10017826,Gastric ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10079765,Anal fissure haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10068712,Umbilical haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10085045,Omental haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10066870,Aorto-oesophageal fistula
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10052534,Large intestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10078058,Intestinal varices haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10012741,Diarrhoea haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10049555,Anal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10038063,Rectal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10017857,Gastritis alcoholic haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10069829,Intestinal haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10077486,Oesophageal intramural haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10056743,Gastrointestinal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10013560,Diverticulum intestinal haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10018830,Haematemesis
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10067788,Abdominal wall haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10026712,Mallory-Weiss syndrome
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10036778,Proctitis haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10034344,Peptic ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10017955,Gastrointestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10074779,Oral mucosa haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10050953,Lower gastrointestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10030219,Oesophagitis haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10030202,Oesophageal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10030210,Oesophageal varices haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10072228,Tooth pulp haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10013865,Duodenitis haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10049870,Tongue haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10058095,Peritoneal haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10067442,Bloody peritoneal effluent
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10053768,Gastroduodenal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10064223,Angina bullosa haemorrhagica
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10002244,Anastomotic ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10083813,Pancreatic pseudocyst haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10061249,Intra-abdominal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10042132,Stomatitis haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10018276,Gingival bleeding
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10034827,Pharyngeal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10063896,Anal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10028024,Mouth haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10067786,Haemorrhagic erosive gastritis
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10049777,Melaena neonatal
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10018836,Haematochezia
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10030172,Oesophageal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10060717,Mesenteric haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10085369,Gastrointestinal anastomotic haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10009996,Colonic haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10052535,Small intestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10056457,Intra-abdominal haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10068121,Pharyngeal haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10017788,Gastric haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10017829,"Gastric ulcer haemorrhage, obstructive"
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10057572,Gastric varices haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10075634,Acute haemorrhagic ulcerative colitis
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10045455,Umbilical haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10071557,Mesenteric haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10038081,Rectal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10066304,Lip haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10033625,Pancreatic haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10061262,Large intestinal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10074159,Neonatal gastrointestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10049297,Lip haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10017866,Gastritis haemorrhagic
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10085136,Haemorrhagic gastroenteritis
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10013839,Duodenal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10067383,Abdominal wall haematoma
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10046274,Upper gastrointestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10085612,Stress ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10081100,Aortoenteric fistula
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10061550,Small intestinal ulcer haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10059175,Intestinal haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10076058,Haemorrhagic necrotic pancreatitis
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10051166,Parotid gland haemorrhage
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10027141,Melaena
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10059766,Haemorrhagic ascites
+GI Bleeding,Gastrointestinal haemorrhages (37604042),10018935,Haemoperitoneum

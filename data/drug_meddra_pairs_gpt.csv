@@ -1,0 +1,224 @@
+drug_name,condition_name,pt_meddra_term
+allopurinol,acute kidney injury,tumour lysis syndrome
+cyclosporine,acute kidney injury,haemolytic uraemic syndrome
+cyclosporine,acute kidney injury,renal tubular necrosis
+fenoprofen,acute kidney injury,anuria
+ibuprofen,acute kidney injury,creatinine renal clearance decreased
+ibuprofen,acute kidney injury,acute kidney injury
+ibuprofen,acute kidney injury,hepatorenal syndrome
+ibuprofen,acute kidney injury,renal tubular necrosis
+ketorolac,acute kidney injury,haemolytic uraemic syndrome
+ketorolac,acute kidney injury,acute kidney injury
+ketorolac,acute kidney injury,urine output decreased
+lisinopril,acute kidney injury,anuria
+lisinopril,acute kidney injury,acute kidney injury
+olmesartan,acute kidney injury,acute kidney injury
+oxaprozin,acute kidney injury,tubulointerstitial nephritis
+oxaprozin,acute kidney injury,acute kidney injury
+telmisartan,acute kidney injury,acute kidney injury
+acetazolamide,acute liver injury,hepatic necrosis
+allopurinol,acute liver injury,hepatic necrosis
+allopurinol,acute liver injury,hepatotoxicity
+bortezomib,acute liver injury,hepatic haemorrhage
+bortezomib,acute liver injury,hepatitis
+bosentan,acute liver injury,hepatotoxicity
+captopril,acute liver injury,hepatitis
+carbamazepine,acute liver injury,hepatitis
+caspofungin,acute liver injury,hepatic necrosis
+caspofungin,acute liver injury,hepatotoxicity
+celecoxib,acute liver injury,hepatitis
+celecoxib,acute liver injury,hepatic necrosis
+celecoxib,acute liver injury,hepatotoxicity
+ciprofloxacin,acute liver injury,hepatic necrosis
+ciprofloxacin,acute liver injury,hepatitis
+ciprofloxacin,acute liver injury,hepatotoxicity
+clozapine,acute liver injury,hepatic necrosis
+clozapine,acute liver injury,hepatitis
+clozapine,acute liver injury,hepatotoxicity
+cyclosporine,acute liver injury,hepatitis
+cyclosporine,acute liver injury,hepatocellular injury
+cyclosporine,acute liver injury,hepatotoxicity
+darunavir,acute liver injury,hepatitis
+darunavir,acute liver injury,hepatotoxicity
+disulfiram,acute liver injury,hepatitis
+efavirenz,acute liver injury,hepatitis
+efavirenz,acute liver injury,hepatotoxicity
+enalaprilat,acute liver injury,hepatitis
+erythromycin,acute liver injury,hepatitis
+etodolac,acute liver injury,hepatic necrosis
+etodolac,acute liver injury,hepatitis
+etodolac,acute liver injury,hepatitis cholestatic
+felbamate,acute liver injury,hepatitis
+fluconazole,acute liver injury,acute hepatic failure
+fluconazole,acute liver injury,hepatitis
+fluconazole,acute liver injury,hepatocellular injury
+flutamide,acute liver injury,hepatic necrosis
+flutamide,acute liver injury,hepatitis
+ibuprofen,acute liver injury,hepatitis
+ibuprofen,acute liver injury,hepatic necrosis
+ibuprofen,acute liver injury,hepatotoxicity
+imatinib,acute liver injury,acute hepatic failure
+imatinib,acute liver injury,hepatic necrosis
+imatinib,acute liver injury,hepatitis
+imatinib,acute liver injury,hepatotoxicity
+indomethacin,acute liver injury,hepatotoxicity
+infliximab,acute liver injury,acute hepatic failure
+infliximab,acute liver injury,hepatitis
+infliximab,acute liver injury,hepatotoxicity
+isoniazid,acute liver injury,hepatitis
+itraconazole,acute liver injury,acute hepatic failure
+itraconazole,acute liver injury,hepatitis
+itraconazole,acute liver injury,hepatotoxicity
+ketorolac,acute liver injury,hepatitis
+ketorolac,acute liver injury,hepatotoxicity
+lamivudine,acute liver injury,hepatitis
+lamotrigine,acute liver injury,hepatitis
+levofloxacin,acute liver injury,hepatitis
+levofloxacin,acute liver injury,hepatotoxicity
+lisinopril,acute liver injury,hepatitis
+methimazole,acute liver injury,hepatitis
+methotrexate,acute liver injury,hepatotoxicity
+methotrexate,acute liver injury,herpes simplex hepatitis
+methyldopa,acute liver injury,hepatitis
+moexipril,acute liver injury,hepatitis
+naproxen,acute liver injury,hepatitis
+naproxen,acute liver injury,hepatotoxicity
+nefazodone,acute liver injury,hepatic necrosis
+nefazodone,acute liver injury,hepatitis
+nevirapine,acute liver injury,hepatic necrosis
+nevirapine,acute liver injury,hepatitis
+nevirapine,acute liver injury,hepatitis cholestatic
+nevirapine,acute liver injury,hepatotoxicity
+nevirapine,acute liver injury,hepatitis acute
+nevirapine,acute liver injury,hepatitis toxic
+niacin,acute liver injury,hepatitis
+nifedipine,acute liver injury,allergic hepatitis
+nitrofurantoin,acute liver injury,hepatic necrosis
+nitrofurantoin,acute liver injury,hepatitis
+nitrofurantoin,acute liver injury,hepatotoxicity
+ofloxacin,acute liver injury,hepatic necrosis
+ofloxacin,acute liver injury,hepatitis
+orlistat,acute liver injury,hepatitis
+oxaprozin,acute liver injury,hepatitis
+oxaprozin,acute liver injury,hepatotoxicity
+penicillamine,acute liver injury,hepatitis
+pioglitazone,acute liver injury,hepatotoxicity
+piroxicam,acute liver injury,hepatitis
+piroxicam,acute liver injury,hepatotoxicity
+posaconazole,acute liver injury,hepatitis
+propylthiouracil,acute liver injury,hepatitis
+quinapril,acute liver injury,hepatitis
+ramipril,acute liver injury,hepatitis
+rifampin,acute liver injury,hepatitis
+rifampin,acute liver injury,hepatotoxicity
+sulindac,acute liver injury,hepatitis
+terbinafine,acute liver injury,hepatitis
+tipranavir,acute liver injury,hepatitis
+tolmetin,acute liver injury,hepatitis
+trandolapril,acute liver injury,hepatitis
+valproate,acute liver injury,hepatotoxicity
+voriconazole,acute liver injury,hepatitis
+zafirlukast,acute liver injury,hepatitis
+zafirlukast,acute liver injury,hepatotoxicity
+zidovudine,acute liver injury,hepatitis
+almotriptan,acute myocardial infarction,acute myocardial infarction
+almotriptan,acute myocardial infarction,myocardial infarction
+amlodipine,acute myocardial infarction,myocardial infarction
+amoxapine,acute myocardial infarction,myocardial infarction
+bromocriptine,acute myocardial infarction,myocardial infarction
+darbepoetin alfa,acute myocardial infarction,myocardial infarction
+desipramine,acute myocardial infarction,myocardial infarction
+dipyridamole,acute myocardial infarction,myocardial infarction
+eletriptan,acute myocardial infarction,myocardial infarction
+enalaprilat,acute myocardial infarction,myocardial infarction
+epoetin alfa,acute myocardial infarction,myocardial infarction
+estradiol,acute myocardial infarction,myocardial infarction
+"estrogens, conjugated (usp)",acute myocardial infarction,myocardial infarction
+etodolac,acute myocardial infarction,myocardial infarction
+flurbiprofen,acute myocardial infarction,myocardial infarction
+frovatriptan,acute myocardial infarction,myocardial infarction
+imipramine,acute myocardial infarction,myocardial infarction
+ketoprofen,acute myocardial infarction,myocardial infarction
+ketorolac,acute myocardial infarction,myocardial infarction
+moexipril,acute myocardial infarction,myocardial infarction
+nabumetone,acute myocardial infarction,myocardial infarction
+naratriptan,acute myocardial infarction,myocardial infarction
+nifedipine,acute myocardial infarction,myocardial infarction
+nortriptyline,acute myocardial infarction,myocardial infarction
+oxaprozin,acute myocardial infarction,myocardial infarction
+piroxicam,acute myocardial infarction,myocardial infarction
+rizatriptan,acute myocardial infarction,myocardial infarction
+sumatriptan,acute myocardial infarction,myocardial infarction
+zolmitriptan,acute myocardial infarction,myocardial infarction
+citalopram,gi bleed,duodenal ulcer
+citalopram,gi bleed,gastrointestinal haemorrhage
+citalopram,gi bleed,rectal haemorrhage
+clindamycin,gi bleed,diarrhoea haemorrhagic
+clindamycin,gi bleed,haematochezia
+clopidogrel,gi bleed,gastrointestinal haemorrhage
+clopidogrel,gi bleed,duodenal ulcer
+diflunisal,gi bleed,gastrointestinal haemorrhage
+escitalopram,gi bleed,gastrointestinal haemorrhage
+escitalopram,gi bleed,rectal haemorrhage
+etodolac,gi bleed,haematemesis
+etodolac,gi bleed,melaena
+etodolac,gi bleed,rectal haemorrhage
+etodolac,gi bleed,gastrointestinal haemorrhage
+etodolac,gi bleed,haematochezia
+fenoprofen,gi bleed,gastrointestinal haemorrhage
+fluoxetine,gi bleed,diarrhoea haemorrhagic
+fluoxetine,gi bleed,duodenal ulcer
+fluoxetine,gi bleed,gastric ulcer haemorrhage
+fluoxetine,gi bleed,gastrointestinal haemorrhage
+fluoxetine,gi bleed,haematemesis
+fluoxetine,gi bleed,melaena
+fluoxetine,gi bleed,ulcer haemorrhage
+flurbiprofen,gi bleed,diarrhoea haemorrhagic
+flurbiprofen,gi bleed,gastrointestinal haemorrhage
+flurbiprofen,gi bleed,haematemesis
+ibuprofen,gi bleed,gastrointestinal haemorrhage
+ibuprofen,gi bleed,melaena
+ibuprofen,gi bleed,duodenal ulcer
+ibuprofen,gi bleed,haematemesis
+ibuprofen,gi bleed,rectal haemorrhage
+indomethacin,gi bleed,gastrointestinal haemorrhage
+indomethacin,gi bleed,rectal haemorrhage
+ketoprofen,gi bleed,gastrointestinal haemorrhage
+ketoprofen,gi bleed,haematemesis
+ketoprofen,gi bleed,melaena
+ketoprofen,gi bleed,rectal haemorrhage
+ketoprofen,gi bleed,occult blood
+ketorolac,gi bleed,gastrointestinal haemorrhage
+ketorolac,gi bleed,haematemesis
+ketorolac,gi bleed,melaena
+ketorolac,gi bleed,rectal haemorrhage
+mefenamate,gi bleed,gastrointestinal haemorrhage
+mefenamate,gi bleed,haematemesis
+mefenamate,gi bleed,melaena
+mefenamate,gi bleed,rectal haemorrhage
+meloxicam,gi bleed,duodenal ulcer
+meloxicam,gi bleed,gastrointestinal haemorrhage
+meloxicam,gi bleed,haematemesis
+meloxicam,gi bleed,melaena
+nabumetone,gi bleed,duodenal ulcer
+nabumetone,gi bleed,gastrointestinal haemorrhage
+nabumetone,gi bleed,melaena
+nabumetone,gi bleed,rectal haemorrhage
+naproxen,gi bleed,gastrointestinal haemorrhage
+naproxen,gi bleed,haematemesis
+naproxen,gi bleed,melaena
+naproxen,gi bleed,rectal haemorrhage
+oxaprozin,gi bleed,gastrointestinal haemorrhage
+oxaprozin,gi bleed,haematemesis
+oxaprozin,gi bleed,melaena
+oxaprozin,gi bleed,rectal haemorrhage
+piroxicam,gi bleed,gastrointestinal haemorrhage
+piroxicam,gi bleed,haematemesis
+piroxicam,gi bleed,melaena
+piroxicam,gi bleed,rectal haemorrhage
+potassium chloride,gi bleed,gastrointestinal haemorrhage
+sertraline,gi bleed,haematochezia
+sertraline,gi bleed,melaena
+sertraline,gi bleed,rectal haemorrhage
+sulindac,gi bleed,gastrointestinal haemorrhage
+tolmetin,gi bleed,gastrointestinal haemorrhage

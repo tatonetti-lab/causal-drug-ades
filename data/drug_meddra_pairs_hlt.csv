@@ -1,0 +1,224 @@
+drug_name,condition_name,pt_meddra_term
+acyclovir,acute kidney injury,renal failure
+acyclovir,acute kidney injury,renal impairment
+allopurinol,acute kidney injury,renal failure
+allopurinol,acute kidney injury,oliguria
+allopurinol,acute kidney injury,renal impairment
+captopril,acute kidney injury,oliguria
+captopril,acute kidney injury,renal failure
+chlorothiazide,acute kidney injury,renal failure
+cyclosporine,acute kidney injury,haemolytic uraemic syndrome
+cyclosporine,acute kidney injury,renal failure
+diflunisal,acute kidney injury,renal failure
+diflunisal,acute kidney injury,renal impairment
+enalaprilat,acute kidney injury,oliguria
+enalaprilat,acute kidney injury,renal failure
+etodolac,acute kidney injury,oliguria
+etodolac,acute kidney injury,renal failure
+etodolac,acute kidney injury,renal impairment
+fenoprofen,acute kidney injury,anuria
+fenoprofen,acute kidney injury,oliguria
+fenoprofen,acute kidney injury,renal failure
+hydrochlorothiazide,acute kidney injury,renal failure
+ibuprofen,acute kidney injury,acute kidney injury
+ibuprofen,acute kidney injury,hepatorenal syndrome
+ibuprofen,acute kidney injury,oliguria
+ibuprofen,acute kidney injury,renal failure
+ibuprofen,acute kidney injury,renal impairment
+ketoprofen,acute kidney injury,renal failure
+ketorolac,acute kidney injury,haemolytic uraemic syndrome
+ketorolac,acute kidney injury,oliguria
+ketorolac,acute kidney injury,renal failure
+ketorolac,acute kidney injury,acute kidney injury
+lisinopril,acute kidney injury,anuria
+lisinopril,acute kidney injury,oliguria
+lisinopril,acute kidney injury,acute kidney injury
+mefenamate,acute kidney injury,oliguria
+mefenamate,acute kidney injury,renal failure
+meloxicam,acute kidney injury,renal failure
+moexipril,acute kidney injury,oliguria
+moexipril,acute kidney injury,renal failure
+naproxen,acute kidney injury,oliguria
+naproxen,acute kidney injury,renal failure
+naproxen,acute kidney injury,renal impairment
+olmesartan,acute kidney injury,acute kidney injury
+oxaprozin,acute kidney injury,oliguria
+oxaprozin,acute kidney injury,renal failure
+oxaprozin,acute kidney injury,acute kidney injury
+piroxicam,acute kidney injury,oliguria
+piroxicam,acute kidney injury,renal failure
+telmisartan,acute kidney injury,renal impairment
+telmisartan,acute kidney injury,acute kidney injury
+abacavir,acute liver injury,hepatic steatosis
+acetazolamide,acute liver injury,hepatic necrosis
+allopurinol,acute liver injury,hepatic necrosis
+allopurinol,acute liver injury,hepatotoxicity
+bortezomib,acute liver injury,hepatitis
+bosentan,acute liver injury,hepatotoxicity
+captopril,acute liver injury,hepatitis
+carbamazepine,acute liver injury,hepatitis
+carbamazepine,acute liver injury,liver injury
+caspofungin,acute liver injury,hepatic necrosis
+caspofungin,acute liver injury,hepatotoxicity
+celecoxib,acute liver injury,hepatitis
+celecoxib,acute liver injury,hepatic necrosis
+celecoxib,acute liver injury,hepatotoxicity
+ciprofloxacin,acute liver injury,hepatic necrosis
+ciprofloxacin,acute liver injury,hepatitis
+ciprofloxacin,acute liver injury,hepatotoxicity
+clozapine,acute liver injury,hepatic necrosis
+clozapine,acute liver injury,hepatic steatosis
+clozapine,acute liver injury,hepatitis
+clozapine,acute liver injury,hepatotoxicity
+clozapine,acute liver injury,liver injury
+cyclosporine,acute liver injury,hepatitis
+cyclosporine,acute liver injury,hepatocellular injury
+cyclosporine,acute liver injury,hepatotoxicity
+cyclosporine,acute liver injury,liver injury
+darunavir,acute liver injury,hepatitis
+darunavir,acute liver injury,hepatotoxicity
+disulfiram,acute liver injury,hepatitis
+efavirenz,acute liver injury,hepatitis
+efavirenz,acute liver injury,hepatotoxicity
+enalaprilat,acute liver injury,hepatitis
+erythromycin,acute liver injury,hepatitis
+etodolac,acute liver injury,hepatic necrosis
+etodolac,acute liver injury,hepatitis
+felbamate,acute liver injury,hepatitis
+fluconazole,acute liver injury,hepatitis
+fluconazole,acute liver injury,hepatocellular injury
+flutamide,acute liver injury,hepatic necrosis
+flutamide,acute liver injury,hepatitis
+ibuprofen,acute liver injury,hepatitis
+ibuprofen,acute liver injury,hepatic necrosis
+ibuprofen,acute liver injury,hepatotoxicity
+imatinib,acute liver injury,hepatic necrosis
+imatinib,acute liver injury,hepatitis
+imatinib,acute liver injury,hepatotoxicity
+indomethacin,acute liver injury,hepatotoxicity
+infliximab,acute liver injury,autoimmune hepatitis
+infliximab,acute liver injury,hepatitis
+infliximab,acute liver injury,hepatotoxicity
+infliximab,acute liver injury,liver injury
+interferon beta-1a,acute liver injury,autoimmune hepatitis
+isoniazid,acute liver injury,hepatitis
+isoniazid,acute liver injury,liver injury
+itraconazole,acute liver injury,hepatitis
+itraconazole,acute liver injury,hepatotoxicity
+ketorolac,acute liver injury,hepatitis
+ketorolac,acute liver injury,hepatotoxicity
+lamivudine,acute liver injury,hepatic steatosis
+lamivudine,acute liver injury,hepatitis
+lamotrigine,acute liver injury,hepatitis
+levofloxacin,acute liver injury,hepatitis
+levofloxacin,acute liver injury,hepatotoxicity
+lisinopril,acute liver injury,hepatitis
+methimazole,acute liver injury,hepatitis
+methotrexate,acute liver injury,hepatotoxicity
+methyldopa,acute liver injury,hepatitis
+moexipril,acute liver injury,hepatitis
+naproxen,acute liver injury,hepatitis
+naproxen,acute liver injury,hepatotoxicity
+nefazodone,acute liver injury,hepatic necrosis
+nefazodone,acute liver injury,hepatitis
+nevirapine,acute liver injury,hepatic necrosis
+nevirapine,acute liver injury,hepatitis
+nevirapine,acute liver injury,hepatotoxicity
+nevirapine,acute liver injury,hepatitis acute
+nevirapine,acute liver injury,hepatitis toxic
+niacin,acute liver injury,hepatitis
+nifedipine,acute liver injury,allergic hepatitis
+nitrofurantoin,acute liver injury,hepatic necrosis
+nitrofurantoin,acute liver injury,hepatitis
+nitrofurantoin,acute liver injury,hepatitis chronic active
+nitrofurantoin,acute liver injury,hepatotoxicity
+ofloxacin,acute liver injury,hepatic necrosis
+ofloxacin,acute liver injury,hepatitis
+orlistat,acute liver injury,hepatitis
+oxaprozin,acute liver injury,hepatitis
+oxaprozin,acute liver injury,hepatotoxicity
+penicillamine,acute liver injury,hepatitis
+pioglitazone,acute liver injury,hepatotoxicity
+piroxicam,acute liver injury,hepatitis
+piroxicam,acute liver injury,hepatotoxicity
+posaconazole,acute liver injury,hepatitis
+propylthiouracil,acute liver injury,hepatitis
+propylthiouracil,acute liver injury,liver injury
+quinapril,acute liver injury,hepatitis
+ramipril,acute liver injury,hepatitis
+rifampin,acute liver injury,hepatitis
+rifampin,acute liver injury,hepatotoxicity
+sulindac,acute liver injury,hepatitis
+terbinafine,acute liver injury,hepatitis
+thioguanine,acute liver injury,peliosis hepatis
+tipranavir,acute liver injury,hepatic steatosis
+tipranavir,acute liver injury,hepatitis
+tolmetin,acute liver injury,hepatitis
+trandolapril,acute liver injury,hepatitis
+valproate,acute liver injury,hepatotoxicity
+voriconazole,acute liver injury,hepatitis
+zafirlukast,acute liver injury,hepatitis
+zafirlukast,acute liver injury,hepatotoxicity
+zidovudine,acute liver injury,hepatitis
+almotriptan,acute myocardial infarction,acute myocardial infarction
+almotriptan,acute myocardial infarction,angina pectoris
+almotriptan,acute myocardial infarction,chest pain
+almotriptan,acute myocardial infarction,myocardial infarction
+almotriptan,acute myocardial infarction,myocardial ischaemia
+amlodipine,acute myocardial infarction,chest pain
+amlodipine,acute myocardial infarction,myocardial infarction
+amoxapine,acute myocardial infarction,myocardial infarction
+bromocriptine,acute myocardial infarction,myocardial infarction
+darbepoetin alfa,acute myocardial infarction,angina pectoris
+darbepoetin alfa,acute myocardial infarction,myocardial infarction
+desipramine,acute myocardial infarction,myocardial infarction
+dipyridamole,acute myocardial infarction,angina pectoris
+dipyridamole,acute myocardial infarction,chest pain
+dipyridamole,acute myocardial infarction,myocardial infarction
+eletriptan,acute myocardial infarction,myocardial infarction
+eletriptan,acute myocardial infarction,myocardial ischaemia
+enalaprilat,acute myocardial infarction,angina pectoris
+enalaprilat,acute myocardial infarction,chest pain
+enalaprilat,acute myocardial infarction,myocardial infarction
+epoetin alfa,acute myocardial infarction,myocardial infarction
+estradiol,acute myocardial infarction,myocardial infarction
+estradiol,acute myocardial infarction,angina unstable
+estradiol,acute myocardial infarction,chest discomfort
+estradiol,acute myocardial infarction,myocardial ischaemia
+"estrogens, conjugated (usp)",acute myocardial infarction,chest pain
+"estrogens, conjugated (usp)",acute myocardial infarction,myocardial infarction
+etodolac,acute myocardial infarction,myocardial infarction
+factor viia,acute myocardial infarction,chest discomfort
+flurbiprofen,acute myocardial infarction,angina pectoris
+flurbiprofen,acute myocardial infarction,myocardial infarction
+frovatriptan,acute myocardial infarction,chest pain
+frovatriptan,acute myocardial infarction,myocardial infarction
+frovatriptan,acute myocardial infarction,myocardial ischaemia
+imipramine,acute myocardial infarction,myocardial infarction
+ketoprofen,acute myocardial infarction,myocardial infarction
+ketorolac,acute myocardial infarction,chest pain
+ketorolac,acute myocardial infarction,myocardial infarction
+moexipril,acute myocardial infarction,chest pain
+moexipril,acute myocardial infarction,myocardial infarction
+nabumetone,acute myocardial infarction,myocardial infarction
+naratriptan,acute myocardial infarction,myocardial infarction
+naratriptan,acute myocardial infarction,myocardial ischaemia
+nifedipine,acute myocardial infarction,chest pain
+nifedipine,acute myocardial infarction,myocardial infarction
+nifedipine,acute myocardial infarction,angina pectoris
+nortriptyline,acute myocardial infarction,myocardial infarction
+oxaprozin,acute myocardial infarction,myocardial infarction
+piroxicam,acute myocardial infarction,myocardial infarction
+rizatriptan,acute myocardial infarction,myocardial infarction
+rizatriptan,acute myocardial infarction,myocardial ischaemia
+sulindac,acute myocardial infarction,chest pain
+sumatriptan,acute myocardial infarction,chest pain
+sumatriptan,acute myocardial infarction,myocardial infarction
+sumatriptan,acute myocardial infarction,myocardial ischaemia
+sumatriptan,acute myocardial infarction,chest discomfort
+sumatriptan,acute myocardial infarction,prinzmetal angina
+zolmitriptan,acute myocardial infarction,chest discomfort
+zolmitriptan,acute myocardial infarction,myocardial infarction
+zolmitriptan,acute myocardial infarction,myocardial ischaemia
+zolmitriptan,acute myocardial infarction,prinzmetal angina
+zolmitriptan,acute myocardial infarction,angina pectoris

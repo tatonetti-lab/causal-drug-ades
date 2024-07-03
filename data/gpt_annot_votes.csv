@@ -1,0 +1,147 @@
+condition_name,meddra_pt_id,meddra_term,votes
+AKI,10069339,Acute kidney injury,3
+AKI,10069688,Acute phosphate nephropathy,3
+AKI,10083346,Anticoagulant-related nephropathy,3
+AKI,10002847,Anuria,3
+AKI,10079261,Atheroembolism,3
+AKI,10079840,Atypical haemolytic uraemic syndrome,3
+AKI,10004984,Blackwater fever,3
+AKI,10005464,Blood creatine increased,3
+AKI,10005483,Blood creatinine increased,3
+AKI,10011372,Creatinine renal clearance decreased,3
+AKI,10071503,Crystal nephropathy,3
+AKI,10076664,Delayed graft function,3
+AKI,10018358,Glomerular filtration rate decreased,3
+AKI,10018364,Glomerulonephritis,3
+AKI,10018932,Haemolytic uraemic syndrome,3
+AKI,10019846,Hepatorenal syndrome,3
+AKI,10029155,Nephropathy toxic,3
+AKI,10030302,Oliguria,3
+AKI,10072370,Prerenal failure,3
+AKI,10038380,Renal artery thrombosis,3
+AKI,10038422,Renal cortical necrosis,3
+AKI,10038470,Renal infarct,3
+AKI,10061481,Renal injury,3
+AKI,10038491,Renal papillary necrosis,3
+AKI,10038540,Renal tubular necrosis,3
+AKI,10070863,Toxicity to various agents,3
+AKI,10048302,Tubulointerstitial nephritis,3
+AKI,10045170,Tumour lysis syndrome,3
+AKI,10046337,Urate nephropathy,3
+AKI,10046640,Urine flow decreased,3
+AKI,10059895,Urine output decreased,3
+AKI,10038435,Renal failure,1
+AKI,10052366,Systemic mycosis,1
+ALI,10000804,Acute hepatic failure,3
+ALI,10059193,Acute hepatitis B,3
+ALI,10001551,Alanine aminotransferase increased,3
+ALI,10071198,Allergic hepatitis,3
+ALI,10001946,Ammonia increased,3
+ALI,10003477,Aspartate aminotransferase abnormal,3
+ALI,10003481,Aspartate aminotransferase increased,3
+ALI,10006537,Budd-Chiari syndrome,3
+ALI,10067969,Cholestatic liver injury,3
+ALI,10072268,Drug-induced liver injury,3
+ALI,10053487,Exposure to toxic agent,3
+ALI,10062685,Hepatic enzyme abnormal,3
+ALI,10019676,Hepatic haematoma,3
+ALI,10019677,Hepatic haemorrhage,3
+ALI,10056522,Hepatic infection,3
+ALI,10056328,Hepatic ischaemia,3
+ALI,10019692,Hepatic necrosis,3
+ALI,10019717,Hepatitis,3
+ALI,10019719,Hepatitis A,3
+ALI,10019731,Hepatitis B,3
+ALI,10058827,Hepatitis B reactivation,3
+ALI,10019768,Hepatitis E,3
+ALI,10019727,Hepatitis acute,3
+ALI,10019754,Hepatitis cholestatic,3
+ALI,10019772,Hepatitis fulminant,3
+ALI,10019795,Hepatitis toxic,3
+ALI,10019799,Hepatitis viral,3
+ALI,10019837,Hepatocellular injury,3
+ALI,10019851,Hepatotoxicity,3
+ALI,10067389,Herpes simplex hepatitis,3
+ALI,10068237,Hypertransaminasaemia,3
+ALI,10049998,Idiosyncratic drug reaction,3
+ALI,10023025,Ischaemic hepatitis,3
+ALI,10023136,Jaundice hepatocellular,3
+ALI,10067125,Liver injury,3
+ALI,10066758,Mixed liver injury,3
+ALI,10039012,Reye's syndrome,3
+ALI,10070863,Toxicity to various agents,3
+ALI,10054889,Transaminases increased,3
+ALI,10047216,Venoocclusive liver disease,3
+ALI,10047461,Viral infection,3
+ALI,10000381,Accidental overdose,2
+ALI,10001547,Alanine aminotransferase abnormal,2
+ALI,10019776,Hepatitis H,2
+ALI,10074860,Transplant dysfunction,2
+ALI,10008428,Chemical poisoning,1
+ALI,10060795,Hepatic enzyme increased,1
+ALI,10022524,Intentional self-injury,1
+ALI,10023550,Laboratory test interference,1
+ALI,10024690,Liver function test abnormal,1
+ALI,10024712,Liver tenderness,1
+ALI,10080574,Solid organ transplant rejection,1
+AMI,10011086,Coronary artery occlusion,3
+AMI,10011091,Coronary artery thrombosis,3
+AMI,10061458,Feeling of body temperature change,2
+AMI,10047943,White blood cell count increased,2
+AMI,10060926,Abdominal symptom,1
+AMI,10000891,Acute myocardial infarction,1
+AMI,10016322,Feeling abnormal,1
+AMI,10028596,Myocardial infarction,1
+GIB,10002153,Anal fissure,3
+GIB,10049555,Anal haemorrhage,3
+GIB,10002180,Anal ulcer,3
+GIB,10002243,Anastomotic ulcer,3
+GIB,10009895,Colitis ischaemic,3
+GIB,10009900,Colitis ulcerative,3
+GIB,10012741,Diarrhoea haemorrhagic,3
+GIB,10013560,Diverticulum intestinal haemorrhagic,3
+GIB,10013836,Duodenal ulcer,3
+GIB,10013839,Duodenal ulcer haemorrhage,3
+GIB,10014896,Enterocolitis haemorrhagic,3
+GIB,10062532,Erosive duodenitis,3
+GIB,10051585,Gastric antral vascular ectasia,3
+GIB,10017788,Gastric haemorrhage,3
+GIB,10017822,Gastric ulcer,3
+GIB,10017826,Gastric ulcer haemorrhage,3
+GIB,10017865,Gastritis erosive,3
+GIB,10017866,Gastritis haemorrhagic,3
+GIB,10017886,Gastroduodenal ulcer,3
+GIB,10060709,Gastrointestinal erosion,3
+GIB,10017955,Gastrointestinal haemorrhage,3
+GIB,10061459,Gastrointestinal ulcer,3
+GIB,10018830,Haematemesis,3
+GIB,10018836,Haematochezia,3
+GIB,10067786,Haemorrhagic erosive gastritis,3
+GIB,10054787,Haemorrhoidal haemorrhage,3
+GIB,10019022,Haemorrhoids,3
+GIB,10069829,Intestinal haematoma,3
+GIB,10059175,Intestinal haemorrhage,3
+GIB,10022714,Intestinal ulcer,3
+GIB,10052534,Large intestinal haemorrhage,3
+GIB,10023799,Large intestinal ulcer,3
+GIB,10050953,Lower gastrointestinal haemorrhage,3
+GIB,10027141,Melaena,3
+GIB,10060717,Mesenteric haemorrhage,3
+GIB,10061298,Mucosal haemorrhage,3
+GIB,10061878,Occult blood,3
+GIB,10061880,Occult blood positive,3
+GIB,10030172,Oesophageal haemorrhage,3
+GIB,10030201,Oesophageal ulcer,3
+GIB,10030202,Oesophageal ulcer haemorrhage,3
+GIB,10030210,Oesophageal varices haemorrhage,3
+GIB,10049098,Oesophagitis ulcerative,3
+GIB,10034341,Peptic ulcer,3
+GIB,10038063,Rectal haemorrhage,3
+GIB,10052535,Small intestinal haemorrhage,3
+GIB,10041133,Small intestine ulcer,3
+GIB,10042220,Stress ulcer,3
+GIB,10045285,Ulcer,3
+GIB,10061577,Ulcer haemorrhage,3
+GIB,10046274,Upper gastrointestinal haemorrhage,3
+GIB,10056091,Varices oesophageal,3
+GIB,10016100,Faeces discoloured,2
