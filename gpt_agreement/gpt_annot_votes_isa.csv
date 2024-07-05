@@ -1,0 +1,92 @@
+condition_name,meddra_pt_id,meddra_term,votes
+AKI,10069339,acute kidney injury,3
+AKI,10069688,acute phosphate nephropathy,3
+AKI,10083346,anticoagulant-related nephropathy,3
+AKI,10002847,anuria,3
+AKI,10079840,atypical haemolytic uraemic syndrome,3
+AKI,10011372,creatinine renal clearance decreased,3
+AKI,10071503,crystal nephropathy,3
+AKI,10076664,delayed graft function,3
+AKI,10018358,glomerular filtration rate decreased,3
+AKI,10018932,haemolytic uraemic syndrome,3
+AKI,10019846,hepatorenal syndrome,3
+AKI,10072370,prerenal failure,3
+AKI,10038380,renal artery thrombosis,3
+AKI,10038422,renal cortical necrosis,3
+AKI,10038460,renal haemorrhage,3
+AKI,10038470,renal infarct,3
+AKI,10061481,renal injury,3
+AKI,10038540,renal tubular necrosis,3
+AKI,10048302,tubulointerstitial nephritis,3
+AKI,10045170,tumour lysis syndrome,3
+AKI,10046337,urate nephropathy,3
+AKI,10059895,urine output decreased,3
+AKI,10030302,oliguria,2
+AKI,10046406,ureteric obstruction,2
+AKI,10038491,renal papillary necrosis,1
+ALI,10000804,acute hepatic failure,3
+ALI,10059193,acute hepatitis b,3
+ALI,10071198,allergic hepatitis,3
+ALI,10067969,cholestatic liver injury,3
+ALI,10072268,drug-induced liver injury,3
+ALI,10019636,hepatic artery thrombosis,3
+ALI,10019676,hepatic haematoma,3
+ALI,10019677,hepatic haemorrhage,3
+ALI,10056328,hepatic ischaemia,3
+ALI,10019692,hepatic necrosis,3
+ALI,10019717,hepatitis,3
+ALI,10019719,hepatitis a,3
+ALI,10019727,hepatitis acute,3
+ALI,10019754,hepatitis cholestatic,3
+ALI,10019768,hepatitis e,3
+ALI,10019772,hepatitis fulminant,3
+ALI,10019795,hepatitis toxic,3
+ALI,10019837,hepatocellular injury,3
+ALI,10019851,hepatotoxicity,3
+ALI,10067389,herpes simplex hepatitis,3
+ALI,10023025,ischaemic hepatitis,3
+ALI,10023136,jaundice hepatocellular,3
+ALI,10066758,mixed liver injury,3
+ALI,10039012,reye's syndrome,3
+ALI,10047216,venoocclusive liver disease,3
+ALI,10019663,hepatic failure,2
+ALI,10019713,hepatic vein thrombosis,2
+ALI,10068237,hypertransaminasaemia,2
+ALI,10054889,transaminases increased,2
+AMI,10000891,acute myocardial infarction,3
+AMI,10011086,coronary artery occlusion,3
+AMI,10028596,myocardial infarction,3
+GIB,10049555,anal haemorrhage,3
+GIB,10012741,diarrhoea haemorrhagic,3
+GIB,10013560,diverticulum intestinal haemorrhagic,3
+GIB,10013836,duodenal ulcer,3
+GIB,10013839,duodenal ulcer haemorrhage,3
+GIB,10051585,gastric antral vascular ectasia,3
+GIB,10017788,gastric haemorrhage,3
+GIB,10017826,gastric ulcer haemorrhage,3
+GIB,10017866,gastritis haemorrhagic,3
+GIB,10017955,gastrointestinal haemorrhage,3
+GIB,10018830,haematemesis,3
+GIB,10018836,haematochezia,3
+GIB,10067786,haemorrhagic erosive gastritis,3
+GIB,10054787,haemorrhoidal haemorrhage,3
+GIB,10059175,intestinal haemorrhage,3
+GIB,10052534,large intestinal haemorrhage,3
+GIB,10050953,lower gastrointestinal haemorrhage,3
+GIB,10027141,melaena,3
+GIB,10060717,mesenteric haemorrhage,3
+GIB,10061298,mucosal haemorrhage,3
+GIB,10061878,occult blood,3
+GIB,10061880,occult blood positive,3
+GIB,10030172,oesophageal haemorrhage,3
+GIB,10030202,oesophageal ulcer haemorrhage,3
+GIB,10030210,oesophageal varices haemorrhage,3
+GIB,10038063,rectal haemorrhage,3
+GIB,10052535,small intestinal haemorrhage,3
+GIB,10074508,stoma site haemorrhage,3
+GIB,10042220,stress ulcer,3
+GIB,10061577,ulcer haemorrhage,3
+GIB,10046274,upper gastrointestinal haemorrhage,3
+GIB,10056091,varices oesophageal,3
+GIB,10014896,enterocolitis haemorrhagic,2
+GIB,10069829,intestinal haematoma,2
