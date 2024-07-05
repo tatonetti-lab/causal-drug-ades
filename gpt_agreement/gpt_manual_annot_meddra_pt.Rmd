@@ -1,0 +1,252 @@
+---
+title: "Evaluating the ADR condition concept to Meddra PT mappings"
+author: "undina"
+date: "2024-07-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Meddra PT mappings
+
+**Challenge**: 
+The reference standard that we will be using includes the ADRs as conditions broadly labelled "acute kidney injury", "acute liver injury", "acute myocardial infarction", and "gi bleed".
+These conditions are mapped to OMOP CDM condition concept IDs.
+However, it is not obvious how to map these condition concept IDs to MedDRA PT, which is what onsides uses to report ADRs.
+We explore multiple methods:
+- Consider all descendants of the condition concept IDs, and map those descendants to MedDRA PT
+- Consider a closely related HLT, and get the MedDRA PT in that hierarchy
+- Consider the MedDRA LLT mapping of the condition concepts and use the parent MedDRA PT
+- Use GPT to label each of the MedDRA PTs as AKI, ALI, AMI, GIB
+
+We evaluate these methods by comparing to the reference standard by Patrick Ryan et al. and considering the number of positive controls captured while limiting the number of negative controls and unnecessary MedDRA PTs. 
+
+
+### Get Onsides Data and Reference Set
+
+```{r}
+onsides_latest_release = read_csv('./data/adverse_reactions_active_labels.csv.gz') %>%
+              filter(num_ingredients == 1,!is.na(ingredients_names)) %>%
+              mutate(pt_meddra_term = str_to_lower(pt_meddra_term), 
+                     ingredients_names = str_to_lower(ingredients_names))
+onsides_latest_release %>% head()
+```
+
+
+```{r}
+pryan_set <- read_csv('data/pryan_reference_set_ades.csv') %>% 
+        filter(affect == 1) %>%
+        mutate(drug_name = str_to_lower(drug_name),
+               condition_name = str_to_lower(condition_name),
+               drug_name = ifelse(drug_name == 'olmesartan medoxomil', 'olmesartan', drug_name))
+
+
+# removing these drugs as after manual review, the active label does not contain the ADR of interest
+# removing drugs not listed in the onsides database
+remove_drugs <- c('capreomycin', 'dacarbazine', 'diltiazem', 'norfloxacin',
+                  'sulfisoxazole', 'tamoxifen', 'tenofovir', 'thiabendazole', 
+                  'zalcitabine', 'alatrofloxacin', 'trovafloxacin', 'gemifloxacin',
+                  'factor viia', 'salsalate', 'clindamycin', 'sertraline', 
+                  'valdecoxib', 'didanosine', 'stavudine', 'tolcapone', 'estropipate')
+
+# removing these pairs for cases where e.g., AKI not listed on lisinopril but acute liver injury is listed
+remove_pairs <- tibble('drug_name' = c('lisinopril', 'diflunisal', 'fenoprofen',
+                                       'indomethacin', 'sulindac', 'tolmetin'),
+                           'condition_name' = c('acute kidney injury',
+                                                'acute myocardial infarction',
+                                                'acute myocardial infarction',
+                                                'acute myocardial infarction',
+                                                'acute myocardial infarction',
+                                                'acute myocardial infarction'))
+
+pryan_set <- pryan_set %>% filter(!drug_name %in% remove_drugs) %>%
+              anti_join(remove_pairs)
+pryan_set %>% group_by(condition_name) %>% summarise(ref_drugs = n_distinct(drug_concept_id))
+```
+
+### GPT Label evaluation
+
+
+```{r}
+gpt_annotation <- read_csv('data/gpt_annotation_meddra_pt_isa.csv') %>% mutate(meddra_term = str_to_lower(meddra_term))
+gpt_annotation %>% head()
+```
+
+```{r}
+gpt_votes <- gpt_annotation %>%
+  group_by(meddra_term, meddra_pt_id) %>%
+  summarise_all(sum) %>%
+  pivot_longer(AKI:GIB, names_to = 'condition_name', values_to = 'votes') %>%
+  filter(votes > 0) %>%
+  arrange(condition_name, desc(votes)) %>%
+  select(condition_name, meddra_pt_id, meddra_term, votes)
+gpt_votes %>% head()
+gpt_votes %>% write_csv('gpt_annot_votes_isa.csv')
+```
+
+#### Number of Positive Controls Captured
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(gpt_votes %>%
+               mutate(condition_name = case_when(condition_name == 'AKI' ~ 'acute kidney injury',
+                                                 condition_name == 'ALI' ~ 'acute liver injury',
+                                                 condition_name == 'AMI' ~ 'acute myocardial infarction',
+                                                 condition_name == 'GIB' ~ 'gi bleed')),
+             by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name)) %>%
+  inner_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  group_by(condition_name) %>%
+  summarise(num_drugs = n_distinct(drug_concept_id)) %>%
+  inner_join(pryan_set %>% group_by(condition_name) %>% summarise(ref_drugs = n_distinct(drug_concept_id))) %>%
+  mutate(prop = num_drugs/ref_drugs)
+```
+
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(gpt_votes %>% filter(votes >= 3), by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id, votes) %>%
+  # group_by(condition_name) %>%
+  summarise(unique_ingredients = n_distinct(ingredients_names))
+```
+
+```{r}
+onsides_latest_release %>%
+  inner_join(gpt_votes %>%
+               mutate(condition_name = case_when(condition_name == 'AKI' ~ 'acute kidney injury',
+                                                 condition_name == 'ALI' ~ 'acute liver injury',
+                                                 condition_name == 'AMI' ~ 'acute myocardial infarction',
+                                                 condition_name == 'GIB' ~ 'gi bleed')),
+             by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name)) %>%
+  inner_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  distinct(drug_name = ingredients_names, 
+           condition_name, pt_meddra_term) %>%
+  arrange(condition_name, drug_name) %>% distinct(drug_name) %>% dim
+```
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(gpt_votes %>%
+               mutate(condition_name = case_when(condition_name == 'AKI' ~ 'acute kidney injury',
+                                                 condition_name == 'ALI' ~ 'acute liver injury',
+                                                 condition_name == 'AMI' ~ 'acute myocardial infarction',
+                                                 condition_name == 'GIB' ~ 'gi bleed')),
+             by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name)) %>%
+  # inner_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>% 
+  group_by(condition_name) %>%
+  summarise(num_drugs_mapped = n_distinct(ingredients_names))
+  # inner_join(pryan_set %>% group_by(condition_name) %>% summarise(num_ref_drugs = n_distinct(ingredients_names))) %>%
+  # mutate(prop = round(num_drugs_mapped/num_ref_drugs*100, digit = 2))
+```
+
+
+```{r}
+temp <- onsides_latest_release %>%
+  inner_join(gpt_votes %>%
+               mutate(condition_name = case_when(condition_name == 'AKI' ~ 'acute kidney injury',
+                                                 condition_name == 'ALI' ~ 'acute liver injury',
+                                                 condition_name == 'AMI' ~ 'acute myocardial infarction',
+                                                 condition_name == 'GIB' ~ 'gi bleed')),
+             by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name))
+pryan_set %>%
+    anti_join(temp, by = c('condition_name', 'drug_name'='ingredients_names'))
+```
+
+### HLT Mapping
+
+```{r}
+meddra_hlt <- read_csv('data/meddra_HLT_mapping.csv') %>% mutate(meddra_pt_term = str_to_lower(meddra_pt_term))
+meddra_hlt %>% head()
+```
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(meddra_hlt, by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_pt_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  # group_by(condition_name) %>%
+  summarise(n_distinct(ingredients_names))
+```
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(meddra_hlt, by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_pt_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name),
+         condition_name = ifelse(condition_name == 'gi bleeding', 'gi bleed', condition_name)) %>% 
+  inner_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  group_by(condition_name) %>%
+  summarise(num_drugs = n_distinct(drug_concept_id)) %>%
+  inner_join(pryan_set %>% group_by(condition_name) %>% summarise(ref_drugs = n_distinct(drug_concept_id))) %>%
+  mutate(prop = num_drugs/ref_drugs)
+```
+
+
+## Meddra LLT mapping -> Meddra PT
+
+```{r}
+meddra_llt <- read_csv('data/meddra_LLT_to_PT.csv') %>% mutate(meddra_pt_term = str_to_lower(meddra_pt_term))
+meddra_llt %>% head()
+```
+
+```{r}
+onsides_latest_release %>%
+  inner_join(meddra_llt, by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_pt_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  # group_by(condition_name) %>% 
+  summarise(n_distinct(ingredients_names))
+```
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(meddra_llt, by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_pt_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name)) %>%
+  inner_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  group_by(condition_name) %>%
+  summarise(num_drugs = n_distinct(drug_concept_id)) %>%
+  inner_join(pryan_set %>% group_by(condition_name) %>% summarise(ref_drugs = n_distinct(drug_concept_id))) %>%
+  mutate(prop = num_drugs/ref_drugs)
+```
+
+
+```{r}
+onsides_latest_release %>%
+  inner_join(meddra_hlt, by = c('pt_meddra_id' = 'meddra_pt_id',
+                                    'pt_meddra_term' = 'meddra_pt_term')) %>%
+  select(ingredients_names, condition_name, pt_meddra_term, pt_meddra_id) %>%
+  mutate(condition_name = str_to_lower(condition_name)) %>%
+  inner_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  distinct(drug_name = ingredients_names, 
+           condition_name, pt_meddra_term) %>%
+  arrange(condition_name, drug_name) %>% write_csv('drug_meddra_pairs_hlt.csv')
+```
+
+
+
