@@ -1,0 +1,356 @@
+,drug_name,adr_name,gpt_output
+0,lamotrigine,Acute liver injury,True
+1,nefazodone,Acute liver injury,True
+2,tolcapone,Acute liver injury,True
+3,Neostigmine,Acute liver injury,False.
+4,Nortriptyline,Acute liver injury,True
+5,Interferon beta-1a,Acute liver injury,True
+6,Phentermine,Acute liver injury,False.
+7,Disulfiram,Acute liver injury,True
+8,Droperidol,Acute liver injury,True
+9,Carbamazepine,Acute liver injury,True
+10,orlistat,Acute liver injury,False.
+11,Valproate,Acute liver injury,True
+12,Primidone,Acute liver injury,True
+13,lithium citrate,Acute liver injury,False.
+14,felbamate,Acute liver injury,True
+15,Clozapine,Acute liver injury,True
+16,Methenamine,Acute liver injury,False.
+17,Miconazole,Acute liver injury,False.
+18,oxybutynin,Acute liver injury,True
+19,Nitrofurantoin,Acute liver injury,True
+20,Hyoscyamine,Acute liver injury,False.
+21,Dicyclomine,Acute liver injury,False.
+22,Acetazolamide,Acute liver injury,True
+23,infliximab,Acute liver injury,True
+24,Flavoxate,Acute liver injury,False.
+25,Scopolamine,Acute liver injury,True
+26,Ketotifen,Acute liver injury,False.
+27,Lactulose,Acute liver injury,False.
+28,Sucralfate,Acute liver injury,False
+29,Tetrahydrocannabinol,Acute liver injury,True
+30,Tolmetin,Acute liver injury,True
+31,almotriptan,Acute liver injury,False.
+32,zafirlukast,Acute liver injury,True
+33,Naproxen,Acute liver injury,True
+34,Naproxen,Acute liver injury,True
+35,oxaprozin,Acute liver injury,True
+36,celecoxib,Acute liver injury,True
+37,benzonatate,Acute liver injury,True.
+38,Ketorolac,Acute liver injury,True
+39,salmeterol,Acute liver injury,False.
+40,Ergotamine,Acute liver injury,True
+41,Piroxicam,Acute liver injury,True
+42,fluticasone,Acute liver injury,False.
+43,fluticasone,Acute liver injury,False.
+44,Allopurinol,Acute liver injury,True
+45,Ibuprofen,Acute liver injury,True
+46,Indomethacin,Acute liver injury,True
+47,Etodolac,Acute liver injury,True
+48,Sulindac,Acute liver injury,True
+49,imatinib,Acute liver injury,True
+50,Methotrexate,Acute liver injury,True
+51,Methyldopa,Acute liver injury,True
+52,Lisinopril,Acute liver injury,False.
+53,Adenosine,Acute liver injury,False.
+54,moexipril,Acute liver injury,True
+55,Dacarbazine,Acute liver injury,True
+56,gemcitabine,Acute liver injury,True
+57,Nifedipine,Acute liver injury,False.
+58,bosentan,Acute liver injury,True
+59,Diltiazem,Acute liver injury,True.
+60,quinapril,Acute liver injury,True
+61,Busulfan,Acute liver injury,True
+62,Ramipril,Acute liver injury,False.
+63,Phentolamine,Acute liver injury,False.
+64,bortezomib,Acute liver injury,False.
+65,Captopril,Acute liver injury,True
+66,Enalaprilat,Acute liver injury,False.
+67,trandolapril,Acute liver injury,True
+68,Flutamide,Acute liver injury,True
+69,Tamoxifen,Acute liver injury,True
+70,Thioguanine,Acute liver injury,True
+71,Methimazole,Acute liver injury,True
+72,Niacin,Acute liver injury,True
+73,pioglitazone,Acute liver injury,True
+74,Propylthiouracil,Acute liver injury,True
+75,sitagliptin,Acute liver injury,True
+76,Tinidazole,Acute liver injury,True.
+77,Itraconazole,Acute liver injury,True
+78,posaconazole,Acute liver injury,True
+79,Lamivudine,Acute liver injury,True
+80,Zidovudine,Acute liver injury,True
+81,voriconazole,Acute liver injury,True
+82,gemifloxacin,Acute liver injury,True
+83,Caspofungin,Acute liver injury,True
+84,Didanosine,Acute liver injury,True
+85,Paromomycin,Acute liver injury,False.
+86,Penicillin V,Acute liver injury,False.
+87,abacavir,Acute liver injury,False.
+88,tipranavir,Acute liver injury,True
+89,efavirenz,Acute liver injury,True
+90,terbinafine,Acute liver injury,True
+91,Levofloxacin,Acute liver injury,True
+92,Erythromycin,Acute liver injury,True
+93,Fluconazole,Acute liver injury,True
+94,darunavir,Acute liver injury,True
+95,Rifampin,Acute liver injury,True
+96,Griseofulvin,Acute liver injury,True
+97,Stavudine,Acute liver injury,True
+98,isoniazid,Acute liver injury,True
+99,gatifloxacin,Acute liver injury,True
+100,Ciprofloxacin,Acute liver injury,True
+101,Cyclosporine,Acute liver injury,True
+102,Penicillamine,Acute liver injury,True
+103,Thiothixene,Acute kidney injury,True
+104,Methocarbamol,Acute kidney injury,False.
+105,Neostigmine,Acute kidney injury,False.
+106,Nortriptyline,Acute kidney injury,True
+107,Phentermine,Acute kidney injury,False.
+108,Disulfiram,Acute kidney injury,False.
+109,orlistat,Acute kidney injury,False.
+110,Primidone,Acute kidney injury,True
+111,Prochlorperazine,Acute kidney injury,True.
+112,Imipramine,Acute kidney injury,True
+113,metaxalone,Acute kidney injury,False.
+114,ramelteon,Acute kidney injury,False.
+115,Chlorazepate,Acute kidney injury,False.
+116,Clozapine,Acute kidney injury,False.
+117,Temazepam,Acute kidney injury,False.
+118,Methenamine,Acute kidney injury,True
+119,Urea,Acute kidney injury,False.
+120,Miconazole,Acute kidney injury,False.
+121,darifenacin,Acute kidney injury,True
+122,Hyoscyamine,Acute kidney injury,True
+123,Dicyclomine,Acute kidney injury,False.
+124,infliximab,Acute kidney injury,True
+125,Prilocaine,Acute kidney injury,False.
+126,Flavoxate,Acute kidney injury,False.
+127,Scopolamine,Acute kidney injury,False.
+128,Hydrochlorothiazide,Acute kidney injury,True
+129,Ketoconazole,Acute kidney injury,True
+130,Ketotifen,Acute kidney injury,False.
+131,Lactulose,Acute kidney injury,False.
+132,Chlorothiazide,Acute kidney injury,True
+133,Tetrahydrocannabinol,Acute kidney injury,False.
+134,almotriptan,Acute kidney injury,False.
+135,zafirlukast,Acute kidney injury,True
+136,Naproxen,Acute kidney injury,True
+137,Naproxen,Acute kidney injury,True
+138,oxaprozin,Acute kidney injury,True
+139,Diflunisal,Acute kidney injury,True
+140,benzonatate,Acute kidney injury,False.
+141,Ketorolac,Acute kidney injury,True
+142,bromfenac,Acute kidney injury,True
+143,Ergotamine,Acute kidney injury,True
+144,Piroxicam,Acute kidney injury,True
+145,meloxicam,Acute kidney injury,True
+146,Fenoprofen,Acute kidney injury,True
+147,rizatriptan,Acute kidney injury,False.
+148,Allopurinol,Acute kidney injury,True
+149,Ibuprofen,Acute kidney injury,True
+150,Ketoprofen,Acute kidney injury,True
+151,frovatriptan,Acute kidney injury,False.
+152,eletriptan,Acute kidney injury,False.
+153,Etodolac,Acute kidney injury,True
+154,Mefenamate,Acute kidney injury,True
+155,darbepoetin alfa,Acute kidney injury,True
+156,Lisinopril,Acute kidney injury,True
+157,Adenosine,Acute kidney injury,False.
+158,moexipril,Acute kidney injury,True
+159,Dacarbazine,Acute kidney injury,True
+160,telmisartan,Acute kidney injury,True
+161,Phentolamine,Acute kidney injury,True
+162,Captopril,Acute kidney injury,True
+163,Enalaprilat,Acute kidney injury,True
+164,candesartan,Acute kidney injury,True.
+165,Flutamide,Acute kidney injury,True
+166,Chlorambucil,Acute kidney injury,True
+167,Acarbose,Acute kidney injury,False.
+168,Tinidazole,Acute kidney injury,False.
+169,Acyclovir,Acute kidney injury,True
+170,entecavir,Acute kidney injury,True
+171,Nelfinavir,Acute kidney injury,True
+172,Paromomycin,Acute kidney injury,True
+173,Penicillin V,Acute kidney injury,False.
+174,darunavir,Acute kidney injury,True
+175,Griseofulvin,Acute kidney injury,False.
+176,gatifloxacin,Acute kidney injury,True
+177,Mebendazole,Acute kidney injury,False.
+178,Vitamin A,Acute kidney injury,True
+179,Cyclosporine,Acute kidney injury,True
+180,Thiothixene,Acute myocardial infarction,False.
+181,Methocarbamol,Acute myocardial infarction,False.
+182,Amoxapine,Acute myocardial infarction,True
+183,Desipramine,Acute myocardial infarction,True
+184,Nortriptyline,Acute myocardial infarction,True
+185,Bromocriptine,Acute myocardial infarction,True
+186,Droperidol,Acute myocardial infarction,True
+187,Primidone,Acute myocardial infarction,False.
+188,Prochlorperazine,Acute myocardial infarction,False.
+189,lithium citrate,Acute myocardial infarction,False.
+190,Imipramine,Acute myocardial infarction,True
+191,metaxalone,Acute myocardial infarction,False.
+192,ramelteon,Acute myocardial infarction,False.
+193,Chlorazepate,Acute myocardial infarction,False.
+194,Temazepam,Acute myocardial infarction,False.
+195,Methenamine,Acute myocardial infarction,False.
+196,Urea,Acute myocardial infarction,False.
+197,Miconazole,Acute myocardial infarction,False.
+198,darifenacin,Acute myocardial infarction,False.
+199,oxybutynin,Acute myocardial infarction,False.
+200,Hyoscyamine,Acute myocardial infarction,False.
+201,Dicyclomine,Acute myocardial infarction,False.
+202,Acetazolamide,Acute myocardial infarction,False.
+203,Prilocaine,Acute myocardial infarction,False.
+204,Flavoxate,Acute myocardial infarction,False.
+205,Sulfasalazine,Acute myocardial infarction,False.
+206,Scopolamine,Acute myocardial infarction,False.
+207,Ketoconazole,Acute myocardial infarction,False.
+208,Ketotifen,Acute myocardial infarction,False.
+209,Lactulose,Acute myocardial infarction,False.
+210,Chlorothiazide,Acute myocardial infarction,False.
+211,Clindamycin,Acute myocardial infarction,False.
+212,Sucralfate,Acute myocardial infarction,False
+213,Tetrahydrocannabinol,Acute myocardial infarction,False.
+214,Tolmetin,Acute myocardial infarction,False.
+215,almotriptan,Acute myocardial infarction,True
+216,zafirlukast,Acute myocardial infarction,True
+217,nabumetone,Acute myocardial infarction,False.
+218,zolmitriptan,Acute myocardial infarction,True
+219,oxaprozin,Acute myocardial infarction,False.
+220,naratriptan,Acute myocardial infarction,True
+221,Diflunisal,Acute myocardial infarction,False.
+222,benzonatate,Acute myocardial infarction,False.
+223,Ketorolac,Acute myocardial infarction,True
+224,Salsalate,Acute myocardial infarction,False.
+225,salmeterol,Acute myocardial infarction,True.
+226,bromfenac,Acute myocardial infarction,False.
+227,Sumatriptan,Acute myocardial infarction,True
+228,Piroxicam,Acute myocardial infarction,True
+229,fluticasone,Acute myocardial infarction,False.
+230,fluticasone,Acute myocardial infarction,False.
+231,Fenoprofen,Acute myocardial infarction,True
+232,rizatriptan,Acute myocardial infarction,True
+233,Flurbiprofen,Acute myocardial infarction,False.
+234,Indomethacin,Acute myocardial infarction,True
+235,Ketoprofen,Acute myocardial infarction,True.
+236,frovatriptan,Acute myocardial infarction,False.
+237,eletriptan,Acute myocardial infarction,True
+238,Etodolac,Acute myocardial infarction,True
+239,Sulindac,Acute myocardial infarction,True.
+240,Epoetin Alfa,Acute myocardial infarction,False.
+241,darbepoetin alfa,Acute myocardial infarction,False.
+242,moexipril,Acute myocardial infarction,True
+243,Nifedipine,Acute myocardial infarction,False.
+244,Dipyridamole,Acute myocardial infarction,False.
+245,Amlodipine,Acute myocardial infarction,False.
+246,Enalaprilat,Acute myocardial infarction,True
+247,Factor VIIa,Acute myocardial infarction,False.
+248,Flutamide,Acute myocardial infarction,True
+249,Chlorambucil,Acute myocardial infarction,False.
+250,Methimazole,Acute myocardial infarction,False.
+251,estropipate,Acute myocardial infarction,False.
+252,Acarbose,Acute myocardial infarction,False.
+253,Estradiol,Acute myocardial infarction,False.
+254,Estradiol,Acute myocardial infarction,False.
+255,Estradiol,Acute myocardial infarction,False.
+256,"Estrogens, Conjugated (USP)",Acute myocardial infarction,True
+257,"Estrogens, Conjugated (USP)",Acute myocardial infarction,True
+258,"Estrogens, Conjugated (USP)",Acute myocardial infarction,True
+259,sitagliptin,Acute myocardial infarction,False.
+260,Tinidazole,Acute myocardial infarction,False.
+261,posaconazole,Acute myocardial infarction,False.
+262,entecavir,Acute myocardial infarction,False.
+263,Nelfinavir,Acute myocardial infarction,False.
+264,Didanosine,Acute myocardial infarction,True
+265,Paromomycin,Acute myocardial infarction,False.
+266,Penicillin V,Acute myocardial infarction,False.
+267,tipranavir,Acute myocardial infarction,True
+268,terbinafine,Acute myocardial infarction,False.
+269,Stavudine,Acute myocardial infarction,False.
+270,gatifloxacin,Acute myocardial infarction,True
+271,Mebendazole,Acute myocardial infarction,False.
+272,Vitamin A,Acute myocardial infarction,False.
+273,Penicillamine,Acute myocardial infarction,True
+274,Thiothixene,GI bleed,False.
+275,Methocarbamol,GI bleed,False.
+276,Escitalopram,GI bleed,False.
+277,Neostigmine,GI bleed,False.
+278,Phentermine,GI bleed,False.
+279,Disulfiram,GI bleed,False.
+280,Sertraline,GI bleed,True
+281,Droperidol,GI bleed,False.
+282,orlistat,GI bleed,False.
+283,Prochlorperazine,GI bleed,False.
+284,Fluoxetine,GI bleed,False.
+285,lithium citrate,GI bleed,False.
+286,metaxalone,GI bleed,False.
+287,ramelteon,GI bleed,False.
+288,Chlorazepate,GI bleed,True
+289,Citalopram,GI bleed,True
+290,Temazepam,GI bleed,False.
+291,Urea,GI bleed,False.
+292,Miconazole,GI bleed,False.
+293,darifenacin,GI bleed,False.
+294,oxybutynin,GI bleed,False.
+295,Nitrofurantoin,GI bleed,False.
+296,Hyoscyamine,GI bleed,True
+297,Dicyclomine,GI bleed,False.
+298,Prilocaine,GI bleed,False.
+299,Scopolamine,GI bleed,False.
+300,Ketoconazole,GI bleed,True
+301,Ketotifen,GI bleed,False.
+302,Lactulose,GI bleed,False.
+303,Clindamycin,GI bleed,False.
+304,Sucralfate,GI bleed,False.
+305,Tetrahydrocannabinol,GI bleed,False.
+306,Tolmetin,GI bleed,True
+307,nabumetone,GI bleed,True
+308,Naproxen,GI bleed,True
+309,Naproxen,GI bleed,True
+310,oxaprozin,GI bleed,True
+311,Diflunisal,GI bleed,True
+312,benzonatate,GI bleed,False.
+313,Ketorolac,GI bleed,True
+314,salmeterol,GI bleed,False.
+315,bromfenac,GI bleed,True
+316,Ergotamine,GI bleed,True
+317,Piroxicam,GI bleed,True
+318,fluticasone,GI bleed,False.
+319,fluticasone,GI bleed,False.
+320,meloxicam,GI bleed,True
+321,Fenoprofen,GI bleed,True
+322,Flurbiprofen,GI bleed,True
+323,Ibuprofen,GI bleed,True
+324,Indomethacin,GI bleed,True
+325,Ketoprofen,GI bleed,True
+326,Etodolac,GI bleed,True
+327,Mefenamate,GI bleed,True
+328,Sulindac,GI bleed,True
+329,Epoetin Alfa,GI bleed,False.
+330,Adenosine,GI bleed,False.
+331,moexipril,GI bleed,True
+332,Dacarbazine,GI bleed,False.
+333,clopidogrel,GI bleed,True
+334,Phentolamine,GI bleed,False.
+335,Chlorambucil,GI bleed,True
+336,pioglitazone,GI bleed,False.
+337,Acarbose,GI bleed,False.
+338,rosiglitazone,GI bleed,False.
+339,sitagliptin,GI bleed,False.
+340,Tinidazole,GI bleed,False.
+341,Itraconazole,GI bleed,False.
+342,Lamivudine,GI bleed,False.
+343,Zidovudine,GI bleed,False.
+344,entecavir,GI bleed,False.
+345,Paromomycin,GI bleed,False.
+346,Penicillin V,GI bleed,False.
+347,abacavir,GI bleed,False.
+348,terbinafine,GI bleed,False.
+349,Griseofulvin,GI bleed,False.
+350,Stavudine,GI bleed,False.
+351,Mebendazole,GI bleed,False.
+352,Vitamin A,GI bleed,False.
+353,Potassium Chloride,GI bleed,True
+354,Potassium Chloride,GI bleed,False.

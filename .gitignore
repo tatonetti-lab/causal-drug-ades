@@ -9,6 +9,12 @@ data/drug_ade_embed.pkl
 data/drug_ade_embed_modeluae.pkl
 data/drug_ade_embed.json
 data/drug_ade_embed_modeluae.json
+data/20240312/*
+data/2024_latest_labels
+
+# R stuff
+.RData
+.Rhistory
 
 # DSstore
 .DS_Store

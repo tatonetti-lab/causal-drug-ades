@@ -1,0 +1,1788 @@
+,cohort_id,condition_name,ingredients_names,pt_meddra_id,pt_meddra_term,ingredients_rxcuis,drug_concept_id,affect,gpt_output
+0,500000301,Acute liver injury,dantrolene,10019717,Hepatitis,3105,,,True
+1,500000301,Acute liver injury,ketorolac,10019663,Hepatic failure,35827,,,True
+2,500000301,Acute liver injury,ketorolac,10019717,Hepatitis,35827,,,True
+3,500000301,Acute liver injury,ketorolac,10023126,Jaundice,35827,,,True
+4,500000301,Acute liver injury,isotretinoin,10019717,Hepatitis,6064,,,True
+5,500000301,Acute liver injury,isotretinoin,10019851,Hepatotoxicity,6064,,,True
+6,500000301,Acute liver injury,oxandrolone,10019692,Hepatic necrosis,7779,,,True
+7,500000301,Acute liver injury,oxandrolone,10023126,Jaundice,7779,,,True.
+8,500000801,Acute myocardial infarction,meloxicam,10002383,Angina pectoris,41493,,,False.
+9,500001001,GI bleed,meloxicam,10018830,Haematemesis,41493,1150345.0,1.0,True
+10,500000301,Acute liver injury,meloxicam,10019663,Hepatic failure,41493,,,True
+11,500000301,Acute liver injury,meloxicam,10019717,Hepatitis,41493,,,True
+12,500000301,Acute liver injury,meloxicam,10023126,Jaundice,41493,,,True
+13,500000301,Acute liver injury,hydrochlorothiazide,10023126,Jaundice,5487,,,True
+14,500000801,Acute myocardial infarction,isosorbide dinitrate,10002388,Angina unstable,6058,,,False.
+15,500000801,Acute myocardial infarction,zolpidem,10002383,Angina pectoris,39993,,,False.
+16,500000301,Acute liver injury,nalmefene,10019717,Hepatitis,31479,,,True
+17,500001001,GI bleed,theophylline,10018830,Haematemesis,10438,,,True
+18,500000301,Acute liver injury,flurbiprofen,10008612,Cholecystitis,4502,,,False.
+19,500001001,GI bleed,flurbiprofen,10018830,Haematemesis,4502,,,True.
+20,500000301,Acute liver injury,flurbiprofen,10023126,Jaundice,4502,,,True
+21,500000301,Acute liver injury,secobarbital,10067125,Liver injury,9624,,,True
+22,500000301,Acute liver injury,amlodipine,10019717,Hepatitis,17767,,,False.
+23,500000301,Acute liver injury,amlodipine,10023126,Jaundice,17767,,,False.
+24,500000801,Acute myocardial infarction,atenolol,10000891,Acute myocardial infarction,1202,,,True
+25,500000301,Acute liver injury,nortriptyline,10019692,Hepatic necrosis,7531,,,False.
+26,500000301,Acute liver injury,nortriptyline,10019717,Hepatitis,7531,,,True.
+27,500000301,Acute liver injury,nortriptyline,10023126,Jaundice,7531,,,True
+28,500000301,Acute liver injury,minocycline,10019663,Hepatic failure,6980,,,True
+29,500000301,Acute liver injury,minocycline,10019717,Hepatitis,6980,,,True
+30,500000301,Acute liver injury,oxytocin,10023126,Jaundice,7824,,,False.
+31,500000301,Acute liver injury,oxytocin,10023138,Jaundice neonatal,7824,,,False.
+32,500000301,Acute liver injury,cephalexin,10019717,Hepatitis,2231,,,True
+33,500000301,Acute liver injury,cephalexin,10023126,Jaundice,2231,,,False.
+34,500000301,Acute liver injury,carbamazepine,10019663,Hepatic failure,2002,,,True
+35,500000301,Acute liver injury,carbamazepine,10019717,Hepatitis,2002,,,True.
+36,500000301,Acute liver injury,carbamazepine,10023126,Jaundice,2002,,,True
+37,500001001,GI bleed,busulfan,10018830,Haematemesis,1828,,,True
+38,500000301,Acute liver injury,busulfan,10019842,Hepatomegaly,1828,,,True.
+39,500000301,Acute liver injury,busulfan,10019851,Hepatotoxicity,1828,,,True
+40,500000301,Acute liver injury,busulfan,10023126,Jaundice,1828,,,True
+41,500000801,Acute myocardial infarction,doxazosin,10002383,Angina pectoris,49276,,,True
+42,500000301,Acute liver injury,doxazosin,10019717,Hepatitis,49276,,,True
+43,500000301,Acute liver injury,doxazosin,10019754,Hepatitis cholestatic,49276,,,False.
+44,500000301,Acute liver injury,propafenone,10019717,Hepatitis,8754,,,True
+45,500000301,Acute liver injury,propafenone,10019837,Hepatocellular injury,8754,,,True
+46,500000301,Acute liver injury,disopyramide,10023126,Jaundice,3541,,,True
+47,500000801,Acute myocardial infarction,benazepril,10002383,Angina pectoris,18867,,,False.
+48,500000801,Acute myocardial infarction,enalaprilat,10002383,Angina pectoris,3829,,,False.
+49,500000301,Acute liver injury,enalaprilat,10019663,Hepatic failure,3829,,,True
+50,500000301,Acute liver injury,enalaprilat,10019717,Hepatitis,3829,,,True
+51,500000301,Acute liver injury,enalaprilat,10023126,Jaundice,3829,,,False.
+52,500000301,Acute liver injury,tolazamide,10023126,Jaundice,10633,,,True
+53,500000801,Acute myocardial infarction,tinzaparin,10002383,Angina pectoris,69646,,,False.
+54,500001001,GI bleed,tinzaparin,10018830,Haematemesis,69646,,,True
+55,500000301,Acute liver injury,tinzaparin,10019754,Hepatitis cholestatic,69646,,,False.
+56,500000801,Acute myocardial infarction,verapamil,10002383,Angina pectoris,11170,,,True.
+57,500000301,Acute liver injury,amoxicillin,10019717,Hepatitis,723,,,True
+58,500000301,Acute liver injury,amoxicillin,10023126,Jaundice,723,,,True
+59,500000301,Acute liver injury,ramipril,10019663,Hepatic failure,35296,,,False.
+60,500000301,Acute liver injury,ramipril,10019717,Hepatitis,35296,,,True
+61,500000301,Acute liver injury,ramipril,10023126,Jaundice,35296,,,False.
+62,500000301,Acute liver injury,clarithromycin,10019663,Hepatic failure,21212,,,True
+63,500000301,Acute liver injury,clarithromycin,10019717,Hepatitis,21212,,,True
+64,500000301,Acute liver injury,clarithromycin,10019754,Hepatitis cholestatic,21212,,,True
+65,500000301,Acute liver injury,clarithromycin,10023126,Jaundice,21212,,,True
+66,500000301,Acute liver injury,cefuroxime,10019717,Hepatitis,2194,,,True
+67,500000301,Acute liver injury,cefuroxime,10023126,Jaundice,2194,,,True
+68,500000801,Acute myocardial infarction,hydralazine,10002383,Angina pectoris,5470,,,True
+69,500000301,Acute liver injury,hydralazine,10019717,Hepatitis,5470,,,True
+70,500001001,GI bleed,valproate,10018830,Haematemesis,40254,,,True
+71,500000301,Acute liver injury,valproate,10019851,Hepatotoxicity,40254,,,True
+72,500000801,Acute myocardial infarction,nefazodone,10002383,Angina pectoris,31565,,,False.
+73,500000301,Acute liver injury,nefazodone,10019663,Hepatic failure,31565,714684.0,1.0,True
+74,500000301,Acute liver injury,nefazodone,10019692,Hepatic necrosis,31565,714684.0,1.0,True
+75,500000301,Acute liver injury,nefazodone,10019717,Hepatitis,31565,714684.0,1.0,True
+76,500000301,Acute liver injury,nitrofurantoin,10019692,Hepatic necrosis,7454,,,True
+77,500000301,Acute liver injury,nitrofurantoin,10019717,Hepatitis,7454,,,True
+78,500000301,Acute liver injury,nitrofurantoin,10023126,Jaundice,7454,,,True
+79,500000801,Acute myocardial infarction,bicalutamide,10002383,Angina pectoris,83008,,,False.
+80,500000301,Acute liver injury,omeprazole,10019660,Hepatic encephalopathy,7646,,,False.
+81,500000301,Acute liver injury,omeprazole,10019663,Hepatic failure,7646,,,False.
+82,500000301,Acute liver injury,omeprazole,10019692,Hepatic necrosis,7646,,,False.
+83,500000301,Acute liver injury,omeprazole,10019717,Hepatitis,7646,,,True.
+84,500000301,Acute liver injury,omeprazole,10023126,Jaundice,7646,,,False.
+85,500000301,Acute liver injury,nisoldipine,10019842,Hepatomegaly,7435,,,False.
+86,500000801,Acute myocardial infarction,quinapril,10002383,Angina pectoris,35208,,,False.
+87,500000301,Acute liver injury,quinapril,10019717,Hepatitis,35208,1331235.0,1.0,True
+88,500000801,Acute myocardial infarction,felodipine,10002383,Angina pectoris,4316,,,True
+89,500000301,Acute liver injury,sumatriptan,10008629,Cholelithiasis,37418,,,False.
+90,500001001,GI bleed,sumatriptan,10018830,Haematemesis,37418,,,False.
+91,500000301,Acute liver injury,clonidine,10019717,Hepatitis,2599,,,False.
+92,500000301,Acute liver injury,ibuprofen,10019717,Hepatitis,5640,,,True
+93,500000301,Acute liver injury,ibuprofen,10023126,Jaundice,5640,,,True
+94,500000301,Acute liver injury,risperidone,10023126,Jaundice,35636,,,False.
+95,500000801,Acute myocardial infarction,nicardipine,10002383,Angina pectoris,7396,,,True
+96,500000301,Acute liver injury,melphalan,10019717,Hepatitis,6718,,,True
+97,500000301,Acute liver injury,melphalan,10023126,Jaundice,6718,,,True
+98,500000301,Acute liver injury,metoprolol,10019717,Hepatitis,6918,,,False.
+99,500000301,Acute liver injury,cetirizine,10019717,Hepatitis,20610,,,False.
+100,500000801,Acute myocardial infarction,gabapentin,10002383,Angina pectoris,25480,,,False.
+101,500000301,Acute liver injury,gabapentin,10008612,Cholecystitis,25480,,,False.
+102,500000301,Acute liver injury,gabapentin,10008629,Cholelithiasis,25480,,,False.
+103,500001001,GI bleed,gabapentin,10018830,Haematemesis,25480,,,False.
+104,500000301,Acute liver injury,gabapentin,10019717,Hepatitis,25480,,,False.
+105,500000301,Acute liver injury,gabapentin,10019842,Hepatomegaly,25480,,,False.
+106,500000301,Acute liver injury,gabapentin,10023126,Jaundice,25480,,,False.
+107,500000801,Acute myocardial infarction,nitroglycerin,10002388,Angina unstable,4917,,,True
+108,500000301,Acute liver injury,allopurinol,10019692,Hepatic necrosis,519,,,False.
+109,500000301,Acute liver injury,allopurinol,10019842,Hepatomegaly,519,,,False.
+110,500000301,Acute liver injury,allopurinol,10023126,Jaundice,519,,,True.
+111,500000301,Acute liver injury,terbinafine,10019663,Hepatic failure,37801,1741309.0,1.0,True
+112,500000301,Acute liver injury,torsemide,10019663,Hepatic failure,38413,,,True
+113,500000801,Acute myocardial infarction,zaleplon,10002383,Angina pectoris,74667,,,False.
+114,500000301,Acute liver injury,zaleplon,10008629,Cholelithiasis,74667,,,False.
+115,500000801,Acute myocardial infarction,celecoxib,10002383,Angina pectoris,140587,,,True
+116,500000801,Acute myocardial infarction,celecoxib,10002388,Angina unstable,140587,,,True.
+117,500000301,Acute liver injury,celecoxib,10008629,Cholelithiasis,140587,1118084.0,1.0,True
+118,500000301,Acute liver injury,celecoxib,10019663,Hepatic failure,140587,1118084.0,1.0,True
+119,500000301,Acute liver injury,celecoxib,10019717,Hepatitis,140587,1118084.0,1.0,True
+120,500000301,Acute liver injury,celecoxib,10023126,Jaundice,140587,1118084.0,1.0,True
+121,500000301,Acute liver injury,clonazepam,10019842,Hepatomegaly,2598,,,False.
+122,500000301,Acute liver injury,trimethobenzamide,10023126,Jaundice,38685,,,True
+123,500000301,Acute liver injury,ondansetron,10019663,Hepatic failure,26225,,,False.
+124,500000301,Acute liver injury,propoxyphene,10019708,Hepatic steatosis,8785,,,False.
+125,500000301,Acute liver injury,propoxyphene,10019837,Hepatocellular injury,8785,,,True
+126,500000301,Acute liver injury,propoxyphene,10019842,Hepatomegaly,8785,,,False.
+127,500000301,Acute liver injury,propoxyphene,10023126,Jaundice,8785,,,True.
+128,500000301,Acute liver injury,ceftibuten,10023126,Jaundice,20492,,,True
+129,500000301,Acute liver injury,nizatidine,10019717,Hepatitis,42319,,,True
+130,500000301,Acute liver injury,nizatidine,10019837,Hepatocellular injury,42319,,,True
+131,500000301,Acute liver injury,nizatidine,10023126,Jaundice,42319,,,True
+132,500001001,GI bleed,diclofenac,10018830,Haematemesis,3355,,,True
+133,500000301,Acute liver injury,diclofenac,10019663,Hepatic failure,3355,,,True
+134,500000301,Acute liver injury,diclofenac,10019717,Hepatitis,3355,,,True
+135,500000301,Acute liver injury,diclofenac,10023126,Jaundice,3355,,,True
+136,500000301,Acute liver injury,clindamycin,10023126,Jaundice,2582,,,True
+137,500000301,Acute liver injury,doxycycline,10019851,Hepatotoxicity,3640,,,False.
+138,500000301,Acute liver injury,azithromycin,10019663,Hepatic failure,18631,,,False.
+139,500000301,Acute liver injury,azithromycin,10019692,Hepatic necrosis,18631,,,False.
+140,500000301,Acute liver injury,azithromycin,10019717,Hepatitis,18631,,,False.
+141,500000301,Acute liver injury,azithromycin,10023126,Jaundice,18631,,,False.
+142,500001001,GI bleed,piroxicam,10018830,Haematemesis,8356,,,True
+143,500000301,Acute liver injury,piroxicam,10019663,Hepatic failure,8356,,,True
+144,500000301,Acute liver injury,piroxicam,10019717,Hepatitis,8356,,,True
+145,500000301,Acute liver injury,piroxicam,10023126,Jaundice,8356,,,True
+146,500000801,Acute myocardial infarction,ciprofloxacin,10002383,Angina pectoris,2551,,,False.
+147,500000301,Acute liver injury,ciprofloxacin,10019663,Hepatic failure,2551,,,True
+148,500000301,Acute liver injury,ciprofloxacin,10019692,Hepatic necrosis,2551,,,False.
+149,500000301,Acute liver injury,ciprofloxacin,10019717,Hepatitis,2551,,,True
+150,500000301,Acute liver injury,ciprofloxacin,10023126,Jaundice,2551,,,True
+151,500000301,Acute liver injury,tramadol,10008612,Cholecystitis,10689,,,False.
+152,500000301,Acute liver injury,tramadol,10008629,Cholelithiasis,10689,,,False.
+153,500001001,GI bleed,oxaprozin,10018830,Haematemesis,32613,1118045.0,1.0,True
+154,500000301,Acute liver injury,oxaprozin,10019663,Hepatic failure,32613,1118045.0,1.0,True
+155,500000301,Acute liver injury,oxaprozin,10019717,Hepatitis,32613,1118045.0,1.0,False.
+156,500000301,Acute liver injury,oxaprozin,10023126,Jaundice,32613,1118045.0,1.0,True.
+157,500000301,Acute liver injury,estradiol,10023126,Jaundice,4083,,,True
+158,500000301,Acute liver injury,oxazepam,10023126,Jaundice,7781,,,True
+159,500000301,Acute liver injury,ranitidine,10019663,Hepatic failure,9143,,,True
+160,500000301,Acute liver injury,ranitidine,10023126,Jaundice,9143,,,True
+161,500000301,Acute liver injury,metoprolol,10023126,Jaundice,6918,,,False.
+162,500000301,Acute liver injury,cyclobenzaprine,10019717,Hepatitis,21949,,,False.
+163,500000301,Acute liver injury,cyclobenzaprine,10023126,Jaundice,21949,,,False.
+164,500000301,Acute liver injury,amitriptyline,10019663,Hepatic failure,704,,,True
+165,500000301,Acute liver injury,amitriptyline,10019717,Hepatitis,704,,,True
+166,500000301,Acute liver injury,amitriptyline,10023126,Jaundice,704,,,True
+167,500000801,Acute myocardial infarction,lisinopril,10002383,Angina pectoris,29046,,,False.
+168,500000301,Acute liver injury,lisinopril,10019663,Hepatic failure,29046,,,False.
+169,500000301,Acute liver injury,lisinopril,10019717,Hepatitis,29046,,,False.
+170,500000301,Acute liver injury,lisinopril,10023126,Jaundice,29046,,,False.
+171,500000801,Acute myocardial infarction,methylergonovine,10000891,Acute myocardial infarction,6883,,,True
+172,500000301,Acute liver injury,rosiglitazone,10019663,Hepatic failure,84108,,,True
+173,500000301,Acute liver injury,rosiglitazone,10019851,Hepatotoxicity,84108,,,True
+174,500000301,Acute liver injury,exemestane,10019717,Hepatitis,258494,,,True.
+175,500000301,Acute liver injury,exemestane,10019754,Hepatitis cholestatic,258494,,,False.
+176,500000801,Acute myocardial infarction,citalopram,10002383,Angina pectoris,2556,,,False.
+177,500000301,Acute liver injury,citalopram,10008612,Cholecystitis,2556,,,False.
+178,500000301,Acute liver injury,citalopram,10008629,Cholelithiasis,2556,,,False.
+179,500000301,Acute liver injury,citalopram,10019692,Hepatic necrosis,2556,,,False.
+180,500000301,Acute liver injury,citalopram,10019717,Hepatitis,2556,,,False.
+181,500000301,Acute liver injury,citalopram,10023126,Jaundice,2556,,,False.
+182,500000301,Acute liver injury,chlorpromazine,10019719,Hepatitis A,2403,,,False.
+183,500000301,Acute liver injury,chlorpromazine,10023126,Jaundice,2403,,,True
+184,500000301,Acute liver injury,prochlorperazine,10023126,Jaundice,8704,,,True
+185,500000301,Acute liver injury,prochlorperazine,10067125,Liver injury,8704,,,True
+186,500000301,Acute liver injury,moxifloxacin,10019663,Hepatic failure,139462,,,True
+187,500000301,Acute liver injury,moxifloxacin,10019717,Hepatitis,139462,,,True
+188,500000301,Acute liver injury,moxifloxacin,10023126,Jaundice,139462,,,True
+189,500000301,Acute liver injury,bupropion,10019717,Hepatitis,42347,,,True
+190,500000301,Acute liver injury,bupropion,10023126,Jaundice,42347,,,False.
+191,500000301,Acute liver injury,bupropion,10067125,Liver injury,42347,,,True
+192,500000301,Acute liver injury,clopidogrel,10000804,Acute hepatic failure,32968,,,False.
+193,500000301,Acute liver injury,clopidogrel,10019708,Hepatic steatosis,32968,,,False.
+194,500000301,Acute liver injury,clopidogrel,10019717,Hepatitis,32968,,,False.
+195,500000301,Acute liver injury,clopidogrel,10019719,Hepatitis A,32968,,,False.
+196,500000801,Acute myocardial infarction,pantoprazole,10002383,Angina pectoris,40790,,,False.
+197,500000301,Acute liver injury,pantoprazole,10008612,Cholecystitis,40790,,,False.
+198,500000301,Acute liver injury,pantoprazole,10008629,Cholelithiasis,40790,,,False.
+199,500001001,GI bleed,pantoprazole,10018830,Haematemesis,40790,,,False.
+200,500000301,Acute liver injury,pantoprazole,10019663,Hepatic failure,40790,,,False.
+201,500000301,Acute liver injury,pantoprazole,10019717,Hepatitis,40790,,,True.
+202,500000301,Acute liver injury,pantoprazole,10019837,Hepatocellular injury,40790,,,True
+203,500000301,Acute liver injury,pantoprazole,10023126,Jaundice,40790,,,False.
+204,500000301,Acute liver injury,methocarbamol,10023126,Jaundice,6845,,,False.
+205,500000301,Acute liver injury,montelukast,10019717,Hepatitis,88249,,,True
+206,500000301,Acute liver injury,montelukast,10019754,Hepatitis cholestatic,88249,,,True
+207,500000301,Acute liver injury,promethazine,10023126,Jaundice,8745,,,True
+208,500000301,Acute liver injury,fluconazole,10000804,Acute hepatic failure,4450,,,False.
+209,500000301,Acute liver injury,fluconazole,10019717,Hepatitis,4450,,,True
+210,500000301,Acute liver injury,fluconazole,10023126,Jaundice,4450,,,True
+211,500000801,Acute myocardial infarction,tizanidine,10002383,Angina pectoris,57258,,,False.
+212,500000301,Acute liver injury,tizanidine,10008629,Cholelithiasis,57258,,,False.
+213,500001001,GI bleed,tizanidine,10018830,Haematemesis,57258,,,False.
+214,500000301,Acute liver injury,tizanidine,10019717,Hepatitis,57258,,,True
+215,500000301,Acute liver injury,tizanidine,10067125,Liver injury,57258,,,True
+216,500000301,Acute liver injury,tizanidine,10073071,Hepatocellular carcinoma,57258,,,False.
+217,500001001,GI bleed,fluvoxamine,10018830,Haematemesis,42355,,,False.
+218,500000301,Acute liver injury,fluvoxamine,10019717,Hepatitis,42355,,,False.
+219,500000301,Acute liver injury,trazodone,10023126,Jaundice,10737,,,True
+220,500000301,Acute liver injury,azathioprine,10019851,Hepatotoxicity,1256,,,True
+221,500000801,Acute myocardial infarction,alfuzosin,10002383,Angina pectoris,17300,,,True.
+222,500000301,Acute liver injury,alfuzosin,10023126,Jaundice,17300,,,True
+223,500000801,Acute myocardial infarction,topiramate,10002383,Angina pectoris,38404,,,False.
+224,500000301,Acute liver injury,topiramate,10019663,Hepatic failure,38404,,,False.
+225,500000301,Acute liver injury,topiramate,10019717,Hepatitis,38404,,,False.
+226,500000301,Acute liver injury,diazepam,10023126,Jaundice,3322,,,False.
+227,500000801,Acute myocardial infarction,venlafaxine,10002383,Angina pectoris,39786,,,True
+228,500000301,Acute liver injury,venlafaxine,10008612,Cholecystitis,39786,,,False.
+229,500000301,Acute liver injury,venlafaxine,10008629,Cholelithiasis,39786,,,False.
+230,500001001,GI bleed,venlafaxine,10018830,Haematemesis,39786,,,True.
+231,500000301,Acute liver injury,venlafaxine,10019708,Hepatic steatosis,39786,,,False.
+232,500000301,Acute liver injury,venlafaxine,10019717,Hepatitis,39786,,,True
+233,500000301,Acute liver injury,venlafaxine,10023126,Jaundice,39786,,,False.
+234,500000301,Acute liver injury,venlafaxine,10067125,Liver injury,39786,,,True
+235,500000301,Acute liver injury,perindopril,10019663,Hepatic failure,54552,,,False.
+236,500000301,Acute liver injury,perindopril,10023126,Jaundice,54552,,,True
+237,500000301,Acute liver injury,pravastatin,10019717,Hepatitis,42463,,,True
+238,500000301,Acute liver injury,pravastatin,10073071,Hepatocellular carcinoma,42463,,,False.
+239,500000301,Acute liver injury,tetracycline,10019663,Hepatic failure,10395,,,False.
+240,500000301,Acute liver injury,tetracycline,10019851,Hepatotoxicity,10395,,,True
+241,500001001,GI bleed,naproxen,10018830,Haematemesis,7258,,,True
+242,500000301,Acute liver injury,naproxen,10019663,Hepatic failure,7258,,,True
+243,500000301,Acute liver injury,naproxen,10019717,Hepatitis,7258,,,True
+244,500000301,Acute liver injury,naproxen,10023126,Jaundice,7258,,,True
+245,500000301,Acute liver injury,filgrastim,10019842,Hepatomegaly,68442,,,False.
+246,500000301,Acute liver injury,sertraline,10019663,Hepatic failure,36437,,,False.
+247,500000301,Acute liver injury,sertraline,10019717,Hepatitis,36437,,,True
+248,500000301,Acute liver injury,sertraline,10019842,Hepatomegaly,36437,,,False.
+249,500000301,Acute liver injury,sertraline,10023126,Jaundice,36437,,,True
+250,500000801,Acute myocardial infarction,paroxetine,10002383,Angina pectoris,32937,,,False.
+251,500000301,Acute liver injury,paroxetine,10008629,Cholelithiasis,32937,,,False.
+252,500001001,GI bleed,paroxetine,10018830,Haematemesis,32937,,,False.
+253,500000301,Acute liver injury,paroxetine,10019692,Hepatic necrosis,32937,,,False.
+254,500000301,Acute liver injury,paroxetine,10019717,Hepatitis,32937,,,True
+255,500000301,Acute liver injury,paroxetine,10019847,Hepatosplenomegaly,32937,,,False.
+256,500000301,Acute liver injury,paroxetine,10023126,Jaundice,32937,,,True
+257,500000801,Acute myocardial infarction,memantine,10002383,Angina pectoris,6719,,,False.
+258,500000301,Acute liver injury,memantine,10008629,Cholelithiasis,6719,,,False.
+259,500000301,Acute liver injury,memantine,10019663,Hepatic failure,6719,,,False.
+260,500000301,Acute liver injury,memantine,10019717,Hepatitis,6719,,,False.
+261,500000301,Acute liver injury,mesalamine,10008612,Cholecystitis,52582,,,False.
+262,500000301,Acute liver injury,mesalamine,10019663,Hepatic failure,52582,,,False.
+263,500000301,Acute liver injury,mesalamine,10019692,Hepatic necrosis,52582,,,False.
+264,500000301,Acute liver injury,mesalamine,10019717,Hepatitis,52582,,,True
+265,500000301,Acute liver injury,mesalamine,10019837,Hepatocellular injury,52582,,,True
+266,500000301,Acute liver injury,mesalamine,10019851,Hepatotoxicity,52582,,,True.
+267,500000301,Acute liver injury,mesalamine,10023126,Jaundice,52582,,,True.
+268,500000801,Acute myocardial infarction,rivastigmine,10002383,Angina pectoris,183379,,,False.
+269,500000301,Acute liver injury,rivastigmine,10008612,Cholecystitis,183379,,,False.
+270,500001001,GI bleed,rivastigmine,10018830,Haematemesis,183379,,,False.
+271,500000301,Acute liver injury,megestrol,10019842,Hepatomegaly,6703,,,False.
+272,500000301,Acute liver injury,estradiol,10017626,Gallbladder disorder,4083,,,True
+273,500000801,Acute myocardial infarction,tadalafil,10002383,Angina pectoris,358263,,,True
+274,500000301,Acute liver injury,alprazolam,10019663,Hepatic failure,596,,,False.
+275,500000301,Acute liver injury,alprazolam,10019717,Hepatitis,596,,,False.
+276,500000301,Acute liver injury,alprazolam,10023126,Jaundice,596,,,False.
+277,500000301,Acute liver injury,gemfibrozil,10008612,Cholecystitis,4719,,,True
+278,500000301,Acute liver injury,gemfibrozil,10008629,Cholelithiasis,4719,,,True
+279,500000301,Acute liver injury,gemfibrozil,10023126,Jaundice,4719,,,True
+280,500000801,Acute myocardial infarction,fluoxetine,10002383,Angina pectoris,4493,,,False.
+281,500000301,Acute liver injury,fluoxetine,10008612,Cholecystitis,4493,,,False.
+282,500000301,Acute liver injury,fluoxetine,10008629,Cholelithiasis,4493,,,False.
+283,500001001,GI bleed,fluoxetine,10018830,Haematemesis,4493,,,False.
+284,500000301,Acute liver injury,fluoxetine,10019663,Hepatic failure,4493,,,False.
+285,500000301,Acute liver injury,fluoxetine,10019708,Hepatic steatosis,4493,,,False.
+286,500000301,Acute liver injury,fluoxetine,10019717,Hepatitis,4493,,,False.
+287,500000301,Acute liver injury,glipizide,10023126,Jaundice,4821,,,False.
+288,500000301,Acute liver injury,doxepin,10023126,Jaundice,3638,,,True
+289,500000301,Acute liver injury,phenytoin,10019717,Hepatitis,8183,,,True
+290,500000301,Acute liver injury,phenytoin,10067125,Liver injury,8183,,,True
+291,500000301,Acute liver injury,perphenazine,10019717,Hepatitis,8076,,,True
+292,500000301,Acute liver injury,perphenazine,10019719,Hepatitis A,8076,,,False.
+293,500000301,Acute liver injury,perphenazine,10023126,Jaundice,8076,,,True
+294,500000301,Acute liver injury,perphenazine,10067125,Liver injury,8076,,,True.
+295,500000301,Acute liver injury,furosemide,10019660,Hepatic encephalopathy,4603,,,True
+296,500000301,Acute liver injury,furosemide,10023126,Jaundice,4603,,,True
+297,500000301,Acute liver injury,glyburide,10019717,Hepatitis,4815,,,True.
+298,500000301,Acute liver injury,glyburide,10023126,Jaundice,4815,,,True
+299,500000301,Acute liver injury,ezetimibe,10008612,Cholecystitis,341248,,,False.
+300,500000301,Acute liver injury,ezetimibe,10008629,Cholelithiasis,341248,,,False.
+301,500000301,Acute liver injury,ezetimibe,10019717,Hepatitis,341248,,,True.
+302,500000301,Acute liver injury,nelfinavir,10019717,Hepatitis,134527,,,True
+303,500000301,Acute liver injury,nelfinavir,10023126,Jaundice,134527,,,True
+304,500000301,Acute liver injury,sulindac,10019663,Hepatic failure,10237,,,True
+305,500000301,Acute liver injury,sulindac,10019717,Hepatitis,10237,,,True
+306,500000301,Acute liver injury,sulindac,10023126,Jaundice,10237,,,True
+307,500000301,Acute liver injury,tenofovir disoproxil,10019708,Hepatic steatosis,300195,,,False.
+308,500000301,Acute liver injury,tenofovir disoproxil,10019717,Hepatitis,300195,,,True
+309,500000301,Acute liver injury,tenofovir disoproxil,10019842,Hepatomegaly,300195,,,False.
+310,500000801,Acute myocardial infarction,cilostazol,10002383,Angina pectoris,21107,,,False.
+311,500000301,Acute liver injury,cilostazol,10008629,Cholelithiasis,21107,,,False.
+312,500001001,GI bleed,cilostazol,10018830,Haematemesis,21107,,,True
+313,500000801,Acute myocardial infarction,naproxen,10002383,Angina pectoris,7258,,,True
+314,500000301,Acute liver injury,naproxen,10008612,Cholecystitis,7258,,,True
+315,500000301,Acute liver injury,naproxen,10008629,Cholelithiasis,7258,,,False.
+316,500000301,Acute liver injury,naproxen,10019847,Hepatosplenomegaly,7258,,,False.
+317,500000301,Acute liver injury,indomethacin,10023126,Jaundice,5781,,,True
+318,500000301,Acute liver injury,isoniazid,10019717,Hepatitis,6038,1782521.0,1.0,True
+319,500000301,Acute liver injury,isoniazid,10023126,Jaundice,6038,1782521.0,1.0,True
+320,500000301,Acute liver injury,isoniazid,10067125,Liver injury,6038,1782521.0,1.0,True
+321,500000301,Acute liver injury,nabumetone,10008629,Cholelithiasis,31448,,,False.
+322,500000301,Acute liver injury,nabumetone,10019663,Hepatic failure,31448,,,True.
+323,500000301,Acute liver injury,nabumetone,10023126,Jaundice,31448,,,True
+324,500000301,Acute liver injury,tramadol,10019663,Hepatic failure,10689,,,True
+325,500000301,Acute liver injury,tramadol,10019717,Hepatitis,10689,,,False.
+326,500000301,Acute liver injury,dexamethasone,10019842,Hepatomegaly,3264,,,False.
+327,500000301,Acute liver injury,levocetirizine,10019717,Hepatitis,356887,,,False.
+328,500000301,Acute liver injury,fenofibrate,10019717,Hepatitis,8703,,,True
+329,500000301,Acute liver injury,carbamazepine,10019847,Hepatosplenomegaly,2002,,,False.
+330,500000301,Acute liver injury,simvastatin,10019717,Hepatitis,36567,,,True
+331,500000301,Acute liver injury,simvastatin,10023126,Jaundice,36567,,,True
+332,500000301,Acute liver injury,simvastatin,10073071,Hepatocellular carcinoma,36567,,,False.
+333,500000301,Acute liver injury,lamivudine,10019663,Hepatic failure,68244,,,False.
+334,500000301,Acute liver injury,lamivudine,10019708,Hepatic steatosis,68244,,,False.
+335,500000301,Acute liver injury,lamivudine,10019717,Hepatitis,68244,,,True.
+336,500000301,Acute liver injury,lamivudine,10019731,Hepatitis B,68244,,,False.
+337,500000301,Acute liver injury,lamivudine,10019842,Hepatomegaly,68244,,,False.
+338,500000301,Acute liver injury,lamivudine,10023126,Jaundice,68244,,,True
+339,500000301,Acute liver injury,simvastatin,10019663,Hepatic failure,36567,,,True
+340,500000301,Acute liver injury,abacavir,10019708,Hepatic steatosis,190521,1736971.0,1.0,False.
+341,500000301,Acute liver injury,quinine,10019717,Hepatitis,9071,,,True
+342,500000301,Acute liver injury,quinine,10023126,Jaundice,9071,,,True
+343,500000301,Acute liver injury,estradiol,10008612,Cholecystitis,4083,,,False.
+344,500000301,Acute liver injury,estradiol,10008629,Cholelithiasis,4083,,,True.
+345,500000301,Acute liver injury,"estrogens, conjugated (usp)",10023126,Jaundice,4099,,,True
+346,500000301,Acute liver injury,cyproheptadine,10019663,Hepatic failure,3013,,,False.
+347,500000301,Acute liver injury,cyproheptadine,10019717,Hepatitis,3013,,,True
+348,500000301,Acute liver injury,cyproheptadine,10023126,Jaundice,3013,,,True
+349,500000301,Acute liver injury,nevirapine,10019663,Hepatic failure,53654,,,True
+350,500000301,Acute liver injury,nevirapine,10019692,Hepatic necrosis,53654,,,True
+351,500000301,Acute liver injury,nevirapine,10019717,Hepatitis,53654,,,True
+352,500000301,Acute liver injury,nevirapine,10019754,Hepatitis cholestatic,53654,,,True
+353,500000301,Acute liver injury,nevirapine,10019851,Hepatotoxicity,53654,,,True
+354,500000301,Acute liver injury,nevirapine,10023126,Jaundice,53654,,,True
+355,500000301,Acute liver injury,levetiracetam,10019663,Hepatic failure,114477,,,False
+356,500000301,Acute liver injury,levetiracetam,10019717,Hepatitis,114477,,,False.
+357,500000801,Acute myocardial infarction,warfarin,10002383,Angina pectoris,11289,,,False.
+358,500000301,Acute liver injury,warfarin,10019717,Hepatitis,11289,,,False.
+359,500000301,Acute liver injury,warfarin,10023126,Jaundice,11289,,,False.
+360,500000301,Acute liver injury,metoclopramide,10019851,Hepatotoxicity,6915,,,False.
+361,500000301,Acute liver injury,metoclopramide,10023126,Jaundice,6915,,,False.
+362,500000301,Acute liver injury,capecitabine,10019663,Hepatic failure,194000,,,True.
+363,500000301,Acute liver injury,capecitabine,10019668,Hepatic fibrosis,194000,,,False.
+364,500000301,Acute liver injury,capecitabine,10019717,Hepatitis,194000,,,True.
+365,500000301,Acute liver injury,capecitabine,10019754,Hepatitis cholestatic,194000,,,False.
+366,500000301,Acute liver injury,capecitabine,10019851,Hepatotoxicity,194000,,,True
+367,500000301,Acute liver injury,capecitabine,10023126,Jaundice,194000,,,True
+368,500000301,Acute liver injury,triazolam,10019663,Hepatic failure,10767,,,True
+369,500000301,Acute liver injury,triazolam,10023126,Jaundice,10767,,,True
+370,500000301,Acute liver injury,rifampin,10019717,Hepatitis,9384,,,True
+371,500000301,Acute liver injury,rifampin,10023126,Jaundice,9384,,,True
+372,500000301,Acute liver injury,stavudine,10019663,Hepatic failure,59763,,,True
+373,500000301,Acute liver injury,stavudine,10019708,Hepatic steatosis,59763,,,True
+374,500000301,Acute liver injury,stavudine,10019717,Hepatitis,59763,,,True
+375,500000301,Acute liver injury,stavudine,10019851,Hepatotoxicity,59763,,,True
+376,500000801,Acute myocardial infarction,mirtazapine,10002383,Angina pectoris,15996,,,False.
+377,500000301,Acute liver injury,mirtazapine,10008612,Cholecystitis,15996,,,False.
+378,500000301,Acute liver injury,mirtazapine,10019641,Hepatic cirrhosis,15996,,,False.
+379,500000301,Acute liver injury,pentoxifylline,10008612,Cholecystitis,8013,,,False.
+380,500000301,Acute liver injury,pentoxifylline,10019717,Hepatitis,8013,,,True
+381,500000301,Acute liver injury,pentoxifylline,10023126,Jaundice,8013,,,True
+382,500000301,Acute liver injury,haloperidol,10023126,Jaundice,5093,,,True
+383,500000301,Acute liver injury,nifedipine,10023126,Jaundice,7417,,,False.
+384,500000301,Acute liver injury,pravastatin,10023126,Jaundice,42463,,,True
+385,500000801,Acute myocardial infarction,quetiapine,10002383,Angina pectoris,51272,,,False.
+386,500001001,GI bleed,quetiapine,10018830,Haematemesis,51272,,,False.
+387,500000301,Acute liver injury,emtricitabine,10019842,Hepatomegaly,276237,,,False.
+388,500000301,Acute liver injury,lorazepam,10067125,Liver injury,6470,,,False.
+389,500000301,Acute liver injury,lorazepam,10023126,Jaundice,6470,,,False.
+390,500000801,Acute myocardial infarction,fenofibrate,10002383,Angina pectoris,8703,,,False.
+391,500000301,Acute liver injury,fenofibrate,10008612,Cholecystitis,8703,,,True
+392,500000301,Acute liver injury,fenofibrate,10008629,Cholelithiasis,8703,,,True
+393,500000301,Acute liver injury,fenofibrate,10019708,Hepatic steatosis,8703,,,True.
+394,500000301,Acute liver injury,fenofibrate,10023126,Jaundice,8703,,,True
+395,500000301,Acute liver injury,ursodeoxycholate,10008612,Cholecystitis,62427,,,False.
+396,500000801,Acute myocardial infarction,tiotropium,10002383,Angina pectoris,69120,,,False.
+397,500000301,Acute liver injury,acyclovir,10019717,Hepatitis,281,,,True
+398,500000301,Acute liver injury,acyclovir,10023126,Jaundice,281,,,False.
+399,500000301,Acute liver injury,salsalate,10019717,Hepatitis,36108,,,False.
+400,500000301,Acute liver injury,metaxalone,10023126,Jaundice,59078,,,True
+401,500000301,Acute liver injury,raloxifene,10008629,Cholelithiasis,72143,,,True
+402,500000301,Acute liver injury,ribavirin,10008604,Cholangitis,9344,,,False.
+403,500000301,Acute liver injury,ribavirin,10019663,Hepatic failure,9344,,,True
+404,500000301,Acute liver injury,ribavirin,10019708,Hepatic steatosis,9344,,,False.
+405,500000801,Acute myocardial infarction,enalapril,10002383,Angina pectoris,3827,,,False.
+406,500000301,Acute liver injury,enalapril,10019663,Hepatic failure,3827,,,True
+407,500000301,Acute liver injury,enalapril,10019717,Hepatitis,3827,,,True
+408,500000301,Acute liver injury,enalapril,10023126,Jaundice,3827,,,False.
+409,500000801,Acute myocardial infarction,captopril,10002383,Angina pectoris,1998,,,False.
+410,500000301,Acute liver injury,captopril,10019717,Hepatitis,1998,,,True
+411,500000301,Acute liver injury,captopril,10023126,Jaundice,1998,,,True
+412,500000301,Acute liver injury,zafirlukast,10019663,Hepatic failure,114970,1111706.0,1.0,True
+413,500000301,Acute liver injury,zafirlukast,10019717,Hepatitis,114970,1111706.0,1.0,True
+414,500000301,Acute liver injury,zafirlukast,10019851,Hepatotoxicity,114970,1111706.0,1.0,True
+415,500000801,Acute myocardial infarction,carvedilol,10002383,Angina pectoris,20352,,,True.
+416,500000801,Acute myocardial infarction,etravirine,10002383,Angina pectoris,475969,,,False.
+417,500001001,GI bleed,etravirine,10018830,Haematemesis,475969,,,False.
+418,500000301,Acute liver injury,etravirine,10019663,Hepatic failure,475969,,,True
+419,500000301,Acute liver injury,etravirine,10019708,Hepatic steatosis,475969,,,False.
+420,500000301,Acute liver injury,etravirine,10019717,Hepatitis,475969,,,True
+421,500000301,Acute liver injury,etravirine,10019842,Hepatomegaly,475969,,,False.
+422,500000301,Acute liver injury,olanzapine,10019663,Hepatic failure,61381,,,True
+423,500000301,Acute liver injury,olanzapine,10019708,Hepatic steatosis,61381,,,True
+424,500000301,Acute liver injury,olanzapine,10019717,Hepatitis,61381,,,True
+425,500000301,Acute liver injury,olanzapine,10023126,Jaundice,61381,,,True
+426,500000301,Acute liver injury,erythromycin,10019717,Hepatitis,4053,,,True
+427,500000301,Acute liver injury,didanosine,10019663,Hepatic failure,3364,,,True
+428,500000301,Acute liver injury,didanosine,10019708,Hepatic steatosis,3364,,,True
+429,500000301,Acute liver injury,didanosine,10019717,Hepatitis,3364,,,True
+430,500000301,Acute liver injury,didanosine,10019842,Hepatomegaly,3364,,,True
+431,500000301,Acute liver injury,didanosine,10019851,Hepatotoxicity,3364,,,True
+432,500000801,Acute myocardial infarction,ziprasidone,10002383,Angina pectoris,115698,,,False.
+433,500001001,GI bleed,ziprasidone,10018830,Haematemesis,115698,,,False.
+434,500000301,Acute liver injury,ziprasidone,10019708,Hepatic steatosis,115698,,,False.
+435,500000301,Acute liver injury,ziprasidone,10019717,Hepatitis,115698,,,True
+436,500000301,Acute liver injury,ziprasidone,10019842,Hepatomegaly,115698,,,False.
+437,500000301,Acute liver injury,ziprasidone,10023126,Jaundice,115698,,,True
+438,500000301,Acute liver injury,desipramine,10019717,Hepatitis,3247,,,True
+439,500000301,Acute liver injury,desipramine,10023126,Jaundice,3247,,,True
+440,500000801,Acute myocardial infarction,indinavir,10002383,Angina pectoris,114289,,,True
+441,500000301,Acute liver injury,indinavir,10019663,Hepatic failure,114289,,,True
+442,500000301,Acute liver injury,indinavir,10019717,Hepatitis,114289,,,True
+443,500000301,Acute liver injury,indinavir,10023126,Jaundice,114289,,,True
+444,500000301,Acute liver injury,darunavir,10019717,Hepatitis,460132,1756831.0,1.0,True
+445,500000301,Acute liver injury,darunavir,10019851,Hepatotoxicity,460132,1756831.0,1.0,True.
+446,500000301,Acute liver injury,cefdinir,10019663,Hepatic failure,25037,,,False.
+447,500000301,Acute liver injury,cefdinir,10023126,Jaundice,25037,,,True
+448,500000801,Acute myocardial infarction,progesterone,10002383,Angina pectoris,8727,,,False.
+449,500000301,Acute liver injury,progesterone,10017626,Gallbladder disorder,8727,,,True.
+450,500000301,Acute liver injury,progesterone,10019663,Hepatic failure,8727,,,False.
+451,500000301,Acute liver injury,progesterone,10019692,Hepatic necrosis,8727,,,False.
+452,500000301,Acute liver injury,progesterone,10019717,Hepatitis,8727,,,False.
+453,500000301,Acute liver injury,progesterone,10019754,Hepatitis cholestatic,8727,,,False.
+454,500000301,Acute liver injury,progesterone,10023126,Jaundice,8727,,,False.
+455,500000801,Acute myocardial infarction,aripiprazole,10002383,Angina pectoris,89013,,,False.
+456,500000301,Acute liver injury,aripiprazole,10019717,Hepatitis,89013,,,False.
+457,500000301,Acute liver injury,aripiprazole,10023126,Jaundice,89013,,,False.
+458,500000301,Acute liver injury,pioglitazone,10019663,Hepatic failure,33738,1525215.0,1.0,True
+459,500000801,Acute myocardial infarction,salmon calcitonin,10002383,Angina pectoris,36118,,,False.
+460,500000301,Acute liver injury,salmon calcitonin,10008629,Cholelithiasis,36118,,,False.
+461,500000301,Acute liver injury,salmon calcitonin,10019717,Hepatitis,36118,,,True
+462,500000301,Acute liver injury,esomeprazole,10019660,Hepatic encephalopathy,283742,,,False.
+463,500000301,Acute liver injury,esomeprazole,10019663,Hepatic failure,283742,,,False.
+464,500000301,Acute liver injury,esomeprazole,10019717,Hepatitis,283742,,,True
+465,500000301,Acute liver injury,esomeprazole,10023126,Jaundice,283742,,,False.
+466,500000301,Acute liver injury,saquinavir,10019717,Hepatitis,83395,,,True
+467,500000301,Acute liver injury,saquinavir,10019842,Hepatomegaly,83395,,,True
+468,500000301,Acute liver injury,saquinavir,10019847,Hepatosplenomegaly,83395,,,False.
+469,500000301,Acute liver injury,saquinavir,10023126,Jaundice,83395,,,True
+470,500000301,Acute liver injury,saquinavir,10024670,Liver disorder,83395,,,True
+471,500000301,Acute liver injury,"synthetic conjugated estrogens, b",10017626,Gallbladder disorder,618365,,,True
+472,500000301,Acute liver injury,"synthetic conjugated estrogens, b",10023126,Jaundice,618365,,,True
+473,500000801,Acute myocardial infarction,anastrozole,10002383,Angina pectoris,84857,,,False.
+474,500000301,Acute liver injury,anastrozole,10019717,Hepatitis,84857,,,False.
+475,500000301,Acute liver injury,anastrozole,10023126,Jaundice,84857,,,False.
+476,500000801,Acute myocardial infarction,leflunomide,10002383,Angina pectoris,27169,,,False.
+477,500000301,Acute liver injury,leflunomide,10008629,Cholelithiasis,27169,,,False.
+478,500000301,Acute liver injury,leflunomide,10019663,Hepatic failure,27169,,,True
+479,500000301,Acute liver injury,leflunomide,10023126,Jaundice,27169,,,True
+480,500000301,Acute liver injury,leflunomide,10067125,Liver injury,27169,,,True
+481,500000301,Acute liver injury,pentosan polysulfate,10023126,Jaundice,155046,,,True
+482,500000301,Acute liver injury,cimetidine,10067125,Liver injury,2541,,,True
+483,500000301,Acute liver injury,silver sulfadiazine,10019717,Hepatitis,9793,,,True.
+484,500001001,GI bleed,ketorolac,10018830,Haematemesis,35827,,,True
+485,500000801,Acute myocardial infarction,vardenafil,10002383,Angina pectoris,306674,,,True.
+486,500000301,Acute liver injury,colestipol,10008612,Cholecystitis,2685,,,False.
+487,500000301,Acute liver injury,colestipol,10008629,Cholelithiasis,2685,,,True
+488,500000301,Acute liver injury,milnacipran,10019717,Hepatitis,588250,,,True
+489,500000301,Acute liver injury,cefotaxime,10019717,Hepatitis,2186,,,True
+490,500000301,Acute liver injury,cefotaxime,10023126,Jaundice,2186,,,True
+491,500000301,Acute liver injury,glipizide,10067125,Liver injury,4821,,,False.
+492,500000801,Acute myocardial infarction,pramipexole,10002383,Angina pectoris,746741,,,False.
+493,500000301,Acute liver injury,pramipexole,10008612,Cholecystitis,746741,,,False.
+494,500000301,Acute liver injury,pramipexole,10008617,Cholecystitis chronic,746741,,,False.
+495,500000301,Acute liver injury,pramipexole,10008629,Cholelithiasis,746741,,,False.
+496,500000301,Acute liver injury,pramipexole,10017614,Gallbladder cancer,746741,,,False.
+497,500001001,GI bleed,pramipexole,10018830,Haematemesis,746741,,,False.
+498,500000301,Acute liver injury,pramipexole,10073069,Hepatic cancer,746741,,,False.
+499,500000301,Acute liver injury,acarbose,10019717,Hepatitis,16681,,,False.
+500,500000301,Acute liver injury,acarbose,10023126,Jaundice,16681,,,False.
+501,500000301,Acute liver injury,acarbose,10067125,Liver injury,16681,,,True
+502,500000301,Acute liver injury,amiodarone,10019717,Hepatitis,703,,,True
+503,500000301,Acute liver injury,amiodarone,10019754,Hepatitis cholestatic,703,,,True.
+504,500000301,Acute liver injury,amiodarone,10067125,Liver injury,703,,,True
+505,500000301,Acute liver injury,lansoprazole,10008629,Cholelithiasis,17128,,,False.
+506,500001001,GI bleed,lansoprazole,10018830,Haematemesis,17128,,,True.
+507,500000301,Acute liver injury,lansoprazole,10019851,Hepatotoxicity,17128,,,False.
+508,500000301,Acute liver injury,lansoprazole,10023126,Jaundice,17128,,,True
+509,500001001,GI bleed,etodolac,10018830,Haematemesis,24605,,,True.
+510,500000301,Acute liver injury,etodolac,10019663,Hepatic failure,24605,,,True
+511,500000301,Acute liver injury,etodolac,10019692,Hepatic necrosis,24605,,,True
+512,500000301,Acute liver injury,etodolac,10019717,Hepatitis,24605,,,True.
+513,500000301,Acute liver injury,etodolac,10019754,Hepatitis cholestatic,24605,,,True
+514,500000301,Acute liver injury,etodolac,10023126,Jaundice,24605,,,True.
+515,500000801,Acute myocardial infarction,pilocarpine,10002383,Angina pectoris,8328,,,False.
+516,500000301,Acute liver injury,pilocarpine,10008629,Cholelithiasis,8328,,,False.
+517,500000301,Acute liver injury,pilocarpine,10019717,Hepatitis,8328,,,False.
+518,500000301,Acute liver injury,clomiphene,10019717,Hepatitis,2596,,,False.
+519,500000301,Acute liver injury,clomiphene,10062001,Hepatoblastoma,2596,,,False.
+520,500000301,Acute liver injury,clomiphene,10073071,Hepatocellular carcinoma,2596,,,False.
+521,500000801,Acute myocardial infarction,varenicline,10002383,Angina pectoris,591622,,,False.
+522,500001001,GI bleed,ibuprofen,10018830,Haematemesis,5640,,,True
+523,500000301,Acute liver injury,ibuprofen,10019663,Hepatic failure,5640,,,True
+524,500000301,Acute liver injury,ibuprofen,10019692,Hepatic necrosis,5640,,,True
+525,500000401,Acute kidney injury,ibuprofen,10019846,Hepatorenal syndrome,5640,,,False.
+526,500000301,Acute liver injury,ibuprofen,10019846,Hepatorenal syndrome,5640,,,False.
+527,500000801,Acute myocardial infarction,ropinirole,10002383,Angina pectoris,72302,,,False.
+528,500000801,Acute myocardial infarction,ropinirole,10002388,Angina unstable,72302,,,False.
+529,500000301,Acute liver injury,ropinirole,10008612,Cholecystitis,72302,,,False.
+530,500000301,Acute liver injury,ropinirole,10008629,Cholelithiasis,72302,,,False.
+531,500001001,GI bleed,ropinirole,10018830,Haematemesis,72302,,,False.
+532,500000301,Acute liver injury,eszopiclone,10008629,Cholelithiasis,461016,,,False.
+533,500000301,Acute liver injury,eszopiclone,10019717,Hepatitis,461016,,,False.
+534,500000301,Acute liver injury,eszopiclone,10019842,Hepatomegaly,461016,,,False.
+535,500000301,Acute liver injury,eszopiclone,10067125,Liver injury,461016,,,True.
+536,500000301,Acute liver injury,labetalol,10019692,Hepatic necrosis,6185,,,False.
+537,500000301,Acute liver injury,labetalol,10019717,Hepatitis,6185,,,True
+538,500000301,Acute liver injury,niacin,10019717,Hepatitis,7393,,,True
+539,500000301,Acute liver injury,niacin,10023126,Jaundice,7393,,,True
+540,500000301,Acute liver injury,cefaclor,10019717,Hepatitis,2176,,,True
+541,500000301,Acute liver injury,cefaclor,10023126,Jaundice,2176,,,True
+542,500000301,Acute liver injury,atorvastatin,10019663,Hepatic failure,83367,,,True
+543,500000301,Acute liver injury,atorvastatin,10019717,Hepatitis,83367,,,True
+544,500000301,Acute liver injury,"synthetic conjugated estrogens, a",10017626,Gallbladder disorder,253166,,,True
+545,500000301,Acute liver injury,"synthetic conjugated estrogens, a",10023126,Jaundice,253166,,,True
+546,500000301,Acute liver injury,desloratadine,10019717,Hepatitis,275635,,,False.
+547,500000801,Acute myocardial infarction,flecainide,10002383,Angina pectoris,4441,,,False.
+548,500000301,Acute liver injury,flecainide,10019663,Hepatic failure,4441,,,True
+549,500000301,Acute liver injury,flecainide,10023126,Jaundice,4441,,,False.
+550,500000301,Acute liver injury,chlorthalidone,10023126,Jaundice,2409,,,True.
+551,500000301,Acute liver injury,cefprozil,10023126,Jaundice,19552,,,True
+552,500000801,Acute myocardial infarction,rasagiline,10002383,Angina pectoris,134748,,,False.
+553,500001001,GI bleed,rasagiline,10018830,Haematemesis,134748,,,False.
+554,500000301,Acute liver injury,rasagiline,10023126,Jaundice,134748,,,True
+555,500000301,Acute liver injury,dicloxacillin,10019754,Hepatitis cholestatic,3356,,,True
+556,500000301,Acute liver injury,dicloxacillin,10019851,Hepatotoxicity,3356,,,True
+557,500001001,GI bleed,lamotrigine,10018830,Haematemesis,28439,,,False.
+558,500000301,Acute liver injury,lamotrigine,10019717,Hepatitis,28439,705103.0,1.0,True
+559,500000301,Acute liver injury,thiothixene,10023126,Jaundice,10510,,,True
+560,500000801,Acute myocardial infarction,sildenafil,10002383,Angina pectoris,136411,,,True
+561,500000801,Acute myocardial infarction,eletriptan,10002383,Angina pectoris,231049,1189697.0,1.0,False.
+562,500001001,GI bleed,eletriptan,10018830,Haematemesis,231049,,,False.
+563,500000301,Acute liver injury,indapamide,10019717,Hepatitis,5764,,,False.
+564,500000301,Acute liver injury,indapamide,10023126,Jaundice,5764,,,True
+565,500001001,GI bleed,ketoprofen,10018830,Haematemesis,6142,,,True
+566,500000301,Acute liver injury,ketoprofen,10019717,Hepatitis,6142,,,True
+567,500000301,Acute liver injury,ketoprofen,10019754,Hepatitis cholestatic,6142,,,True
+568,500000301,Acute liver injury,ketoprofen,10023126,Jaundice,6142,,,True
+569,500000801,Acute myocardial infarction,febuxostat,10002383,Angina pectoris,73689,,,False.
+570,500000301,Acute liver injury,febuxostat,10008612,Cholecystitis,73689,,,True
+571,500000301,Acute liver injury,febuxostat,10008629,Cholelithiasis,73689,,,False.
+572,500001001,GI bleed,febuxostat,10018830,Haematemesis,73689,,,True.
+573,500000301,Acute liver injury,febuxostat,10019708,Hepatic steatosis,73689,,,False.
+574,500000301,Acute liver injury,febuxostat,10019717,Hepatitis,73689,,,True.
+575,500000301,Acute liver injury,febuxostat,10019842,Hepatomegaly,73689,,,False.
+576,500000801,Acute myocardial infarction,eplerenone,10002383,Angina pectoris,298869,,,False.
+577,500000301,Acute liver injury,eplerenone,10019663,Hepatic failure,298869,,,False.
+578,500000801,Acute myocardial infarction,tacrolimus,10002383,Angina pectoris,42316,,,False.
+579,500000301,Acute liver injury,tacrolimus,10008604,Cholangitis,42316,,,False.
+580,500000301,Acute liver injury,tacrolimus,10019692,Hepatic necrosis,42316,,,False.
+581,500000301,Acute liver injury,tacrolimus,10019708,Hepatic steatosis,42316,,,False.
+582,500000301,Acute liver injury,tacrolimus,10019717,Hepatitis,42316,,,True
+583,500000301,Acute liver injury,tacrolimus,10019837,Hepatocellular injury,42316,,,True
+584,500000301,Acute liver injury,tacrolimus,10019851,Hepatotoxicity,42316,,,True
+585,500000301,Acute liver injury,tacrolimus,10023126,Jaundice,42316,,,True
+586,500000301,Acute liver injury,tacrolimus,10047216,Venoocclusive liver disease,42316,,,False.
+587,500000301,Acute liver injury,tacrolimus,10051341,Bile duct stenosis,42316,,,True.
+588,500000301,Acute liver injury,tacrolimus,10067125,Liver injury,42316,,,True
+589,500000301,Acute liver injury,leuprolide,10019717,Hepatitis,42375,,,True
+590,500000301,Acute liver injury,leuprolide,10019842,Hepatomegaly,42375,,,False.
+591,500000801,Acute myocardial infarction,donepezil,10002383,Angina pectoris,135447,,,False.
+592,500000301,Acute liver injury,donepezil,10008612,Cholecystitis,135447,,,False.
+593,500000301,Acute liver injury,donepezil,10008629,Cholelithiasis,135447,,,False.
+594,500000301,Acute liver injury,donepezil,10019717,Hepatitis,135447,,,True
+595,500000301,Acute liver injury,donepezil,10023126,Jaundice,135447,,,True
+596,500000301,Acute liver injury,"estrogens, esterified (usp)",10023126,Jaundice,214549,,,True
+597,500000301,Acute liver injury,cilostazol,10023126,Jaundice,21107,,,False.
+598,500000301,Acute liver injury,ethambutol,10019717,Hepatitis,4110,,,True
+599,500000301,Acute liver injury,rifabutin,10019717,Hepatitis,55672,,,True
+600,500000301,Acute liver injury,rifabutin,10023126,Jaundice,55672,,,True
+601,500000301,Acute liver injury,rabeprazole,10019660,Hepatic encephalopathy,114979,,,False.
+602,500000301,Acute liver injury,rabeprazole,10019717,Hepatitis,114979,,,False.
+603,500000301,Acute liver injury,rabeprazole,10023126,Jaundice,114979,,,False.
+604,500000801,Acute myocardial infarction,methylphenidate,10002383,Angina pectoris,6901,,,False.
+605,500000801,Acute myocardial infarction,losartan,10002383,Angina pectoris,52175,,,False.
+606,500000301,Acute liver injury,losartan,10019717,Hepatitis,52175,,,False.
+607,500000301,Acute liver injury,lovastatin,10019717,Hepatitis,6472,,,True
+608,500000301,Acute liver injury,lovastatin,10023126,Jaundice,6472,,,True
+609,500000301,Acute liver injury,lovastatin,10073071,Hepatocellular carcinoma,6472,,,False.
+610,500000801,Acute myocardial infarction,omega-3 acid ethyl esters (usp),10002383,Angina pectoris,484348,,,False.
+611,500000301,Acute liver injury,medroxyprogesterone,10023126,Jaundice,6691,,,True
+612,500000301,Acute liver injury,medroxyprogesterone,10023138,Jaundice neonatal,6691,,,False.
+613,500000301,Acute liver injury,testosterone,10023126,Jaundice,10379,,,True
+614,500000301,Acute liver injury,methylprednisolone,10019842,Hepatomegaly,6902,,,False.
+615,500000801,Acute myocardial infarction,fosinopril,10002383,Angina pectoris,50166,,,False.
+616,500000301,Acute liver injury,fosinopril,10019663,Hepatic failure,50166,,,True
+617,500000301,Acute liver injury,fosinopril,10019717,Hepatitis,50166,,,True
+618,500000301,Acute liver injury,fosinopril,10019842,Hepatomegaly,50166,,,False.
+619,500000301,Acute liver injury,fosinopril,10023126,Jaundice,50166,,,True
+620,500000301,Acute liver injury,zidovudine,10019663,Hepatic failure,11413,,,True
+621,500000301,Acute liver injury,zidovudine,10019717,Hepatitis,11413,,,True
+622,500000301,Acute liver injury,zidovudine,10019842,Hepatomegaly,11413,,,True
+623,500000301,Acute liver injury,zidovudine,10023126,Jaundice,11413,,,True
+624,500000801,Acute myocardial infarction,dobutamine,10002383,Angina pectoris,3616,,,False.
+625,500000301,Acute liver injury,bupropion,10019851,Hepatotoxicity,42347,,,True
+626,500000301,Acute liver injury,galantamine,10019717,Hepatitis,4637,,,True
+627,500000301,Acute liver injury,zonisamide,10008604,Cholangitis,39998,,,False.
+628,500000301,Acute liver injury,zonisamide,10008612,Cholecystitis,39998,,,True
+629,500000301,Acute liver injury,zonisamide,10008629,Cholelithiasis,39998,,,True
+630,500001001,GI bleed,zonisamide,10018830,Haematemesis,39998,,,False.
+631,500000301,Acute liver injury,zonisamide,10023126,Jaundice,39998,,,True
+632,500000301,Acute liver injury,triamcinolone,10019842,Hepatomegaly,10759,,,False.
+633,500000301,Acute liver injury,balsalazide,10019663,Hepatic failure,18747,,,False.
+634,500000301,Acute liver injury,balsalazide,10019692,Hepatic necrosis,18747,,,False.
+635,500000301,Acute liver injury,balsalazide,10019837,Hepatocellular injury,18747,,,True
+636,500000301,Acute liver injury,balsalazide,10019851,Hepatotoxicity,18747,,,False.
+637,500000301,Acute liver injury,balsalazide,10023126,Jaundice,18747,,,True
+638,500000801,Acute myocardial infarction,granisetron,10002383,Angina pectoris,26237,,,False.
+639,500000801,Acute myocardial infarction,fentanyl,10002383,Angina pectoris,4337,,,False.
+640,500000401,Acute kidney injury,fentanyl,10019846,Hepatorenal syndrome,4337,,,False.
+641,500000301,Acute liver injury,fentanyl,10019846,Hepatorenal syndrome,4337,,,False.
+642,500000301,Acute liver injury,fentanyl,10023126,Jaundice,4337,,,False.
+643,500000801,Acute myocardial infarction,methyldopa,10002383,Angina pectoris,6876,,,False.
+644,500000301,Acute liver injury,methyldopa,10019717,Hepatitis,6876,,,True
+645,500000301,Acute liver injury,methyldopa,10023126,Jaundice,6876,,,True
+646,500000301,Acute liver injury,trifluoperazine,10023126,Jaundice,10800,,,True
+647,500000301,Acute liver injury,trifluoperazine,10067125,Liver injury,10800,,,True
+648,500000301,Acute liver injury,medroxyprogesterone,10017626,Gallbladder disorder,6691,,,True
+649,500000301,Acute liver injury,mebendazole,10019717,Hepatitis,6672,,,False.
+650,500000301,Acute liver injury,fluvastatin,10019717,Hepatitis,41127,,,True
+651,500000301,Acute liver injury,fluvastatin,10023126,Jaundice,41127,,,True
+652,500000301,Acute liver injury,fluvastatin,10073071,Hepatocellular carcinoma,41127,,,False.
+653,500000301,Acute liver injury,methazolamide,10019663,Hepatic failure,6826,,,True
+654,500000801,Acute myocardial infarction,propafenone,10002383,Angina pectoris,8754,,,True
+655,500000801,Acute myocardial infarction,propafenone,10002388,Angina unstable,8754,,,True
+656,500000301,Acute liver injury,propafenone,10019842,Hepatomegaly,8754,,,True.
+657,500000301,Acute liver injury,moexipril,10019717,Hepatitis,30131,1310756.0,1.0,True
+658,500000801,Acute myocardial infarction,amiloride,10002383,Angina pectoris,644,,,False.
+659,500000301,Acute liver injury,amiloride,10023126,Jaundice,644,,,True
+660,500000801,Acute myocardial infarction,mycophenolate mofetil,10002383,Angina pectoris,68149,,,False.
+661,500000301,Acute liver injury,mycophenolate mofetil,10008604,Cholangitis,68149,,,False.
+662,500000301,Acute liver injury,mycophenolate mofetil,10019717,Hepatitis,68149,,,True
+663,500000301,Acute liver injury,mycophenolate mofetil,10023126,Jaundice,68149,,,True
+664,500000301,Acute liver injury,mycophenolate mofetil,10067125,Liver injury,68149,,,True
+665,500000801,Acute myocardial infarction,epinephrine,10002383,Angina pectoris,3992,,,True
+666,500000301,Acute liver injury,letrozole,10019717,Hepatitis,72965,,,False.
+667,500000301,Acute liver injury,letrozole,10036206,Portal vein thrombosis,72965,,,False.
+668,500000301,Acute liver injury,amoxapine,10019717,Hepatitis,722,,,True
+669,500000301,Acute liver injury,amoxapine,10023126,Jaundice,722,,,True
+670,500000801,Acute myocardial infarction,nifedipine,10002383,Angina pectoris,7417,,,False.
+671,500000301,Acute liver injury,nifedipine,10071198,Allergic hepatitis,7417,,,False.
+672,500000301,Acute liver injury,ceftriaxone,10008629,Cholelithiasis,2193,,,True
+673,500000301,Acute liver injury,ceftriaxone,10023126,Jaundice,2193,,,True
+674,500000301,Acute liver injury,morphine,10019717,Hepatitis,7052,,,False
+675,500000301,Acute liver injury,rosuvastatin,10019663,Hepatic failure,301542,,,True
+676,500000301,Acute liver injury,rosuvastatin,10019717,Hepatitis,301542,,,True
+677,500000301,Acute liver injury,rosuvastatin,10023126,Jaundice,301542,,,False.
+678,500000301,Acute liver injury,pregabalin,10008612,Cholecystitis,187832,,,False.
+679,500000301,Acute liver injury,pregabalin,10008629,Cholelithiasis,187832,,,False.
+680,500000301,Acute liver injury,levofloxacin,10019663,Hepatic failure,82122,,,True
+681,500000301,Acute liver injury,levofloxacin,10019717,Hepatitis,82122,,,True
+682,500000301,Acute liver injury,levofloxacin,10019851,Hepatotoxicity,82122,,,True.
+683,500000301,Acute liver injury,levofloxacin,10023126,Jaundice,82122,,,True
+684,500000801,Acute myocardial infarction,isosorbide,10002383,Angina pectoris,6057,,,True.
+685,500000301,Acute liver injury,diflunisal,10019717,Hepatitis,3393,,,True
+686,500000301,Acute liver injury,diflunisal,10023126,Jaundice,3393,,,True
+687,500000801,Acute myocardial infarction,latanoprost,10002383,Angina pectoris,43611,,,False.
+688,500000801,Acute myocardial infarction,atenolol,10002383,Angina pectoris,1202,,,True
+689,500000301,Acute liver injury,atenolol,10019663,Hepatic failure,1202,,,False.
+690,500000301,Acute liver injury,atenolol,10019717,Hepatitis,1202,,,False.
+691,500000301,Acute liver injury,atenolol,10023126,Jaundice,1202,,,False.
+692,500000801,Acute myocardial infarction,valsartan,10000891,Acute myocardial infarction,69749,,,False.
+693,500000301,Acute liver injury,valsartan,10019717,Hepatitis,69749,,,False.
+694,500000301,Acute liver injury,cyclosporine,10019837,Hepatocellular injury,3008,,,True
+695,500000301,Acute liver injury,cyclosporine,10019851,Hepatotoxicity,3008,,,True
+696,500000801,Acute myocardial infarction,cevimeline,10002383,Angina pectoris,44281,,,False.
+697,500000301,Acute liver injury,cevimeline,10008612,Cholecystitis,44281,,,False.
+698,500000301,Acute liver injury,cevimeline,10008629,Cholelithiasis,44281,,,False.
+699,500000301,Acute liver injury,cevimeline,10019799,Hepatitis viral,44281,,,False.
+700,500000301,Acute liver injury,acetazolamide,10019663,Hepatic failure,167,,,True
+701,500000301,Acute liver injury,glimepiride,10019663,Hepatic failure,25789,,,False.
+702,500000301,Acute liver injury,glimepiride,10019717,Hepatitis,25789,,,True
+703,500000301,Acute liver injury,glimepiride,10023126,Jaundice,25789,,,True
+704,500000801,Acute myocardial infarction,moxifloxacin,10002383,Angina pectoris,139462,,,False.
+705,500000301,Acute liver injury,moxifloxacin,10019692,Hepatic necrosis,139462,,,False.
+706,500000801,Acute myocardial infarction,rizatriptan,10002383,Angina pectoris,88014,1154077.0,1.0,False.
+707,500000301,Acute liver injury,imipramine,10023126,Jaundice,5691,,,True
+708,500000301,Acute liver injury,tolmetin,10019717,Hepatitis,10636,,,True
+709,500000801,Acute myocardial infarction,travoprost,10002383,Angina pectoris,283809,,,False.
+710,500000801,Acute myocardial infarction,zolmitriptan,10002383,Angina pectoris,135775,1116031.0,1.0,False.
+711,500000301,Acute liver injury,zolmitriptan,10023126,Jaundice,135775,,,False.
+712,500000301,Acute liver injury,cefazolin,10019717,Hepatitis,2180,,,True
+713,500001001,GI bleed,zolmitriptan,10018830,Haematemesis,135775,,,False.
+714,500000301,Acute liver injury,oxcarbazepine,10008629,Cholelithiasis,32624,,,False.
+715,500001001,GI bleed,oxcarbazepine,10018830,Haematemesis,32624,,,True.
+716,500000301,Acute liver injury,minocycline,10003827,Autoimmune hepatitis,6980,,,True
+717,500000301,Acute liver injury,minocycline,10023126,Jaundice,6980,,,True
+718,500000801,Acute myocardial infarction,tamoxifen,10002383,Angina pectoris,10324,,,False.
+719,500000301,Acute liver injury,temozolomide,10019717,Hepatitis,37776,,,True
+720,500000301,Acute liver injury,temozolomide,10019851,Hepatotoxicity,37776,,,False.
+721,500000301,Acute liver injury,glyburide,10019663,Hepatic failure,4815,,,True
+722,500000301,Acute liver injury,valacyclovir,10019717,Hepatitis,73645,,,True
+723,500000301,Acute liver injury,methimazole,10019717,Hepatitis,6835,,,True
+724,500000301,Acute liver injury,methimazole,10023126,Jaundice,6835,,,True
+725,500000301,Acute liver injury,prednisone,10019842,Hepatomegaly,8640,,,False.
+726,500000301,Acute liver injury,propylthiouracil,10019663,Hepatic failure,8794,,,True
+727,500000301,Acute liver injury,propylthiouracil,10019717,Hepatitis,8794,,,True
+728,500000301,Acute liver injury,propylthiouracil,10023126,Jaundice,8794,,,True
+729,500000301,Acute liver injury,propylthiouracil,10067125,Liver injury,8794,,,True
+730,500000301,Acute liver injury,diclofenac,10019692,Hepatic necrosis,3355,,,True
+731,500000301,Acute liver injury,azithromycin,10019851,Hepatotoxicity,18631,,,False.
+732,500000301,Acute liver injury,phenazopyridine,10019717,Hepatitis,8120,,,True
+733,500000301,Acute liver injury,phenazopyridine,10023126,Jaundice,8120,,,True
+734,500000301,Acute liver injury,auranofin,10023126,Jaundice,1227,,,True
+735,500000301,Acute liver injury,nateglinide,10019754,Hepatitis cholestatic,274332,,,False.
+736,500000301,Acute liver injury,nateglinide,10023126,Jaundice,274332,,,True
+737,500000801,Acute myocardial infarction,irbesartan,10002383,Angina pectoris,83818,,,False.
+738,500000301,Acute liver injury,irbesartan,10019717,Hepatitis,83818,,,True
+739,500000301,Acute liver injury,irbesartan,10023126,Jaundice,83818,,,True
+740,500000801,Acute myocardial infarction,oseltamivir,10002388,Angina unstable,260101,,,False.
+741,500000301,Acute liver injury,oseltamivir,10019717,Hepatitis,260101,,,False.
+742,500000301,Acute liver injury,famciclovir,10023126,Jaundice,68099,,,False.
+743,500000301,Acute liver injury,chlordiazepoxide,10023126,Jaundice,2356,,,True
+744,500000301,Acute liver injury,dronedarone,10067125,Liver injury,233698,,,True
+745,500000301,Acute liver injury,rifaximin,10019660,Hepatic encephalopathy,35619,,,False.
+746,500000301,Acute liver injury,clomipramine,10019717,Hepatitis,2597,,,True
+747,500000301,Acute liver injury,lacosamide,10019717,Hepatitis,623400,,,False.
+748,500000301,Acute liver injury,bicalutamide,10019663,Hepatic failure,83008,,,True
+749,500000301,Acute liver injury,cyclophosphamide,10023126,Jaundice,3002,,,False.
+750,500001001,GI bleed,erlotinib,10018830,Haematemesis,337525,,,True.
+751,500000301,Acute liver injury,erlotinib,10019663,Hepatic failure,337525,,,True.
+752,500000301,Acute liver injury,warfarin,10019754,Hepatitis cholestatic,11289,,,False.
+753,500000301,Acute liver injury,raltegravir,10019663,Hepatic failure,719872,,,False.
+754,500000801,Acute myocardial infarction,trandolapril,10002383,Angina pectoris,38454,,,True
+755,500000301,Acute liver injury,trandolapril,10019717,Hepatitis,38454,1342439.0,1.0,True
+756,500000301,Acute liver injury,trandolapril,10023126,Jaundice,38454,1342439.0,1.0,True
+757,500000301,Acute liver injury,dexlansoprazole,10008614,Cholecystitis acute,816346,,,False.
+758,500000301,Acute liver injury,dexlansoprazole,10008629,Cholelithiasis,816346,,,False.
+759,500001001,GI bleed,dexlansoprazole,10018830,Haematemesis,816346,,,True.
+760,500000301,Acute liver injury,dexlansoprazole,10019842,Hepatomegaly,816346,,,False.
+761,500000301,Acute liver injury,dexlansoprazole,10072268,Drug-induced liver injury,816346,,,True
+762,500000301,Acute liver injury,mesalamine,10019754,Hepatitis cholestatic,52582,,,True.
+763,500000301,Acute liver injury,mefloquine,10019663,Hepatic failure,6694,,,True
+764,500000301,Acute liver injury,clarithromycin,10019851,Hepatotoxicity,21212,,,True
+765,500000301,Acute liver injury,atazanavir,10008612,Cholecystitis,343047,,,True
+766,500000301,Acute liver injury,atazanavir,10008629,Cholelithiasis,343047,,,True
+767,500000301,Acute liver injury,atazanavir,10019717,Hepatitis,343047,,,True
+768,500000301,Acute liver injury,atazanavir,10023126,Jaundice,343047,,,True
+769,500000801,Acute myocardial infarction,telmisartan,10002383,Angina pectoris,73494,,,False.
+770,500000301,Acute liver injury,telmisartan,10024670,Liver disorder,73494,,,True.
+771,500000301,Acute liver injury,silodosin,10023126,Jaundice,720825,,,True
+772,500000301,Acute liver injury,probenecid,10019692,Hepatic necrosis,8698,,,False.
+773,500000301,Acute liver injury,famotidine,10019717,Hepatitis,4278,,,False.
+774,500000301,Acute liver injury,famotidine,10023126,Jaundice,4278,,,False.
+775,500000301,Acute liver injury,estropipate,10017626,Gallbladder disorder,33747,,,True
+776,500000301,Acute liver injury,estropipate,10023126,Jaundice,33747,,,True
+777,500000301,Acute liver injury,escitalopram,10019663,Hepatic failure,321988,,,False.
+778,500000301,Acute liver injury,escitalopram,10019692,Hepatic necrosis,321988,,,False.
+779,500000301,Acute liver injury,escitalopram,10019717,Hepatitis,321988,,,False.
+780,500000301,Acute liver injury,disulfiram,10019663,Hepatic failure,3554,,,True
+781,500000301,Acute liver injury,disulfiram,10019717,Hepatitis,3554,,,True
+782,500000301,Acute liver injury,fluconazole,10019837,Hepatocellular injury,4450,,,True
+783,500000801,Acute myocardial infarction,anagrelide,10002383,Angina pectoris,596724,,,True.
+784,500000301,Acute liver injury,anagrelide,10019851,Hepatotoxicity,596724,,,True.
+785,500000301,Acute liver injury,naltrexone,10019717,Hepatitis,7243,,,True
+786,500000301,Acute liver injury,naltrexone,10019837,Hepatocellular injury,7243,,,True
+787,500000301,Acute liver injury,naltrexone,10019851,Hepatotoxicity,7243,,,True
+788,500000301,Acute liver injury,telithromycin,10019663,Hepatic failure,274786,,,True
+789,500000301,Acute liver injury,telithromycin,10019692,Hepatic necrosis,274786,,,True
+790,500000301,Acute liver injury,telithromycin,10019717,Hepatitis,274786,,,True
+791,500000301,Acute liver injury,telithromycin,10019851,Hepatotoxicity,274786,,,True
+792,500000301,Acute liver injury,telithromycin,10023126,Jaundice,274786,,,True
+793,500000301,Acute liver injury,telithromycin,10067125,Liver injury,274786,,,True
+794,500000801,Acute myocardial infarction,betaxolol,10002383,Angina pectoris,1520,,,True
+795,500000801,Acute myocardial infarction,maraviroc,10002388,Angina unstable,620216,,,False.
+796,500000301,Acute liver injury,maraviroc,10019641,Hepatic cirrhosis,620216,,,False.
+797,500000301,Acute liver injury,maraviroc,10019663,Hepatic failure,620216,,,True
+798,500000301,Acute liver injury,maraviroc,10019851,Hepatotoxicity,620216,,,False.
+799,500000301,Acute liver injury,maraviroc,10023126,Jaundice,620216,,,False.
+800,500000301,Acute liver injury,maraviroc,10027457,Metastases to liver,620216,,,False.
+801,500000301,Acute liver injury,maraviroc,10036206,Portal vein thrombosis,620216,,,False.
+802,500000301,Acute liver injury,trimethoprim,10023126,Jaundice,10829,,,True
+803,500000801,Acute myocardial infarction,dasatinib,10002383,Angina pectoris,475342,,,True
+804,500000301,Acute liver injury,dasatinib,10008612,Cholecystitis,475342,,,True
+805,500000301,Acute liver injury,dasatinib,10019717,Hepatitis,475342,,,True
+806,500000301,Acute liver injury,hydroxyurea,10019851,Hepatotoxicity,5552,,,True.
+807,500000301,Acute liver injury,"estrogens, conjugated (usp)",10017626,Gallbladder disorder,4099,,,True
+808,500000801,Acute myocardial infarction,prazosin,10002383,Angina pectoris,8629,,,False.
+809,500000801,Acute myocardial infarction,timolol,10002383,Angina pectoris,10600,,,True
+810,500000301,Acute liver injury,timolol,10019842,Hepatomegaly,10600,,,False.
+811,500000801,Acute myocardial infarction,isosorbide,10000891,Acute myocardial infarction,6057,,,True
+812,500000301,Acute liver injury,pioglitazone,10019851,Hepatotoxicity,33738,1525215.0,1.0,True
+813,500000301,Acute liver injury,mercaptopurine,10019851,Hepatotoxicity,103,,,True
+814,500000801,Acute myocardial infarction,almotriptan,10000891,Acute myocardial infarction,279645,1103552.0,1.0,False.
+815,500000801,Acute myocardial infarction,almotriptan,10002383,Angina pectoris,279645,1103552.0,1.0,False.
+816,500000301,Acute liver injury,octreotide,10008629,Cholelithiasis,7617,,,True
+817,500000301,Acute liver injury,octreotide,10019717,Hepatitis,7617,,,True
+818,500000301,Acute liver injury,octreotide,10023126,Jaundice,7617,,,True
+819,500000301,Acute liver injury,octreotide,10049704,Gallbladder polyp,7617,,,False.
+820,500000301,Acute liver injury,nevirapine,10019727,Hepatitis acute,53654,,,True
+821,500000301,Acute liver injury,nevirapine,10019795,Hepatitis toxic,53654,,,True
+822,500000301,Acute liver injury,nevirapine,10024670,Liver disorder,53654,,,True
+823,500000301,Acute liver injury,efavirenz,10019663,Hepatic failure,195085,1738135.0,1.0,True
+824,500000301,Acute liver injury,efavirenz,10019717,Hepatitis,195085,1738135.0,1.0,True
+825,500000801,Acute myocardial infarction,ramipril,10002383,Angina pectoris,35296,,,False.
+826,500000301,Acute liver injury,phenobarbital,10067125,Liver injury,8134,,,True
+827,500000301,Acute liver injury,tranylcypromine,10019717,Hepatitis,10734,,,True
+828,500000301,Acute liver injury,raltegravir,10019717,Hepatitis,719872,,,True
+829,500000801,Acute myocardial infarction,candesartan,10002383,Angina pectoris,214354,,,False.
+830,500000301,Acute liver injury,candesartan,10019717,Hepatitis,214354,,,True.
+831,500000301,Acute liver injury,cidofovir,10008604,Cholangitis,83171,,,True
+832,500000301,Acute liver injury,cidofovir,10019692,Hepatic necrosis,83171,,,False.
+833,500000301,Acute liver injury,cidofovir,10019717,Hepatitis,83171,,,True
+834,500000301,Acute liver injury,cidofovir,10019842,Hepatomegaly,83171,,,True
+835,500000301,Acute liver injury,cidofovir,10019847,Hepatosplenomegaly,83171,,,True
+836,500000301,Acute liver injury,cidofovir,10023126,Jaundice,83171,,,True
+837,500000301,Acute liver injury,cidofovir,10067125,Liver injury,83171,,,True
+838,500000301,Acute liver injury,leflunomide,10019717,Hepatitis,27169,,,True
+839,500000301,Acute liver injury,ketoconazole,10019663,Hepatic failure,6135,,,True
+840,500000301,Acute liver injury,ketoconazole,10019717,Hepatitis,6135,,,True
+841,500000301,Acute liver injury,ketoconazole,10019754,Hepatitis cholestatic,6135,,,True
+842,500000301,Acute liver injury,ketoconazole,10019851,Hepatotoxicity,6135,,,True
+843,500000301,Acute liver injury,ketoconazole,10023126,Jaundice,6135,,,True
+844,500000801,Acute myocardial infarction,pravastatin,10002383,Angina pectoris,42463,,,False.
+845,500000301,Acute liver injury,sulfasalazine,10019663,Hepatic failure,9524,,,True
+846,500000301,Acute liver injury,sulfasalazine,10019692,Hepatic necrosis,9524,,,True
+847,500000301,Acute liver injury,sulfasalazine,10019717,Hepatitis,9524,,,True
+848,500000301,Acute liver injury,sulfasalazine,10019837,Hepatocellular injury,9524,,,True
+849,500000301,Acute liver injury,sulfasalazine,10019851,Hepatotoxicity,9524,,,True
+850,500000301,Acute liver injury,sulfasalazine,10023126,Jaundice,9524,,,True
+851,500000301,Acute liver injury,abacavir,10019842,Hepatomegaly,190521,1736971.0,1.0,False.
+852,500000301,Acute liver injury,valproate,10019663,Hepatic failure,40254,,,True
+853,500000301,Acute liver injury,stavudine,10019842,Hepatomegaly,59763,,,True
+854,500000301,Acute liver injury,gemcitabine,10019663,Hepatic failure,12574,1314924.0,1.0,True
+855,500000301,Acute liver injury,demeclocycline,10019663,Hepatic failure,3154,,,True
+856,500000301,Acute liver injury,demeclocycline,10019717,Hepatitis,3154,,,True
+857,500000301,Acute liver injury,quinidine,10019851,Hepatotoxicity,9068,,,True
+858,500000301,Acute liver injury,fluvastatin,10019663,Hepatic failure,41127,,,True
+859,500000301,Acute liver injury,danazol,10023126,Jaundice,3102,,,True
+860,500000301,Acute liver injury,danazol,10073069,Hepatic cancer,3102,,,False.
+861,500000301,Acute liver injury,ganciclovir,10008629,Cholelithiasis,4678,,,False.
+862,500000301,Acute liver injury,ganciclovir,10019663,Hepatic failure,4678,,,True
+863,500000301,Acute liver injury,ganciclovir,10019717,Hepatitis,4678,,,True
+864,500000301,Acute liver injury,tizanidine,10019851,Hepatotoxicity,57258,,,True
+865,500000301,Acute liver injury,loxapine,10019717,Hepatitis,6475,,,True
+866,500000301,Acute liver injury,loxapine,10019837,Hepatocellular injury,6475,,,True
+867,500000301,Acute liver injury,loxapine,10023126,Jaundice,6475,,,True
+868,500000301,Acute liver injury,olsalazine,10019663,Hepatic failure,32385,,,False.
+869,500000301,Acute liver injury,olsalazine,10019692,Hepatic necrosis,32385,,,False.
+870,500000301,Acute liver injury,olsalazine,10019717,Hepatitis,32385,,,True.
+871,500000301,Acute liver injury,olsalazine,10019754,Hepatitis cholestatic,32385,,,True.
+872,500000301,Acute liver injury,olsalazine,10019837,Hepatocellular injury,32385,,,True
+873,500000301,Acute liver injury,olsalazine,10019851,Hepatotoxicity,32385,,,False.
+874,500000301,Acute liver injury,olsalazine,10023126,Jaundice,32385,,,True
+875,500000301,Acute liver injury,fluphenazine,10023126,Jaundice,4496,,,True
+876,500000301,Acute liver injury,fluphenazine,10067125,Liver injury,4496,,,True
+877,500000301,Acute liver injury,phenytoin,10000804,Acute hepatic failure,8183,,,True
+878,500000301,Acute liver injury,fenoprofen,10019754,Hepatitis cholestatic,4331,,,True
+879,500000301,Acute liver injury,fenoprofen,10023126,Jaundice,4331,,,True
+880,500000301,Acute liver injury,clozapine,10019641,Hepatic cirrhosis,2626,,,False.
+881,500000301,Acute liver injury,clozapine,10019663,Hepatic failure,2626,,,True
+882,500000301,Acute liver injury,clozapine,10019668,Hepatic fibrosis,2626,,,False.
+883,500000301,Acute liver injury,clozapine,10019692,Hepatic necrosis,2626,,,False.
+884,500000301,Acute liver injury,clozapine,10019708,Hepatic steatosis,2626,,,True
+885,500000301,Acute liver injury,clozapine,10019717,Hepatitis,2626,,,True
+886,500000301,Acute liver injury,clozapine,10019851,Hepatotoxicity,2626,,,True
+887,500000301,Acute liver injury,clozapine,10023126,Jaundice,2626,,,False.
+888,500000301,Acute liver injury,clozapine,10067125,Liver injury,2626,,,True
+889,500000301,Acute liver injury,phenelzine,10023126,Jaundice,8123,,,True
+890,500000801,Acute myocardial infarction,lisinopril,10000891,Acute myocardial infarction,29046,,,False.
+891,500000301,Acute liver injury,sulfasalazine,10019754,Hepatitis cholestatic,9524,,,True
+892,500000301,Acute liver injury,repaglinide,10019717,Hepatitis,73044,,,True
+893,500000301,Acute liver injury,repaglinide,10023126,Jaundice,73044,,,True
+894,500000301,Acute liver injury,duloxetine,10019851,Hepatotoxicity,72625,,,True
+895,500001001,GI bleed,felbamate,10018830,Haematemesis,24812,,,True
+896,500000301,Acute liver injury,felbamate,10019663,Hepatic failure,24812,795661.0,1.0,True
+897,500000301,Acute liver injury,felbamate,10019717,Hepatitis,24812,795661.0,1.0,True
+898,500000401,Acute kidney injury,felbamate,10019846,Hepatorenal syndrome,24812,,,False.
+899,500000301,Acute liver injury,felbamate,10019846,Hepatorenal syndrome,24812,795661.0,1.0,False.
+900,500000301,Acute liver injury,felbamate,10023126,Jaundice,24812,795661.0,1.0,True
+901,500000301,Acute liver injury,aspirin,10019717,Hepatitis,1191,,,False.
+902,500000301,Acute liver injury,ciprofloxacin,10019851,Hepatotoxicity,2551,,,True
+903,500000301,Acute liver injury,ursodeoxycholate,10023126,Jaundice,62427,,,False.
+904,500000301,Acute liver injury,ethacrynate,10023126,Jaundice,62349,,,True
+905,500000301,Acute liver injury,alosetron,10008612,Cholecystitis,85248,,,True
+906,500000301,Acute liver injury,alosetron,10019717,Hepatitis,85248,,,True.
+907,500000301,Acute liver injury,alosetron,10023126,Jaundice,85248,,,False.
+908,500000301,Acute liver injury,norethindrone,10019717,Hepatitis,7514,,,True
+909,500000301,Acute liver injury,norethindrone,10023126,Jaundice,7514,,,True
+910,500000301,Acute liver injury,memantine,10019754,Hepatitis cholestatic,6719,,,False.
+911,500000801,Acute myocardial infarction,dipyridamole,10002383,Angina pectoris,3521,,,True
+912,500000301,Acute liver injury,dipyridamole,10008629,Cholelithiasis,3521,,,False.
+913,500000301,Acute liver injury,dipyridamole,10019717,Hepatitis,3521,,,True
+914,500000301,Acute liver injury,pyrazinamide,10019851,Hepatotoxicity,8987,,,True
+915,500000301,Acute liver injury,ivermectin,10019717,Hepatitis,6069,,,False.
+916,500000301,Acute liver injury,entecavir,10019660,Hepatic encephalopathy,306266,,,False.
+917,500000301,Acute liver injury,entecavir,10019663,Hepatic failure,306266,,,True
+918,500000301,Acute liver injury,entecavir,10019842,Hepatomegaly,306266,,,False.
+919,500000401,Acute kidney injury,entecavir,10019846,Hepatorenal syndrome,306266,1711246.0,0.0,False.
+920,500000301,Acute liver injury,entecavir,10019846,Hepatorenal syndrome,306266,,,False.
+921,500000301,Acute liver injury,entecavir,10073071,Hepatocellular carcinoma,306266,,,False.
+922,500000401,Acute kidney injury,diclofenac,10019846,Hepatorenal syndrome,3355,,,False.
+923,500000301,Acute liver injury,diclofenac,10019846,Hepatorenal syndrome,3355,,,False.
+924,500000301,Acute liver injury,griseofulvin,10019717,Hepatitis,5021,,,True
+925,500000301,Acute liver injury,fenoprofen,10019851,Hepatotoxicity,4331,,,True
+926,500000301,Acute liver injury,itraconazole,10000804,Acute hepatic failure,28031,,,False.
+927,500000301,Acute liver injury,itraconazole,10019663,Hepatic failure,28031,,,True
+928,500000301,Acute liver injury,itraconazole,10019717,Hepatitis,28031,,,True
+929,500000301,Acute liver injury,itraconazole,10019851,Hepatotoxicity,28031,,,True
+930,500000301,Acute liver injury,itraconazole,10023126,Jaundice,28031,,,True
+931,500000301,Acute liver injury,naproxen,10019851,Hepatotoxicity,7258,,,True
+932,500000301,Acute liver injury,indomethacin,10019851,Hepatotoxicity,5781,,,True
+933,500000801,Acute myocardial infarction,selegiline,10002383,Angina pectoris,9639,,,False.
+934,500000301,Acute liver injury,meloxicam,10019851,Hepatotoxicity,41493,,,True
+935,500000301,Acute liver injury,rivastigmine,10019717,Hepatitis,183379,,,False.
+936,500000301,Acute liver injury,ticlopidine,10019663,Hepatic failure,10594,,,True
+937,500000301,Acute liver injury,ticlopidine,10019692,Hepatic necrosis,10594,,,True
+938,500000301,Acute liver injury,ticlopidine,10019717,Hepatitis,10594,,,True
+939,500000301,Acute liver injury,ticlopidine,10023126,Jaundice,10594,,,True
+940,500000801,Acute myocardial infarction,tiagabine,10002383,Angina pectoris,31914,,,False.
+941,500000301,Acute liver injury,tiagabine,10008612,Cholecystitis,31914,,,False.
+942,500000301,Acute liver injury,tiagabine,10008629,Cholelithiasis,31914,,,False.
+943,500000301,Acute liver injury,tiagabine,10019842,Hepatomegaly,31914,,,False.
+944,500000801,Acute myocardial infarction,acamprosate,10002383,Angina pectoris,82819,,,False.
+945,500000301,Acute liver injury,acamprosate,10008612,Cholecystitis,82819,,,False.
+946,500001001,GI bleed,acamprosate,10018830,Haematemesis,82819,,,False.
+947,500000301,Acute liver injury,acamprosate,10019641,Hepatic cirrhosis,82819,,,False.
+948,500000301,Acute liver injury,acamprosate,10019717,Hepatitis,82819,,,False.
+949,500000301,Acute liver injury,acamprosate,10073069,Hepatic cancer,82819,,,False.
+950,500000301,Acute liver injury,meropenem,10019663,Hepatic failure,29561,,,False.
+951,500000301,Acute liver injury,meropenem,10023126,Jaundice,29561,,,False.
+952,500000301,Acute liver injury,paclitaxel,10019660,Hepatic encephalopathy,56946,,,False.
+953,500000301,Acute liver injury,paclitaxel,10019692,Hepatic necrosis,56946,,,False.
+954,500000301,Acute liver injury,diclofenac,10019851,Hepatotoxicity,3355,,,True
+955,500000301,Acute liver injury,procainamide,10019663,Hepatic failure,8700,,,True
+956,500000801,Acute myocardial infarction,dofetilide,10002383,Angina pectoris,49247,,,False.
+957,500000301,Acute liver injury,dofetilide,10067125,Liver injury,49247,,,True.
+958,500000301,Acute liver injury,methylprednisolone,10019717,Hepatitis,6902,,,True
+959,500000301,Acute liver injury,methylprednisolone,10072268,Drug-induced liver injury,6902,,,True
+960,500000301,Acute liver injury,iloperidone,10008629,Cholelithiasis,73178,,,False.
+961,500000801,Acute myocardial infarction,argatroban,10002383,Angina pectoris,15202,,,False.
+962,500001001,GI bleed,argatroban,10018830,Haematemesis,15202,,,True
+963,500000301,Acute liver injury,oxaliplatin,10019851,Hepatotoxicity,32592,,,False.
+964,500000301,Acute liver injury,oxaliplatin,10047216,Venoocclusive liver disease,32592,,,False.
+965,500000301,Acute liver injury,celecoxib,10019692,Hepatic necrosis,140587,1118084.0,1.0,True
+966,500000301,Acute liver injury,celecoxib,10019851,Hepatotoxicity,140587,1118084.0,1.0,True
+967,500000301,Acute liver injury,zolpidem,10023126,Jaundice,39993,,,False.
+968,500000301,Acute liver injury,oxaprozin,10019851,Hepatotoxicity,32613,1118045.0,1.0,True.
+969,500000301,Acute liver injury,flucytosine,10019692,Hepatic necrosis,4451,,,False.
+970,500000301,Acute liver injury,flucytosine,10023126,Jaundice,4451,,,True
+971,500000301,Acute liver injury,triamterene,10023126,Jaundice,10763,,,True
+972,500001001,GI bleed,mitomycin,10018830,Haematemesis,632,,,True
+973,500000301,Acute liver injury,albendazole,10000804,Acute hepatic failure,430,,,False.
+974,500000301,Acute liver injury,albendazole,10019717,Hepatitis,430,,,True
+975,500000301,Acute liver injury,abacavir,10019663,Hepatic failure,190521,1736971.0,1.0,False.
+976,500000301,Acute liver injury,thioridazine,10019851,Hepatotoxicity,10502,,,True
+977,500000301,Acute liver injury,thioridazine,10023126,Jaundice,10502,,,True
+978,500000301,Acute liver injury,pentobarbital,10067125,Liver injury,8004,,,True
+979,500000301,Acute liver injury,ceftriaxone,10019717,Hepatitis,2193,,,True
+980,500000801,Acute myocardial infarction,methylergonovine,10002383,Angina pectoris,6883,,,True
+981,500000301,Acute liver injury,oxacillin,10019851,Hepatotoxicity,7773,,,True
+982,500000301,Acute liver injury,metolazone,10019717,Hepatitis,6916,,,True
+983,500000301,Acute liver injury,terbinafine,10019717,Hepatitis,37801,1741309.0,1.0,True
+984,500000301,Acute liver injury,ketoconazole,10019692,Hepatic necrosis,6135,,,True
+985,500000801,Acute myocardial infarction,ifosfamide,10002383,Angina pectoris,5657,,,False.
+986,500000301,Acute liver injury,ifosfamide,10019663,Hepatic failure,5657,,,True
+987,500000301,Acute liver injury,ifosfamide,10019717,Hepatitis,5657,,,True
+988,500000301,Acute liver injury,ifosfamide,10019772,Hepatitis fulminant,5657,,,False.
+989,500000301,Acute liver injury,ifosfamide,10019799,Hepatitis viral,5657,,,True
+990,500000401,Acute kidney injury,ifosfamide,10019846,Hepatorenal syndrome,5657,,,False.
+991,500000301,Acute liver injury,ifosfamide,10019846,Hepatorenal syndrome,5657,,,False.
+992,500000301,Acute liver injury,ifosfamide,10019851,Hepatotoxicity,5657,,,True
+993,500000301,Acute liver injury,ifosfamide,10023126,Jaundice,5657,,,True
+994,500000301,Acute liver injury,ifosfamide,10036206,Portal vein thrombosis,5657,,,False.
+995,500000301,Acute liver injury,temsirolimus,10008612,Cholecystitis,657797,,,True
+996,500000301,Acute liver injury,temsirolimus,10008629,Cholelithiasis,657797,,,True
+997,500000301,Acute liver injury,buprenorphine,10019717,Hepatitis,1819,,,True.
+998,500000301,Acute liver injury,entacapone,10019717,Hepatitis,60307,,,True
+999,500000301,Acute liver injury,atovaquone,10019663,Hepatic failure,60212,,,False.
+1000,500000301,Acute liver injury,atovaquone,10019717,Hepatitis,60212,,,False.
+1001,500000301,Acute liver injury,atovaquone,10019851,Hepatotoxicity,60212,,,False.
+1002,500000301,Acute liver injury,fludarabine,10008629,Cholelithiasis,24698,,,False.
+1003,500000301,Acute liver injury,fludarabine,10019663,Hepatic failure,24698,,,True
+1004,500000301,Acute liver injury,riluzole,10019717,Hepatitis,35623,,,True
+1005,500000301,Acute liver injury,riluzole,10019719,Hepatitis A,35623,,,False.
+1006,500000301,Acute liver injury,chloroquine,10019717,Hepatitis,2393,,,True
+1007,500000301,Acute liver injury,flutamide,10019660,Hepatic encephalopathy,4508,,,True
+1008,500000301,Acute liver injury,flutamide,10019692,Hepatic necrosis,4508,,,True
+1009,500000301,Acute liver injury,flutamide,10019717,Hepatitis,4508,,,True
+1010,500000301,Acute liver injury,flutamide,10023126,Jaundice,4508,,,True
+1011,500000801,Acute myocardial infarction,diltiazem,10002383,Angina pectoris,3443,,,True
+1012,500000301,Acute liver injury,leflunomide,10019851,Hepatotoxicity,27169,,,True
+1013,500000301,Acute liver injury,azacitidine,10008612,Cholecystitis,1251,,,False.
+1014,500000301,Acute liver injury,azacitidine,10019851,Hepatotoxicity,1251,,,True
+1015,500000301,Acute liver injury,labetalol,10023126,Jaundice,6185,,,True
+1016,500000301,Acute liver injury,nimodipine,10019717,Hepatitis,7426,,,False.
+1017,500000301,Acute liver injury,nimodipine,10023126,Jaundice,7426,,,False.
+1018,500000301,Acute liver injury,voriconazole,10008612,Cholecystitis,121243,1714277.0,1.0,False.
+1019,500000301,Acute liver injury,voriconazole,10008629,Cholelithiasis,121243,1714277.0,1.0,False.
+1020,500001001,GI bleed,voriconazole,10018830,Haematemesis,121243,,,True
+1021,500000301,Acute liver injury,voriconazole,10019663,Hepatic failure,121243,1714277.0,1.0,True
+1022,500000301,Acute liver injury,voriconazole,10019717,Hepatitis,121243,1714277.0,1.0,True
+1023,500000301,Acute liver injury,voriconazole,10023126,Jaundice,121243,1714277.0,1.0,True
+1024,500000301,Acute liver injury,erlotinib,10019851,Hepatotoxicity,337525,,,True
+1025,500000801,Acute myocardial infarction,levothyroxine,10002383,Angina pectoris,10582,,,False.
+1026,500000301,Acute liver injury,stavudine,10019719,Hepatitis A,59763,,,False.
+1027,500000801,Acute myocardial infarction,toremifene,10002383,Angina pectoris,38409,,,False.
+1028,500000301,Acute liver injury,toremifene,10019851,Hepatotoxicity,38409,,,True
+1029,500000301,Acute liver injury,toremifene,10023126,Jaundice,38409,,,True
+1030,500000301,Acute liver injury,ritonavir,10019717,Hepatitis,85762,,,True
+1031,500000301,Acute liver injury,ritonavir,10019851,Hepatotoxicity,85762,,,True
+1032,500000301,Acute liver injury,ritonavir,10023126,Jaundice,85762,,,True
+1033,500000301,Acute liver injury,dolutegravir,10000804,Acute hepatic failure,1433868,,,False.
+1034,500000301,Acute liver injury,dolutegravir,10019717,Hepatitis,1433868,,,False.
+1035,500000301,Acute liver injury,dolutegravir,10019851,Hepatotoxicity,1433868,,,False.
+1036,500000301,Acute liver injury,imatinib,10000804,Acute hepatic failure,282388,1304107.0,1.0,False.
+1037,500000801,Acute myocardial infarction,imatinib,10002383,Angina pectoris,282388,,,False.
+1038,500001001,GI bleed,imatinib,10018830,Haematemesis,282388,,,True
+1039,500000301,Acute liver injury,imatinib,10019663,Hepatic failure,282388,1304107.0,1.0,True
+1040,500000301,Acute liver injury,imatinib,10019692,Hepatic necrosis,282388,1304107.0,1.0,False.
+1041,500000301,Acute liver injury,imatinib,10019717,Hepatitis,282388,1304107.0,1.0,True
+1042,500000301,Acute liver injury,imatinib,10019851,Hepatotoxicity,282388,1304107.0,1.0,True
+1043,500000301,Acute liver injury,imatinib,10023126,Jaundice,282388,1304107.0,1.0,True
+1044,500000301,Acute liver injury,acetazolamide,10023126,Jaundice,167,,,True
+1045,500000301,Acute liver injury,abiraterone,10000804,Acute hepatic failure,1100072,,,False.
+1046,500000801,Acute myocardial infarction,abiraterone,10002383,Angina pectoris,1100072,,,False.
+1047,500000801,Acute myocardial infarction,abiraterone,10002388,Angina unstable,1100072,,,False.
+1048,500000301,Acute liver injury,abiraterone,10019717,Hepatitis,1100072,,,True
+1049,500000301,Acute liver injury,abiraterone,10019851,Hepatotoxicity,1100072,,,True.
+1050,500000301,Acute liver injury,soybean oil,10019842,Hepatomegaly,9949,,,False.
+1051,500000301,Acute liver injury,soybean oil,10023126,Jaundice,9949,,,False.
+1052,500000801,Acute myocardial infarction,irinotecan,10002383,Angina pectoris,51499,,,False.
+1053,500000301,Acute liver injury,irinotecan,10019842,Hepatomegaly,51499,,,False.
+1054,500000301,Acute liver injury,irinotecan,10023126,Jaundice,51499,,,True
+1055,500000301,Acute liver injury,larotrectinib,10019851,Hepatotoxicity,2105628,,,True
+1056,500000301,Acute liver injury,larotrectinib,10023126,Jaundice,2105628,,,True
+1057,500000301,Acute liver injury,quetiapine,10019663,Hepatic failure,51272,,,True
+1058,500000301,Acute liver injury,quetiapine,10019692,Hepatic necrosis,51272,,,False.
+1059,500000301,Acute liver injury,quetiapine,10019717,Hepatitis,51272,,,True
+1060,500000301,Acute liver injury,levothyroxine,10019719,Hepatitis A,10582,,,False.
+1061,500001001,GI bleed,aldesleukin,10018830,Haematemesis,70223,,,True
+1062,500000301,Acute liver injury,aldesleukin,10019717,Hepatitis,70223,,,True
+1063,500000301,Acute liver injury,aldesleukin,10019847,Hepatosplenomegaly,70223,,,True
+1064,500000301,Acute liver injury,tigecycline,10023126,Jaundice,384455,,,True
+1065,500000301,Acute liver injury,penicillamine,10019663,Hepatic failure,7975,,,True
+1066,500000301,Acute liver injury,penicillamine,10019717,Hepatitis,7975,,,True
+1067,500000801,Acute myocardial infarction,docetaxel,10002388,Angina unstable,72962,,,False.
+1068,500000301,Acute liver injury,docetaxel,10019717,Hepatitis,72962,,,True
+1069,500000301,Acute liver injury,docetaxel,10019851,Hepatotoxicity,72962,,,True
+1070,500000301,Acute liver injury,fluticasone,10008612,Cholecystitis,41126,1149380.0,0.0,False.
+1071,500000301,Acute liver injury,piroxicam,10019851,Hepatotoxicity,8356,,,True
+1072,500001001,GI bleed,carboprost,10018830,Haematemesis,2051,,,True
+1073,500000301,Acute liver injury,tiopronin,10023126,Jaundice,6765,,,True.
+1074,500000301,Acute liver injury,praziquantel,10019717,Hepatitis,8628,,,True
+1075,500000801,Acute myocardial infarction,phentermine,10002383,Angina pectoris,8152,,,False.
+1076,500000301,Acute liver injury,tolcapone,10000804,Acute hepatic failure,72937,715727.0,1.0,True
+1077,500000801,Acute myocardial infarction,tolcapone,10002383,Angina pectoris,72937,,,False.
+1078,500000301,Acute liver injury,tolcapone,10008612,Cholecystitis,72937,715727.0,1.0,False.
+1079,500000301,Acute liver injury,tolcapone,10008629,Cholelithiasis,72937,715727.0,1.0,False.
+1080,500000301,Acute liver injury,tolcapone,10019837,Hepatocellular injury,72937,715727.0,1.0,True
+1081,500000301,Acute liver injury,bosentan,10019641,Hepatic cirrhosis,75207,1321636.0,1.0,True
+1082,500000301,Acute liver injury,bosentan,10019663,Hepatic failure,75207,1321636.0,1.0,True
+1083,500000301,Acute liver injury,bosentan,10019851,Hepatotoxicity,75207,1321636.0,1.0,True
+1084,500000301,Acute liver injury,bosentan,10023126,Jaundice,75207,1321636.0,1.0,True
+1085,500000301,Acute liver injury,letrozole,10023126,Jaundice,72965,,,False.
+1086,500000301,Acute liver injury,chlorothiazide,10023126,Jaundice,2396,,,True
+1087,500000801,Acute myocardial infarction,doxercalciferol,10002383,Angina pectoris,11516,,,False.
+1088,500000301,Acute liver injury,etanercept,10003827,Autoimmune hepatitis,214555,,,True
+1089,500000301,Acute liver injury,etanercept,10058827,Hepatitis B reactivation,214555,,,True
+1090,500000301,Acute liver injury,ambrisentan,10019663,Hepatic failure,358274,,,True
+1091,500000301,Acute liver injury,ambrisentan,10019717,Hepatitis,358274,,,True.
+1092,500000301,Acute liver injury,ambrisentan,10019851,Hepatotoxicity,358274,,,False.
+1093,500000301,Acute liver injury,ambrisentan,10067125,Liver injury,358274,,,True
+1094,500000301,Acute liver injury,daptomycin,10008604,Cholangitis,22299,,,False.
+1095,500000301,Acute liver injury,daptomycin,10023126,Jaundice,22299,,,True
+1096,500000301,Acute liver injury,gentamicin,10019842,Hepatomegaly,1596450,,,False.
+1097,500001001,GI bleed,methotrexate,10018830,Haematemesis,6851,,,True
+1098,500000301,Acute liver injury,methotrexate,10019663,Hepatic failure,6851,,,True
+1099,500000301,Acute liver injury,methotrexate,10019851,Hepatotoxicity,6851,,,True
+1100,500000801,Acute myocardial infarction,bortezomib,10002383,Angina pectoris,358258,,,False.
+1101,500001001,GI bleed,bortezomib,10018830,Haematemesis,358258,,,False.
+1102,500000301,Acute liver injury,bortezomib,10019663,Hepatic failure,358258,1336825.0,1.0,False.
+1103,500000301,Acute liver injury,bortezomib,10019677,Hepatic haemorrhage,358258,1336825.0,1.0,False.
+1104,500000301,Acute liver injury,bortezomib,10019717,Hepatitis,358258,1336825.0,1.0,True
+1105,500000301,Acute liver injury,bortezomib,10036206,Portal vein thrombosis,358258,1336825.0,1.0,False.
+1106,500000301,Acute liver injury,minocycline,10019837,Hepatocellular injury,6980,,,True
+1107,500000301,Acute liver injury,rivaroxaban,10019717,Hepatitis,1114195,,,False.
+1108,500000301,Acute liver injury,rivaroxaban,10019837,Hepatocellular injury,1114195,,,False.
+1109,500000301,Acute liver injury,rivaroxaban,10023126,Jaundice,1114195,,,False.
+1110,500000301,Acute liver injury,cyclosporine,10019663,Hepatic failure,3008,,,True
+1111,500000301,Acute liver injury,cyclosporine,10019717,Hepatitis,3008,,,True
+1112,500000301,Acute liver injury,cyclosporine,10023126,Jaundice,3008,,,True
+1113,500000301,Acute liver injury,cyclosporine,10067125,Liver injury,3008,,,True
+1114,500000301,Acute liver injury,nitisinone,10019663,Hepatic failure,61805,,,True
+1115,500000301,Acute liver injury,nitisinone,10019842,Hepatomegaly,61805,,,True
+1116,500000301,Acute liver injury,nitisinone,10073069,Hepatic cancer,61805,,,False.
+1117,500000301,Acute liver injury,febuxostat,10019663,Hepatic failure,73689,,,True.
+1118,500000301,Acute liver injury,febuxostat,10023126,Jaundice,73689,,,True.
+1119,500000301,Acute liver injury,febuxostat,10024670,Liver disorder,73689,,,True
+1120,500000301,Acute liver injury,amiodarone,10023126,Jaundice,703,,,True
+1121,500000801,Acute myocardial infarction,latanoprost,10002388,Angina unstable,43611,,,False.
+1122,500000301,Acute liver injury,decitabine,10008612,Cholecystitis,15657,,,False.
+1123,500000301,Acute liver injury,cefixime,10019717,Hepatitis,25033,,,True
+1124,500000301,Acute liver injury,cefixime,10023126,Jaundice,25033,,,True
+1125,500000301,Acute liver injury,entecavir,10019717,Hepatitis,306266,,,True.
+1126,500000801,Acute myocardial infarction,flurbiprofen,10002383,Angina pectoris,4502,,,False.
+1127,500000301,Acute liver injury,flurbiprofen,10019717,Hepatitis,4502,,,True
+1128,500000301,Acute liver injury,flurbiprofen,10019851,Hepatotoxicity,4502,,,True.
+1129,500001001,GI bleed,eptifibatide,10018830,Haematemesis,75635,,,False.
+1130,500000301,Acute liver injury,floxuridine,10008612,Cholecystitis,4488,,,True
+1131,500000301,Acute liver injury,floxuridine,10019692,Hepatic necrosis,4488,,,True
+1132,500000801,Acute myocardial infarction,vinblastine,10002383,Angina pectoris,11198,,,False.
+1133,500000301,Acute liver injury,mitoxantrone,10019717,Hepatitis,7005,,,True
+1134,500000301,Acute liver injury,mitoxantrone,10023126,Jaundice,7005,,,True
+1135,500000801,Acute myocardial infarction,desmopressin,10000891,Acute myocardial infarction,3251,,,False.
+1136,500000301,Acute liver injury,pentamidine,10019717,Hepatitis,7994,,,True
+1137,500000301,Acute liver injury,pentamidine,10019842,Hepatomegaly,7994,,,True
+1138,500001001,GI bleed,aminophylline,10018830,Haematemesis,689,,,True
+1139,500000801,Acute myocardial infarction,dopamine,10002383,Angina pectoris,3628,,,False.
+1140,500000301,Acute liver injury,deferiprone,10019719,Hepatitis A,11645,,,False.
+1141,500000301,Acute liver injury,deferiprone,10019842,Hepatomegaly,11645,,,True
+1142,500000301,Acute liver injury,deferiprone,10023126,Jaundice,11645,,,True
+1143,500000301,Acute liver injury,thiotepa,10019842,Hepatomegaly,10473,,,True
+1144,500000301,Acute liver injury,isoflurane,10019663,Hepatic failure,6026,,,False.
+1145,500000301,Acute liver injury,isoflurane,10019692,Hepatic necrosis,6026,,,False.
+1146,500000301,Acute liver injury,isoflurane,10019717,Hepatitis,6026,,,False.
+1147,500000301,Acute liver injury,ropivacaine,10023126,Jaundice,35780,,,True
+1148,500000301,Acute liver injury,ropivacaine,10023138,Jaundice neonatal,35780,,,False.
+1149,500000301,Acute liver injury,octreotide,10008604,Cholangitis,7617,,,True
+1150,500000301,Acute liver injury,octreotide,10008614,Cholecystitis acute,7617,,,True
+1151,500000301,Acute liver injury,octreotide,10017626,Gallbladder disorder,7617,,,True
+1152,500000301,Acute liver injury,octreotide,10019754,Hepatitis cholestatic,7617,,,True
+1153,500000301,Acute liver injury,tegaserod,10004637,Bile duct stone,139778,,,False.
+1154,500000301,Acute liver injury,tegaserod,10008612,Cholecystitis,139778,,,False.
+1155,500000301,Acute liver injury,tegaserod,10019717,Hepatitis,139778,,,False.
+1156,500000801,Acute myocardial infarction,bexarotene,10002383,Angina pectoris,233272,,,False.
+1157,500000301,Acute liver injury,bexarotene,10019663,Hepatic failure,233272,,,True
+1158,500000301,Acute liver injury,bexarotene,10019851,Hepatotoxicity,233272,,,True
+1159,500000301,Acute liver injury,cefoxitin,10023126,Jaundice,2189,,,True
+1160,500000301,Acute liver injury,teriflunomide,10019851,Hepatotoxicity,1310520,,,True
+1161,500000801,Acute myocardial infarction,dexmethylphenidate,10002383,Angina pectoris,352372,,,False.
+1162,500000301,Acute liver injury,cytarabine,10023126,Jaundice,3041,,,True
+1163,500000301,Acute liver injury,cytarabine,10024652,Liver abscess,3041,,,False.
+1164,500000301,Acute liver injury,cytarabine,10067125,Liver injury,3041,,,True
+1165,500000301,Acute liver injury,clofarabine,10019851,Hepatotoxicity,44151,,,True
+1166,500000301,Acute liver injury,clofarabine,10023126,Jaundice,44151,,,True
+1167,500000301,Acute liver injury,protriptyline,10023126,Jaundice,8886,,,True
+1168,500000301,Acute liver injury,zileuton,10019851,Hepatotoxicity,40575,,,True
+1169,500000301,Acute liver injury,zileuton,10023126,Jaundice,40575,,,True
+1170,500000301,Acute liver injury,zileuton,10067125,Liver injury,40575,,,True
+1171,500000301,Acute liver injury,methylphenidate,10000804,Acute hepatic failure,6901,,,False.
+1172,500000301,Acute liver injury,methylphenidate,10019837,Hepatocellular injury,6901,,,True
+1173,500000301,Acute liver injury,toremifene,10019717,Hepatitis,38409,,,True
+1174,500000301,Acute liver injury,semaglutide,10008629,Cholelithiasis,1991302,,,True
+1175,500001001,GI bleed,inotuzumab ozogamicin,10018830,Haematemesis,1942950,,,True
+1176,500000301,Acute liver injury,inotuzumab ozogamicin,10019837,Hepatocellular injury,1942950,,,True
+1177,500000301,Acute liver injury,inotuzumab ozogamicin,10019851,Hepatotoxicity,1942950,,,True
+1178,500000301,Acute liver injury,trabectedin,10019851,Hepatotoxicity,1716278,,,True
+1179,500000301,Acute liver injury,deferasirox,10008629,Cholelithiasis,614373,,,True
+1180,500000301,Acute liver injury,deferasirox,10019663,Hepatic failure,614373,,,True.
+1181,500000301,Acute liver injury,deferasirox,10019717,Hepatitis,614373,,,True.
+1182,500000301,Acute liver injury,deferasirox,10067125,Liver injury,614373,,,True
+1183,500000301,Acute liver injury,deferasirox,10072268,Drug-induced liver injury,614373,,,True
+1184,500000301,Acute liver injury,ceftazidime,10023126,Jaundice,2191,,,True
+1185,500000301,Acute liver injury,rifampin,10019851,Hepatotoxicity,9384,,,True
+1186,500000301,Acute liver injury,cyclophosphamide,10019660,Hepatic encephalopathy,3002,,,False.
+1187,500000301,Acute liver injury,cyclophosphamide,10019663,Hepatic failure,3002,,,True
+1188,500000301,Acute liver injury,cyclophosphamide,10019717,Hepatitis,3002,,,True
+1189,500000301,Acute liver injury,cyclophosphamide,10019754,Hepatitis cholestatic,3002,,,False.
+1190,500000301,Acute liver injury,cyclophosphamide,10019799,Hepatitis viral,3002,,,True
+1191,500000301,Acute liver injury,cyclophosphamide,10019842,Hepatomegaly,3002,,,False.
+1192,500000301,Acute liver injury,cyclophosphamide,10019851,Hepatotoxicity,3002,,,True
+1193,500000301,Acute liver injury,lusutrombopag,10036206,Portal vein thrombosis,2054984,,,True
+1194,500000301,Acute liver injury,nafcillin,10019663,Hepatic failure,7233,,,True
+1195,500000301,Acute liver injury,dactinomycin,10019663,Hepatic failure,3100,,,True
+1196,500000301,Acute liver injury,dactinomycin,10019717,Hepatitis,3100,,,True
+1197,500000301,Acute liver injury,dactinomycin,10019842,Hepatomegaly,3100,,,False.
+1198,500000301,Acute liver injury,dactinomycin,10019851,Hepatotoxicity,3100,,,True
+1199,500000801,Acute myocardial infarction,fluvoxamine,10002383,Angina pectoris,42355,,,False.
+1200,500000301,Acute liver injury,fluvoxamine,10008612,Cholecystitis,42355,,,False.
+1201,500000301,Acute liver injury,fluvoxamine,10008629,Cholelithiasis,42355,,,False.
+1202,500000301,Acute liver injury,fluvoxamine,10023126,Jaundice,42355,,,False.
+1203,500000301,Acute liver injury,eslicarbazepine,10067125,Liver injury,1482502,,,True.
+1204,500000301,Acute liver injury,micafungin,10019663,Hepatic failure,325887,,,True
+1205,500000301,Acute liver injury,micafungin,10019837,Hepatocellular injury,325887,,,True
+1206,500000301,Acute liver injury,micafungin,10019842,Hepatomegaly,325887,,,False.
+1207,500000301,Acute liver injury,micafungin,10023126,Jaundice,325887,,,True
+1208,500000301,Acute liver injury,haloperidol,10000804,Acute hepatic failure,5093,,,False.
+1209,500000301,Acute liver injury,haloperidol,10019717,Hepatitis,5093,,,True
+1210,500000301,Acute liver injury,rho(d) immune globulin,10023126,Jaundice,35465,,,True
+1211,500000301,Acute liver injury,methyltestosterone,10023126,Jaundice,6904,,,True
+1212,500000301,Acute liver injury,anakinra,10019717,Hepatitis,72435,,,True
+1213,500000301,Acute liver injury,anakinra,10019719,Hepatitis A,72435,,,False.
+1214,500000301,Acute liver injury,bremelanotide,10019851,Hepatotoxicity,2176312,,,False.
+1215,500000301,Acute liver injury,oxycodone,10019717,Hepatitis,7804,,,False.
+1216,500000301,Acute liver injury,nateglinide,10019717,Hepatitis,274332,,,True
+1217,500000301,Acute liver injury,epoprostenol,10019663,Hepatic failure,8814,,,True
+1218,500001001,GI bleed,apixaban,10018830,Haematemesis,1364430,,,True
+1219,500000801,Acute myocardial infarction,lurasidone,10002383,Angina pectoris,1040028,,,False.
+1220,500000301,Acute liver injury,fulvestrant,10019663,Hepatic failure,282357,,,True
+1221,500000301,Acute liver injury,fulvestrant,10019717,Hepatitis,282357,,,True
+1222,500000301,Acute liver injury,fulvestrant,10019851,Hepatotoxicity,282357,,,True
+1223,500000301,Acute liver injury,hydroxychloroquine,10019663,Hepatic failure,5521,,,True
+1224,500000301,Acute liver injury,fenofibrate,10019851,Hepatotoxicity,8703,,,True
+1225,500000301,Acute liver injury,trimipramine,10023126,Jaundice,10834,,,True
+1226,500000301,Acute liver injury,cefpodoxime,10067125,Liver injury,20489,,,True
+1227,500000301,Acute liver injury,buprenorphine,10008612,Cholecystitis,1819,,,False.
+1228,500000301,Acute liver injury,buprenorphine,10019851,Hepatotoxicity,1819,,,True
+1229,500000301,Acute liver injury,montelukast,10067125,Liver injury,88249,,,True
+1230,500000301,Acute liver injury,liraglutide,10008629,Cholelithiasis,475968,,,True
+1231,500000301,Acute liver injury,liraglutide,10019717,Hepatitis,475968,,,True
+1232,500001001,GI bleed,fentanyl,10018830,Haematemesis,4337,,,False.
+1233,500000801,Acute myocardial infarction,interferon gamma-1b,10002383,Angina pectoris,5882,,,False.
+1234,500000301,Acute liver injury,interferon gamma-1b,10019663,Hepatic failure,5882,,,True
+1235,500000301,Acute liver injury,interferon gamma-1b,10019842,Hepatomegaly,5882,,,False.
+1236,500001001,GI bleed,tirofiban,10018830,Haematemesis,73137,,,True.
+1237,500000801,Acute myocardial infarction,teriparatide,10002383,Angina pectoris,32915,,,False.
+1238,500000301,Acute liver injury,methadone,10008909,Chronic hepatitis,6813,,,True
+1239,500000301,Acute liver injury,paroxetine,10019663,Hepatic failure,32937,,,True
+1240,500000301,Acute liver injury,paroxetine,10067125,Liver injury,32937,,,True
+1241,500000301,Acute liver injury,paroxetine,10072268,Drug-induced liver injury,32937,,,True
+1242,500000301,Acute liver injury,arsenic trioxide,10019851,Hepatotoxicity,18330,,,True
+1243,500000301,Acute liver injury,tranylcypromine,10019851,Hepatotoxicity,10734,,,True
+1244,500000301,Acute liver injury,dimethyl fumarate,10067125,Liver injury,1373478,,,True
+1245,500000301,Acute liver injury,panobinostat,10019731,Hepatitis B,1603350,,,True.
+1246,500000301,Acute liver injury,panobinostat,10019851,Hepatotoxicity,1603350,,,True
+1247,500000301,Acute liver injury,sulfadiazine,10019717,Hepatitis,10171,,,True.
+1248,500000801,Acute myocardial infarction,fenoldopam,10002383,Angina pectoris,24853,,,False.
+1249,500000301,Acute liver injury,mercaptopurine,10019668,Hepatic fibrosis,103,,,True
+1250,500000301,Acute liver injury,hydrocortisone,10019842,Hepatomegaly,5492,,,False.
+1251,500000301,Acute liver injury,carmustine,10019851,Hepatotoxicity,2105,,,True
+1252,500000301,Acute liver injury,gemtuzumab ozogamicin,10019663,Hepatic failure,1294580,,,True
+1253,500000301,Acute liver injury,gemtuzumab ozogamicin,10019851,Hepatotoxicity,1294580,,,True
+1254,500000301,Acute liver injury,sunitinib,10008612,Cholecystitis,357977,,,True
+1255,500001001,GI bleed,sunitinib,10018830,Haematemesis,357977,,,True
+1256,500000301,Acute liver injury,sunitinib,10019851,Hepatotoxicity,357977,,,True
+1257,500000301,Acute liver injury,cobicistat,10023126,Jaundice,1306284,,,True.
+1258,500000301,Acute liver injury,caspofungin,10019663,Hepatic failure,140108,,,True
+1259,500000301,Acute liver injury,caspofungin,10019692,Hepatic necrosis,140108,,,False.
+1260,500000301,Acute liver injury,caspofungin,10019842,Hepatomegaly,140108,,,False.
+1261,500000301,Acute liver injury,caspofungin,10019851,Hepatotoxicity,140108,,,True
+1262,500000301,Acute liver injury,caspofungin,10023126,Jaundice,140108,,,False.
+1263,500000301,Acute liver injury,betamethasone,10019842,Hepatomegaly,1514,,,False.
+1264,500000301,Acute liver injury,rifapentine,10019717,Hepatitis,35617,,,True
+1265,500000301,Acute liver injury,rifapentine,10019842,Hepatomegaly,35617,,,False.
+1266,500000301,Acute liver injury,rifapentine,10019851,Hepatotoxicity,35617,,,True
+1267,500000301,Acute liver injury,rifapentine,10023126,Jaundice,35617,,,True
+1268,500000301,Acute liver injury,meclofenamate,10023126,Jaundice,588003,,,True
+1269,500000301,Acute liver injury,infliximab,10000804,Acute hepatic failure,191831,937368.0,1.0,True
+1270,500000301,Acute liver injury,infliximab,10003827,Autoimmune hepatitis,191831,937368.0,1.0,True
+1271,500000301,Acute liver injury,infliximab,10019717,Hepatitis,191831,937368.0,1.0,True
+1272,500000301,Acute liver injury,infliximab,10019851,Hepatotoxicity,191831,937368.0,1.0,True
+1273,500000301,Acute liver injury,infliximab,10023126,Jaundice,191831,937368.0,1.0,True
+1274,500000301,Acute liver injury,infliximab,10067125,Liver injury,191831,937368.0,1.0,True
+1275,500000801,Acute myocardial infarction,pentostatin,10002383,Angina pectoris,8011,,,False.
+1276,500000301,Acute liver injury,levamlodipine,10023126,Jaundice,2376944,,,False.
+1277,500000801,Acute myocardial infarction,estradiol,10002388,Angina unstable,4083,,,False.
+1278,500000301,Acute liver injury,estradiol,10036206,Portal vein thrombosis,4083,,,False.
+1279,500000301,Acute liver injury,hydroxyurea,10019717,Hepatitis,5552,,,True
+1280,500000301,Acute liver injury,cefiderocol,10008612,Cholecystitis,2265702,,,False.
+1281,500000301,Acute liver injury,cefiderocol,10008629,Cholelithiasis,2265702,,,False.
+1282,500000301,Acute liver injury,rituximab,10019731,Hepatitis B,121191,,,True
+1283,500000301,Acute liver injury,rituximab,10058827,Hepatitis B reactivation,121191,,,True
+1284,500000301,Acute liver injury,hydroxychloroquine,10000804,Acute hepatic failure,5521,,,False.
+1285,500000301,Acute liver injury,efavirenz,10019851,Hepatotoxicity,195085,1738135.0,1.0,True
+1286,500000301,Acute liver injury,metronidazole,10000804,Acute hepatic failure,6922,,,False.
+1287,500000301,Acute liver injury,metronidazole,10019663,Hepatic failure,6922,,,True.
+1288,500000301,Acute liver injury,metronidazole,10019851,Hepatotoxicity,6922,,,True
+1289,500000301,Acute liver injury,metronidazole,10023126,Jaundice,6922,,,True
+1290,500001001,GI bleed,mycophenolate mofetil,10018830,Haematemesis,68149,,,True
+1291,500000301,Acute liver injury,mycophenolate mofetil,10019731,Hepatitis B,68149,,,False.
+1292,500000301,Acute liver injury,mycophenolate mofetil,10019744,Hepatitis C,68149,,,False.
+1293,500000301,Acute liver injury,tinidazole,10000804,Acute hepatic failure,10612,,,False.
+1294,500000301,Acute liver injury,tinidazole,10019663,Hepatic failure,10612,,,True
+1295,500000301,Acute liver injury,tinidazole,10019851,Hepatotoxicity,10612,,,True
+1296,500000301,Acute liver injury,duvelisib,10019837,Hepatocellular injury,2058509,,,True
+1297,500000301,Acute liver injury,duvelisib,10019851,Hepatotoxicity,2058509,,,True
+1298,500000801,Acute myocardial infarction,acitretin,10000891,Acute myocardial infarction,16818,,,False.
+1299,500000301,Acute liver injury,acitretin,10023126,Jaundice,16818,,,True
+1300,500000301,Acute liver injury,chlorpromazine,10019717,Hepatitis,2403,,,True
+1301,500000301,Acute liver injury,sirolimus,10019692,Hepatic necrosis,35302,,,False.
+1302,500000301,Acute liver injury,sirolimus,10019851,Hepatotoxicity,35302,,,True
+1303,500000301,Acute liver injury,amphotericin b,10000804,Acute hepatic failure,732,,,False.
+1304,500000301,Acute liver injury,amphotericin b,10019717,Hepatitis,732,,,True
+1305,500000301,Acute liver injury,amphotericin b,10023126,Jaundice,732,,,True
+1306,500000301,Acute liver injury,aztreonam,10019717,Hepatitis,1272,,,True
+1307,500000301,Acute liver injury,aztreonam,10023126,Jaundice,1272,,,True
+1308,500000301,Acute liver injury,fosfomycin,10019692,Hepatic necrosis,4550,,,False.
+1309,500001001,GI bleed,amphotericin b,10018830,Haematemesis,732,,,True
+1310,500000301,Acute liver injury,amphotericin b,10019837,Hepatocellular injury,732,,,False.
+1311,500000301,Acute liver injury,amphotericin b,10019842,Hepatomegaly,732,,,False.
+1312,500000301,Acute liver injury,ofloxacin,10019663,Hepatic failure,7623,,,True
+1313,500000301,Acute liver injury,ofloxacin,10019692,Hepatic necrosis,7623,,,False
+1314,500000301,Acute liver injury,ofloxacin,10019717,Hepatitis,7623,,,True
+1315,500000301,Acute liver injury,ofloxacin,10023126,Jaundice,7623,,,True
+1316,500000301,Acute liver injury,prednisolone,10019842,Hepatomegaly,8638,,,False.
+1317,500000301,Acute liver injury,allopurinol,10019663,Hepatic failure,519,,,True
+1318,500000301,Acute liver injury,tretinoin,10019717,Hepatitis,10753,,,False.
+1319,500000301,Acute liver injury,tretinoin,10019847,Hepatosplenomegaly,10753,,,True.
+1320,500000301,Acute liver injury,metformin,10019717,Hepatitis,6809,,,False.
+1321,500000801,Acute myocardial infarction,aripiprazole lauroxil,10002383,Angina pectoris,1673265,,,False.
+1322,500000301,Acute liver injury,aripiprazole lauroxil,10019717,Hepatitis,1673265,,,True
+1323,500000301,Acute liver injury,aripiprazole lauroxil,10023126,Jaundice,1673265,,,False.
+1324,500001001,GI bleed,mefenamate,10018830,Haematemesis,257844,,,True.
+1325,500000301,Acute liver injury,mefenamate,10019663,Hepatic failure,257844,,,False.
+1326,500000301,Acute liver injury,mefenamate,10019717,Hepatitis,257844,,,False.
+1327,500000301,Acute liver injury,mefenamate,10019851,Hepatotoxicity,257844,,,False.
+1328,500000301,Acute liver injury,mefenamate,10023126,Jaundice,257844,,,False.
+1329,500000301,Acute liver injury,peginterferon alfa-2a,10008604,Cholangitis,120608,,,False.
+1330,500000301,Acute liver injury,peginterferon alfa-2a,10019663,Hepatic failure,120608,,,True
+1331,500000301,Acute liver injury,peginterferon alfa-2a,10019708,Hepatic steatosis,120608,,,True
+1332,500000301,Acute liver injury,idelalisib,10019851,Hepatotoxicity,1544460,,,True
+1333,500000301,Acute liver injury,everolimus,10008612,Cholecystitis,141704,,,True
+1334,500000301,Acute liver injury,everolimus,10008629,Cholelithiasis,141704,,,True
+1335,500000301,Acute liver injury,allopurinol,10019851,Hepatotoxicity,519,,,True.
+1336,500000801,Acute myocardial infarction,sodium ferric gluconate complex,10002383,Angina pectoris,261435,,,False.
+1337,500000301,Acute liver injury,danazol,10019663,Hepatic failure,3102,,,True
+1338,500000301,Acute liver injury,danazol,10019837,Hepatocellular injury,3102,,,True
+1339,500000301,Acute liver injury,ertapenem,10008629,Cholelithiasis,325642,,,False.
+1340,500000301,Acute liver injury,ertapenem,10023126,Jaundice,325642,,,True
+1341,500000301,Acute liver injury,ketamine,10067125,Liver injury,6130,,,True
+1342,500000301,Acute liver injury,ketamine,10072268,Drug-induced liver injury,6130,,,False
+1343,500000801,Acute myocardial infarction,everolimus,10002383,Angina pectoris,141704,,,True
+1344,500000301,Acute liver injury,everolimus,10008604,Cholangitis,141704,,,True
+1345,500000301,Acute liver injury,everolimus,10009208,Cirrhosis alcoholic,141704,,,False.
+1346,500001001,GI bleed,everolimus,10018830,Haematemesis,141704,,,True.
+1347,500000301,Acute liver injury,everolimus,10019717,Hepatitis,141704,,,True
+1348,500000301,Acute liver injury,everolimus,10019744,Hepatitis C,141704,,,False.
+1349,500000301,Acute liver injury,everolimus,10051341,Bile duct stenosis,141704,,,True
+1350,500000301,Acute liver injury,everolimus,10073069,Hepatic cancer,141704,,,False.
+1351,500000301,Acute liver injury,everolimus,10073071,Hepatocellular carcinoma,141704,,,False.
+1352,500000301,Acute liver injury,leuprolide,10072268,Drug-induced liver injury,42375,,,False.
+1353,500000801,Acute myocardial infarction,glatiramer,10002383,Angina pectoris,214582,,,False.
+1354,500000301,Acute liver injury,glatiramer,10008612,Cholecystitis,214582,,,False.
+1355,500000301,Acute liver injury,glatiramer,10008629,Cholelithiasis,214582,,,False.
+1356,500001001,GI bleed,glatiramer,10018830,Haematemesis,214582,,,False.
+1357,500000301,Acute liver injury,glatiramer,10019717,Hepatitis,214582,,,False.
+1358,500000301,Acute liver injury,glatiramer,10019842,Hepatomegaly,214582,,,False.
+1359,500000301,Acute liver injury,octreotide,10008612,Cholecystitis,7617,,,True
+1360,500000801,Acute myocardial infarction,lomitapide,10002383,Angina pectoris,1364479,,,True.
+1361,500000301,Acute liver injury,lomitapide,10019708,Hepatic steatosis,1364479,,,True
+1362,500000301,Acute liver injury,lomitapide,10019851,Hepatotoxicity,1364479,,,True
+1363,500000801,Acute myocardial infarction,bortezomib,10052895,Coronary artery insufficiency,358258,,,False.
+1364,500000301,Acute liver injury,semaglutide,10008612,Cholecystitis,1991302,,,True
+1365,500000301,Acute liver injury,ketorolac,10019851,Hepatotoxicity,35827,,,True
+1366,500000301,Acute liver injury,neratinib,10019851,Hepatotoxicity,1940643,,,True
+1367,500000801,Acute myocardial infarction,ivosidenib,10002383,Angina pectoris,2049873,,,False.
+1368,500000301,Acute liver injury,sorafenib,10008604,Cholangitis,495881,,,False.
+1369,500000301,Acute liver injury,sorafenib,10008612,Cholecystitis,495881,,,True
+1370,500000301,Acute liver injury,sorafenib,10019663,Hepatic failure,495881,,,True
+1371,500000301,Acute liver injury,sorafenib,10023126,Jaundice,495881,,,True
+1372,500000301,Acute liver injury,sorafenib,10067125,Liver injury,495881,,,True
+1373,500000301,Acute liver injury,sorafenib,10072268,Drug-induced liver injury,495881,,,True
+1374,500000801,Acute myocardial infarction,bevacizumab,10002388,Angina unstable,253337,,,True
+1375,500000301,Acute liver injury,bendamustine,10019851,Hepatotoxicity,134547,,,True
+1376,500000301,Acute liver injury,alectinib,10019851,Hepatotoxicity,1727455,,,True
+1377,500000301,Acute liver injury,alectinib,10072268,Drug-induced liver injury,1727455,,,True
+1378,500000301,Acute liver injury,tipranavir,10019663,Hepatic failure,190548,1736999.0,1.0,True.
+1379,500000301,Acute liver injury,tipranavir,10019708,Hepatic steatosis,190548,1736999.0,1.0,True
+1380,500000301,Acute liver injury,tipranavir,10019717,Hepatitis,190548,1736999.0,1.0,True
+1381,500000801,Acute myocardial infarction,lenalidomide,10002383,Angina pectoris,342369,,,False.
+1382,500000301,Acute liver injury,lenalidomide,10008612,Cholecystitis,342369,,,False.
+1383,500000301,Acute liver injury,lenalidomide,10008614,Cholecystitis acute,342369,,,False.
+1384,500000301,Acute liver injury,lenalidomide,10019663,Hepatic failure,342369,,,False.
+1385,500000301,Acute liver injury,lenalidomide,10019717,Hepatitis,342369,,,True.
+1386,500000301,Acute liver injury,lenalidomide,10019754,Hepatitis cholestatic,342369,,,False.
+1387,500000301,Acute liver injury,lenalidomide,10019851,Hepatotoxicity,342369,,,False.
+1388,500000801,Acute myocardial infarction,buprenorphine,10002383,Angina pectoris,1819,,,False.
+1389,500000301,Acute liver injury,lincomycin,10023126,Jaundice,6398,,,True
+1390,500000301,Acute liver injury,pravastatin,10019663,Hepatic failure,42463,,,False.
+1391,500000301,Acute liver injury,lapatinib,10019851,Hepatotoxicity,480167,,,True
+1392,500000301,Acute liver injury,doxorubicin,10019717,Hepatitis,3639,,,True
+1393,500000301,Acute liver injury,sevoflurane,10019692,Hepatic necrosis,36453,,,False
+1394,500000301,Acute liver injury,sevoflurane,10019717,Hepatitis,36453,,,False.
+1395,500000301,Acute liver injury,sevoflurane,10023126,Jaundice,36453,,,False.
+1396,500000301,Acute liver injury,secnidazole,10000804,Acute hepatic failure,36314,,,False.
+1397,500000301,Acute liver injury,secnidazole,10019663,Hepatic failure,36314,,,False.
+1398,500000301,Acute liver injury,secnidazole,10019851,Hepatotoxicity,36314,,,True.
+1399,500000301,Acute liver injury,dalbavancin,10019851,Hepatotoxicity,1539239,,,False.
+1400,500000301,Acute liver injury,pirfenidone,10067125,Liver injury,1592254,,,True
+1401,500000301,Acute liver injury,pirfenidone,10072268,Drug-induced liver injury,1592254,,,True
+1402,500000301,Acute liver injury,thioguanine,10019842,Hepatomegaly,10485,,,True
+1403,500000301,Acute liver injury,thioguanine,10023126,Jaundice,10485,,,True
+1404,500000301,Acute liver injury,bosutinib,10019708,Hepatic steatosis,1307619,,,True
+1405,500000301,Acute liver injury,bosutinib,10019717,Hepatitis,1307619,,,True.
+1406,500000301,Acute liver injury,bosutinib,10019795,Hepatitis toxic,1307619,,,True.
+1407,500000301,Acute liver injury,bosutinib,10019837,Hepatocellular injury,1307619,,,True
+1408,500000301,Acute liver injury,bosutinib,10019842,Hepatomegaly,1307619,,,True
+1409,500000301,Acute liver injury,bosutinib,10019851,Hepatotoxicity,1307619,,,True
+1410,500000301,Acute liver injury,bosutinib,10023126,Jaundice,1307619,,,True
+1411,500000301,Acute liver injury,bosutinib,10024670,Liver disorder,1307619,,,True
+1412,500000301,Acute liver injury,bosutinib,10067125,Liver injury,1307619,,,True
+1413,500000301,Acute liver injury,bosutinib,10072268,Drug-induced liver injury,1307619,,,True
+1414,500000301,Acute liver injury,beractant,10019663,Hepatic failure,46967,,,False.
+1415,500000301,Acute liver injury,vorinostat,10008612,Cholecystitis,194337,,,True
+1416,500001001,GI bleed,tivozanib,10018830,Haematemesis,2534233,,,True.
+1417,500000801,Acute myocardial infarction,alteplase,10000891,Acute myocardial infarction,8410,,,True
+1418,500000301,Acute liver injury,deucravacitinib,10073071,Hepatocellular carcinoma,2612087,,,False.
+1419,500000301,Acute liver injury,fingolimod,10067125,Liver injury,1012892,,,True
+1420,500001001,GI bleed,bevacizumab,10030210,Oesophageal varices haemorrhage,253337,,,True
+1421,500000301,Acute liver injury,cladribine,10067125,Liver injury,44157,,,True
+1422,500000801,Acute myocardial infarction,metformin,10002388,Angina unstable,6809,,,False.
+1423,500000801,Acute myocardial infarction,omacetaxine mepesuccinate,10002383,Angina pectoris,27100,,,False.
+1424,500001001,GI bleed,selpercatinib,10018830,Haematemesis,2370147,,,True
+1425,500000301,Acute liver injury,selpercatinib,10019676,Hepatic haematoma,2370147,,,True.
+1426,500000301,Acute liver injury,selpercatinib,10019677,Hepatic haemorrhage,2370147,,,True
+1427,500000301,Acute liver injury,selpercatinib,10019851,Hepatotoxicity,2370147,,,True.
+1428,500000801,Acute myocardial infarction,naltrexone,10002383,Angina pectoris,7243,,,False.
+1429,500000801,Acute myocardial infarction,naltrexone,10002388,Angina unstable,7243,,,False.
+1430,500000301,Acute liver injury,naltrexone,10008612,Cholecystitis,7243,,,False.
+1431,500000301,Acute liver injury,naltrexone,10008614,Cholecystitis acute,7243,,,False.
+1432,500000301,Acute liver injury,naltrexone,10008629,Cholelithiasis,7243,,,False.
+1433,500000301,Acute liver injury,alogliptin,10000804,Acute hepatic failure,1368001,,,True.
+1434,500000301,Acute liver injury,pexidartinib,10008604,Cholangitis,2183102,,,True
+1435,500000301,Acute liver injury,pexidartinib,10019851,Hepatotoxicity,2183102,,,True
+1436,500000301,Acute liver injury,ropeginterferon alfa-2b,10019851,Hepatotoxicity,2587059,,,True
+1437,500000301,Acute liver injury,obeticholic acid,10019660,Hepatic encephalopathy,1798288,,,True
+1438,500000301,Acute liver injury,obeticholic acid,10019663,Hepatic failure,1798288,,,True
+1439,500000301,Acute liver injury,obeticholic acid,10023126,Jaundice,1798288,,,True
+1440,500000801,Acute myocardial infarction,goserelin,10002383,Angina pectoris,50610,,,False.
+1441,500001001,GI bleed,goserelin,10018830,Haematemesis,50610,,,False.
+1442,500000301,Acute liver injury,carfilzomib,10019663,Hepatic failure,1302966,,,True
+1443,500000301,Acute liver injury,rilpivirine,10008612,Cholecystitis,1102270,,,False.
+1444,500000301,Acute liver injury,rilpivirine,10008629,Cholelithiasis,1102270,,,False.
+1445,500000301,Acute liver injury,rilpivirine,10019851,Hepatotoxicity,1102270,,,True.
+1446,500000301,Acute liver injury,nintedanib,10067125,Liver injury,1592737,,,True
+1447,500000301,Acute liver injury,nintedanib,10072268,Drug-induced liver injury,1592737,,,True
+1448,500000301,Acute liver injury,desflurane,10019663,Hepatic failure,27340,,,False.
+1449,500000301,Acute liver injury,desflurane,10019692,Hepatic necrosis,27340,,,False.
+1450,500000301,Acute liver injury,desflurane,10019717,Hepatitis,27340,,,False.
+1451,500000301,Acute liver injury,desflurane,10023126,Jaundice,27340,,,False.
+1452,500000301,Acute liver injury,ponatinib,10019851,Hepatotoxicity,1364347,,,True
+1453,500000301,Acute liver injury,ponatinib,10036206,Portal vein thrombosis,1364347,,,True
+1454,500000301,Acute liver injury,ponatinib,10047216,Venoocclusive liver disease,1364347,,,True
+1455,500001001,GI bleed,procarbazine,10018830,Haematemesis,8702,,,True
+1456,500000301,Acute liver injury,procarbazine,10023126,Jaundice,8702,,,True
+1457,500000301,Acute liver injury,"bcg, live, tice strain",10019717,Hepatitis,221050,,,False.
+1458,500000301,Acute liver injury,tolvaptan,10019663,Hepatic failure,358257,,,True
+1459,500000301,Acute liver injury,tolvaptan,10067125,Liver injury,358257,,,True
+1460,500000301,Acute liver injury,ramucirumab,10019660,Hepatic encephalopathy,1535922,,,False.
+1461,500000401,Acute kidney injury,ramucirumab,10019846,Hepatorenal syndrome,1535922,,,False.
+1462,500000301,Acute liver injury,ramucirumab,10019846,Hepatorenal syndrome,1535922,,,False.
+1463,500000301,Acute liver injury,ranitidine,10019717,Hepatitis,9143,,,True.
+1464,500000301,Acute liver injury,ceftaroline fosamil,10019717,Hepatitis,1040004,,,True
+1465,500000301,Acute liver injury,sorafenib,10019717,Hepatitis,495881,,,True
+1466,500000301,Acute liver injury,eribulin,10019851,Hepatotoxicity,1045453,,,True
+1467,500000801,Acute myocardial infarction,enfuvirtide,10002388,Angina unstable,139896,,,False.
+1468,500000301,Acute liver injury,enfuvirtide,10019708,Hepatic steatosis,139896,,,False.
+1469,500000301,Acute liver injury,enfuvirtide,10019717,Hepatitis,139896,,,True
+1470,500000301,Acute liver injury,etoposide,10019851,Hepatotoxicity,4179,,,False.
+1471,500000301,Acute liver injury,eluxadoline,10008629,Cholelithiasis,1653781,,,True
+1472,500000301,Acute liver injury,dulaglutide,10008612,Cholecystitis,1551291,,,True
+1473,500000301,Acute liver injury,dulaglutide,10008614,Cholecystitis acute,1551291,,,True
+1474,500000301,Acute liver injury,dulaglutide,10008629,Cholelithiasis,1551291,,,True
+1475,500000301,Acute liver injury,dulaglutide,10019717,Hepatitis,1551291,,,True
+1476,500000301,Acute liver injury,asparaginase,10019851,Hepatotoxicity,1156,,,True
+1477,500000301,Acute liver injury,everolimus,10019663,Hepatic failure,141704,,,True
+1478,500000301,Acute liver injury,pitavastatin,10019717,Hepatitis,861634,,,True
+1479,500000301,Acute liver injury,pitavastatin,10023126,Jaundice,861634,,,True
+1480,500000301,Acute liver injury,amphotericin b,10008604,Cholangitis,732,,,True
+1481,500000301,Acute liver injury,amphotericin b,10008612,Cholecystitis,732,,,False.
+1482,500000301,Acute liver injury,ixazomib,10019851,Hepatotoxicity,1723735,,,True
+1483,500000301,Acute liver injury,regorafenib,10019851,Hepatotoxicity,1312397,,,True
+1484,500000301,Acute liver injury,papaverine,10019717,Hepatitis,7895,,,True
+1485,500000301,Acute liver injury,tebentafusp,10019851,Hepatotoxicity,2590743,,,False.
+1486,500000301,Acute liver injury,ribavirin,10019842,Hepatomegaly,9344,,,False.
+1487,500000801,Acute myocardial infarction,bupivacaine,10002383,Angina pectoris,1815,,,False.
+1488,500000301,Acute liver injury,ganciclovir,10019719,Hepatitis A,4678,,,False.
+1489,500000301,Acute liver injury,orlistat,10019663,Hepatic failure,37925,741530.0,1.0,False.
+1490,500000301,Acute liver injury,orlistat,10019717,Hepatitis,37925,741530.0,1.0,False.
+1491,500000301,Acute liver injury,calaspargase pegol,10019851,Hepatotoxicity,2121416,,,True
+1492,500000301,Acute liver injury,calaspargase pegol,10056522,Hepatic infection,2121416,,,False.
+1493,500000301,Acute liver injury,acitretin,10019717,Hepatitis,16818,,,True
+1494,500000301,Acute liver injury,fostamatinib,10019851,Hepatotoxicity,2044896,,,True
+1495,500000301,Acute liver injury,chlorambucil,10019851,Hepatotoxicity,2346,,,True
+1496,500000301,Acute liver injury,chlorambucil,10023126,Jaundice,2346,,,True
+1497,500000301,Acute liver injury,pretomanid,10019851,Hepatotoxicity,2198359,,,True
+1498,500000301,Acute liver injury,pretomanid,10072268,Drug-induced liver injury,2198359,,,True
+1499,500000301,Acute liver injury,tocilizumab,10019663,Hepatic failure,612865,,,True
+1500,500000301,Acute liver injury,tocilizumab,10019717,Hepatitis,612865,,,True
+1501,500000301,Acute liver injury,tocilizumab,10023126,Jaundice,612865,,,True
+1502,500000301,Acute liver injury,tocilizumab,10072268,Drug-induced liver injury,612865,,,True
+1503,500000301,Acute liver injury,pegaspargase,10019851,Hepatotoxicity,34132,,,True
+1504,500000301,Acute liver injury,pegaspargase,10056522,Hepatic infection,34132,,,False.
+1505,500000301,Acute liver injury,atorvastatin,10023126,Jaundice,83367,,,True
+1506,500000801,Acute myocardial infarction,certolizumab pegol,10002383,Angina pectoris,709271,,,False.
+1507,500000301,Acute liver injury,certolizumab pegol,10019717,Hepatitis,709271,,,True
+1508,500000301,Acute liver injury,fexinidazole,10000804,Acute hepatic failure,2564146,,,True
+1509,500000301,Acute liver injury,fexinidazole,10019663,Hepatic failure,2564146,,,True
+1510,500000301,Acute liver injury,fexinidazole,10019851,Hepatotoxicity,2564146,,,True
+1511,500000801,Acute myocardial infarction,testosterone,10002383,Angina pectoris,10379,,,False.
+1512,500000301,Acute liver injury,tafenoquine,10023126,Jaundice,2054023,,,True
+1513,500000301,Acute liver injury,inotersen,10067125,Liver injury,2099289,,,True
+1514,500000301,Acute liver injury,isavuconazonium,10008612,Cholecystitis,1608322,,,False.
+1515,500000301,Acute liver injury,isavuconazonium,10008629,Cholelithiasis,1608322,,,False.
+1516,500000301,Acute liver injury,isavuconazonium,10019663,Hepatic failure,1608322,,,True.
+1517,500000301,Acute liver injury,isavuconazonium,10019717,Hepatitis,1608322,,,True
+1518,500000301,Acute liver injury,isavuconazonium,10019842,Hepatomegaly,1608322,,,False.
+1519,500000301,Acute liver injury,isoflurane,10019708,Hepatic steatosis,6026,,,False.
+1520,500000301,Acute liver injury,isoflurane,10019754,Hepatitis cholestatic,6026,,,False.
+1521,500000301,Acute liver injury,isoflurane,10019772,Hepatitis fulminant,6026,,,False.
+1522,500000301,Acute liver injury,isoflurane,10023126,Jaundice,6026,,,False.
+1523,500000301,Acute liver injury,carbamazepine,10067125,Liver injury,2002,,,True
+1524,500000301,Acute liver injury,pasireotide,10008604,Cholangitis,1364105,,,True
+1525,500000301,Acute liver injury,pasireotide,10008612,Cholecystitis,1364105,,,True
+1526,500000301,Acute liver injury,pasireotide,10008629,Cholelithiasis,1364105,,,True
+1527,500000301,Acute liver injury,mitotane,10019717,Hepatitis,7004,,,True
+1528,500000301,Acute liver injury,sevoflurane,10019663,Hepatic failure,36453,,,False.
+1529,500000301,Acute liver injury,elotuzumab,10019851,Hepatotoxicity,1726104,,,False.
+1530,500000301,Acute liver injury,ixabepilone,10000804,Acute hepatic failure,337523,,,True.
+1531,500000801,Acute myocardial infarction,ixabepilone,10002383,Angina pectoris,337523,,,False.
+1532,500000301,Acute liver injury,ixabepilone,10023126,Jaundice,337523,,,True
+1533,500000301,Acute liver injury,teriflunomide,10072268,Drug-induced liver injury,1310520,,,True
+1534,500001001,GI bleed,futibatinib,10018830,Haematemesis,2628190,,,False.
+1535,500000301,Acute liver injury,tucatinib,10019837,Hepatocellular injury,2361285,,,True
+1536,500000301,Acute liver injury,tucatinib,10019851,Hepatotoxicity,2361285,,,True
+1537,500000301,Acute liver injury,tucatinib,10067125,Liver injury,2361285,,,True
+1538,500000301,Acute liver injury,teriflunomide,10067125,Liver injury,1310520,,,True
+1539,500000301,Acute liver injury,liraglutide,10008612,Cholecystitis,475968,,,True.
+1540,500000301,Acute liver injury,liraglutide,10008614,Cholecystitis acute,475968,,,True
+1541,500000301,Acute liver injury,benznidazole,10000804,Acute hepatic failure,18994,,,True
+1542,500000301,Acute liver injury,benznidazole,10019663,Hepatic failure,18994,,,True.
+1543,500000301,Acute liver injury,benznidazole,10019717,Hepatitis,18994,,,True
+1544,500000301,Acute liver injury,benznidazole,10019795,Hepatitis toxic,18994,,,True
+1545,500000301,Acute liver injury,benznidazole,10019851,Hepatotoxicity,18994,,,True
+1546,500000301,Acute liver injury,trastuzumab,10000804,Acute hepatic failure,224905,,,False.
+1547,500000301,Acute liver injury,gefitinib,10019851,Hepatotoxicity,328134,,,True
+1548,500000301,Acute liver injury,dasatinib,10019851,Hepatotoxicity,475342,,,True
+1549,500000301,Acute liver injury,exenatide,10008612,Cholecystitis,60548,,,True
+1550,500000301,Acute liver injury,exenatide,10008629,Cholelithiasis,60548,,,True
+1551,500000301,Acute liver injury,diroximel fumarate,10067125,Liver injury,2261783,,,True
+1552,500000301,Acute liver injury,sparsentan,10019851,Hepatotoxicity,2630535,,,False.
+1553,500000301,Acute liver injury,nafarelin,10067125,Liver injury,28656,,,False.
+1554,500000301,Acute liver injury,posaconazole,10019717,Hepatitis,282446,1704139.0,1.0,False.
+1555,500000301,Acute liver injury,posaconazole,10019842,Hepatomegaly,282446,1704139.0,1.0,False.
+1556,500000301,Acute liver injury,posaconazole,10023126,Jaundice,282446,1704139.0,1.0,True
+1557,500000301,Acute liver injury,monomethyl fumarate,10067125,Liver injury,1546433,,,True
+1558,500000301,Acute liver injury,triclabendazole,10023126,Jaundice,2118525,,,True
+1559,500000301,Acute liver injury,cabotegravir,10019851,Hepatotoxicity,2475077,,,True
+1560,500000301,Acute liver injury,dotatate,10019851,Hepatotoxicity,1797118,,,False.
+1561,500000301,Acute liver injury,venetoclax,10008612,Cholecystitis,1747556,,,False.
+1562,500000301,Acute liver injury,venetoclax,10008614,Cholecystitis acute,1747556,,,False.
+1563,500000301,Acute liver injury,venetoclax,10008617,Cholecystitis chronic,1747556,,,False.
+1564,500000301,Acute liver injury,venetoclax,10008629,Cholelithiasis,1747556,,,False.
+1565,500001001,GI bleed,venetoclax,10018830,Haematemesis,1747556,,,False.
+1566,500000301,Acute liver injury,interferon alfa-2b,10008629,Cholelithiasis,5880,,,True
+1567,500000301,Acute liver injury,interferon alfa-2b,10019660,Hepatic encephalopathy,5880,,,True
+1568,500000301,Acute liver injury,interferon alfa-2b,10019663,Hepatic failure,5880,,,True
+1569,500000301,Acute liver injury,interferon alfa-2b,10019851,Hepatotoxicity,5880,,,True
+1570,500000301,Acute liver injury,interferon alfa-2b,10023126,Jaundice,5880,,,True
+1571,500000301,Acute liver injury,lorlatinib,10019851,Hepatotoxicity,2103164,,,True
+1572,500001001,GI bleed,maralixibat,10018830,Haematemesis,2571074,,,False.
+1573,500000301,Acute liver injury,olutasidenib,10008604,Cholangitis,2623641,,,False.
+1574,500000301,Acute liver injury,olutasidenib,10017626,Gallbladder disorder,2623641,,,False.
+1575,500000301,Acute liver injury,olutasidenib,10019727,Hepatitis acute,2623641,,,True.
+1576,500000301,Acute liver injury,olutasidenib,10019851,Hepatotoxicity,2623641,,,True
+1577,500000301,Acute liver injury,lomustine,10019851,Hepatotoxicity,6466,,,True
+1578,500000301,Acute liver injury,vismodegib,10067125,Liver injury,1242987,,,True
+1579,500000301,Acute liver injury,vismodegib,10072268,Drug-induced liver injury,1242987,,,True
+1580,500000301,Acute liver injury,tepotinib,10019663,Hepatic failure,2477103,,,True.
+1581,500000301,Acute liver injury,tepotinib,10019851,Hepatotoxicity,2477103,,,True.
+1582,500000301,Acute liver injury,cholic acid,10008629,Cholelithiasis,1440856,,,False.
+1583,500000301,Acute liver injury,cholic acid,10023126,Jaundice,1440856,,,False.
+1584,500000801,Acute myocardial infarction,thalidomide,10002383,Angina pectoris,10432,,,False.
+1585,500000301,Acute liver injury,thalidomide,10008604,Cholangitis,10432,,,False.
+1586,500000301,Acute liver injury,thalidomide,10019717,Hepatitis,10432,,,False.
+1587,500000301,Acute liver injury,thalidomide,10023126,Jaundice,10432,,,False.
+1588,500000301,Acute liver injury,vemurafenib,10019851,Hepatotoxicity,1147220,,,True
+1589,500000801,Acute myocardial infarction,pomalidomide,10002383,Angina pectoris,1369713,,,False.
+1590,500000301,Acute liver injury,pomalidomide,10019663,Hepatic failure,1369713,,,True
+1591,500000301,Acute liver injury,pomalidomide,10019851,Hepatotoxicity,1369713,,,False.
+1592,500000301,Acute liver injury,golimumab,10000804,Acute hepatic failure,819300,,,False.
+1593,500000301,Acute liver injury,adalimumab,10000804,Acute hepatic failure,327361,,,True
+1594,500000301,Acute liver injury,adalimumab,10008612,Cholecystitis,327361,,,True
+1595,500000301,Acute liver injury,adalimumab,10008629,Cholelithiasis,327361,,,False.
+1596,500000301,Acute liver injury,adalimumab,10019663,Hepatic failure,327361,,,True
+1597,500000301,Acute liver injury,adalimumab,10019692,Hepatic necrosis,327361,,,False.
+1598,500000301,Acute liver injury,adalimumab,10019717,Hepatitis,327361,,,True
+1599,500000301,Acute liver injury,tretinoin,10019851,Hepatotoxicity,10753,,,False.
+1600,500000301,Acute liver injury,diazepam,10019660,Hepatic encephalopathy,3322,,,True.
+1601,500000301,Acute liver injury,diazepam,10019663,Hepatic failure,3322,,,False.
+1602,500000301,Acute liver injury,diazepam,10019668,Hepatic fibrosis,3322,,,False.
+1603,500000301,Acute liver injury,amobarbital,10067125,Liver injury,719,,,True
+1604,500000301,Acute liver injury,vipivotide tetraxetan,10019663,Hepatic failure,2597054,,,False.
+1605,500000301,Acute liver injury,mogamulizumab,10019717,Hepatitis,2054068,,,True.
+1606,500000301,Acute liver injury,polatuzumab vedotin,10019851,Hepatotoxicity,2174090,,,True
+1607,500001001,GI bleed,cemiplimab,10018830,Haematemesis,2058826,,,False.
+1608,500000301,Acute liver injury,cemiplimab,10019717,Hepatitis,2058826,,,True.
+1609,500000301,Acute liver injury,alemtuzumab,10008614,Cholecystitis acute,117055,,,True
+1610,500000301,Acute liver injury,abemaciclib,10019713,Hepatic vein thrombosis,1946825,,,True
+1611,500000301,Acute liver injury,abemaciclib,10019851,Hepatotoxicity,1946825,,,True
+1612,500000301,Acute liver injury,abemaciclib,10036206,Portal vein thrombosis,1946825,,,True
+1613,500000801,Acute myocardial infarction,ferumoxytol,10002383,Angina pectoris,473387,,,False.
+1614,500000301,Acute liver injury,belinostat,10019663,Hepatic failure,1543543,,,True
+1615,500000301,Acute liver injury,belinostat,10019851,Hepatotoxicity,1543543,,,True
+1616,500000301,Acute liver injury,etranacogene dezaparvovec,10019851,Hepatotoxicity,2626727,,,False.
+1617,500000301,Acute liver injury,ibuprofen,10019851,Hepatotoxicity,5640,,,True
+1618,500000301,Acute liver injury,anidulafungin,10019692,Hepatic necrosis,341018,,,False.
+1619,500000801,Acute myocardial infarction,atezolizumab,10000891,Acute myocardial infarction,1792776,,,True
+1620,500000301,Acute liver injury,atezolizumab,10003827,Autoimmune hepatitis,1792776,,,True
+1621,500000301,Acute liver injury,atezolizumab,10019641,Hepatic cirrhosis,1792776,,,False.
+1622,500000301,Acute liver injury,atezolizumab,10019663,Hepatic failure,1792776,,,False.
+1623,500000301,Acute liver injury,atezolizumab,10019717,Hepatitis,1792776,,,True
+1624,500000301,Acute liver injury,atezolizumab,10019772,Hepatitis fulminant,1792776,,,False.
+1625,500000301,Acute liver injury,atezolizumab,10019837,Hepatocellular injury,1792776,,,True
+1626,500000301,Acute liver injury,atezolizumab,10019851,Hepatotoxicity,1792776,,,False.
+1627,500001001,GI bleed,atezolizumab,10030210,Oesophageal varices haemorrhage,1792776,,,False.
+1628,500000301,Acute liver injury,alemtuzumab,10003827,Autoimmune hepatitis,117055,,,True
+1629,500000301,Acute liver injury,alemtuzumab,10008612,Cholecystitis,117055,,,True
+1630,500000301,Acute liver injury,alemtuzumab,10019799,Hepatitis viral,117055,,,True.
+1631,500000301,Acute liver injury,epcoritamab,10019851,Hepatotoxicity,2637392,,,False.
+1632,500000801,Acute myocardial infarction,midostaurin,10000891,Acute myocardial infarction,1919083,,,True
+1633,500000801,Acute myocardial infarction,midostaurin,10002383,Angina pectoris,1919083,,,True.
+1634,500000301,Acute liver injury,avapritinib,10008629,Cholelithiasis,2272107,,,True
+1635,500000301,Acute liver injury,fostemsavir,10023126,Jaundice,2380373,,,False.
+1636,500000301,Acute liver injury,fostemsavir,10058827,Hepatitis B reactivation,2380373,,,False.
+1637,500001001,GI bleed,cobimetinib,10018830,Haematemesis,1722365,,,True.
+1638,500000301,Acute liver injury,cobimetinib,10019851,Hepatotoxicity,1722365,,,True
+1639,500000301,Acute liver injury,macitentan,10003827,Autoimmune hepatitis,1442132,,,True
+1640,500000301,Acute liver injury,macitentan,10019663,Hepatic failure,1442132,,,True
+1641,500000301,Acute liver injury,macitentan,10019851,Hepatotoxicity,1442132,,,True
+1642,500000301,Acute liver injury,macitentan,10067125,Liver injury,1442132,,,True
+1643,500000801,Acute myocardial infarction,denosumab,10002383,Angina pectoris,993449,,,False.
+1644,500000301,Acute liver injury,melphalan,10019851,Hepatotoxicity,6718,,,True
+1645,500000301,Acute liver injury,pemigatinib,10008604,Cholangitis,2359268,,,True
+1646,500000301,Acute liver injury,odevixibat,10008629,Cholelithiasis,2563966,,,True
+1647,500000301,Acute liver injury,adagrasib,10019851,Hepatotoxicity,2625882,,,True.
+1648,500000801,Acute myocardial infarction,andexanet alfa,10000891,Acute myocardial infarction,2045114,,,False.
+1649,500000301,Acute liver injury,acetazolamide,10019692,Hepatic necrosis,167,,,False.
+1650,500000301,Acute liver injury,brentuximab vedotin,10019851,Hepatotoxicity,1147320,,,True
+1651,500000301,Acute liver injury,tremelimumab,10019663,Hepatic failure,2619313,,,True.
+1652,500000301,Acute liver injury,tremelimumab,10019717,Hepatitis,2619313,,,True
+1653,500000301,Acute liver injury,durvalumab,10008604,Cholangitis,1919503,,,False.
+1654,500000301,Acute liver injury,durvalumab,10019663,Hepatic failure,1919503,,,False.
+1655,500000301,Acute liver injury,durvalumab,10019717,Hepatitis,1919503,,,True.
+1656,500000301,Acute liver injury,durvalumab,10019851,Hepatotoxicity,1919503,,,False.
+1657,500000301,Acute liver injury,leuprolide,10067125,Liver injury,42375,,,True
+1658,500000801,Acute myocardial infarction,cetuximab,10000891,Acute myocardial infarction,318341,,,True
+1659,500000801,Acute myocardial infarction,cetuximab,10002383,Angina pectoris,318341,,,False.
+1660,500000801,Acute myocardial infarction,darbepoetin alfa,10002383,Angina pectoris,283838,1304643.0,1.0,False.
+1661,500000301,Acute liver injury,upadacitinib,10072268,Drug-induced liver injury,2196092,,,True
+1662,500000301,Acute liver injury,ipilimumab,10003827,Autoimmune hepatitis,1094833,,,True
+1663,500000301,Acute liver injury,ipilimumab,10019663,Hepatic failure,1094833,,,True
+1664,500000301,Acute liver injury,ipilimumab,10019717,Hepatitis,1094833,,,True
+1665,500000301,Acute liver injury,ipilimumab,10019768,Hepatitis E,1094833,,,False.
+1666,500000301,Acute liver injury,ipilimumab,10019837,Hepatocellular injury,1094833,,,True
+1667,500000301,Acute liver injury,ipilimumab,10019851,Hepatotoxicity,1094833,,,True
+1668,500001001,GI bleed,ipilimumab,10030210,Oesophageal varices haemorrhage,1094833,,,False.
+1669,500000301,Acute liver injury,capmatinib,10019851,Hepatotoxicity,2362165,,,True.
+1670,500000801,Acute myocardial infarction,nilotinib,10002383,Angina pectoris,662281,,,True
+1671,500001001,GI bleed,nilotinib,10018830,Haematemesis,662281,,,True
+1672,500000301,Acute liver injury,nilotinib,10019717,Hepatitis,662281,,,True
+1673,500000301,Acute liver injury,nilotinib,10019842,Hepatomegaly,662281,,,True.
+1674,500000301,Acute liver injury,nilotinib,10019851,Hepatotoxicity,662281,,,True
+1675,500000301,Acute liver injury,nilotinib,10023126,Jaundice,662281,,,True
+1676,500000301,Acute liver injury,nilotinib,10058827,Hepatitis B reactivation,662281,,,False.
+1677,500000301,Acute liver injury,isopropyl alcohol,10000804,Acute hepatic failure,797541,,,True
+1678,500000301,Acute liver injury,isopropyl alcohol,10008612,Cholecystitis,797541,,,False.
+1679,500000301,Acute liver injury,isopropyl alcohol,10008629,Cholelithiasis,797541,,,False.
+1680,500000301,Acute liver injury,isopropyl alcohol,10019663,Hepatic failure,797541,,,True
+1681,500000301,Acute liver injury,isopropyl alcohol,10019692,Hepatic necrosis,797541,,,True
+1682,500000301,Acute liver injury,isopropyl alcohol,10019717,Hepatitis,797541,,,False.
+1683,500000301,Acute liver injury,octreotide,10019708,Hepatic steatosis,7617,,,False.
+1684,500001001,GI bleed,dinutuximab,10018830,Haematemesis,1606274,,,False.
+1685,500000801,Acute myocardial infarction,cabazitaxel,10002383,Angina pectoris,996051,,,False.
+1686,500000301,Acute liver injury,tenofovir alafenamide,10019842,Hepatomegaly,1721603,,,False.
+1687,500000801,Acute myocardial infarction,basiliximab,10002383,Angina pectoris,196102,,,False.
+1688,500000301,Acute liver injury,eltrombopag,10019663,Hepatic failure,711942,,,True
+1689,500000301,Acute liver injury,eltrombopag,10019851,Hepatotoxicity,711942,,,True
+1690,500000301,Acute liver injury,dostarlimab,10019837,Hepatocellular injury,2539967,,,False.
+1691,500000301,Acute liver injury,ofatumumab,10019731,Hepatitis B,712566,,,False.
+1692,500000301,Acute liver injury,ceritinib,10019851,Hepatotoxicity,1535457,,,True
+1693,500000301,Acute liver injury,interferon beta-1b,10019717,Hepatitis,72257,,,True
+1694,500000301,Acute liver injury,tagraxofusp,10019851,Hepatotoxicity,2109055,,,True
+1695,500000301,Acute liver injury,pasireotide,10023126,Jaundice,1364105,,,True
+1696,500000301,Acute liver injury,interferon beta-1a,10003827,Autoimmune hepatitis,75917,,,True
+1697,500000301,Acute liver injury,peginterferon beta-1a,10019717,Hepatitis,1546168,,,False.
+1698,500000301,Acute liver injury,peginterferon beta-1a,10019719,Hepatitis A,1546168,,,False.
+1699,500000301,Acute liver injury,cisplatin,10019851,Hepatotoxicity,2555,,,False.
+1700,500000301,Acute liver injury,lurbinectedin,10019851,Hepatotoxicity,2374729,,,True
+1701,500000301,Acute liver injury,teclistamab,10019663,Hepatic failure,2619426,,,False.
+1702,500000301,Acute liver injury,teclistamab,10019851,Hepatotoxicity,2619426,,,False.
+1703,500000801,Acute myocardial infarction,dihematoporphyrin ether,10002383,Angina pectoris,23066,,,False.
+1704,500001001,GI bleed,dihematoporphyrin ether,10018830,Haematemesis,23066,,,False.
+1705,500000301,Acute liver injury,dihematoporphyrin ether,10023126,Jaundice,23066,,,True
+1706,500000301,Acute liver injury,siponimod,10067125,Liver injury,2121085,,,True
+1707,500000301,Acute liver injury,ponesimod,10067125,Liver injury,2532300,,,True
+1708,500000301,Acute liver injury,ketoconazole,10019708,Hepatic steatosis,6135,,,True
+1709,500000301,Acute liver injury,ketoconazole,10024670,Liver disorder,6135,,,True
+1710,500000301,Acute liver injury,ketoconazole,10072268,Drug-induced liver injury,6135,,,True
+1711,500000301,Acute liver injury,pralsetinib,10019851,Hepatotoxicity,2394936,,,True
+1712,500000801,Acute myocardial infarction,levomilnacipran,10002383,Angina pectoris,1433212,,,False.
+1713,500000301,Acute liver injury,obinutuzumab,10019731,Hepatitis B,974779,,,False.
+1714,500000301,Acute liver injury,obinutuzumab,10019851,Hepatotoxicity,974779,,,False.
+1715,500000301,Acute liver injury,estradiol,10019717,Hepatitis,4083,,,True
+1716,500000301,Acute liver injury,estradiol,10019727,Hepatitis acute,4083,,,True
+1717,500000801,Acute myocardial infarction,omalizumab,10002388,Angina unstable,302379,,,False.
+1718,500000301,Acute liver injury,aripiprazole,10072268,Drug-induced liver injury,89013,,,False.
+1719,500000301,Acute liver injury,brigatinib,10019851,Hepatotoxicity,1921217,,,True
+1720,500000301,Acute liver injury,doxazosin,10023126,Jaundice,49276,,,True
+1721,500000301,Acute liver injury,trastuzumab,10019851,Hepatotoxicity,224905,,,False.
+1722,500000301,Acute liver injury,talazoparib,10024670,Liver disorder,2099704,,,True
+1723,500000301,Acute liver injury,tofacitinib,10019708,Hepatic steatosis,1357536,,,True
+1724,500000301,Acute liver injury,tofacitinib,10072268,Drug-induced liver injury,1357536,,,True
+1725,500000301,Acute liver injury,cabozantinib,10019754,Hepatitis cholestatic,1363268,,,True
+1726,500000301,Acute liver injury,ribociclib,10067125,Liver injury,1873916,,,True
+1727,500000301,Acute liver injury,ribociclib,10072268,Drug-induced liver injury,1873916,,,True
+1728,500001001,GI bleed,sargramostim,10018830,Haematemesis,69634,,,False.
+1729,500000301,Acute liver injury,sargramostim,10067125,Liver injury,69634,,,False.
+1730,500000801,Acute myocardial infarction,avanafil,10002388,Angina unstable,1291301,,,False.
+1731,500001001,GI bleed,dabrafenib,10018830,Haematemesis,1424911,,,True.
+1732,500001001,GI bleed,trametinib,10018830,Haematemesis,1425099,,,True.
+1733,500000301,Acute liver injury,trametinib,10019676,Hepatic haematoma,1425099,,,True
+1734,500000301,Acute liver injury,octreotide,10004637,Bile duct stone,7617,,,True
+1735,500000301,Acute liver injury,cariprazine,10019717,Hepatitis,1667655,,,True.
+1736,500000301,Acute liver injury,ibrutinib,10019641,Hepatic cirrhosis,1442981,,,False.
+1737,500000301,Acute liver injury,ibrutinib,10019663,Hepatic failure,1442981,,,True
+1738,500000301,Acute liver injury,ibrutinib,10058827,Hepatitis B reactivation,1442981,,,True
+1739,500000301,Acute liver injury,atogepant,10023126,Jaundice,2571813,,,False.
+1740,500000301,Acute liver injury,tacrolimus,10019663,Hepatic failure,42316,,,True
+1741,500000301,Acute liver injury,tirzepatide,10008629,Cholelithiasis,2601723,,,True
+1742,500000301,Acute liver injury,tirzepatide,10017626,Gallbladder disorder,2601723,,,True
+1743,500000801,Acute myocardial infarction,erdafitinib,10000891,Acute myocardial infarction,2123125,,,False.
+1744,500000301,Acute liver injury,cabozantinib,10003827,Autoimmune hepatitis,1363268,,,True
+1745,500000301,Acute liver injury,cabozantinib,10019663,Hepatic failure,1363268,,,True
+1746,500000301,Acute liver injury,cabozantinib,10019717,Hepatitis,1363268,,,True
+1747,500000401,Acute kidney injury,cabozantinib,10019846,Hepatorenal syndrome,1363268,,,False.
+1748,500000301,Acute liver injury,cabozantinib,10019846,Hepatorenal syndrome,1363268,,,False.
+1749,500000301,Acute liver injury,cabozantinib,10019851,Hepatotoxicity,1363268,,,True
+1750,500000301,Acute liver injury,cabozantinib,10036206,Portal vein thrombosis,1363268,,,True
+1751,500000301,Acute liver injury,crizotinib,10019663,Hepatic failure,1148495,,,True
+1752,500000301,Acute liver injury,crizotinib,10019851,Hepatotoxicity,1148495,,,True
+1753,500000301,Acute liver injury,ethionamide,10019717,Hepatitis,4127,,,True
+1754,500000301,Acute liver injury,ethionamide,10023126,Jaundice,4127,,,True
+1755,500000301,Acute liver injury,vedolizumab,10019717,Hepatitis,1538097,,,False.
+1756,500000301,Acute liver injury,vedolizumab,10067125,Liver injury,1538097,,,False.
+1757,500000301,Acute liver injury,vedolizumab,10073069,Hepatic cancer,1538097,,,False.
+1758,500000301,Acute liver injury,aldesleukin,10008612,Cholecystitis,70223,,,True
+1759,500000301,Acute liver injury,aldesleukin,10019663,Hepatic failure,70223,,,True
+1760,500000801,Acute myocardial infarction,avelumab,10000891,Acute myocardial infarction,1875534,,,True
+1761,500000301,Acute liver injury,avelumab,10003827,Autoimmune hepatitis,1875534,,,True
+1762,500000301,Acute liver injury,avelumab,10019717,Hepatitis,1875534,,,True
+1763,500000301,Acute liver injury,avelumab,10019772,Hepatitis fulminant,1875534,,,False.
+1764,500000301,Acute liver injury,avelumab,10019837,Hepatocellular injury,1875534,,,False.
+1765,500000301,Acute liver injury,avelumab,10019851,Hepatotoxicity,1875534,,,False.
+1766,500000301,Acute liver injury,avelumab,10024670,Liver disorder,1875534,,,True
+1767,500000301,Acute liver injury,avelumab,10067125,Liver injury,1875534,,,False.
+1768,500000301,Acute liver injury,avelumab,10072268,Drug-induced liver injury,1875534,,,False.
+1769,500000301,Acute liver injury,axitinib,10003827,Autoimmune hepatitis,1242999,,,False.
+1770,500000301,Acute liver injury,axitinib,10019717,Hepatitis,1242999,,,True
+1771,500000301,Acute liver injury,axitinib,10019772,Hepatitis fulminant,1242999,,,False.
+1772,500000301,Acute liver injury,axitinib,10019837,Hepatocellular injury,1242999,,,True
+1773,500000301,Acute liver injury,axitinib,10019851,Hepatotoxicity,1242999,,,True.
+1774,500000301,Acute liver injury,axitinib,10024670,Liver disorder,1242999,,,True
+1775,500000301,Acute liver injury,axitinib,10067125,Liver injury,1242999,,,True
+1776,500000301,Acute liver injury,axitinib,10072268,Drug-induced liver injury,1242999,,,True
+1777,500000301,Acute liver injury,lanreotide,10008604,Cholangitis,68092,,,True
+1778,500000301,Acute liver injury,lanreotide,10008612,Cholecystitis,68092,,,True
+1779,500000301,Acute liver injury,lanreotide,10008629,Cholelithiasis,68092,,,True
+1780,500000301,Acute liver injury,bedaquiline,10019851,Hepatotoxicity,1364504,,,True
+1781,500000301,Acute liver injury,miltefosine,10023126,Jaundice,1494066,,,True
+1782,500000301,Acute liver injury,encorafenib,10019851,Hepatotoxicity,2049106,,,True.
+1783,500000301,Acute liver injury,binimetinib,10019851,Hepatotoxicity,2049122,,,True
+1784,500000301,Acute liver injury,lixisenatide,10008612,Cholecystitis,1440051,,,True
+1785,500000301,Acute liver injury,lixisenatide,10008614,Cholecystitis acute,1440051,,,True
+1786,500000301,Acute liver injury,lixisenatide,10008629,Cholelithiasis,1440051,,,True

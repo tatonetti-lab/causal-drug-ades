@@ -1,0 +1,167 @@
+file,condition_name,ingredient_name,label,reference
+./data/2024_latest_labels/latest_labels_ingredients/20240217_116f4f0d-66c5-49dd-e063-6394a90ab2b5.json,acute kidney injury,acyclovir,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_fbac3b4f-dc23-4359-ac3f-2b3fdde41af2.json,acute kidney injury,allopurinol,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240221_1c90aa68-cc12-41ef-aebc-2616ae45683a.json,acute kidney injury,candesartan,1,1
+,acute kidney injury,capreomycin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240112_23b1f2f5-2d84-4a1e-997f-6489204878b2.json,acute kidney injury,captopril,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231208_de512e9b-444c-4ae4-8c6b-accd87a02021.json,acute kidney injury,chlorothiazide,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_c36132b2-3ec7-4c43-a25e-75cbdbe3d88d.json,acute kidney injury,cyclosporine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240210_666f89b4-fd81-420a-a390-eb1cd4014f61.json,acute kidney injury,diflunisal,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_9d88f915-13dd-5463-e053-2a95a90a09bf.json,acute kidney injury,enalaprilat,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240220_113558e6-8b45-cdbd-e063-6394a90ac036.json,acute kidney injury,etodolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231115_f9c6fd52-6e28-482c-8b76-bd111760a34c.json,acute kidney injury,fenoprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_84428af5-ab7d-4822-a40e-3cf6e3fb9fee.json,acute kidney injury,hydrochlorothiazide,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_b81c6495-8b30-41ef-8a0f-4cbfd87f1eb4.json,acute kidney injury,ibuprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_9bf86115-8c8d-48f4-9cbe-7709c5ca0d0f.json,acute kidney injury,ketoprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_f47d4365-40a8-445b-99cd-49edad6a8ffc.json,acute kidney injury,ketorolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_42f49299-7ae5-4d30-86eb-66b739c0e95d.json,acute kidney injury,lisinopril,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240120_d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f.json,acute kidney injury,mefenamate,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_4911f343-68e6-71b0-e054-00144ff8d46c.json,acute kidney injury,meloxicam,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240104_baac91ad-f8ee-4694-89f8-5c47a8eda39a.json,acute kidney injury,moexipril,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_ccd95dfc-9236-4707-a715-6a12c91519ff.json,acute kidney injury,naproxen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240217_4238a064-1bfd-4ce3-b9d9-12c96eee8af0.json,acute kidney injury,olmesartan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231207_26eb95ba-1f77-4496-a6ea-92bd63a40a3e.json,acute kidney injury,oxaprozin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240113_7ee820e4-a479-4b7d-8730-101ac1f8015c.json,acute kidney injury,piroxicam,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240124_c3658bc8-1524-43db-930e-66f9ac01b808.json,acute kidney injury,telmisartan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240217_4dd14728-02b4-4e75-b9c6-227be7816d5b.json,acute liver injury,abacavir,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_bf514e99-4958-44a0-a87a-02a950f87e60.json,acute liver injury,acetazolamide,1,1
+,acute liver injury,alatrofloxacin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_fbac3b4f-dc23-4359-ac3f-2b3fdde41af2.json,acute liver injury,allopurinol,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240105_b605b541-4bfd-db3e-9710-11c27f6dee6c.json,acute liver injury,bortezomib,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_749e42fb-2fe0-45dd-9268-b43bb3f4081c.json,acute liver injury,bosentan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240106_fe0ddd44-ef02-4827-b164-7fcbb45bcc1b.json,acute liver injury,busulfan,1,1
+,acute liver injury,captopril,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240221_8d5ace90-983b-48c4-baf1-b44f6af146de.json,acute liver injury,carbamazepine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231128_3bad23a6-09a6-4194-9182-093ed61bc71c.json,acute liver injury,caspofungin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240207_56d64558-1fad-420e-8fcd-7103cd073127.json,acute liver injury,celecoxib,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240217_fabf55db-8b50-491f-b76d-a0fe5fb6c9b0.json,acute liver injury,ciprofloxacin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240209_53bdb79c-c4cf-4818-b1f0-225e67a14536.json,acute liver injury,clozapine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_c36132b2-3ec7-4c43-a25e-75cbdbe3d88d.json,acute liver injury,cyclosporine,1,1
+,acute liver injury,dacarbazine,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240123_ed977166-7ac0-4a8c-a10c-4b19a69403c0.json,acute liver injury,darunavir,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20120508_829e744d-7bd4-43dc-9b58-ffb016cb8e67.json,acute liver injury,didanosine,1,1
+,acute liver injury,diltiazem,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20231227_d3832a1a-a140-49c1-a7df-134fa81341e3.json,acute liver injury,disulfiram,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240105_a26cfa07-14a7-4468-8eed-3529f3d613f4.json,acute liver injury,efavirenz,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_9d88f915-13dd-5463-e053-2a95a90a09bf.json,acute liver injury,enalaprilat,1,1
+,acute liver injury,erythromycin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240220_113558e6-8b45-cdbd-e063-6394a90ac036.json,acute liver injury,etodolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240101_1aa40de5-c02d-49d6-8722-ed88c40c3ba6.json,acute liver injury,felbamate,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_726daf35-4c03-464f-a814-cc0a715d6031.json,acute liver injury,fluconazole,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20220115_56b6ba36-9b49-4422-a2a4-7bfa0d941a5d.json,acute liver injury,flutamide,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20230912_4031017d-d768-46de-8081-476bcb883f5e.json,acute liver injury,gemcitabine,1,1
+,acute liver injury,gemifloxacin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_b81c6495-8b30-41ef-8a0f-4cbfd87f1eb4.json,acute liver injury,ibuprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240203_a1787fad-3612-43e1-98fa-ce62361e0b3c.json,acute liver injury,imatinib,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240222_bf93022c-a965-49c5-a852-c59e580d7d91.json,acute liver injury,indomethacin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240110_dbf738c4-3fac-4422-a9d8-51d9c83a8789.json,acute liver injury,infliximab,1,1
+,acute liver injury,interferon beta-1a,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240104_5c40e41f-6401-4bda-975c-e1fac69867e9.json,acute liver injury,isoniazid,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_b1274d78-1096-4ae3-8299-a2e94eaa0ea5.json,acute liver injury,itraconazole,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_f47d4365-40a8-445b-99cd-49edad6a8ffc.json,acute liver injury,ketorolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240104_ff3b5265-f533-4332-a861-d8c9c1664ffd.json,acute liver injury,lamivudine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_1b5646a9-4724-44b8-8cd0-9c14f5e87f86.json,acute liver injury,lamotrigine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240220_f2f090c2-3ee1-7689-e053-2995a90abe38.json,acute liver injury,levofloxacin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_42f49299-7ae5-4d30-86eb-66b739c0e95d.json,acute liver injury,lisinopril,1,1
+,acute liver injury,methimazole,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240217_d35193e4-0b0e-4a0a-acd8-aa90cc075a2b.json,acute liver injury,methotrexate,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20230105_e1114a58-9ab5-486e-85ed-360365b06396.json,acute liver injury,methyldopa,1,1
+,acute liver injury,moexipril,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_ccd95dfc-9236-4707-a715-6a12c91519ff.json,acute liver injury,naproxen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20220716_51ff7db5-aaf9-4c3c-86e6-958ebf16b60f.json,acute liver injury,nefazodone,1,1
+,acute liver injury,nevirapine,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240126_04fb6cd5-3c21-433e-a053-623b73218bd6.json,acute liver injury,niacin,1,1
+,acute liver injury,nifedipine,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_e55f3dc2-c754-4550-a2c0-c304471a8791.json,acute liver injury,nitrofurantoin,1,1
+,acute liver injury,norfloxacin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_4442f029-dd5e-4834-9b01-eb8c638ce4b1.json,acute liver injury,nortriptyline,1,1
+,acute liver injury,ofloxacin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20231216_6240792b-9224-2d10-e053-2a91aa0a2c3e.json,acute liver injury,orlistat,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231207_26eb95ba-1f77-4496-a6ea-92bd63a40a3e.json,acute liver injury,oxaprozin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231205_4afb20ee-eb3f-1937-ffa4-5d3228e82688.json,acute liver injury,penicillamine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_55ae23ff-60f5-4de6-bd1b-472243b8636b.json,acute liver injury,pioglitazone,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240113_7ee820e4-a479-4b7d-8730-101ac1f8015c.json,acute liver injury,piroxicam,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240124_d2daba09-f1c2-4764-a567-1291be4892b9.json,acute liver injury,posaconazole,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240213_b0c23a2c-b250-4c0d-9b2a-c1483faa2ca0.json,acute liver injury,propylthiouracil,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231215_8ded0773-3aec-4e89-9836-d22a5a84abf0.json,acute liver injury,quinapril,1,1
+,acute liver injury,ramipril,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240119_6d1c87df-b319-4c63-9f19-6584d7c4ff8e.json,acute liver injury,rifampin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20190118_17e597bc-d663-4d8e-a5d3-39816b628996.json,acute liver injury,stavudine,1,1
+,acute liver injury,sulfisoxazole,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240126_1fffe88d-50c8-45cf-ac7c-a62b665c89a8.json,acute liver injury,sulindac,1,1
+,acute liver injury,tamoxifen,0,1
+,acute liver injury,tenofovir,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_0be26591-e0dd-429d-a4c7-b2e39aab13dd.json,acute liver injury,terbinafine,1,1
+,acute liver injury,thiabendazole,0,1
+,acute liver injury,thioguanine,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20220623_08982e49-d2eb-4b25-b01a-1be52fd669ef.json,acute liver injury,tipranavir,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20210106_dd367eec-359a-4065-b5c3-7c0107c823fe.json,acute liver injury,tolcapone,1,1
+,acute liver injury,tolmetin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20231111_57f8aac6-3bd3-4ae1-aab2-759c8bc23292.json,acute liver injury,trandolapril,1,1
+,acute liver injury,trovafloxacin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_ab8616a5-ea72-4df7-b095-54ea19ef6fba.json,acute liver injury,valproate,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240215_bda70104-d84b-4d3f-9ca0-5f4f1ca816ad.json,acute liver injury,voriconazole,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231204_8bdb47c5-9d19-4d59-94c8-62c117525e7f.json,acute liver injury,zafirlukast,1,1
+,acute liver injury,zalcitabine,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_8c065559-bd35-4dda-ac8f-624eea0641ae.json,acute liver injury,zidovudine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20230414_6fa380c4-c885-4743-85bf-88819ae68645.json,acute myocardial infarction,almotriptan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_a74239bf-4684-424c-ba4e-6087e363265b.json,acute myocardial infarction,amlodipine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20230910_eed5e856-dd7b-4eaa-9dad-508f2bef9328.json,acute myocardial infarction,amoxapine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231215_fc2a08dd-4fb6-4ac4-9082-f99552fae25c.json,acute myocardial infarction,bromocriptine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20230629_0fd36cb9-c4f6-4167-93c9-8530865db3f9.json,acute myocardial infarction,darbepoetin alfa,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240210_ba02a95d-d82e-4a13-90b4-a219abc0249a.json,acute myocardial infarction,desipramine,1,1
+,acute myocardial infarction,diflunisal,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20231014_1a2c0a9a-c637-4485-ad4b-0b6d0b05fa20.json,acute myocardial infarction,dipyridamole,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231220_fd427d2d-b78b-412a-9c80-606bc88ad112.json,acute myocardial infarction,eletriptan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_9d88f915-13dd-5463-e053-2a95a90a09bf.json,acute myocardial infarction,enalaprilat,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231102_0c721ba4-ae19-417f-aae1-221ed1a0866a.json,acute myocardial infarction,epoetin alfa,1,1
+./data/2024_latest_labels/train_xml/20231130_02c91fba-9c47-43ef-ac78-e82369798834.json,acute myocardial infarction,estradiol,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_6c5c47ab-28ee-11e1-bfc2-0800200c9a66.json,acute myocardial infarction,estradiol,1,1
+,acute myocardial infarction,"estrogens, conjugated (usp)",0,1
+./data/2024_latest_labels/latest_labels_ingredients/20120328_03cdbf5b-b572-448f-80e9-b3e812959901.json,acute myocardial infarction,estropipate,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240220_113558e6-8b45-cdbd-e063-6394a90ac036.json,acute myocardial infarction,etodolac,1,1
+,acute myocardial infarction,factor viia,0,1
+,acute myocardial infarction,fenoprofen,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240128_c27f2d57-4b9d-4b78-8d85-3bac84f733b1.json,acute myocardial infarction,flurbiprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240104_03a58215-dba7-4f63-8b98-d74d054a574a.json,acute myocardial infarction,frovatriptan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_18bbd246-5709-4477-b10a-f811f3801962.json,acute myocardial infarction,imipramine,1,1
+,acute myocardial infarction,indomethacin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_9bf86115-8c8d-48f4-9cbe-7709c5ca0d0f.json,acute myocardial infarction,ketoprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_f47d4365-40a8-445b-99cd-49edad6a8ffc.json,acute myocardial infarction,ketorolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240104_baac91ad-f8ee-4694-89f8-5c47a8eda39a.json,acute myocardial infarction,moexipril,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240214_0653b873-b74b-4ec6-b112-675760703d91.json,acute myocardial infarction,nabumetone,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231219_93b7e6c2-e6a7-4f6b-9ecd-62d6bb0a6dda.json,acute myocardial infarction,naratriptan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240217_51cdb22b-035f-47d7-8048-38006e2589f2.json,acute myocardial infarction,nifedipine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_4442f029-dd5e-4834-9b01-eb8c638ce4b1.json,acute myocardial infarction,nortriptyline,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231207_26eb95ba-1f77-4496-a6ea-92bd63a40a3e.json,acute myocardial infarction,oxaprozin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240113_7ee820e4-a479-4b7d-8730-101ac1f8015c.json,acute myocardial infarction,piroxicam,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240222_222f77ff-d3f7-40f9-989c-e5902f44ef1e.json,acute myocardial infarction,rizatriptan,1,1
+,acute myocardial infarction,salsalate,0,1
+,acute myocardial infarction,sulindac,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240222_584abe73-8290-4484-ff8e-5890831c095e.json,acute myocardial infarction,sumatriptan,1,1
+,acute myocardial infarction,tolmetin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_b8d657ac-dbda-4455-8bb5-3896951c3b67.json,acute myocardial infarction,zolmitriptan,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_9c9d9f5c-bfd1-4e2a-be4a-697344ca6833.json,gi bleed,citalopram,1,1
+,gi bleed,clindamycin,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240222_cee5b232-0464-4697-93ef-77e044c83776.json,gi bleed,clopidogrel,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240210_666f89b4-fd81-420a-a390-eb1cd4014f61.json,gi bleed,diflunisal,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_5108ca9c-b307-4cb2-8ea1-6553764f375a.json,gi bleed,escitalopram,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240220_113558e6-8b45-cdbd-e063-6394a90ac036.json,gi bleed,etodolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231115_f9c6fd52-6e28-482c-8b76-bd111760a34c.json,gi bleed,fenoprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_24926986-7552-4f1a-8366-f035bbd07104.json,gi bleed,fluoxetine,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240128_c27f2d57-4b9d-4b78-8d85-3bac84f733b1.json,gi bleed,flurbiprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_b81c6495-8b30-41ef-8a0f-4cbfd87f1eb4.json,gi bleed,ibuprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240222_bf93022c-a965-49c5-a852-c59e580d7d91.json,gi bleed,indomethacin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_9bf86115-8c8d-48f4-9cbe-7709c5ca0d0f.json,gi bleed,ketoprofen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240206_f47d4365-40a8-445b-99cd-49edad6a8ffc.json,gi bleed,ketorolac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240120_d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f.json,gi bleed,mefenamate,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_4911f343-68e6-71b0-e054-00144ff8d46c.json,gi bleed,meloxicam,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240214_0653b873-b74b-4ec6-b112-675760703d91.json,gi bleed,nabumetone,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240224_ccd95dfc-9236-4707-a715-6a12c91519ff.json,gi bleed,naproxen,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20231207_26eb95ba-1f77-4496-a6ea-92bd63a40a3e.json,gi bleed,oxaprozin,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240113_7ee820e4-a479-4b7d-8730-101ac1f8015c.json,gi bleed,piroxicam,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20240223_25c2b417-eeea-4ba6-8eb9-a7d8a08c6093.json,gi bleed,potassium chloride,1,1
+,gi bleed,sertraline,0,1
+./data/2024_latest_labels/latest_labels_ingredients/20240126_1fffe88d-50c8-45cf-ac7c-a62b665c89a8.json,gi bleed,sulindac,1,1
+./data/2024_latest_labels/latest_labels_ingredients/20230713_740a0f37-aa95-4558-b415-be516b8c40a3.json,gi bleed,tolmetin,1,1
+,gi bleed,valdecoxib,0,1

@@ -12,107 +12,83 @@ library(cowplot)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
-adr_condition_name %>%
-  filter(!is.na(condition_name)) %>%
-  group_by(condition_name) %>% 
-  left_join(pryan_set, by = c(
-    'condition_name'='condition_name',
-    'cohort_id'='cohort_id',
-    'ingredients_names'='drug_name'
-  )) %>% 
-  replace_na(list('affect' = 0)) %>%
-write_csv('setIDs_with_adrs_from_reference.csv')
-```
 
-```{r}
-adr_condition_name %>%
-  filter(!is.na(condition_name)) %>%
-  group_by(condition_name) %>% 
-  left_join(pryan_set, by = c(
-    'condition_name'='condition_name',
-    'cohort_id'='cohort_id',
-    'ingredients_names'='drug_name'
-  )) %>% 
-  replace_na(list('affect' = 0)) %>% head()
-```
+## Get Data
 
-```{r}
-adr_condition_name %>% distinct(pt_meddra_term) %>% dim()
-```
-
-
-
-```{r}
-pryan_set <- read_csv('data/pryan_reference_set_ades.csv') %>% 
-        filter(affect == 1) %>%
-        mutate(drug_name = str_to_lower(drug_name),
-               condition_name = str_to_lower(condition_name),
-               drug_name = ifelse(drug_name == 'olmesartan medoxomil', 'olmesartan', drug_name))      
-pryan_set %>% head()
-pryan_set %>% filter(affect == 1) %>% group_by(condition_name) %>% summarise(n_distinct(drug_concept_id))
-```
-
-```{r}
-pryan_set %>% 
-  inner_join(meddra_reference_map) %>% 
-  # 10038435	renal failure
-  head()
-```
-
-```{r}
-onsides_latest_release = read_csv('./data/adverse_reactions_active_labels.csv.gz') %>%
-              filter(num_ingredients == 1,!is.na(ingredients_names)) %>%
-              mutate(pt_meddra_term = str_to_lower(pt_meddra_term), 
-                     ingredients_names = str_to_lower(ingredients_names))
-onsides_latest_release %>% head()
-```
-
-
-```{r}
-pryan_set %>% 
-  inner_join(meddra_reference_map) %>% 
-  full_join(temp) %>%
-  write_csv('data/labels_with_reference_ADRs.csv')
-```
-
+### OnSIDES data and meddra PT mapping
 
 ```{r}
 adr_section %>% head()
-```
-
-
-```{r}
-adr_section = read_csv('./data/adverse_reactions_active_labels.csv.gz') %>%
+adr_section = read_csv('../data/adverse_reactions_active_labels.csv.gz') %>%
               filter(num_ingredients == 1)
-meddra_reference_map <- read_csv('./data/mapping_reference.csv') %>%
-      mutate(concept_name = str_to_lower(concept_name),
-             condition_name = str_to_lower(condition_name))
+# updated meddra mapping
+meddra_reference_map <- read_csv('../data/gpt_annot_votes_isa.csv') %>%
+      mutate(condition_name = case_when(condition_name == 'AKI' ~ 'acute kidney injury',
+                                        condition_name == 'ALI' ~ 'acute liver injury',
+                                        condition_name == 'AMI' ~ 'acute myocardial infarction',
+                                        condition_name == 'GIB' ~ 'gi bleed'),
+             meddra_term = str_to_lower(meddra_term))
 adr_condition_name = adr_section %>%
     mutate(pt_meddra_term = str_to_lower(pt_meddra_term)) %>%
     left_join(
-      meddra_reference_map, by = c('pt_meddra_id' = 'meddra_pt')
+      meddra_reference_map, by = c('pt_meddra_id' = 'meddra_pt_id')
       ) %>%
   filter(!is.na(ingredients_names)) %>%
-  select(condition_name, cohort_id, pt_meddra_term, pt_meddra_id, ingredients_names, ingredients_rxcuis, set_id) %>%
+  select(condition_name, pt_meddra_term, pt_meddra_id, ingredients_names, ingredients_rxcuis, set_id) %>%
   distinct() %>%
   mutate(ingredients_names = str_to_lower(ingredients_names))
 adr_condition_name %>% head
 ```
 
-```{r}
-reference_set = read_csv('data/reference_set_labels.csv') %>%
-    select(-sections) %>%
-    mutate(drug_name = str_to_lower(drug_name), 
-           condition_name = str_to_lower(condition_name),
-           )
-reference_set %>% head(1)
-```
+### Ryan et al Reference Set
 
 ```{r}
+pryan_set <- read_csv('../data/pryan_reference_set_ades.csv') %>% 
+        mutate(drug_name = str_to_lower(drug_name),
+               condition_name = str_to_lower(condition_name),
+               drug_name = ifelse(drug_name == 'olmesartan medoxomil', 'olmesartan', drug_name))      
 pryan_set %>% filter(affect == 1) %>% group_by(condition_name) %>% summarise(n_distinct(drug_concept_id))
 ```
 
+
+### GPT response
+
+```{r}
+results <- read_csv('../results/agreement/pharmaco-expert_adverse-reaction_run1.csv') %>%
+            mutate(response = grepl('true', gpt_output, ignore.case = TRUE))
+results %>% head()
+results
+```
+
+
+
+**Drugs from Reference Set not included in OnSIDES**
+```{r}
+not_in_onsides <- setdiff(unique(pryan_set$drug_name), unique(adr_condition_name$ingredients_names))
+```
+
+```{r}
+remove_positive_controls <- adr_condition_name %>%
+  filter(!is.na(condition_name)) %>%
+  full_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  filter(affect == 1, is.na(ingredients_rxcuis)) %>%
+  distinct(condition_name, ingredients_names)
+```
+
+```{r}
+remove_drugs <- adr_condition_name %>%
+  filter(!is.na(condition_name)) %>%
+  full_join(pryan_set, by = c('condition_name', 'ingredients_names'='drug_name')) %>%
+  filter(affect == 0) %>% distinct(condition_name, ingredients_names)
+```
+
+```{r}
+pryan_set %>% 
+  anti_join(remove_positive_controls, by = c('condition_name', 'drug_name'='ingredients_names'))
+```
+
+
+## Analysis
 
 ```{r}
 adr_condition_name %>%
@@ -152,13 +128,6 @@ onsides_latest_release %>%
 
 ```
 
-
-```{r}
-results <- read_csv('pharmaco-expert_adverse-reaction_run1.csv') %>%
-            mutate(response = grepl('true', gpt_output, ignore.case = TRUE))
-results %>% head()
-results
-```
 
 ```{r}
 reference_set %>% 

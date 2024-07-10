@@ -1,0 +1,12 @@
+condition_name,affect,unique_drugs
+acute kidney injury,,349
+acute kidney injury,0,2
+acute kidney injury,1,23
+acute liver injury,,389
+acute liver injury,0,2
+acute liver injury,1,59
+acute myocardial infarction,,233
+acute myocardial infarction,1,28
+gi bleed,,182
+gi bleed,0,2
+gi bleed,1,21
