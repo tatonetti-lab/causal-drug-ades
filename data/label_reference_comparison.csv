@@ -1,5 +1,5 @@
 condition_name,labels,reference,missed
-acute liver injury,59,81,22
-acute myocardial infarction,29,37,8
-gi bleed,21,24,3
 acute kidney injury,23,24,1
+acute liver injury,60,81,21
+acute myocardial infarction,35,37,2
+gi bleed,21,24,3
