@@ -1,0 +1,68 @@
+---
+title: "classifier_performance"
+author: "undina"
+date: "2024-07-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(cowplot)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Get Performance
+
+```{r}
+gpt35_rag <- read_csv('../results/classifier_rag_gpt35_perform.csv')
+gpt35_rag %>% head()
+
+gpt35_rag %>% 
+  ggplot(mapping = aes(x = model, y = hold_roc_auc, fill = sections)) +
+  geom_boxplot() +
+  geom_hline(yintercept = 0.9, linetype = 'dashed') + 
+  theme_cowplot() +
+  facet_wrap(~embed_model) + 
+  ylim(0,1)
+```
+
+
+```{r}
+perform_gpt35 <- read_csv('../results/classifier_gpt35_perform.csv') %>% mutate(sections = 'all') %>% 
+                bind_rows(gpt35_rag %>% 
+                            filter(sections == 'WP'))
+perform_gpt35 %>% head()
+```
+
+
+```{r}
+perform_rag <- read_csv('../results/classifier_rag_perform.csv') %>% mutate(gpt_model = 'gpt-4')
+perform_rag
+```
+
+
+```{r}
+performance <- read_csv('../results/classifier_perform.csv') %>% mutate('embed_model' = 'ember-v1',
+                                                                        'gpt_model' = 'gpt-4')
+perform_SFR <- read_csv('../results/classifier_SFR_perform.csv') %>% mutate('embed_model' = 'SFR-Embedding-Mistral',
+                                                                            'gpt_model' = 'gpt-4')
+performance <- performance %>% bind_rows(perform_SFR) %>% bind_rows(perform_rag) 
+performance %>% head()
+```
+
+```{r,fig.width=10, fig.height=12}
+performance %>% mutate(sections = 'all') %>%
+  rbind(perform_gpt35) %>%
+ggplot(mapping = aes(x = mode, y = hold_roc_auc, fill = model)) +
+  geom_boxplot() +
+  geom_hline(yintercept = 0.9, linetype = 'dashed') + 
+  theme_cowplot() +
+  facet_wrap(~gpt_model + embed_model) + 
+  ylim(0,1)
+```
+
+
+

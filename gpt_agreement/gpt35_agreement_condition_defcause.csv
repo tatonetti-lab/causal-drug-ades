@@ -1,0 +1,1248 @@
+,ingredient_name,pt_meddra_term,condition_name,affect,gpt_output,response
+0,isotretinoin,hepatotoxicity,acute liver injury,0.0,false,false
+1,carvedilol,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+2,propafenone,hepatic enzyme increased,acute liver injury,0.0,false,false
+3,valproate,haematemesis,gi bleed,0.0,False,false
+4,omeprazole,hepatic necrosis,acute liver injury,0.0,false,false
+5,nisoldipine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+6,quinapril,myocardial infarction,acute myocardial infarction,0.0,false,false
+7,quinapril,renal failure,acute kidney injury,0.0,false,false
+8,caffeine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+9,nicardipine,myocardial infarction,acute myocardial infarction,0.0,false,false
+10,celecoxib,myocardial infarction,acute myocardial infarction,0.0,false,false
+11,azithromycin,hepatic failure,acute liver injury,0.0,false,false
+12,piroxicam,renal failure,acute kidney injury,1.0,false,false
+13,ciprofloxacin,myocardial infarction,acute myocardial infarction,0.0,false,false
+14,bupropion,myocardial infarction,acute myocardial infarction,0.0,false,false
+15,bupropion,liver injury,acute liver injury,0.0,false,false
+16,clopidogrel,acute kidney injury,acute kidney injury,0.0,false,false
+17,venlafaxine,haematemesis,gi bleed,0.0,False,false
+18,memantine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+19,fluoxetine,haematemesis,gi bleed,1.0,false,false
+20,fluoxetine,liver function test abnormal,acute liver injury,0.0,false,false
+21,fluoxetine,myocardial infarction,acute myocardial infarction,0.0,false,false
+22,cilostazol,haematemesis,gi bleed,0.0,false,false
+23,cilostazol,myocardial infarction,acute myocardial infarction,0.0,false,false
+24,tramadol,hepatic failure,acute liver injury,0.0,false,false
+25,metoclopramide,hepatotoxicity,acute liver injury,0.0,false,false
+26,capecitabine,renal impairment,acute kidney injury,0.0,false,false
+27,stavudine,hepatic failure,acute liver injury,1.0,false,false
+28,lorazepam,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+29,etravirine,hepatic failure,acute liver injury,0.0,false,false
+30,didanosine,hepatic failure,acute liver injury,1.0,false,false
+31,ketorolac,hepatic enzyme increased,acute liver injury,1.0,false,false
+32,guanfacine,liver function test abnormal,acute liver injury,0.0,false,false
+33,lansoprazole,myocardial infarction,acute myocardial infarction,0.0,false,false
+34,eszopiclone,liver injury,acute liver injury,0.0,false,false
+35,lamotrigine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+36,lamotrigine,renal failure,acute kidney injury,0.0,false,false
+37,eletriptan,haematemesis,gi bleed,0.0,False,false
+38,donepezil,myocardial infarction,acute myocardial infarction,0.0,false,false
+39,rifabutin,hepatic enzyme increased,acute liver injury,0.0,false,false
+40,linezolid,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+41,balsalazide,hepatotoxicity,acute liver injury,0.0,false,false
+42,methyldopa,liver function test abnormal,acute liver injury,1.0,false,false
+43,fluvastatin,acute kidney injury,acute kidney injury,0.0,false,false
+44,rosuvastatin,hepatic enzyme increased,acute liver injury,0.0,false,false
+45,cyclosporine,hepatocellular injury,acute liver injury,1.0,false,false
+46,cyclosporine,hepatotoxicity,acute liver injury,1.0,False,false
+47,valacyclovir,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+48,oseltamivir,liver function test abnormal,acute liver injury,0.0,False,false
+49,erlotinib,acute kidney injury,acute kidney injury,0.0,false,false
+50,escitalopram,hepatic failure,acute liver injury,0.0,false,false
+51,anagrelide,renal impairment,acute kidney injury,0.0,false,false
+52,epoetin alfa,myocardial infarction,acute myocardial infarction,1.0,false,false
+53,efavirenz,hepatic failure,acute liver injury,1.0,false,false
+54,fluvastatin,hepatic failure,acute liver injury,0.0,false,false
+55,venlafaxine,liver function test abnormal,acute liver injury,0.0,false,false
+56,ursodeoxycholate,liver function test abnormal,acute liver injury,0.0,False,false
+57,ethacrynate,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+58,griseofulvin,hepatic enzyme increased,acute liver injury,0.0,false,false
+59,fenoprofen,hepatotoxicity,acute liver injury,0.0,false,false
+60,olmesartan,myocardial infarction,acute myocardial infarction,0.0,false,false
+61,celecoxib,hepatotoxicity,acute liver injury,1.0,false,false
+62,mitomycin,renal failure,acute kidney injury,0.0,false,false
+63,albendazole,liver function test abnormal,acute liver injury,0.0,false,false
+64,ifosfamide,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+65,vancomycin,acute kidney injury,acute kidney injury,0.0,false,false
+66,dolutegravir,acute hepatic failure,acute liver injury,0.0,false,false
+67,imatinib,hepatotoxicity,acute liver injury,1.0,false,false
+68,docetaxel,renal failure,acute kidney injury,0.0,false,false
+69,tolcapone,acute hepatic failure,acute liver injury,1.0,True,true
+70,daptomycin,liver function test abnormal,acute liver injury,0.0,false,false
+71,rivaroxaban,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+72,cyclosporine,liver injury,acute liver injury,1.0,false,false
+73,aminophylline,haematemesis,gi bleed,0.0,false,false
+74,dexmethylphenidate,myocardial infarction,acute myocardial infarction,0.0,false,false
+75,inotuzumab ozogamicin,hepatocellular injury,acute liver injury,0.0,false,false
+76,inotuzumab ozogamicin,hepatotoxicity,acute liver injury,0.0,false,false
+77,deferasirox,liver injury,acute liver injury,0.0,false,false
+78,methohexital,liver function test abnormal,acute liver injury,0.0,false,false
+79,liraglutide,renal impairment,acute kidney injury,0.0,false,false
+80,mefenamate,hepatic failure,acute liver injury,0.0,false,false
+81,allopurinol,hepatotoxicity,acute liver injury,1.0,false,false
+82,cysteamine,renal failure,acute kidney injury,0.0,false,false
+83,lomitapide,hepatotoxicity,acute liver injury,0.0,false,false
+84,bendamustine,hepatotoxicity,acute liver injury,0.0,false,false
+85,lenalidomide,liver function test abnormal,acute liver injury,0.0,false,false
+86,secnidazole,hepatic failure,acute liver injury,0.0,False,false
+87,bosutinib,hepatotoxicity,acute liver injury,0.0,false,false
+88,bosutinib,hepatic enzyme increased,acute liver injury,0.0,false,false
+89,bosutinib,liver injury,acute liver injury,0.0,false,false
+90,tivozanib,haematemesis,gi bleed,0.0,false,false
+91,selpercatinib,haematemesis,gi bleed,0.0,False,false
+92,goserelin,haematemesis,gi bleed,0.0,False,false
+93,sulfasalazine,liver function test abnormal,acute liver injury,0.0,false,false
+94,nintedanib,liver function test abnormal,acute liver injury,0.0,false,false
+95,ponatinib,hepatotoxicity,acute liver injury,0.0,false,false
+96,tolvaptan,liver injury,acute liver injury,0.0,false,false
+97,ixazomib,hepatotoxicity,acute liver injury,0.0,false,false
+98,radium,renal failure,acute kidney injury,0.0,false,false
+99,certolizumab pegol,myocardial infarction,acute myocardial infarction,0.0,false,false
+100,elotuzumab,acute kidney injury,acute kidney injury,0.0,false,false
+101,belatacept,renal impairment,acute kidney injury,0.0,false,false
+102,ixabepilone,acute hepatic failure,acute liver injury,0.0,false,false
+103,trastuzumab,acute hepatic failure,acute liver injury,0.0,false,false
+104,saxagliptin,acute kidney injury,acute kidney injury,0.0,false,false
+105,dasatinib,hepatotoxicity,acute liver injury,0.0,false,false
+106,posaconazole,renal failure,acute kidney injury,0.0,false,false
+107,thalidomide,renal failure,acute kidney injury,0.0,false,false
+108,thalidomide,acute kidney injury,acute kidney injury,0.0,false,false
+109,relugolix,myocardial infarction,acute myocardial infarction,0.0,False,false
+110,adalimumab,hepatic failure,acute liver injury,0.0,false,false
+111,adalimumab,hepatic necrosis,acute liver injury,0.0,false,false
+112,niraparib,acute kidney injury,acute kidney injury,0.0,false,false
+113,atezolizumab,acute kidney injury,acute kidney injury,0.0,false,false
+114,melphalan,hepatotoxicity,acute liver injury,0.0,false,false
+115,durvalumab,hepatotoxicity,acute liver injury,0.0,false,false
+116,ipilimumab,hepatic failure,acute liver injury,0.0,false,false
+117,isopropyl alcohol,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+118,eltrombopag,acute kidney injury,acute kidney injury,0.0,false,false
+119,levomilnacipran,liver function test abnormal,acute liver injury,0.0,false,false
+120,cabozantinib,hepatotoxicity,acute liver injury,0.0,false,false
+121,cabozantinib,renal failure,acute kidney injury,0.0,false,false
+122,aldesleukin,hepatic failure,acute liver injury,0.0,False,false
+123,axitinib,acute kidney injury,acute kidney injury,0.0,false,false
+124,encorafenib,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+125,ketorolac,renal impairment,acute kidney injury,1.0,false,false
+126,cidofovir,renal impairment,acute kidney injury,0.0,false,false
+127,metformin,renal impairment,acute kidney injury,0.0,false,false
+128,sparsentan,hepatic failure,acute liver injury,0.0,false,false
+129,enalaprilat,myocardial infarction,acute myocardial infarction,1.0,false,false
+130,nitrofurantoin,hepatic necrosis,acute liver injury,1.0,false,false
+131,ibuprofen,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+132,gabapentin,haematemesis,gi bleed,0.0,false,false
+133,gabapentin,acute kidney injury,acute kidney injury,0.0,false,false
+134,testosterone,renal impairment,acute kidney injury,0.0,False,false
+135,celecoxib,acute kidney injury,acute kidney injury,0.0,false,false
+136,propoxyphene,hepatocellular injury,acute liver injury,0.0,false,false
+137,sumatriptan,liver function test abnormal,acute liver injury,0.0,false,false
+138,azithromycin,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+139,alfuzosin,renal impairment,acute kidney injury,0.0,false,false
+140,topiramate,hepatic failure,acute liver injury,0.0,false,false
+141,memantine,myocardial infarction,acute myocardial infarction,0.0,false,false
+142,misoprostol,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+143,fluoxetine,renal failure,acute kidney injury,0.0,false,false
+144,frovatriptan,myocardial infarction,acute myocardial infarction,1.0,false,false
+145,modafinil,hepatic enzyme increased,acute liver injury,0.0,false,false
+146,captopril,renal failure,acute kidney injury,1.0,false,false
+147,didanosine,acute kidney injury,acute kidney injury,0.0,false,false
+148,aripiprazole,hepatic enzyme increased,acute liver injury,0.0,false,false
+149,guanfacine,acute kidney injury,acute kidney injury,0.0,false,false
+150,lansoprazole,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+151,lansoprazole,haematemesis,gi bleed,0.0,False,false
+152,lansoprazole,renal impairment,acute kidney injury,0.0,false,false
+153,etodolac,renal impairment,acute kidney injury,1.0,false,false
+154,ibuprofen,hepatic enzyme increased,acute liver injury,1.0,false,false
+155,ropinirole,haematemesis,gi bleed,0.0,False,false
+156,labetalol,hepatic necrosis,acute liver injury,0.0,false,false
+157,risedronate,liver function test abnormal,acute liver injury,0.0,False,false
+158,sildenafil,liver function test abnormal,acute liver injury,0.0,false,false
+159,eletriptan,myocardial infarction,acute myocardial infarction,1.0,false,false
+160,nadolol,hepatic enzyme increased,acute liver injury,0.0,false,false
+161,eplerenone,hepatic failure,acute liver injury,0.0,false,false
+162,bupropion,hepatotoxicity,acute liver injury,0.0,false,false
+163,trifluoperazine,liver injury,acute liver injury,0.0,false,false
+164,diflunisal,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+165,atenolol,acute kidney injury,acute kidney injury,0.0,false,false
+166,prednisone,renal failure,acute kidney injury,0.0,false,false
+167,auranofin,hepatic enzyme increased,acute liver injury,0.0,false,false
+168,irbesartan,renal failure,acute kidney injury,0.0,false,false
+169,famciclovir,liver function test abnormal,acute liver injury,0.0,false,false
+170,dronedarone,liver injury,acute liver injury,0.0,false,false
+171,erlotinib,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+172,nafcillin,renal failure,acute kidney injury,0.0,false,false
+173,dexlansoprazole,liver function test abnormal,acute liver injury,0.0,false,false
+174,estropipate,myocardial infarction,acute myocardial infarction,1.0,false,false
+175,sitagliptin,renal impairment,acute kidney injury,0.0,false,false
+176,telavancin,acute kidney injury,acute kidney injury,0.0,false,false
+177,ganciclovir,renal failure,acute kidney injury,0.0,false,false
+178,itraconazole,hepatic enzyme increased,acute liver injury,1.0,false,false
+179,acamprosate,haematemesis,gi bleed,0.0,False,false
+180,meropenem,renal failure,acute kidney injury,0.0,false,false
+181,ibandronate,acute kidney injury,acute kidney injury,0.0,false,false
+182,cisplatin,acute kidney injury,acute kidney injury,0.0,true,true
+183,ifosfamide,hepatotoxicity,acute liver injury,0.0,false,false
+184,temsirolimus,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+185,azacitidine,hepatotoxicity,acute liver injury,0.0,false,false
+186,voriconazole,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+187,voriconazole,hepatic enzyme increased,acute liver injury,1.0,false,false
+188,nafcillin,acute kidney injury,acute kidney injury,0.0,false,false
+189,docetaxel,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+190,sufentanil,renal failure,acute kidney injury,0.0,false,false
+191,famotidine,hepatic enzyme increased,acute liver injury,0.0,false,false
+192,sodium tetradecyl sulfate,myocardial infarction,acute myocardial infarction,0.0,False,false
+193,eptifibatide,haematemesis,gi bleed,0.0,false,false
+194,vinblastine,myocardial infarction,acute myocardial infarction,0.0,false,false
+195,cefoxitin,renal impairment,acute kidney injury,0.0,false,false
+196,zileuton,hepatotoxicity,acute liver injury,0.0,false,false
+197,cyclophosphamide,myocardial infarction,acute myocardial infarction,0.0,false,false
+198,cyclophosphamide,renal impairment,acute kidney injury,0.0,false,false
+199,micafungin,myocardial infarction,acute myocardial infarction,0.0,false,false
+200,cefuroxime,myocardial infarction,acute myocardial infarction,0.0,false,false
+201,methyltestosterone,myocardial infarction,acute myocardial infarction,0.0,False,false
+202,alirocumab,hepatic enzyme increased,acute liver injury,0.0,false,false
+203,liraglutide,acute kidney injury,acute kidney injury,0.0,false,false
+204,sunitinib,renal failure,acute kidney injury,0.0,false,false
+205,hydroxocobalamin,renal impairment,acute kidney injury,0.0,false,false
+206,pentostatin,renal failure,acute kidney injury,0.0,false,false
+207,adenosine,myocardial infarction,acute myocardial infarction,0.0,false,false
+208,tinidazole,hepatotoxicity,acute liver injury,0.0,false,false
+209,naratriptan,myocardial infarction,acute myocardial infarction,1.0,false,false
+210,sirolimus,liver function test abnormal,acute liver injury,0.0,false,false
+211,tretinoin,myocardial infarction,acute myocardial infarction,0.0,false,false
+212,delafloxacin,renal impairment,acute kidney injury,0.0,false,false
+213,everolimus,haematemesis,gi bleed,0.0,False,false
+214,bendamustine,myocardial infarction,acute myocardial infarction,0.0,false,false
+215,17-alpha-hydroxyprogesterone,myocardial infarction,acute myocardial infarction,0.0,False,false
+216,amphetamine,myocardial infarction,acute myocardial infarction,0.0,false,false
+217,roflumilast,acute kidney injury,acute kidney injury,0.0,false,false
+218,bosutinib,hepatocellular injury,acute liver injury,0.0,false,false
+219,bosutinib,liver function test abnormal,acute liver injury,0.0,false,false
+220,bosutinib,acute kidney injury,acute kidney injury,0.0,false,false
+221,tivozanib,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+222,tivozanib,myocardial infarction,acute myocardial infarction,0.0,false,false
+223,omacetaxine mepesuccinate,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+224,pexidartinib,hepatotoxicity,acute liver injury,0.0,false,false
+225,ropeginterferon alfa-2b,hepatotoxicity,acute liver injury,0.0,false,false
+226,carfilzomib,renal impairment,acute kidney injury,0.0,false,false
+227,everolimus,myocardial infarction,acute myocardial infarction,0.0,false,false
+228,regorafenib,hepatotoxicity,acute liver injury,0.0,false,false
+229,balsalazide,renal impairment,acute kidney injury,0.0,false,false
+230,daratumumab,renal failure,acute kidney injury,0.0,false,false
+231,ixabepilone,renal failure,acute kidney injury,0.0,false,false
+232,tucatinib,hepatotoxicity,acute liver injury,0.0,false,false
+233,dotatate,hepatotoxicity,acute liver injury,0.0,false,false
+234,lorlatinib,hepatotoxicity,acute liver injury,0.0,false,false
+235,pomalidomide,hepatotoxicity,acute liver injury,0.0,false,false
+236,pomalidomide,renal failure,acute kidney injury,0.0,false,false
+237,pomalidomide,hepatic enzyme increased,acute liver injury,0.0,false,false
+238,adalimumab,myocardial infarction,acute myocardial infarction,0.0,false,false
+239,epcoritamab,hepatotoxicity,acute liver injury,0.0,false,false
+240,macitentan,hepatic failure,acute liver injury,0.0,false,false
+241,ipilimumab,hepatocellular injury,acute liver injury,0.0,false,false
+242,nilotinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+243,isopropyl alcohol,acute hepatic failure,acute liver injury,0.0,false,false
+244,cabazitaxel,renal failure,acute kidney injury,0.0,false,false
+245,eltrombopag,hepatotoxicity,acute liver injury,0.0,false,false
+246,ceritinib,renal failure,acute kidney injury,0.0,false,false
+247,trastuzumab,liver function test abnormal,acute liver injury,0.0,false,false
+248,cabozantinib,acute kidney injury,acute kidney injury,0.0,false,false
+249,crizotinib,hepatic failure,acute liver injury,0.0,false,false
+250,avelumab,hepatotoxicity,acute liver injury,0.0,false,false
+251,avelumab,renal failure,acute kidney injury,0.0,false,false
+252,avelumab,hepatic enzyme increased,acute liver injury,0.0,false,false
+253,binimetinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+254,gallium,renal failure,acute kidney injury,0.0,false,false
+255,tolcapone,hepatic failure,acute liver injury,1.0,false,false
+256,meclofenamate,myocardial infarction,acute myocardial infarction,0.0,false,false
+257,abrocitinib,myocardial infarction,acute myocardial infarction,0.0,False,false
+258,pazopanib,hepatotoxicity,acute liver injury,0.0,false,false
+259,irbesartan,acute kidney injury,acute kidney injury,0.0,false,false
+260,dantrolene,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+261,dantrolene,renal failure,acute kidney injury,0.0,false,false
+262,busulfan,haematemesis,gi bleed,0.0,false,false
+263,enalaprilat,renal failure,acute kidney injury,1.0,false,false
+264,verapamil,hepatic enzyme increased,acute liver injury,0.0,false,false
+265,clarithromycin,hepatic failure,acute liver injury,0.0,false,false
+266,nisoldipine,myocardial infarction,acute myocardial infarction,0.0,false,false
+267,quinapril,liver function test abnormal,acute liver injury,1.0,false,false
+268,quinapril,acute kidney injury,acute kidney injury,0.0,false,false
+269,clopidogrel,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+270,diltiazem,myocardial infarction,acute myocardial infarction,0.0,false,false
+271,naproxen,renal failure,acute kidney injury,1.0,false,false
+272,paroxetine,liver function test abnormal,acute liver injury,0.0,false,false
+273,mesalamine,hepatocellular injury,acute liver injury,0.0,False,false
+274,tadalafil,myocardial infarction,acute myocardial infarction,0.0,false,false
+275,capecitabine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+276,capecitabine,liver function test abnormal,acute liver injury,0.0,false,false
+277,enalapril,renal failure,acute kidney injury,0.0,false,false
+278,etravirine,haematemesis,gi bleed,0.0,False,false
+279,etravirine,myocardial infarction,acute myocardial infarction,0.0,false,false
+280,indinavir,acute kidney injury,acute kidney injury,0.0,false,false
+281,sodium phosphate,acute kidney injury,acute kidney injury,0.0,false,false
+282,salmon calcitonin,myocardial infarction,acute myocardial infarction,0.0,False,false
+283,guanfacine,myocardial infarction,acute myocardial infarction,0.0,false,false
+284,pramipexole,haematemesis,gi bleed,0.0,false,false
+285,etodolac,haematemesis,gi bleed,1.0,false,false
+286,rasagiline,acute kidney injury,acute kidney injury,0.0,false,false
+287,lamotrigine,acute kidney injury,acute kidney injury,0.0,false,false
+288,febuxostat,renal failure,acute kidney injury,0.0,false,false
+289,febuxostat,renal impairment,acute kidney injury,0.0,false,false
+290,zonisamide,haematemesis,gi bleed,0.0,False,false
+291,fentanyl,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+292,fentanyl,renal failure,acute kidney injury,0.0,false,false
+293,dabigatran etexilate,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+294,pregabalin,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+295,oxcarbazepine,liver function test abnormal,acute liver injury,0.0,false,false
+296,propylthiouracil,acute kidney injury,acute kidney injury,0.0,false,false
+297,erlotinib,hepatic failure,acute liver injury,0.0,false,false
+298,exenatide,acute kidney injury,acute kidney injury,0.0,false,false
+299,telithromycin,hepatic necrosis,acute liver injury,0.0,false,false
+300,desvenlafaxine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+301,desvenlafaxine,myocardial infarction,acute myocardial infarction,0.0,false,false
+302,cefditoren,renal impairment,acute kidney injury,0.0,false,false
+303,sitagliptin,acute kidney injury,acute kidney injury,0.0,false,false
+304,gemcitabine,myocardial infarction,acute myocardial infarction,0.0,false,false
+305,ganciclovir,hepatic failure,acute liver injury,0.0,false,false
+306,aspirin,renal failure,acute kidney injury,0.0,false,false
+307,entecavir,renal failure,acute kidney injury,0.0,false,false
+308,meloxicam,hepatotoxicity,acute liver injury,0.0,false,false
+309,ticlopidine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+310,acamprosate,myocardial infarction,acute myocardial infarction,0.0,false,false
+311,capecitabine,acute kidney injury,acute kidney injury,0.0,false,false
+312,flucytosine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+313,albendazole,renal failure,acute kidney injury,0.0,False,false
+314,ketoconazole,hepatic necrosis,acute liver injury,0.0,false,false
+315,cisplatin,renal failure,acute kidney injury,0.0,true,true
+316,deferoxamine,acute kidney injury,acute kidney injury,0.0,false,false
+317,6-aminocaproic acid,renal failure,acute kidney injury,0.0,false,false
+318,fludarabine,myocardial infarction,acute myocardial infarction,0.0,false,false
+319,voriconazole,haematemesis,gi bleed,0.0,False,false
+320,abiraterone,hepatotoxicity,acute liver injury,0.0,false,false
+321,niacin,liver function test abnormal,acute liver injury,1.0,False,false
+322,sufentanil,hepatic enzyme increased,acute liver injury,0.0,false,false
+323,methotrexate,haematemesis,gi bleed,0.0,False,false
+324,minocycline,hepatic enzyme increased,acute liver injury,0.0,false,false
+325,rivaroxaban,hepatocellular injury,acute liver injury,0.0,false,false
+326,thiotepa,renal failure,acute kidney injury,0.0,false,false
+327,dexmedetomidine,acute kidney injury,acute kidney injury,0.0,false,false
+328,deferasirox,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+329,deferasirox,renal failure,acute kidney injury,0.0,false,false
+330,granisetron,hepatic enzyme increased,acute liver injury,0.0,false,false
+331,micafungin,hepatic failure,acute liver injury,0.0,false,false
+332,mannitol,renal failure,acute kidney injury,0.0,false,false
+333,apixaban,liver function test abnormal,acute liver injury,0.0,false,false
+334,fulvestrant,hepatic enzyme increased,acute liver injury,0.0,false,false
+335,foscarnet,acute kidney injury,acute kidney injury,0.0,false,false
+336,fentanyl,haematemesis,gi bleed,0.0,false,false
+337,gemtuzumab ozogamicin,hepatotoxicity,acute liver injury,0.0,false,false
+338,sunitinib,renal impairment,acute kidney injury,0.0,false,false
+339,infliximab,liver injury,acute liver injury,1.0,false,false
+340,pertuzumab,acute kidney injury,acute kidney injury,0.0,false,false
+341,voriconazole,renal impairment,acute kidney injury,0.0,false,false
+342,sirolimus,hepatotoxicity,acute liver injury,0.0,false,false
+343,fosfomycin,hepatic necrosis,acute liver injury,0.0,false,false
+344,tretinoin,acute kidney injury,acute kidney injury,0.0,false,false
+345,idelalisib,hepatotoxicity,acute liver injury,0.0,false,false
+346,everolimus,renal impairment,acute kidney injury,0.0,false,false
+347,neratinib,renal impairment,acute kidney injury,0.0,false,false
+348,lenalidomide,hepatic failure,acute liver injury,0.0,false,false
+349,afatinib,acute kidney injury,acute kidney injury,0.0,false,false
+350,cladribine,liver injury,acute liver injury,0.0,false,false
+351,clevidipine,acute kidney injury,acute kidney injury,0.0,false,false
+352,alogliptin,acute hepatic failure,acute liver injury,0.0,false,false
+353,carfilzomib,hepatic failure,acute liver injury,0.0,false,false
+354,desflurane,hepatic failure,acute liver injury,0.0,false,false
+355,etoposide,renal failure,acute kidney injury,0.0,false,false
+356,voclosporin,renal failure,acute kidney injury,0.0,false,false
+357,empagliflozin,renal impairment,acute kidney injury,0.0,false,false
+358,olanzapine,hepatic enzyme increased,acute liver injury,0.0,false,false
+359,belatacept,acute kidney injury,acute kidney injury,0.0,False,false
+360,benznidazole,hepatotoxicity,acute liver injury,0.0,false,false
+361,saxagliptin,renal failure,acute kidney injury,0.0,false,false
+362,saxagliptin,renal impairment,acute kidney injury,0.0,false,false
+363,posaconazole,acute kidney injury,acute kidney injury,0.0,false,false
+364,olutasidenib,liver function test abnormal,acute liver injury,0.0,false,false
+365,"lymphocyte immune globulin, anti-thymocyte globulin",myocardial infarction,acute myocardial infarction,0.0,false,false
+366,vipivotide tetraxetan,renal failure,acute kidney injury,0.0,false,false
+367,gilteritinib,hepatic enzyme increased,acute liver injury,0.0,false,false
+368,abemaciclib,renal impairment,acute kidney injury,0.0,false,false
+369,anidulafungin,hepatic enzyme increased,acute liver injury,0.0,false,false
+370,sirolimus,acute kidney injury,acute kidney injury,0.0,false,false
+371,midostaurin,renal failure,acute kidney injury,0.0,false,false
+372,asenapine,hepatic enzyme increased,acute liver injury,0.0,false,false
+373,cobimetinib,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+374,macitentan,hepatotoxicity,acute liver injury,0.0,false,false
+375,3-iodobenzylguanidine,renal failure,acute kidney injury,0.0,false,false
+376,durvalumab,acute kidney injury,acute kidney injury,0.0,false,false
+377,ipilimumab,liver function test abnormal,acute liver injury,0.0,false,false
+378,ipilimumab,renal failure,acute kidney injury,0.0,false,false
+379,agalsidase beta,renal failure,acute kidney injury,0.0,false,false
+380,cisplatin,hepatotoxicity,acute liver injury,0.0,false,false
+381,ponesimod,liver injury,acute liver injury,0.0,false,false
+382,tiotropium,liver function test abnormal,acute liver injury,0.0,false,false
+383,methylene blue,hepatic enzyme increased,acute liver injury,0.0,false,false
+384,ivacaftor,hepatic enzyme increased,acute liver injury,0.0,false,false
+385,dextroamphetamine,myocardial infarction,acute myocardial infarction,0.0,false,false
+386,flutamide,hepatic failure,acute liver injury,1.0,False,false
+387,meloxicam,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+388,meloxicam,myocardial infarction,acute myocardial infarction,0.0,false,false
+389,atenolol,myocardial infarction,acute myocardial infarction,0.0,false,false
+390,nisoldipine,liver function test abnormal,acute liver injury,0.0,false,false
+391,felodipine,myocardial infarction,acute myocardial infarction,0.0,false,false
+392,ibuprofen,liver function test abnormal,acute liver injury,1.0,false,false
+393,estradiol,myocardial infarction,acute myocardial infarction,1.0,false,false
+394,ranitidine,hepatic failure,acute liver injury,0.0,false,false
+395,cyclobenzaprine,myocardial infarction,acute myocardial infarction,0.0,false,false
+396,rosiglitazone,hepatic failure,acute liver injury,0.0,false,false
+397,citalopram,gastrointestinal haemorrhage,gi bleed,1.0,False,false
+398,naproxen,hepatic failure,acute liver injury,1.0,false,false
+399,paroxetine,acute kidney injury,acute kidney injury,0.0,false,false
+400,spironolactone,renal failure,acute kidney injury,0.0,false,false
+401,nabumetone,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+402,nabumetone,renal failure,acute kidney injury,0.0,false,false
+403,ranolazine,renal failure,acute kidney injury,0.0,false,false
+404,quinine,liver function test abnormal,acute liver injury,0.0,false,false
+405,warfarin,hepatic enzyme increased,acute liver injury,0.0,false,false
+406,capecitabine,hepatotoxicity,acute liver injury,0.0,false,false
+407,capecitabine,renal failure,acute kidney injury,0.0,false,false
+408,ribavirin,hepatic failure,acute liver injury,0.0,false,false
+409,enalapril,hepatic failure,acute liver injury,0.0,false,false
+410,captopril,myocardial infarction,acute myocardial infarction,0.0,false,false
+411,zafirlukast,hepatotoxicity,acute liver injury,1.0,false,false
+412,etravirine,acute kidney injury,acute kidney injury,0.0,false,false
+413,cefdinir,myocardial infarction,acute myocardial infarction,0.0,false,false
+414,aripiprazole,myocardial infarction,acute myocardial infarction,0.0,false,false
+415,leflunomide,hepatic failure,acute liver injury,0.0,false,false
+416,cefotaxime,renal failure,acute kidney injury,0.0,false,false
+417,flecainide,myocardial infarction,acute myocardial infarction,0.0,false,false
+418,febuxostat,myocardial infarction,acute myocardial infarction,0.0,false,false
+419,leuprolide,myocardial infarction,acute myocardial infarction,0.0,false,false
+420,aprepitant,myocardial infarction,acute myocardial infarction,0.0,false,false
+421,levofloxacin,hepatotoxicity,acute liver injury,1.0,false,false
+422,valsartan,renal impairment,acute kidney injury,0.0,false,false
+423,levofloxacin,hepatic enzyme increased,acute liver injury,1.0,false,false
+424,anagrelide,myocardial infarction,acute myocardial infarction,0.0,false,false
+425,telavancin,renal failure,acute kidney injury,0.0,false,false
+426,mesalamine,acute kidney injury,acute kidney injury,0.0,false,false
+427,entecavir,hepatic failure,acute liver injury,0.0,false,false
+428,ticlopidine,renal failure,acute kidney injury,0.0,false,false
+429,acamprosate,liver function test abnormal,acute liver injury,0.0,false,false
+430,meropenem,myocardial infarction,acute myocardial infarction,0.0,false,false
+431,propofol,myocardial infarction,acute myocardial infarction,0.0,false,false
+432,abacavir,renal failure,acute kidney injury,0.0,false,false
+433,thioridazine,hepatotoxicity,acute liver injury,0.0,False,false
+434,pentobarbital,liver injury,acute liver injury,0.0,false,false
+435,carbidopa,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+436,ibandronate,renal failure,acute kidney injury,0.0,false,false
+437,enalapril,renal impairment,acute kidney injury,0.0,false,false
+438,paricalcitol,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+439,dolutegravir,hepatotoxicity,acute liver injury,0.0,false,false
+440,imatinib,haematemesis,gi bleed,0.0,false,false
+441,imatinib,acute kidney injury,acute kidney injury,0.0,false,false
+442,tobramycin,renal impairment,acute kidney injury,0.0,false,false
+443,abiraterone,acute hepatic failure,acute liver injury,0.0,false,false
+444,fentanyl,renal impairment,acute kidney injury,0.0,false,false
+445,decitabine,myocardial infarction,acute myocardial infarction,0.0,false,false
+446,teriflunomide,myocardial infarction,acute myocardial infarction,0.0,false,false
+447,methylphenidate,acute hepatic failure,acute liver injury,0.0,false,false
+448,deferasirox,hepatic failure,acute liver injury,0.0,false,false
+449,vigabatrin,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+450,cyclophosphamide,hepatic enzyme increased,acute liver injury,0.0,false,false
+451,remifentanil,renal failure,acute kidney injury,0.0,false,false
+452,liothyronine,myocardial infarction,acute myocardial infarction,0.0,false,false
+453,haloperidol,liver function test abnormal,acute liver injury,0.0,false,false
+454,ibutilide,renal failure,acute kidney injury,0.0,false,false
+455,mesalamine,liver function test abnormal,acute liver injury,0.0,false,false
+456,foscarnet,renal impairment,acute kidney injury,0.0,false,false
+457,carmustine,hepatotoxicity,acute liver injury,0.0,false,false
+458,pentostatin,liver function test abnormal,acute liver injury,0.0,false,false
+459,lovastatin,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+460,trastuzumab,renal failure,acute kidney injury,0.0,false,false
+461,trastuzumab,renal impairment,acute kidney injury,0.0,false,false
+462,voriconazole,renal failure,acute kidney injury,0.0,false,false
+463,tinidazole,acute hepatic failure,acute liver injury,0.0,false,false
+464,alvimopan,myocardial infarction,acute myocardial infarction,0.0,false,false
+465,bendamustine,acute kidney injury,acute kidney injury,0.0,false,false
+466,tipranavir,hepatic failure,acute liver injury,1.0,false,false
+467,iloprost,renal failure,acute kidney injury,0.0,false,false
+468,amifostine,renal failure,acute kidney injury,0.0,false,false
+469,fluvoxamine,liver function test abnormal,acute liver injury,0.0,false,false
+470,procarbazine,haematemesis,gi bleed,0.0,False,false
+471,tocilizumab,hepatic failure,acute liver injury,0.0,false,false
+472,fexinidazole,hepatic failure,acute liver injury,0.0,false,false
+473,elotuzumab,renal failure,acute kidney injury,0.0,false,false
+474,vincristine,myocardial infarction,acute myocardial infarction,0.0,false,false
+475,sacituzumab,acute kidney injury,acute kidney injury,0.0,false,false
+476,sparsentan,hepatotoxicity,acute liver injury,0.0,false,false
+477,dotatate,renal impairment,acute kidney injury,0.0,false,false
+478,venetoclax,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+479,ziconotide,acute kidney injury,acute kidney injury,0.0,false,false
+480,maralixibat,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+481,adalimumab,acute hepatic failure,acute liver injury,0.0,false,false
+482,polatuzumab vedotin,hepatotoxicity,acute liver injury,0.0,false,false
+483,"fecal microbiota spores, live",renal impairment,acute kidney injury,0.0,False,false
+484,ferumoxytol,myocardial infarction,acute myocardial infarction,0.0,false,false
+485,omaveloxolone,hepatic enzyme increased,acute liver injury,0.0,false,false
+486,atezolizumab,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+487,cobimetinib,haematemesis,gi bleed,0.0,false,false
+488,cobimetinib,liver function test abnormal,acute liver injury,0.0,false,false
+489,brentuximab vedotin,hepatotoxicity,acute liver injury,0.0,false,false
+490,blinatumomab,hepatic enzyme increased,acute liver injury,0.0,false,false
+491,capmatinib,acute kidney injury,acute kidney injury,0.0,false,false
+492,isopropyl alcohol,hepatic necrosis,acute liver injury,0.0,false,false
+493,allogeneic processed thymus tissue,renal failure,acute kidney injury,0.0,false,false
+494,allogeneic processed thymus tissue,renal impairment,acute kidney injury,0.0,false,false
+495,allogeneic processed thymus tissue,acute kidney injury,acute kidney injury,0.0,false,false
+496,trastuzumab,hepatic enzyme increased,acute liver injury,0.0,false,false
+497,daprodustat,myocardial infarction,acute myocardial infarction,0.0,false,false
+498,oxandrolone,hepatic failure,acute liver injury,0.0,false,false
+499,valproate,liver injury,acute liver injury,1.0,false,false
+500,acetaminophen,liver injury,acute liver injury,0.0,false,false
+501,tolvaptan,hepatotoxicity,acute liver injury,0.0,false,false
+502,tolvaptan,acute hepatic failure,acute liver injury,0.0,false,false
+503,upadacitinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+504,ruxolitinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+505,hydrochlorothiazide,renal failure,acute kidney injury,1.0,false,false
+506,zolpidem,myocardial infarction,acute myocardial infarction,0.0,false,false
+507,secobarbital,liver injury,acute liver injury,0.0,false,false
+508,cephalexin,renal impairment,acute kidney injury,0.0,false,false
+509,disopyramide,hepatic enzyme increased,acute liver injury,0.0,false,false
+510,valproate,hepatotoxicity,acute liver injury,1.0,false,false
+511,nitrofurantoin,renal impairment,acute kidney injury,0.0,false,false
+512,sumatriptan,myocardial infarction,acute myocardial infarction,1.0,false,false
+513,allopurinol,hepatic necrosis,acute liver injury,1.0,false,false
+514,amitriptyline,myocardial infarction,acute myocardial infarction,0.0,false,false
+515,prochlorperazine,liver injury,acute liver injury,0.0,False,false
+516,tizanidine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+517,paroxetine,haematemesis,gi bleed,0.0,false,false
+518,mesalamine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+519,lamivudine,renal failure,acute kidney injury,0.0,false,false
+520,simvastatin,hepatic failure,acute liver injury,0.0,false,false
+521,mirtazapine,liver function test abnormal,acute liver injury,0.0,false,false
+522,olanzapine,hepatic failure,acute liver injury,0.0,false,false
+523,raltegravir,renal failure,acute kidney injury,0.0,False,false
+524,darunavir,hepatic enzyme increased,acute liver injury,1.0,false,false
+525,progesterone,hepatic failure,acute liver injury,0.0,false,false
+526,progesterone,hepatic necrosis,acute liver injury,0.0,false,false
+527,progesterone,hepatic enzyme increased,acute liver injury,0.0,false,false
+528,pioglitazone,hepatic failure,acute liver injury,1.0,false,false
+529,imiquimod,myocardial infarction,acute myocardial infarction,0.0,False,false
+530,ketorolac,haematemesis,gi bleed,1.0,false,false
+531,vardenafil,myocardial infarction,acute myocardial infarction,0.0,false,false
+532,lansoprazole,liver function test abnormal,acute liver injury,0.0,false,false
+533,pilocarpine,liver function test abnormal,acute liver injury,0.0,False,false
+534,varenicline,acute kidney injury,acute kidney injury,0.0,false,false
+535,rasagiline,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+536,eletriptan,liver function test abnormal,acute liver injury,0.0,false,false
+537,cilostazol,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+538,losartan,renal impairment,acute kidney injury,0.0,false,false
+539,ergocalciferol,renal failure,acute kidney injury,0.0,False,false
+540,fosinopril,hepatic failure,acute liver injury,0.0,false,false
+541,zidovudine,hepatic failure,acute liver injury,1.0,false,false
+542,mycophenolate mofetil,acute kidney injury,acute kidney injury,0.0,false,false
+543,rosuvastatin,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+544,diflunisal,renal impairment,acute kidney injury,1.0,false,false
+545,milrinone,liver function test abnormal,acute liver injury,0.0,false,false
+546,propylthiouracil,liver injury,acute liver injury,1.0,false,false
+547,dexlansoprazole,acute kidney injury,acute kidney injury,0.0,false,false
+548,ciprofloxacin,renal impairment,acute kidney injury,0.0,false,false
+549,escitalopram,hepatic necrosis,acute liver injury,0.0,false,false
+550,simvastatin,myocardial infarction,acute myocardial infarction,0.0,false,false
+551,disulfiram,hepatic failure,acute liver injury,1.0,false,false
+552,naltrexone,hepatocellular injury,acute liver injury,0.0,false,false
+553,betaxolol,myocardial infarction,acute myocardial infarction,0.0,false,false
+554,desvenlafaxine,liver function test abnormal,acute liver injury,0.0,false,false
+555,valproate,hepatic failure,acute liver injury,1.0,false,false
+556,gemcitabine,renal failure,acute kidney injury,0.0,false,false
+557,demeclocycline,hepatic failure,acute liver injury,0.0,False,false
+558,ganciclovir,renal impairment,acute kidney injury,0.0,false,false
+559,clozapine,myocardial infarction,acute myocardial infarction,0.0,false,false
+560,sildenafil,myocardial infarction,acute myocardial infarction,0.0,false,false
+561,tramadol,renal failure,acute kidney injury,0.0,false,false
+562,diclofenac,acute kidney injury,acute kidney injury,0.0,false,false
+563,procainamide,hepatic enzyme increased,acute liver injury,0.0,false,false
+564,iloperidone,acute kidney injury,acute kidney injury,0.0,false,false
+565,albendazole,acute kidney injury,acute kidney injury,0.0,false,false
+566,fosphenytoin,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+567,fludarabine,hepatic failure,acute liver injury,0.0,false,false
+568,zoledronic acid,acute kidney injury,acute kidney injury,0.0,false,false
+569,leflunomide,hepatotoxicity,acute liver injury,0.0,False,false
+570,toremifene,myocardial infarction,acute myocardial infarction,0.0,false,false
+571,dolutegravir,renal impairment,acute kidney injury,0.0,false,false
+572,quetiapine,hepatic necrosis,acute liver injury,0.0,false,false
+573,cyclosporine,hepatic failure,acute liver injury,1.0,false,false
+574,bexarotene,liver function test abnormal,acute liver injury,0.0,false,false
+575,sevelamer,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+576,semaglutide,acute kidney injury,acute kidney injury,0.0,false,false
+577,deferasirox,liver function test abnormal,acute liver injury,0.0,false,false
+578,cyclophosphamide,renal failure,acute kidney injury,0.0,false,false
+579,micafungin,liver function test abnormal,acute liver injury,0.0,false,false
+580,mannitol,acute kidney injury,acute kidney injury,0.0,false,false
+581,eravacycline,renal impairment,acute kidney injury,0.0,false,false
+582,infliximab,acute hepatic failure,acute liver injury,1.0,false,false
+583,rituximab,myocardial infarction,acute myocardial infarction,0.0,false,false
+584,mycophenolic acid,renal impairment,acute kidney injury,0.0,false,false
+585,ibuprofen,renal failure,acute kidney injury,1.0,false,false
+586,peginterferon alfa-2a,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+587,potassium iodide,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+588,delafloxacin,renal failure,acute kidney injury,0.0,false,false
+589,6-aminocaproic acid,acute kidney injury,acute kidney injury,0.0,false,false
+590,dalbavancin,hepatotoxicity,acute liver injury,0.0,false,false
+591,amifostine,myocardial infarction,acute myocardial infarction,0.0,false,false
+592,vorinostat,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+593,alteplase,myocardial infarction,acute myocardial infarction,0.0,false,false
+594,pentamidine,renal impairment,acute kidney injury,0.0,false,false
+595,selpercatinib,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+596,alogliptin,renal impairment,acute kidney injury,0.0,false,false
+597,goserelin,renal failure,acute kidney injury,0.0,false,false
+598,carfilzomib,acute kidney injury,acute kidney injury,0.0,false,false
+599,thiotepa,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+600,canagliflozin,renal impairment,acute kidney injury,0.0,false,false
+601,asparaginase,hepatotoxicity,acute liver injury,0.0,false,false
+602,dapagliflozin,acute kidney injury,acute kidney injury,0.0,false,false
+603,iron sucrose,myocardial infarction,acute myocardial infarction,0.0,false,false
+604,isoflurane,renal failure,acute kidney injury,0.0,false,false
+605,isoflurane,acute kidney injury,acute kidney injury,0.0,false,false
+606,tucatinib,hepatocellular injury,acute liver injury,0.0,false,false
+607,aripiprazole,liver function test abnormal,acute liver injury,0.0,false,false
+608,nafarelin,myocardial infarction,acute myocardial infarction,0.0,False,false
+609,cabotegravir,hepatotoxicity,acute liver injury,0.0,false,false
+610,lorlatinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+611,vemurafenib,hepatotoxicity,acute liver injury,0.0,false,false
+612,vemurafenib,renal failure,acute kidney injury,0.0,false,false
+613,pomalidomide,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+614,tretinoin,hepatotoxicity,acute liver injury,0.0,false,false
+615,amobarbital,liver injury,acute liver injury,0.0,false,false
+616,polatuzumab vedotin,renal failure,acute kidney injury,0.0,false,false
+617,estramustine,myocardial infarction,acute myocardial infarction,0.0,false,false
+618,abemaciclib,myocardial infarction,acute myocardial infarction,0.0,false,false
+619,atezolizumab,hepatocellular injury,acute liver injury,0.0,false,false
+620,tezepelumab,myocardial infarction,acute myocardial infarction,0.0,false,false
+621,cobimetinib,acute kidney injury,acute kidney injury,0.0,false,false
+622,capmatinib,hepatotoxicity,acute liver injury,0.0,false,false
+623,cabazitaxel,renal impairment,acute kidney injury,0.0,false,false
+624,cabazitaxel,acute kidney injury,acute kidney injury,0.0,false,false
+625,eltrombopag,hepatic failure,acute liver injury,0.0,false,false
+626,ceritinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+627,dihematoporphyrin ether,haematemesis,gi bleed,0.0,False,false
+628,obinutuzumab,hepatotoxicity,acute liver injury,0.0,false,false
+629,trastuzumab,hepatotoxicity,acute liver injury,0.0,false,false
+630,trametinib,renal failure,acute kidney injury,0.0,false,false
+631,enfortumab,acute kidney injury,acute kidney injury,0.0,false,false
+632,tirzepatide,acute kidney injury,acute kidney injury,0.0,false,false
+633,cabozantinib,hepatic enzyme increased,acute liver injury,0.0,false,false
+634,nefazodone,hepatocellular injury,acute liver injury,1.0,false,false
+635,lamivudine,hepatotoxicity,acute liver injury,1.0,false,false
+636,ribavirin,myocardial infarction,acute myocardial infarction,0.0,False,false
+637,nadolol,myocardial infarction,acute myocardial infarction,0.0,false,false
+638,amiloride,renal failure,acute kidney injury,0.0,false,false
+639,mexiletine,liver injury,acute liver injury,0.0,false,false
+640,fenoprofen,myocardial infarction,acute myocardial infarction,1.0,false,false
+641,gentamicin,renal impairment,acute kidney injury,0.0,false,false
+642,acitretin,hepatotoxicity,acute liver injury,0.0,false,false
+643,propranolol,myocardial infarction,acute myocardial infarction,0.0,false,false
+644,teriflunomide,acute hepatic failure,acute liver injury,0.0,false,false
+645,ketorolac,acute kidney injury,acute kidney injury,1.0,false,false
+646,cefuroxime,renal impairment,acute kidney injury,0.0,false,false
+647,nefazodone,liver function test abnormal,acute liver injury,1.0,false,false
+648,sumatriptan,haematemesis,gi bleed,0.0,False,false
+649,gabapentin,liver function test abnormal,acute liver injury,0.0,false,false
+650,testosterone,liver function test abnormal,acute liver injury,0.0,false,false
+651,allopurinol,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+652,zaleplon,liver function test abnormal,acute liver injury,0.0,false,false
+653,propoxyphene,liver function test abnormal,acute liver injury,0.0,false,false
+654,diclofenac,haematemesis,gi bleed,0.0,false,false
+655,ciprofloxacin,renal failure,acute kidney injury,0.0,false,false
+656,oxaprozin,haematemesis,gi bleed,1.0,False,false
+657,oxaprozin,hepatic failure,acute liver injury,1.0,false,false
+658,clopidogrel,hepatic enzyme increased,acute liver injury,0.0,false,false
+659,fluvoxamine,haematemesis,gi bleed,0.0,false,false
+660,tetracycline,hepatic failure,acute liver injury,0.0,false,false
+661,sertraline,myocardial infarction,acute myocardial infarction,0.0,false,false
+662,mesalamine,hepatic failure,acute liver injury,0.0,False,false
+663,fluoxetine,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+664,phenytoin,liver injury,acute liver injury,0.0,false,false
+665,isoniazid,liver injury,acute liver injury,1.0,false,false
+666,tramadol,hepatic enzyme increased,acute liver injury,0.0,false,false
+667,rifampin,acute kidney injury,acute kidney injury,0.0,false,false
+668,quetiapine,acute kidney injury,acute kidney injury,0.0,false,false
+669,duloxetine,myocardial infarction,acute myocardial infarction,0.0,false,false
+670,fenofibrate,liver function test abnormal,acute liver injury,0.0,false,false
+671,carvedilol,renal failure,acute kidney injury,0.0,false,false
+672,ketorolac,renal failure,acute kidney injury,1.0,false,false
+673,glipizide,liver injury,acute liver injury,0.0,false,false
+674,etodolac,renal failure,acute kidney injury,1.0,false,false
+675,varenicline,liver function test abnormal,acute liver injury,0.0,false,false
+676,ropinirole,acute kidney injury,acute kidney injury,0.0,false,false
+677,dicloxacillin,hepatotoxicity,acute liver injury,0.0,false,false
+678,ketoprofen,gastrointestinal haemorrhage,gi bleed,1.0,False,false
+679,prasugrel,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+680,propafenone,liver function test abnormal,acute liver injury,0.0,false,false
+681,propafenone,myocardial infarction,acute myocardial infarction,0.0,false,false
+682,diflunisal,renal failure,acute kidney injury,1.0,false,false
+683,oxcarbazepine,haematemesis,gi bleed,0.0,false,false
+684,auranofin,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+685,escitalopram,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+686,anagrelide,renal failure,acute kidney injury,0.0,false,false
+687,maraviroc,myocardial infarction,acute myocardial infarction,0.0,false,false
+688,almotriptan,myocardial infarction,acute myocardial infarction,1.0,false,false
+689,candesartan,renal impairment,acute kidney injury,1.0,false,false
+690,cidofovir,hepatic necrosis,acute liver injury,0.0,false,false
+691,olsalazine,hepatocellular injury,acute liver injury,0.0,False,false
+692,clozapine,hepatic failure,acute liver injury,1.0,false,false
+693,clozapine,liver injury,acute liver injury,1.0,false,false
+694,itraconazole,renal impairment,acute kidney injury,0.0,false,false
+695,acamprosate,acute kidney injury,acute kidney injury,0.0,false,false
+696,paclitaxel,hepatic necrosis,acute liver injury,0.0,false,false
+697,procainamide,hepatic failure,acute liver injury,0.0,false,false
+698,dofetilide,liver injury,acute liver injury,0.0,false,false
+699,oxaliplatin,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+700,mitomycin,haematemesis,gi bleed,0.0,False,false
+701,carbidopa,myocardial infarction,acute myocardial infarction,0.0,false,false
+702,valganciclovir,renal failure,acute kidney injury,0.0,false,false
+703,voriconazole,liver function test abnormal,acute liver injury,1.0,false,false
+704,docetaxel,hepatotoxicity,acute liver injury,0.0,false,false
+705,piroxicam,hepatotoxicity,acute liver injury,1.0,false,false
+706,ambrisentan,liver injury,acute liver injury,0.0,false,false
+707,ifosfamide,renal impairment,acute kidney injury,0.0,True,true
+708,bortezomib,haematemesis,gi bleed,0.0,False,false
+709,decitabine,liver function test abnormal,acute liver injury,0.0,false,false
+710,flurbiprofen,hepatotoxicity,acute liver injury,0.0,false,false
+711,cefotaxime,acute kidney injury,acute kidney injury,0.0,false,false
+712,megestrol,renal failure,acute kidney injury,0.0,false,false
+713,protriptyline,myocardial infarction,acute myocardial infarction,0.0,false,false
+714,palonosetron,hepatic enzyme increased,acute liver injury,0.0,false,false
+715,cyclophosphamide,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+716,nafcillin,hepatic failure,acute liver injury,0.0,false,false
+717,liraglutide,renal failure,acute kidney injury,0.0,false,false
+718,epinephrine,renal failure,acute kidney injury,0.0,false,false
+719,chlorthalidone,renal impairment,acute kidney injury,0.0,false,false
+720,fenoldopam,myocardial infarction,acute myocardial infarction,0.0,false,false
+721,gemtuzumab ozogamicin,hepatic failure,acute liver injury,0.0,false,false
+722,pentostatin,hepatic enzyme increased,acute liver injury,0.0,false,false
+723,romidepsin,acute kidney injury,acute kidney injury,0.0,false,false
+724,tinidazole,hepatic failure,acute liver injury,0.0,false,false
+725,prednisolone,myocardial infarction,acute myocardial infarction,0.0,false,false
+726,allopurinol,renal impairment,acute kidney injury,1.0,false,false
+727,mefenamate,gastrointestinal haemorrhage,gi bleed,1.0,False,false
+728,delafloxacin,hepatic enzyme increased,acute liver injury,0.0,false,false
+729,glatiramer,haematemesis,gi bleed,0.0,False,false
+730,ketorolac,hepatotoxicity,acute liver injury,1.0,false,false
+731,pemetrexed,acute kidney injury,acute kidney injury,0.0,false,false
+732,neratinib,acute kidney injury,acute kidney injury,0.0,false,false
+733,sevoflurane,hepatic necrosis,acute liver injury,0.0,false,false
+734,secnidazole,acute hepatic failure,acute liver injury,0.0,false,false
+735,eculizumab,renal impairment,acute kidney injury,0.0,false,false
+736,bosutinib,renal failure,acute kidney injury,0.0,false,false
+737,enasidenib,renal failure,acute kidney injury,0.0,false,false
+738,desflurane,hepatic necrosis,acute liver injury,0.0,false,false
+739,ceftaroline fosamil,renal failure,acute kidney injury,0.0,false,false
+740,canagliflozin,acute kidney injury,acute kidney injury,0.0,false,false
+741,empagliflozin,acute kidney injury,acute kidney injury,0.0,false,false
+742,sevoflurane,hepatic failure,acute liver injury,0.0,false,false
+743,benznidazole,hepatic failure,acute liver injury,0.0,false,false
+744,apalutamide,acute kidney injury,acute kidney injury,0.0,false,false
+745,belantamab mafodotin,renal impairment,acute kidney injury,0.0,false,false
+746,rezafungin,acute kidney injury,acute kidney injury,0.0,false,false
+747,cobimetinib,hepatotoxicity,acute liver injury,0.0,false,false
+748,macitentan,liver injury,acute liver injury,0.0,false,false
+749,panitumumab,acute kidney injury,acute kidney injury,0.0,false,false
+750,ipilimumab,hepatic enzyme increased,acute liver injury,0.0,false,false
+751,octreotide,renal failure,acute kidney injury,0.0,false,false
+752,basiliximab,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+753,ceritinib,hepatotoxicity,acute liver injury,0.0,false,false
+754,ponesimod,hepatic enzyme increased,acute liver injury,0.0,false,false
+755,brigatinib,hepatotoxicity,acute liver injury,0.0,false,false
+756,avanafil,myocardial infarction,acute myocardial infarction,0.0,false,false
+757,abatacept,acute kidney injury,acute kidney injury,0.0,false,false
+758,bempedoic acid,hepatic enzyme increased,acute liver injury,0.0,false,false
+759,cabozantinib,liver function test abnormal,acute liver injury,0.0,false,false
+760,bedaquiline,hepatotoxicity,acute liver injury,0.0,false,false
+761,binimetinib,hepatotoxicity,acute liver injury,0.0,false,false
+762,binimetinib,acute kidney injury,acute kidney injury,0.0,false,false
+763,nefazodone,liver injury,acute liver injury,1.0,false,false
+764,mexiletine,myocardial infarction,acute myocardial infarction,0.0,false,false
+765,teriflunomide,hepatic failure,acute liver injury,0.0,false,false
+766,sofosbuvir,hepatic failure,acute liver injury,0.0,false,false
+767,methamphetamine,myocardial infarction,acute myocardial infarction,0.0,false,false
+768,meloxicam,hepatic failure,acute liver injury,0.0,false,false
+769,flurbiprofen,hepatic enzyme increased,acute liver injury,0.0,false,false
+770,atenolol,renal failure,acute kidney injury,0.0,false,false
+771,propafenone,renal failure,acute kidney injury,0.0,false,false
+772,ibuprofen,acute kidney injury,acute kidney injury,1.0,false,false
+773,ceftibuten,renal impairment,acute kidney injury,0.0,false,false
+774,diclofenac,hepatic failure,acute liver injury,0.0,false,false
+775,diclofenac,hepatic enzyme increased,acute liver injury,0.0,false,false
+776,doxycycline,hepatotoxicity,acute liver injury,0.0,false,false
+777,ciprofloxacin,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+778,ciprofloxacin,hepatic failure,acute liver injury,1.0,false,false
+779,pantoprazole,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+780,pantoprazole,hepatocellular injury,acute liver injury,0.0,false,false
+781,mesalamine,hepatotoxicity,acute liver injury,0.0,false,false
+782,perphenazine,liver injury,acute liver injury,0.0,false,false
+783,nabumetone,hepatic failure,acute liver injury,0.0,false,false
+784,nabumetone,myocardial infarction,acute myocardial infarction,1.0,false,false
+785,zafirlukast,hepatic failure,acute liver injury,1.0,false,false
+786,erythromycin,renal failure,acute kidney injury,0.0,false,false
+787,leflunomide,liver injury,acute liver injury,0.0,false,false
+788,milnacipran,acute kidney injury,acute kidney injury,0.0,false,false
+789,pramipexole,myocardial infarction,acute myocardial infarction,0.0,false,false
+790,ropinirole,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+791,ketoprofen,haematemesis,gi bleed,1.0,false,false
+792,febuxostat,haematemesis,gi bleed,0.0,false,false
+793,leuprolide,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+794,colesevelam,myocardial infarction,acute myocardial infarction,0.0,false,false
+795,balsalazide,hepatocellular injury,acute liver injury,0.0,false,false
+796,balsalazide,renal failure,acute kidney injury,0.0,false,false
+797,morphine,liver function test abnormal,acute liver injury,0.0,false,false
+798,cyclosporine,renal failure,acute kidney injury,1.0,False,false
+799,cevimeline,myocardial infarction,acute myocardial infarction,0.0,false,false
+800,tolmetin,renal failure,acute kidney injury,0.0,false,false
+801,prednisone,myocardial infarction,acute myocardial infarction,0.0,false,false
+802,tadalafil,renal impairment,acute kidney injury,0.0,false,false
+803,irbesartan,myocardial infarction,acute myocardial infarction,0.0,false,false
+804,irbesartan,renal impairment,acute kidney injury,0.0,false,false
+805,lisdexamfetamine,myocardial infarction,acute myocardial infarction,0.0,false,false
+806,erlotinib,liver function test abnormal,acute liver injury,0.0,false,false
+807,erlotinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+808,exenatide,renal impairment,acute kidney injury,0.0,false,false
+809,pioglitazone,hepatotoxicity,acute liver injury,1.0,false,false
+810,minocycline,renal failure,acute kidney injury,0.0,false,false
+811,loxapine,hepatocellular injury,acute liver injury,0.0,false,false
+812,fluphenazine,liver injury,acute liver injury,0.0,false,false
+813,ethacrynate,liver function test abnormal,acute liver injury,0.0,false,false
+814,galantamine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+815,ranolazine,renal impairment,acute kidney injury,0.0,false,false
+816,meropenem,hepatic failure,acute liver injury,0.0,false,false
+817,baclofen,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+818,dofetilide,myocardial infarction,acute myocardial infarction,0.0,false,false
+819,argatroban,haematemesis,gi bleed,0.0,False,false
+820,triamterene,acute kidney injury,acute kidney injury,0.0,false,false
+821,plazomicin,renal impairment,acute kidney injury,0.0,false,false
+822,temsirolimus,renal failure,acute kidney injury,0.0,false,false
+823,atovaquone,hepatic failure,acute liver injury,0.0,false,false
+824,voriconazole,myocardial infarction,acute myocardial infarction,0.0,false,false
+825,toremifene,hepatotoxicity,acute liver injury,0.0,false,false
+826,aldesleukin,haematemesis,gi bleed,0.0,false,false
+827,tolcapone,hepatocellular injury,acute liver injury,1.0,True,true
+828,ambrisentan,hepatotoxicity,acute liver injury,0.0,false,false
+829,methotrexate,renal failure,acute kidney injury,0.0,false,false
+830,cefixime,renal impairment,acute kidney injury,0.0,false,false
+831,cladribine,acute kidney injury,acute kidney injury,0.0,false,false
+832,mitoxantrone,myocardial infarction,acute myocardial infarction,0.0,false,false
+833,teriflunomide,hepatotoxicity,acute liver injury,0.0,false,false
+834,methylphenidate,hepatocellular injury,acute liver injury,0.0,false,false
+835,micafungin,renal failure,acute kidney injury,0.0,false,false
+836,hydroxychloroquine,hepatic failure,acute liver injury,0.0,false,false
+837,fenofibrate,hepatotoxicity,acute liver injury,0.0,false,false
+838,vorapaxar,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+839,phenylephrine,myocardial infarction,acute myocardial infarction,0.0,false,false
+840,goserelin,myocardial infarction,acute myocardial infarction,0.0,False,false
+841,saquinavir,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+842,caspofungin,renal failure,acute kidney injury,0.0,false,false
+843,caspofungin,hepatic enzyme increased,acute liver injury,1.0,false,false
+844,betamethasone,myocardial infarction,acute myocardial infarction,0.0,false,false
+845,rifapentine,hepatotoxicity,acute liver injury,0.0,false,false
+846,hydroxocobalamin,acute kidney injury,acute kidney injury,0.0,false,false
+847,infliximab,hepatotoxicity,acute liver injury,1.0,false,false
+848,duvelisib,hepatotoxicity,acute liver injury,0.0,false,false
+849,tretinoin,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+850,arformoterol,myocardial infarction,acute myocardial infarction,0.0,false,false
+851,alectinib,renal impairment,acute kidney injury,0.0,false,false
+852,tipranavir,liver function test abnormal,acute liver injury,1.0,false,false
+853,romosozumab,myocardial infarction,acute myocardial infarction,0.0,false,false
+854,vorinostat,myocardial infarction,acute myocardial infarction,0.0,false,false
+855,lumateperone,liver function test abnormal,acute liver injury,0.0,false,false
+856,fingolimod,liver injury,acute liver injury,0.0,false,false
+857,mitomycin,acute kidney injury,acute kidney injury,0.0,false,false
+858,enasidenib,acute kidney injury,acute kidney injury,0.0,false,false
+859,nintedanib,myocardial infarction,acute myocardial infarction,0.0,false,false
+860,amikacin,renal impairment,acute kidney injury,0.0,false,false
+861,dapagliflozin,renal impairment,acute kidney injury,0.0,false,false
+862,ticagrelor,acute kidney injury,acute kidney injury,0.0,false,false
+863,nafarelin,liver injury,acute liver injury,0.0,false,false
+864,venetoclax,acute kidney injury,acute kidney injury,0.0,false,false
+865,oliceridine,renal failure,acute kidney injury,0.0,false,false
+866,moxifloxacin,acute kidney injury,acute kidney injury,0.0,false,false
+867,belumosudil,renal failure,acute kidney injury,0.0,false,false
+868,abemaciclib,hepatotoxicity,acute liver injury,0.0,false,false
+869,maribavir,acute kidney injury,acute kidney injury,0.0,false,false
+870,atezolizumab,hepatotoxicity,acute liver injury,0.0,false,false
+871,vandetanib,renal failure,acute kidney injury,0.0,false,false
+872,odevixibat,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+873,upadacitinib,hepatic enzyme increased,acute liver injury,0.0,false,false
+874,octreotide,myocardial infarction,acute myocardial infarction,0.0,false,false
+875,tenofovir alafenamide,renal impairment,acute kidney injury,0.0,false,false
+876,sargramostim,haematemesis,gi bleed,0.0,False,false
+877,dabrafenib,haematemesis,gi bleed,0.0,false,false
+878,pegcetacoplan,acute kidney injury,acute kidney injury,0.0,false,false
+879,bedaquiline,hepatic enzyme increased,acute liver injury,0.0,false,false
+880,sulindac,myocardial infarction,acute myocardial infarction,1.0,false,false
+881,procainamide,myocardial infarction,acute myocardial infarction,0.0,false,false
+882,baricitinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+883,carbamazepine,hepatic failure,acute liver injury,1.0,false,false
+884,terbinafine,hepatic failure,acute liver injury,1.0,false,false
+885,azithromycin,renal impairment,acute kidney injury,0.0,false,false
+886,moxifloxacin,renal failure,acute kidney injury,0.0,false,false
+887,bupropion,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+888,tizanidine,liver function test abnormal,acute liver injury,0.0,False,false
+889,alprazolam,hepatic failure,acute liver injury,0.0,false,false
+890,tenofovir disoproxil,acute kidney injury,acute kidney injury,0.0,false,false
+891,indomethacin,renal failure,acute kidney injury,0.0,false,false
+892,trandolapril,hepatic enzyme increased,acute liver injury,1.0,false,false
+893,triazolam,hepatic failure,acute liver injury,0.0,false,false
+894,lorazepam,liver injury,acute liver injury,0.0,false,false
+895,sodium phosphate,renal impairment,acute kidney injury,0.0,false,false
+896,etodolac,hepatic necrosis,acute liver injury,1.0,false,false
+897,atorvastatin,hepatic failure,acute liver injury,0.0,false,false
+898,losartan,myocardial infarction,acute myocardial infarction,0.0,false,false
+899,rosuvastatin,acute kidney injury,acute kidney injury,0.0,false,false
+900,tolmetin,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+901,nebivolol,myocardial infarction,acute myocardial infarction,0.0,false,false
+902,trandolapril,myocardial infarction,acute myocardial infarction,0.0,false,false
+903,probenecid,hepatic necrosis,acute liver injury,0.0,false,false
+904,amiodarone,liver function test abnormal,acute liver injury,0.0,false,false
+905,escitalopram,hepatic enzyme increased,acute liver injury,0.0,false,false
+906,phenobarbital,liver injury,acute liver injury,0.0,false,false
+907,cefditoren,acute kidney injury,acute kidney injury,0.0,false,false
+908,olsalazine,hepatic enzyme increased,acute liver injury,0.0,false,false
+909,fenoprofen,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+910,naproxen,hepatotoxicity,acute liver injury,1.0,false,false
+911,indomethacin,hepatotoxicity,acute liver injury,1.0,false,false
+912,felbamate,renal failure,acute kidney injury,0.0,false,false
+913,oxaprozin,hepatotoxicity,acute liver injury,1.0,false,false
+914,flucytosine,renal failure,acute kidney injury,0.0,false,false
+915,sertraline,hepatic enzyme increased,acute liver injury,0.0,false,false
+916,zoledronic acid,renal impairment,acute kidney injury,0.0,false,false
+917,voriconazole,hepatic failure,acute liver injury,1.0,false,false
+918,tiopronin,renal failure,acute kidney injury,0.0,false,false
+919,cefoxitin,acute kidney injury,acute kidney injury,0.0,false,false
+920,apixaban,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+921,paroxetine,hepatic failure,acute liver injury,0.0,false,false
+922,dimethyl fumarate,liver injury,acute liver injury,0.0,false,false
+923,dolasetron,acute kidney injury,acute kidney injury,0.0,false,false
+924,estradiol,liver function test abnormal,acute liver injury,0.0,False,false
+925,trastuzumab,acute kidney injury,acute kidney injury,0.0,false,false
+926,mycophenolic acid,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+927,mycophenolic acid,liver function test abnormal,acute liver injury,0.0,false,false
+928,tolvaptan,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+929,everolimus,liver function test abnormal,acute liver injury,0.0,false,false
+930,everolimus,hepatic enzyme increased,acute liver injury,0.0,false,false
+931,glatiramer,renal failure,acute kidney injury,0.0,false,false
+932,methotrexate,renal impairment,acute kidney injury,0.0,false,false
+933,lapatinib,hepatotoxicity,acute liver injury,0.0,false,false
+934,bevacizumab,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+935,prucalopride,myocardial infarction,acute myocardial infarction,0.0,false,false
+936,pretomanid,hepatic enzyme increased,acute liver injury,0.0,false,false
+937,teriflunomide,liver injury,acute liver injury,0.0,false,false
+938,monomethyl fumarate,liver injury,acute liver injury,0.0,false,false
+939,triptorelin,myocardial infarction,acute myocardial infarction,0.0,false,false
+940,belumosudil,liver function test abnormal,acute liver injury,0.0,false,false
+941,ferric carboxymaltose,hepatic enzyme increased,acute liver injury,0.0,false,false
+942,brentuximab vedotin,renal impairment,acute kidney injury,0.0,false,false
+943,leuprolide,liver injury,acute liver injury,0.0,false,false
+944,ipilimumab,hepatotoxicity,acute liver injury,0.0,false,false
+945,tenofovir alafenamide,acute kidney injury,acute kidney injury,0.0,false,false
+946,lurbinectedin,hepatotoxicity,acute liver injury,0.0,false,false
+947,doxazosin,liver function test abnormal,acute liver injury,0.0,false,false
+948,zidovudine,hepatotoxicity,acute liver injury,1.0,false,false
+949,diflunisal,myocardial infarction,acute myocardial infarction,1.0,false,false
+950,norethindrone,myocardial infarction,acute myocardial infarction,0.0,false,false
+951,ponatinib,hepatic failure,acute liver injury,0.0,false,false
+952,ponatinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+953,terlipressin,hepatic failure,acute liver injury,0.0,false,false
+954,atenolol,hepatic enzyme increased,acute liver injury,0.0,False,false
+955,nortriptyline,hepatic necrosis,acute liver injury,1.0,false,false
+956,nortriptyline,myocardial infarction,acute myocardial infarction,1.0,false,false
+957,sumatriptan,acute kidney injury,acute kidney injury,0.0,false,false
+958,terbinafine,hepatic enzyme abnormal,acute liver injury,1.0,false,false
+959,pantoprazole,haematemesis,gi bleed,0.0,false,false
+960,sulindac,renal failure,acute kidney injury,0.0,false,false
+961,desipramine,myocardial infarction,acute myocardial infarction,1.0,false,false
+962,cefdinir,acute kidney injury,acute kidney injury,0.0,false,false
+963,pramipexole,renal failure,acute kidney injury,0.0,false,false
+964,varenicline,myocardial infarction,acute myocardial infarction,0.0,false,false
+965,balsalazide,hepatic failure,acute liver injury,0.0,false,false
+966,aprepitant,renal failure,acute kidney injury,0.0,false,false
+967,clomipramine,myocardial infarction,acute myocardial infarction,0.0,false,false
+968,raltegravir,hepatic failure,acute liver injury,0.0,false,false
+969,telithromycin,liver injury,acute liver injury,0.0,False,false
+970,cefditoren,liver function test abnormal,acute liver injury,0.0,false,false
+971,telavancin,renal impairment,acute kidney injury,0.0,false,false
+972,demeclocycline,acute kidney injury,acute kidney injury,0.0,false,false
+973,olsalazine,hepatic failure,acute liver injury,0.0,false,false
+974,paricalcitol,renal failure,acute kidney injury,0.0,False,false
+975,pyrazinamide,hepatotoxicity,acute liver injury,0.0,false,false
+976,carvedilol,myocardial infarction,acute myocardial infarction,0.0,false,false
+977,tiagabine,myocardial infarction,acute myocardial infarction,0.0,false,false
+978,diclofenac,hepatotoxicity,acute liver injury,0.0,false,false
+979,baclofen,renal failure,acute kidney injury,0.0,false,false
+980,ifosfamide,acute kidney injury,acute kidney injury,0.0,True,true
+981,dexmedetomidine,myocardial infarction,acute myocardial infarction,0.0,false,false
+982,ritonavir,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+983,imatinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+984,aldesleukin,renal impairment,acute kidney injury,0.0,false,false
+985,chlorothiazide,renal failure,acute kidney injury,1.0,false,false
+986,ambrisentan,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+987,daptomycin,renal impairment,acute kidney injury,0.0,false,false
+988,micafungin,hepatocellular injury,acute liver injury,0.0,false,false
+989,carmustine,renal failure,acute kidney injury,0.0,false,false
+990,caspofungin,hepatic necrosis,acute liver injury,1.0,false,false
+991,ibuprofen,renal impairment,acute kidney injury,1.0,false,false
+992,mefenamate,hepatic enzyme increased,acute liver injury,0.0,false,false
+993,danazol,hepatic failure,acute liver injury,0.0,false,false
+994,lenalidomide,myocardial infarction,acute myocardial infarction,0.0,false,false
+995,pirfenidone,liver injury,acute liver injury,0.0,false,false
+996,vorinostat,renal failure,acute kidney injury,0.0,false,false
+997,fidaxomicin,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+998,clevidipine,myocardial infarction,acute myocardial infarction,0.0,false,false
+999,rilpivirine,hepatotoxicity,acute liver injury,0.0,false,false
+1000,etoposide,hepatotoxicity,acute liver injury,0.0,false,false
+1001,defibrotide,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1002,midazolam,acute kidney injury,acute kidney injury,0.0,false,false
+1003,venetoclax,haematemesis,gi bleed,0.0,false,false
+1004,maralixibat,haematemesis,gi bleed,0.0,False,false
+1005,thalidomide,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1006,adalimumab,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1007,vipivotide tetraxetan,hepatic failure,acute liver injury,0.0,false,false
+1008,ibuprofen,hepatotoxicity,acute liver injury,1.0,false,false
+1009,midostaurin,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1010,vilobelimab,hepatic enzyme increased,acute liver injury,0.0,false,false
+1011,glofitamab,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1012,ipilimumab,acute kidney injury,acute kidney injury,0.0,false,false
+1013,pralsetinib,hepatotoxicity,acute liver injury,0.0,false,false
+1014,bexagliflozin,renal impairment,acute kidney injury,0.0,false,false
+1015,avelumab,myocardial infarction,acute myocardial infarction,0.0,false,false
+1016,soybean oil,liver function test abnormal,acute liver injury,0.0,false,false
+1017,amiloride,renal impairment,acute kidney injury,0.0,false,false
+1018,tolmetin,myocardial infarction,acute myocardial infarction,1.0,false,false
+1019,felbamate,liver injury,acute liver injury,1.0,false,false
+1020,pexidartinib,liver injury,acute liver injury,0.0,false,false
+1021,inotersen,renal failure,acute kidney injury,0.0,false,false
+1022,piroxicam,haematemesis,gi bleed,1.0,False,false
+1023,pantoprazole,myocardial infarction,acute myocardial infarction,0.0,false,false
+1024,tizanidine,liver injury,acute liver injury,0.0,false,false
+1025,naproxen,hepatic enzyme increased,acute liver injury,1.0,false,false
+1026,rivastigmine,renal failure,acute kidney injury,0.0,false,false
+1027,abacavir,liver function test abnormal,acute liver injury,1.0,false,false
+1028,levetiracetam,hepatic failure,acute liver injury,0.0,false,false
+1029,pioglitazone,liver function test abnormal,acute liver injury,1.0,false,false
+1030,cefazolin,renal impairment,acute kidney injury,0.0,false,false
+1031,lamotrigine,liver function test abnormal,acute liver injury,1.0,false,false
+1032,donepezil,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1033,moxifloxacin,hepatic enzyme increased,acute liver injury,0.0,false,false
+1034,nebivolol,acute kidney injury,acute kidney injury,0.0,false,false
+1035,pioglitazone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1036,imatinib,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1037,larotrectinib,hepatotoxicity,acute liver injury,0.0,false,false
+1038,ambrisentan,hepatic failure,acute liver injury,0.0,false,false
+1039,cladribine,renal failure,acute kidney injury,0.0,false,false
+1040,micafungin,renal impairment,acute kidney injury,0.0,false,false
+1041,cefiderocol,hepatic enzyme increased,acute liver injury,0.0,false,false
+1042,pravastatin,hepatic failure,acute liver injury,0.0,false,false
+1043,ranibizumab,renal failure,acute kidney injury,0.0,false,false
+1044,mogamulizumab,renal failure,acute kidney injury,0.0,false,false
+1045,parathyroid hormone,renal impairment,acute kidney injury,0.0,False,false
+1046,avapritinib,acute kidney injury,acute kidney injury,0.0,false,false
+1047,nilotinib,renal failure,acute kidney injury,0.0,false,false
+1048,avelumab,hepatocellular injury,acute liver injury,0.0,false,false
+1049,binimetinib,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1050,cidofovir,renal failure,acute kidney injury,0.0,false,false
+1051,deferasirox,renal impairment,acute kidney injury,0.0,false,false
+1052,tofacitinib,myocardial infarction,acute myocardial infarction,0.0,false,false
+1053,tetracycline,renal impairment,acute kidney injury,0.0,false,false
+1054,naproxen,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+1055,nelfinavir,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1056,quinine,renal impairment,acute kidney injury,0.0,false,false
+1057,pantoprazole,hepatic enzyme increased,acute liver injury,0.0,false,false
+1058,pramipexole,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1059,cefaclor,renal impairment,acute kidney injury,0.0,false,false
+1060,balsalazide,hepatic necrosis,acute liver injury,0.0,false,false
+1061,propylthiouracil,hepatic failure,acute liver injury,1.0,false,false
+1062,cidofovir,liver injury,acute liver injury,0.0,false,false
+1063,levetiracetam,acute kidney injury,acute kidney injury,0.0,false,false
+1064,fludarabine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1065,docetaxel,myocardial infarction,acute myocardial infarction,0.0,false,false
+1066,bortezomib,hepatic failure,acute liver injury,1.0,false,false
+1067,bexarotene,hepatotoxicity,acute liver injury,0.0,false,false
+1068,cefpodoxime,liver injury,acute liver injury,0.0,false,false
+1069,vinorelbine,myocardial infarction,acute myocardial infarction,0.0,false,false
+1070,ertapenem,renal impairment,acute kidney injury,0.0,false,false
+1071,etoposide,acute kidney injury,acute kidney injury,0.0,false,false
+1072,mosunetuzumab,renal failure,acute kidney injury,0.0,false,false
+1073,tocilizumab,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+1074,isavuconazonium,renal failure,acute kidney injury,0.0,false,false
+1075,isavuconazonium,acute kidney injury,acute kidney injury,0.0,false,false
+1076,tremelimumab,acute kidney injury,acute kidney injury,0.0,false,false
+1077,emapalumab,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1078,axitinib,hepatic enzyme increased,acute liver injury,0.0,false,false
+1079,methotrexate,liver function test abnormal,acute liver injury,1.0,false,false
+1080,piroxicam,hepatic failure,acute liver injury,1.0,false,false
+1081,rosiglitazone,hepatotoxicity,acute liver injury,0.0,false,false
+1082,sertraline,acute kidney injury,acute kidney injury,0.0,false,false
+1083,memantine,hepatic failure,acute liver injury,0.0,false,false
+1084,gemfibrozil,liver function test abnormal,acute liver injury,0.0,false,false
+1085,morphine,renal failure,acute kidney injury,0.0,false,false
+1086,enalapril,myocardial infarction,acute myocardial infarction,0.0,false,false
+1087,darunavir,hepatotoxicity,acute liver injury,1.0,false,false
+1088,leflunomide,hepatic enzyme increased,acute liver injury,0.0,false,false
+1089,etodolac,hepatic enzyme increased,acute liver injury,1.0,false,false
+1090,varenicline,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1091,varenicline,renal failure,acute kidney injury,0.0,false,false
+1092,dicloxacillin,renal failure,acute kidney injury,0.0,false,false
+1093,eplerenone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1094,amiloride,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1095,letrozole,myocardial infarction,acute myocardial infarction,0.0,false,false
+1096,cyclosporine,myocardial infarction,acute myocardial infarction,0.0,false,false
+1097,fondaparinux,myocardial infarction,acute myocardial infarction,0.0,false,false
+1098,felbamate,acute kidney injury,acute kidney injury,0.0,false,false
+1099,meropenem,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1100,flucytosine,hepatic necrosis,acute liver injury,0.0,false,false
+1101,ifosfamide,renal failure,acute kidney injury,0.0,True,true
+1102,levoleucovorin,renal impairment,acute kidney injury,0.0,false,false
+1103,quetiapine,hepatic failure,acute liver injury,0.0,false,false
+1104,piroxicam,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+1105,cefixime,acute kidney injury,acute kidney injury,0.0,false,false
+1106,mitoxantrone,renal failure,acute kidney injury,0.0,false,false
+1107,levorphanol,renal failure,acute kidney injury,0.0,false,false
+1108,buprenorphine,liver function test abnormal,acute liver injury,0.0,false,false
+1109,mefenamate,haematemesis,gi bleed,1.0,False,false
+1110,glatiramer,myocardial infarction,acute myocardial infarction,0.0,false,false
+1111,nintedanib,hepatic enzyme increased,acute liver injury,0.0,false,false
+1112,orlistat,hepatic failure,acute liver injury,1.0,false,false
+1113,futibatinib,haematemesis,gi bleed,0.0,false,false
+1114,tucatinib,liver injury,acute liver injury,0.0,false,false
+1115,adagrasib,hepatotoxicity,acute liver injury,0.0,false,false
+1116,isopropyl alcohol,myocardial infarction,acute myocardial infarction,0.0,false,false
+1117,mobocertinib,acute kidney injury,acute kidney injury,0.0,false,false
+1118,encorafenib,myocardial infarction,acute myocardial infarction,0.0,false,false
+1119,dantrolene,hepatotoxicity,acute liver injury,0.0,False,false
+1120,abacavir,hepatotoxicity,acute liver injury,1.0,false,false
+1121,trastuzumab,hepatic failure,acute liver injury,0.0,false,false
+1122,propoxyphene,myocardial infarction,acute myocardial infarction,0.0,false,false
+1123,tramadol,liver function test abnormal,acute liver injury,0.0,false,false
+1124,venlafaxine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1125,venlafaxine,liver injury,acute liver injury,0.0,false,false
+1126,capecitabine,hepatic failure,acute liver injury,0.0,false,false
+1127,didanosine,hepatotoxicity,acute liver injury,1.0,false,false
+1128,ketorolac,myocardial infarction,acute myocardial infarction,1.0,false,false
+1129,atorvastatin,liver function test abnormal,acute liver injury,0.0,false,false
+1130,moexipril,myocardial infarction,acute myocardial infarction,1.0,false,false
+1131,levofloxacin,hepatic failure,acute liver injury,1.0,false,false
+1132,candesartan,renal failure,acute kidney injury,1.0,false,false
+1133,itraconazole,hepatic failure,acute liver injury,1.0,false,false
+1134,acamprosate,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1135,imatinib,acute hepatic failure,acute liver injury,1.0,false,false
+1136,sapropterin,myocardial infarction,acute myocardial infarction,0.0,false,false
+1137,atropine,myocardial infarction,acute myocardial infarction,0.0,false,false
+1138,mefenamate,myocardial infarction,acute myocardial infarction,0.0,false,false
+1139,selpercatinib,hepatotoxicity,acute liver injury,0.0,false,false
+1140,defibrotide,renal failure,acute kidney injury,0.0,false,false
+1141,rucaparib,renal failure,acute kidney injury,0.0,false,false
+1142,estramustine,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1143,water,renal failure,acute kidney injury,0.0,false,false
+1144,cariprazine,hepatic enzyme increased,acute liver injury,0.0,false,false
+1145,clopidogrel,myocardial infarction,acute myocardial infarction,0.0,false,false
+1146,naltrexone,hepatic failure,acute liver injury,0.0,false,false
+1147,flucytosine,renal impairment,acute kidney injury,0.0,False,false
+1148,tramadol,hepatotoxicity,acute liver injury,0.0,false,false
+1149,acetaminophen,acute hepatic failure,acute liver injury,0.0,false,false
+1150,tipranavir,hepatotoxicity,acute liver injury,1.0,false,false
+1151,obinutuzumab,hepatic failure,acute liver injury,0.0,false,false
+1152,clotrimazole,liver function test abnormal,acute liver injury,0.0,false,false
+1153,carbamazepine,liver function test abnormal,acute liver injury,1.0,false,false
+1154,celecoxib,renal failure,acute kidney injury,0.0,false,false
+1155,azithromycin,hepatic necrosis,acute liver injury,0.0,false,false
+1156,oxaprozin,acute kidney injury,acute kidney injury,1.0,false,false
+1157,pantoprazole,liver function test abnormal,acute liver injury,0.0,false,false
+1158,filgrastim,renal failure,acute kidney injury,0.0,false,false
+1159,cefadroxil,renal impairment,acute kidney injury,0.0,false,false
+1160,fosamprenavir,myocardial infarction,acute myocardial infarction,0.0,false,false
+1161,cefdinir,hepatic failure,acute liver injury,0.0,False,false
+1162,cefdinir,renal failure,acute kidney injury,0.0,false,false
+1163,pramipexole,renal impairment,acute kidney injury,0.0,false,false
+1164,etodolac,myocardial infarction,acute myocardial infarction,1.0,false,false
+1165,medroxyprogesterone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1166,moxifloxacin,hepatic necrosis,acute liver injury,0.0,false,false
+1167,erlotinib,renal failure,acute kidney injury,0.0,false,false
+1168,telmisartan,acute kidney injury,acute kidney injury,1.0,false,false
+1169,dasatinib,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1170,mexiletine,liver function test abnormal,acute liver injury,0.0,false,false
+1171,bexarotene,renal impairment,acute kidney injury,0.0,false,false
+1172,nilutamide,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1173,buprenorphine,hepatotoxicity,acute liver injury,0.0,false,false
+1174,caspofungin,hepatotoxicity,acute liver injury,1.0,false,false
+1175,pentostatin,renal impairment,acute kidney injury,0.0,false,false
+1176,metronidazole,acute hepatic failure,acute liver injury,0.0,false,false
+1177,mycophenolate mofetil,haematemesis,gi bleed,0.0,False,false
+1178,lenalidomide,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1179,carfilzomib,myocardial infarction,acute myocardial infarction,0.0,false,false
+1180,niraparib,renal failure,acute kidney injury,0.0,false,false
+1181,progesterone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1182,flurbiprofen,gastrointestinal haemorrhage,gi bleed,1.0,false,false
+1183,enalaprilat,hepatic failure,acute liver injury,1.0,false,false
+1184,risperidone,hepatic enzyme increased,acute liver injury,0.0,false,false
+1185,diclofenac,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1186,diclofenac,myocardial infarction,acute myocardial infarction,0.0,false,false
+1187,diclofenac,renal failure,acute kidney injury,0.0,false,false
+1188,exemestane,myocardial infarction,acute myocardial infarction,0.0,false,false
+1189,mirtazapine,myocardial infarction,acute myocardial infarction,0.0,false,false
+1190,ziprasidone,haematemesis,gi bleed,0.0,False,false
+1191,amiodarone,renal failure,acute kidney injury,0.0,false,false
+1192,ketoprofen,renal failure,acute kidney injury,1.0,false,false
+1193,duloxetine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1194,cefazolin,renal failure,acute kidney injury,0.0,false,false
+1195,ketoconazole,hepatotoxicity,acute liver injury,0.0,false,false
+1196,sulfasalazine,hepatotoxicity,acute liver injury,0.0,false,false
+1197,duloxetine,hepatotoxicity,acute liver injury,0.0,false,false
+1198,mesalamine,renal impairment,acute kidney injury,0.0,false,false
+1199,tiagabine,liver function test abnormal,acute liver injury,0.0,False,false
+1200,celecoxib,hepatic enzyme increased,acute liver injury,1.0,false,false
+1201,triamterene,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+1202,oxacillin,liver function test abnormal,acute liver injury,0.0,false,false
+1203,fosphenytoin,liver function test abnormal,acute liver injury,0.0,false,false
+1204,clofarabine,gastrointestinal haemorrhage,gi bleed,0.0,false,false
+1205,cyclophosphamide,hepatic failure,acute liver injury,0.0,false,false
+1206,trimipramine,myocardial infarction,acute myocardial infarction,0.0,false,false
+1207,metronidazole,hepatic enzyme increased,acute liver injury,0.0,false,false
+1208,aztreonam,gastrointestinal haemorrhage,gi bleed,0.0,False,false
+1209,tipranavir,renal failure,acute kidney injury,0.0,false,false
+1210,lincomycin,liver function test abnormal,acute liver injury,0.0,false,false
+1211,fidaxomicin,hepatic enzyme increased,acute liver injury,0.0,false,false
+1212,naltrexone,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+1213,dotatate,renal failure,acute kidney injury,0.0,false,false
+1214,siponimod,myocardial infarction,acute myocardial infarction,0.0,False,false
+1215,encorafenib,hepatotoxicity,acute liver injury,0.0,false,false
+1216,buspirone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1217,moxifloxacin,renal impairment,acute kidney injury,0.0,false,false
+1218,mesalamine,hepatic necrosis,acute liver injury,0.0,false,false
+1219,fenofibrate,acute kidney injury,acute kidney injury,0.0,false,false
+1220,rivastigmine,acute kidney injury,acute kidney injury,0.0,false,false
+1221,rifampin,renal failure,acute kidney injury,0.0,false,false
+1222,indinavir,renal failure,acute kidney injury,0.0,false,false
+1223,vancomycin,renal impairment,acute kidney injury,0.0,false,false
+1224,levofloxacin,renal failure,acute kidney injury,0.0,false,false
+1225,valsartan,hepatic enzyme increased,acute liver injury,0.0,false,false
+1226,valacyclovir,acute kidney injury,acute kidney injury,0.0,false,false
+1227,maraviroc,hepatotoxicity,acute liver injury,0.0,false,false
+1228,candesartan,myocardial infarction,acute myocardial infarction,0.0,false,false
+1229,phenytoin,acute hepatic failure,acute liver injury,0.0,false,false
+1230,oxaliplatin,hepatotoxicity,acute liver injury,0.0,false,false
+1231,erlotinib,hepatotoxicity,acute liver injury,0.0,false,false
+1232,ritonavir,hepatotoxicity,acute liver injury,0.0,false,false
+1233,cefotetan,renal impairment,acute kidney injury,0.0,false,false
+1234,cyclophosphamide,hepatotoxicity,acute liver injury,0.0,false,false
+1235,methylphenidate,myocardial infarction,acute myocardial infarction,0.0,false,false
+1236,alirocumab,hepatic enzyme abnormal,acute liver injury,0.0,false,false
+1237,arsenic trioxide,renal impairment,acute kidney injury,0.0,false,false
+1238,lenalidomide,hepatotoxicity,acute liver injury,0.0,false,false
+1239,carbamazepine,liver injury,acute liver injury,1.0,false,false
+1240,daratumumab,acute kidney injury,acute kidney injury,0.0,false,false
+1241,dinoprostone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1242,agalsidase beta,myocardial infarction,acute myocardial infarction,0.0,false,false
+1243,siponimod,liver injury,acute liver injury,0.0,false,false
+1244,rosiglitazone,myocardial infarction,acute myocardial infarction,0.0,false,false
+1245,sotalol,renal impairment,acute kidney injury,0.0,false,false
+1246,rituximab,hepatic failure,acute liver injury,0.0,false,false
