@@ -16,12 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Onsides extracted ADRs and MedDRA PT mappings**
 ```{r}
-adr_section = read_csv('../data/20240312/adverse_reactions_active_labels.csv.gz') %>%
-  # read_csv('../../20231113_onsides/adverse_reactions_active_labels.csv.gz') %>%
+adr_section = # read_csv('../data/20240312/adverse_reactions_active_labels.csv.gz') %>%
+  read_csv('../../20231113_onsides/adverse_reactions_active_labels.csv.gz') %>%
               filter(num_ingredients == 1) %>%
   mutate(section = 'adr')
-warnings = read_csv('../data/20240312/boxed_warnings_active_labels.csv.gz') %>%
-  # read_csv('../../20231113_onsides/boxed_warnings_active_labels.csv.gz') %>%
+warnings = # read_csv('../data/20240312/boxed_warnings_active_labels.csv.gz') %>%
+  read_csv('../../20231113_onsides/boxed_warnings_active_labels.csv.gz') %>%
              filter(num_ingredients == 1) %>%
              mutate(pt_meddra_term = str_to_lower(pt_meddra_term),
                     section = 'warning')
@@ -149,7 +149,8 @@ adr_condition_name %>%
 
 
 ```{r}
-adr_condition_name %>% filter(ingredients_names == "candesartan") %>%
+adr_condition_name %>% filter(ingredients_names == "candesartan",
+                              grepl(pattern = 'renal|kidney', pt_meddra_term)) %>%
   distinct(pt_meddra_term)
 ```
 ```{r}
@@ -159,6 +160,20 @@ warnings %>% filter(ingredients_names == "candesartan")
 
 
 
+```{r}
+adr_section24 = read_csv('../data/20240312/adverse_reactions_active_labels.csv.gz') %>%
+              filter(num_ingredients == 1) %>%
+  mutate(section = 'adr', year24 = 1) %>% select(ingredients_names, pt_meddra_term, section, year24) %>% distinct
+adr_section23 = read_csv('../../20231113_onsides/adverse_reactions_active_labels.csv.gz') %>%
+              filter(num_ingredients == 1) %>%
+  mutate(section = 'adr', year23 = 1) %>% select(ingredients_names, pt_meddra_term, section, year23) %>% distinct
+
+adr_section23 %>%
+  full_join(adr_section24) %>%
+  filter(ingredients_names == 'candesartan') %>%
+  replace_na(list('year23'=0, 'year24'=0)) %>% 
+  filter(year23 * year24 == 0)
+```
 
 
 

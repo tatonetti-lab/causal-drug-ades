@@ -15,6 +15,53 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Get Data
 
+```{r}
+agreement = read_csv('gpt35_agreement.csv') %>% mutate(group = ifelse(affect == 1, 'Positive', 'Non-Positive'))
+agreement %>% head()
+```
+```{r}
+agreement %>%
+  group_by(condition_name, ingredient_name, group) %>%
+  summarise(response = any(response)) %>% group_by(condition_name, group) %>% summarise(n = n(), agree = sum(response), prop = agree/n) %>%
+  mutate(condition_name = str_to_sentence(condition_name))
+ggplot(mapping = aes(x = group, fill = response)) +
+    geom_bar( position = "fill") +
+    scale_y_continuous(labels = scales::percent) +
+    facet_wrap(~condition_name, nrow = 2) +
+  theme_classic() +
+  xlab('') + ylab('') +
+  panel_border() +
+  scale_fill_manual(values = c('#EF4444','#394BA0')) +
+  theme(legend.title = element_blank())
+ggsave(filename = '../figures/gpt35_agreement_bar.png',
+       width = 8, height = 7,
+       bg = 'white', dpi=1200)
+```
+
+
+```{r}
+agreement_condition <- read_csv('gpt35_agreement_condition.csv') %>% mutate(group = ifelse(affect == 1, 'Positive', 'Non-Positive')) 
+
+agreement_condition %>% head()
+
+```
+
+```{r}
+agreement_condition %>%
+  group_by(condition_name, ingredient_name, group) %>%
+  summarise(response = any(response)) %>%
+ggplot(mapping = aes(x = group, fill = response)) +
+    geom_bar( position = "fill") +
+    scale_y_continuous(labels = scales::percent) +
+    facet_wrap(~condition_name, nrow = 2) +
+  theme_classic() +
+  xlab('') + ylab('') +
+  panel_border() +
+  scale_fill_manual(values = c('#EF4444','#394BA0')) +
+  theme(legend.title = element_blank())
+```
+
+
 ### OnSIDES data and meddra PT mapping
 
 ```{r}
@@ -43,7 +90,7 @@ adr_condition_name %>% head
 ### Ryan et al Reference Set
 
 ```{r}
-pryan_set <- read_csv('../data/pryan_reference_set_ades.csv') %>% 
+pryan_set <- read_csv('../pryan_reference_set_ades.csv') %>% 
         mutate(drug_name = str_to_lower(drug_name),
                condition_name = str_to_lower(condition_name),
                drug_name = ifelse(drug_name == 'olmesartan medoxomil', 'olmesartan', drug_name))      

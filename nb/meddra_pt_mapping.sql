@@ -1,3 +1,13 @@
+select condition_name, count(distinct drug_name)
+FROM user_uog2000.reference_ades
+INNER JOIN effect_onsides_v02.adverse_reactions
+
+group by condition_name;
+
+SELECT *
+FROM effect_onsides_v02.ingredients
+WHERE ingredient_name like '%cesium%'
+
 ####
 # note olmesartan medoxomil ---
 # note one drop -- capreomycin

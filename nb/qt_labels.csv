@@ -1,0 +1,528 @@
+file,set_id,spl_version,title,ingredient_rx_cui,ingredient_name,pt_meddra_id,pt_meddra_term,qt_present
+../data/2024_latest_labels/latest_labels_ingredients/20240224_9c9d9f5c-bfd1-4e2a-be4a-697344ca6833.json,9c9d9f5c-bfd1-4e2a-be4a-697344ca6833,11,"These highlights do not include all the information needed to use citalopram tablets safely and effectively. See full prescribing information for citalopram tablets.
+ 
+
+
+CITALOPRAM (Citalopram) tablets, for oral use
+ 
+
+
+Initial U.S. Approval: 1998",2556,citalopram,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240214_f34c08e6-fe74-4de3-9e36-a82c3c1c183b.json,f34c08e6-fe74-4de3-9e36-a82c3c1c183b,9,"These highlights do not include all the information needed to use MOXIFLOXACIN TABLETS safely and effectively. See full prescribing information for MOXIFLOXACIN TABLETS.
+ MOXIFLOXACIN tablets, for oral use Initial U.S. Approval: 1999",139462,moxifloxacin,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20240113_53486382-eee0-4cbe-bc4a-a57484e0d5a7.json,53486382-eee0-4cbe-bc4a-a57484e0d5a7,104,"These highlights do not include all the information needed to use CILOSTAZOL TABLETS safely and effectively. See full prescribing information for CILOSTAZOL TABLETS.CILOSTAZOL tablets, for oral useInitial U.S. Approval: 1999",21107,cilostazol,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_0be243c6-de02-45dd-8210-cab1bbc8dfa7.json,0be243c6-de02-45dd-8210-cab1bbc8dfa7,28,"These highlights do not include all the information needed to use CLARITHROMYCIN TABLETS safely and effectively. See full prescribing information for CLARITHROMYCIN TABLETS.
+ 
+
+CLARITHROMYCIN tablets, for oral use
+ 
+Initial U.S. Approval: 1991",21212,clarithromycin,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_5198b1c8-8dd6-4b8f-bd85-294ac468af53.json,5198b1c8-8dd6-4b8f-bd85-294ac468af53,10,"These highlights do not include all the information needed to use FLUVOXAMINE MALEATE TABLETS safely and effectively. See full prescribing information for FLUVOXAMINE MALEATE TABLETS.
+ 
+
+FLUVOXAMINE MALEATE tablets, for oral use
+ 
+Initial U.S. Approval: 1994",42355,fluvoxamine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240207_8849c8f9-ee41-4ccd-8a62-67b04e80a276.json,8849c8f9-ee41-4ccd-8a62-67b04e80a276,1,"These highlights do not include all the information needed to use ARSENIC TRIOXIDE INJECTION safely and effectively. See full prescribing information for ARSENIC TRIOXIDE INJECTION. ARSENIC TRIOXIDE injection, for intravenous use Initial U.S. Approval: 2000",18330,arsenic trioxide,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20230526_e5721cb8-4185-47b9-bbb3-1c587e558a03.json,e5721cb8-4185-47b9-bbb3-1c587e558a03,8,"These highlights do not include all the information needed to use CAPRELSA safely and effectively. See full prescribing information for CAPRELSA.CAPRELSA® (vandetanib) tablets, for oral useInitial U.S. Approval: 2011",1098413,vandetanib,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20230321_147e033d-d997-4ef6-8bb5-a9ba372590b2.json,147e033d-d997-4ef6-8bb5-a9ba372590b2,8,"DROPERIDOL INJECTION, USP",3648,droperidol,10024803,long qt syndrome,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_5198b1c8-8dd6-4b8f-bd85-294ac468af53.json,5198b1c8-8dd6-4b8f-bd85-294ac468af53,10,"These highlights do not include all the information needed to use FLUVOXAMINE MALEATE TABLETS safely and effectively. See full prescribing information for FLUVOXAMINE MALEATE TABLETS.
+ 
+
+FLUVOXAMINE MALEATE tablets, for oral use
+ 
+Initial U.S. Approval: 1994",42355,fluvoxamine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240217_793062e5-5a0c-40f9-8d8b-ca0862cd8a37.json,793062e5-5a0c-40f9-8d8b-ca0862cd8a37,11,"These highlights do not include all the information needed to use ARIPIPRAZOLE TABLETS safely and effectively. See full prescribing information for ARIPIPRAZOLE TABLETS.
+ 
+
+
+
+ARIPIPRAZOLE tablets, for oral use
+ 
+
+Initial U.S. Approval: 2002",89013,aripiprazole,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240215_bda70104-d84b-4d3f-9ca0-5f4f1ca816ad.json,bda70104-d84b-4d3f-9ca0-5f4f1ca816ad,13,"These highlights do not include all the information needed to use VORICONAZOLE TABLETS safely and effectively. See full prescribing information for VORICONAZOLE TABLETS.VORICONAZOLE tablets, for oral useInitial U.S. Approval: 2002",121243,voriconazole,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240102_adc84ad5-a04d-4fee-9ba8-91f7abd928e3.json,adc84ad5-a04d-4fee-9ba8-91f7abd928e3,29,"These highlights do not include all the information needed to use BOSULIF safely and effectively. See full prescribing information for BOSULIF. 
+BOSULIF® (bosutinib) tablets, for oral useBOSULIF® (bosutinib) capsules, for oral use Initial U.S. Approval: 2012",1307619,bosutinib,10024803,long qt syndrome,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_c394914b-2334-418e-bf86-9f9100323717.json,c394914b-2334-418e-bf86-9f9100323717,6,KETOCONAZOLE CREAM 2%,6135,ketoconazole,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240221_304a3059-4f7f-4ec4-839d-86492bb5e07b.json,304a3059-4f7f-4ec4-839d-86492bb5e07b,6,"These highlights do not include all the information needed to use MEMANTINE HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for MEMANTINE HYDROCHLORIDE TABLETS.
+ 
+MEMANTINE HYDROCHLORIDE tablets, for oral use
+ 
+Initial U.S. Approval: 2003",6719,memantine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_b6189074-e199-4f58-a78d-c04f131c13d9.json,b6189074-e199-4f58-a78d-c04f131c13d9,8,Rx only,5553,hydroxyzine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231207_50d0dd0c-7682-43d0-aa1b-ca26e9181aee.json,50d0dd0c-7682-43d0-aa1b-ca26e9181aee,3,"These highlights do not include all the information needed to use lapatinib tablets safely and effectively. See full prescribing information for lapatinib tablets. LAPATINIB tablets, for oral use Initial U.S. Approval: 2007",480167,lapatinib,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240102_adc84ad5-a04d-4fee-9ba8-91f7abd928e3.json,adc84ad5-a04d-4fee-9ba8-91f7abd928e3,29,"These highlights do not include all the information needed to use BOSULIF safely and effectively. See full prescribing information for BOSULIF. 
+BOSULIF® (bosutinib) tablets, for oral useBOSULIF® (bosutinib) capsules, for oral use Initial U.S. Approval: 2012",1307619,bosutinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/train_xml/20220817_d5929f91-6496-4c0e-97e8-0bd524e15763.json,d5929f91-6496-4c0e-97e8-0bd524e15763,3,"These highlights do not include all the information needed to use BOSULIF safely and effectively. See full prescribing information for BOSULIF.
+ BOSULIF® (bosutinib) tablets, for oral use Initial U.S. Approval: 2012",1307619,bosutinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230916_2cab8dd1-3a10-48e6-86ce-0e5275ed49e5.json,2cab8dd1-3a10-48e6-86ce-0e5275ed49e5,10,"These highlights do not include all the information needed to use FARESTON® safely and effectively. See full prescribing information for FARESTON®.
+
+
+FARESTON® (toremifene citrate) 60 mg Tablets oral administration
+
+Initial U.S. Approval: 1997",38409,toremifene,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240126_2428969a-7431-4e94-9503-ad5c680e2ea4.json,2428969a-7431-4e94-9503-ad5c680e2ea4,9,"Corvert®
+
+
+(ibutilide fumarate) injection",41289,ibutilide,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20230921_e72c2bc6-9462-4a2e-8e1d-b97592376cbd.json,e72c2bc6-9462-4a2e-8e1d-b97592376cbd,32,"These highlights do not include all the information needed to use VIRACEPT safely and effectively. See full prescribing information for VIRACEPT.
+ VIRACEPT® (nelfinavir mesylate) Tablets, for oral use  VIRACEPT®  (nelfinavir mesylate) Oral Powder, for oral use Initial U.S. Approval: 1997",134527,nelfinavir,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_81d9e47e-ae81-4755-a5ee-546a038fadb4.json,81d9e47e-ae81-4755-a5ee-546a038fadb4,7,"These highlights do not include all the information needed to use MIRTAZAPINE TABLETS safely and effectively. See full prescribing information for MIRTAZAPINE TABLETS.
+ 
+
+MIRTAZAPINE tablets, for oral use
+ 
+Initial U.S. Approval: 1996",15996,mirtazapine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240209_02e2aa54-1ed8-445a-a082-ac2c64b339fe.json,02e2aa54-1ed8-445a-a082-ac2c64b339fe,16,"These highlights do not include all the information needed to use SOLIFENACIN SUCCINATE TABLETS safely and effectively. See full prescribing information for SOLIFENACIN SUCCINATE TABLETS.
+
+
+SOLIFENACIN SUCCINATE tablets for oral use 
+
+Initial U.S. Approval: 2004",322167,solifenacin,10044066,torsade de pointes,
+../data/2024_latest_labels/gold_xml/20231205_5359b759-db7c-4672-9e8a-59c93869bd91.json,5359b759-db7c-4672-9e8a-59c93869bd91,5,"These highlights do not include all the information needed to use VIBATIV® (telavancin) safely and effectively. See full prescribing information for VIBATIV. 
+VIBATIV® (telavancin) for injection, for intravenous use Initial U.S. Approval: 2009",473837,telavancin,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240221_304a3059-4f7f-4ec4-839d-86492bb5e07b.json,304a3059-4f7f-4ec4-839d-86492bb5e07b,6,"These highlights do not include all the information needed to use MEMANTINE HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for MEMANTINE HYDROCHLORIDE TABLETS.
+ 
+MEMANTINE HYDROCHLORIDE tablets, for oral use
+ 
+Initial U.S. Approval: 2003",6719,memantine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240124_7276803b-5b97-d886-e053-2a91aa0a184e.json,7276803b-5b97-d886-e053-2a91aa0a184e,5,"Dofetilide Capsules
+ 
+
+Rx Only
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rx only",49247,dofetilide,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240215_a99335d0-1e87-4180-bde3-cbb12bf91a52.json,a99335d0-1e87-4180-bde3-cbb12bf91a52,1,"These highlights do not include all the information needed to use DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE INJECTION safely and effectively. See full prescribing information for DEXMEDETOMIDINE HYDROCHLORIDE IN 0.9% SODIUM CHLORIDE INJECTION.
+DEXMEDETOMIDINE HYDROCHLORIDE in 0.9% SODIUM CHLORIDE injection, for intravenous use
+Initial U.S. Approval: 1999",48937,dexmedetomidine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/train_xml/20211016_4e338e89-3cf2-48eb-b6e2-a06c608c6513.json,4e338e89-3cf2-48eb-b6e2-a06c608c6513,36,"These highlights do not include all the information needed to use ZYTIGA safely and effectively. See full prescribing information for ZYTIGA. 
+ZYTIGA® (abiraterone acetate) tablets, for oral use Initial U.S. Approval: 2011",1100072,abiraterone,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_101b2d4d-4740-4225-94bc-aecc05d82c6b.json,101b2d4d-4740-4225-94bc-aecc05d82c6b,10,"These highlights do not include all the information needed to use RISPERIDONE TABLETS safely and effectively. See full prescribing information for RISPERIDONE TABLETS.
+ 
+
+RISPERIDONE tablets, for oral use
+ 
+
+
+
+Initial U.S. Approval: 1993",35636,risperidone,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20231117_a3e4c8e5-bff0-4a8f-8401-e9866c846ee2.json,a3e4c8e5-bff0-4a8f-8401-e9866c846ee2,3,"These highlights do not include all the information needed to use Suprane (desflurane, USP) safely and effectively. See full prescribing information for Suprane (desflurane, USP).Suprane (desflurane, USP) Volatile Liquid for InhalationInitial U.S. Approval:  1992",27340,desflurane,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231007_b748f308-ba71-4fd9-84ec-ec7e0f210885.json,b748f308-ba71-4fd9-84ec-ec7e0f210885,6,"These highlights do not include all the information needed to use LUCEMYRA safely and effectively. See full prescribing information for LUCEMYRA. 
+ LUCEMYRA® (lofexidine) tablets, for oral use  Initial U.S. Approval: 2018",28863,lofexidine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240223_b1274d78-1096-4ae3-8299-a2e94eaa0ea5.json,b1274d78-1096-4ae3-8299-a2e94eaa0ea5,16,Itraconazole Capsules,28031,itraconazole,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_c394914b-2334-418e-bf86-9f9100323717.json,c394914b-2334-418e-bf86-9f9100323717,6,KETOCONAZOLE CREAM 2%,6135,ketoconazole,10024803,long qt syndrome,
+../data/2024_latest_labels/latest_labels_ingredients/20240223_726daf35-4c03-464f-a814-cc0a715d6031.json,726daf35-4c03-464f-a814-cc0a715d6031,1,"Fluconazole Tablets USP
+ 
+Rx only",4450,fluconazole,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20231230_cb960074-99c1-4a73-941f-f0644a7ec219.json,cb960074-99c1-4a73-941f-f0644a7ec219,40,"These highlights do not include all the information needed to use AGRYLIN safely and effectively. See full prescribing information for AGRYLIN.
+AGRYLIN® (anagrelide) capsules, for oral useInitial U.S. Approval: 1997",596724,anagrelide,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_a0aad470-3f38-af97-e053-2995a90a383a.json,a0aad470-3f38-af97-e053-2995a90a383a,16,"These highlights do not include all the information needed to use SIGNIFOR LAR safely and effectively. See full prescribing information for SIGNIFOR LAR.
+
+
+
+
+SIGNIFOR ® LAR (pasireotide) for injectable suspension, for intramuscular use 
+
+
+Initial U.S. Approval: 2012",1364105,pasireotide,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/gold_xml/20231201_38eea320-7e0c-485a-bc30-98c3c45e2763.json,38eea320-7e0c-485a-bc30-98c3c45e2763,24,"These highlights do not include all the information needed to use ZELBORAF safely and effectively. See full prescribing information for ZELBORAF. 
+ ZELBORAF® (vemurafenib) tablet for oral use  Initial U.S. Approval: 2011",1147220,vemurafenib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_c394914b-2334-418e-bf86-9f9100323717.json,c394914b-2334-418e-bf86-9f9100323717,6,KETOCONAZOLE CREAM 2%,6135,ketoconazole,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_4314da8a-40e5-4aba-a32b-57b4166ade30.json,4314da8a-40e5-4aba-a32b-57b4166ade30,12,"These highlights do not include all the information needed to use AZITHROMYCIN TABLETS safely and effectively. See full prescribing information for AZITHROMYCIN TABLETS.  AZITHROMYCIN tablets, for oral use Initial U.S. Approval: 1991",18631,azithromycin,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_5108ca9c-b307-4cb2-8ea1-6553764f375a.json,5108ca9c-b307-4cb2-8ea1-6553764f375a,13,"These highlights do not include all the information needed to use ESCITALOPRAM TABLETS safely and effectively. See full prescribing information for ESCITALOPRAM TABLETS.
+ 
+
+
+
+ESCITALOPRAM tablets, for oral use
+ 
+
+
+
+
+
+
+
+
+Initial U.S. Approval: 2002",321988,escitalopram,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20230331_4a0c7c8b-b95f-455d-9600-b7351e4397fe.json,4a0c7c8b-b95f-455d-9600-b7351e4397fe,2,"These highlights do not include all the information needed to use REZLIDHIA safely and effectively. See full prescribing information for REZLIDHIA.
+REZLIDHIA™ (olutasidenib) capsules, for oral useInitial U.S. Approval: 2022",2623641,olutasidenib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230930_f1a91500-a944-4cb8-b4a8-ae278bcf728d.json,f1a91500-a944-4cb8-b4a8-ae278bcf728d,4,"These highlights do not include all the information needed to use EXKIVITY safely and effectively. See full prescribing information for EXKIVITY.
+ EXKIVITY® (mobocertinib) capsules, for oral use Initial U.S. Approval: 2021",2570736,mobocertinib,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_0be243c6-de02-45dd-8210-cab1bbc8dfa7.json,0be243c6-de02-45dd-8210-cab1bbc8dfa7,28,"These highlights do not include all the information needed to use CLARITHROMYCIN TABLETS safely and effectively. See full prescribing information for CLARITHROMYCIN TABLETS.
+ 
+
+CLARITHROMYCIN tablets, for oral use
+ 
+Initial U.S. Approval: 1991",21212,clarithromycin,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_806b3e38-3b2a-4aaa-973c-e2d921bb353e.json,806b3e38-3b2a-4aaa-973c-e2d921bb353e,10,"Venlafaxine Tablets, USP
+ 
+Rx only",39786,venlafaxine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231221_f567d5c7-ea5d-49a7-a035-b47208135f73.json,f567d5c7-ea5d-49a7-a035-b47208135f73,9,"These highlights do not include all the information needed to use 
+QUININE SULFATE CAPSULES safely and effectively. See full prescribing information for
+ QUININE SULFATE CAPSULES.
+
+
+QUININE sulfate capsules, for oral use
+
+Initial U.S. Approval: 2005",9071,quinine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240214_6296e2ed-334c-b9af-e053-2991aa0aae0c.json,6296e2ed-334c-b9af-e053-2991aa0aae0c,5,"Erythromycin Ophthalmic Ointment, USP 0.5% (Sterile)",4053,erythromycin,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240209_53bdb79c-c4cf-4818-b1f0-225e67a14536.json,53bdb79c-c4cf-4818-b1f0-225e67a14536,24,"These highlights do not include all the information needed to use CLOZAPINE TABLETS safely and effectively. See full prescribing information for CLOZAPINE TABLETS.
+ 
+CLOZAPINE tablets, for oral use
+ 
+Initial U.S. Approval: 1989",2626,clozapine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240217_413c645e-074d-4276-b39a-d83521077602.json,413c645e-074d-4276-b39a-d83521077602,14,"These highlights do not include all the information needed to use ABIRATERONE ACETATE TABLETS safely and effectively. See full prescribing information for ABIRATERONE ACETATE TABLETS.
+  
+
+ABIRATERONE ACETATE tablets,
+ 
+for oral use 
+
+Initial U.S. Approval: 2011",1100072,abiraterone,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20210630_c00d1607-ac36-457b-a34b-75ad74f9cf0a.json,c00d1607-ac36-457b-a34b-75ad74f9cf0a,32,"These highlights do not include all the information needed to use INVIRASE safely and effectively. See full prescribing information for INVIRASE. 
+INVIRASE® (saquinavir mesylate) tablets, for oral use
+ Initial U.S. Approval: 1995",83395,saquinavir,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231117_a3e4c8e5-bff0-4a8f-8401-e9866c846ee2.json,a3e4c8e5-bff0-4a8f-8401-e9866c846ee2,3,"These highlights do not include all the information needed to use Suprane (desflurane, USP) safely and effectively. See full prescribing information for Suprane (desflurane, USP).Suprane (desflurane, USP) Volatile Liquid for InhalationInitial U.S. Approval:  1992",27340,desflurane,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230429_b5ff59aa-9c0d-49a8-9053-1f179b482383.json,b5ff59aa-9c0d-49a8-9053-1f179b482383,9,"These highlights do not include all the information needed to use XOSPATA safely and effectively.  See full prescribing information for XOSPATA.
+XOSPATA® (gilteritinib) tablets, for oral useInitial U.S. Approval: 2018",2105806,gilteritinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230527_11fa3fc9-6776-49a6-b1c1-653f627c3e58.json,11fa3fc9-6776-49a6-b1c1-653f627c3e58,11,"These highlights do not include all the information needed to use RYDAPT safely and effectively. See full prescribing information for RYDAPT.
+RYDAPT® (midostaurin) capsules, for oral useInitial U.S. Approval: 2017",1919083,midostaurin,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240217_fabf55db-8b50-491f-b76d-a0fe5fb6c9b0.json,fabf55db-8b50-491f-b76d-a0fe5fb6c9b0,17,"These highlights do not include all the information needed to use CIPROFLOXACIN TABLETS safely and effectively. See full prescribing information for CIPROFLOXACIN TABLETS.
+ 
+
+CIPROFLOXACIN tablet, for oral use
+ 
+Initial U.S. Approval: 1987",2551,ciprofloxacin,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240111_52781229-ee82-43f9-a113-4419a611978d.json,52781229-ee82-43f9-a113-4419a611978d,1,"These highlights do not include all the information needed to use RIVASTIGMINE TARTRATE CAPSULES safely and effectively. See full prescribing information for RIVASTIGMINE TARTRATE CAPSULES.
+ 
+RIVASTIGMINE TARTRATE capsules, for oral use
+ 
+Initial U.S. Approval: 2000",183379,rivastigmine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_24926986-7552-4f1a-8366-f035bbd07104.json,24926986-7552-4f1a-8366-f035bbd07104,7,"These highlights do not include all the information needed to use FLUOXETINE CAPSULES safely and effectively. See full prescribing information for FLUOXETINE CAPSULES.
+ 
+FLUOXETINE capsules, for oral use
+ 
+Initial U.S. Approval: 1987",4493,fluoxetine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240209_e6ea445d-4d7c-4c32-83a7-e7683a56075b.json,e6ea445d-4d7c-4c32-83a7-e7683a56075b,7,"These highlights do not include all the information needed to use
+ 
+SOTALOL HYDROCHLORIDE TABLETS safely and effectively.
+ 
+See full prescribing information for SOTALOL HYDROCHLORIDE TABLETS.
+ 
+
+SOTALOL HYDROCHLORIDE tablets, for oral use
+ 
+Initial U.S. Approval: 1992",9947,sotalol,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240118_b471eb51-488e-5312-e053-2a95a90a8116.json,b471eb51-488e-5312-e053-2a95a90a8116,5,"These highlights do not include all the information needed to use FULVESTRANT INJECTION safely and effectively. See full prescribing information for FULVESTRANT INJECTION.
+ 
+FULVESTRANT injection, for intramuscular use
+ 
+Initial U.S. Approval: 2002",282357,fulvestrant,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/gold_xml/20230804_a09a25fc-a5a3-0c82-e053-2995a90a5d74.json,a09a25fc-a5a3-0c82-e053-2995a90a5d74,15,"These highlights do not include all the information needed to use SIGNIFOR safely and effectively. See full prescribing information for SIGNIFOR.
+
+
+
+
+SIGNIFOR 
+  ®(pasireotide) injection, for subcutaneous use 
+ 
+
+
+Initial U.S. Approval: 2012",1364105,pasireotide,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230615_92018a65-38f6-45f7-91d4-a34921b81d0d.json,92018a65-38f6-45f7-91d4-a34921b81d0d,31,"These highlights do not include all the information needed to use
+ 
+CORLANOR
+
+ 
+
+safely and effectively. 
+See full prescribing information for
+ 
+CORLANOR
+.
+
+   
+
+CORLANOR
+
+®
+
+ 
+(
+ivabradine
+) 
+t
+ablets
+, for oral use
+
+CORLANOR
+
+®
+
+ (ivabradine) oral solution
+
+Initial U.S. Approval: 
+2015",1649480,ivabradine,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20230526_e5721cb8-4185-47b9-bbb3-1c587e558a03.json,e5721cb8-4185-47b9-bbb3-1c587e558a03,8,"These highlights do not include all the information needed to use CAPRELSA safely and effectively. See full prescribing information for CAPRELSA.CAPRELSA® (vandetanib) tablets, for oral useInitial U.S. Approval: 2011",1098413,vandetanib,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20230321_147e033d-d997-4ef6-8bb5-a9ba372590b2.json,147e033d-d997-4ef6-8bb5-a9ba372590b2,8,"DROPERIDOL INJECTION, USP",3648,droperidol,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20230526_e5721cb8-4185-47b9-bbb3-1c587e558a03.json,e5721cb8-4185-47b9-bbb3-1c587e558a03,8,"These highlights do not include all the information needed to use CAPRELSA safely and effectively. See full prescribing information for CAPRELSA.CAPRELSA® (vandetanib) tablets, for oral useInitial U.S. Approval: 2011",1098413,vandetanib,10024803,long qt syndrome,1
+../data/2024_latest_labels/latest_labels_ingredients/20240215_e6af84de-cbfc-4a3b-bd73-6bcf77337168.json,e6af84de-cbfc-4a3b-bd73-6bcf77337168,15,"These highlights do not include all the information needed to use DISKETS safely and effectively. See full prescribing information for DISKETS.
+DISKETS (methadone hydrochloride) tablets, for oral suspension CIIInitial U.S. Approval: 1947",6813,methadone,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20231205_5359b759-db7c-4672-9e8a-59c93869bd91.json,5359b759-db7c-4672-9e8a-59c93869bd91,5,"These highlights do not include all the information needed to use VIBATIV® (telavancin) safely and effectively. See full prescribing information for VIBATIV. 
+VIBATIV® (telavancin) for injection, for intravenous use Initial U.S. Approval: 2009",473837,telavancin,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240217_29ba0172-7ca3-4122-af1b-f0da522318cb.json,29ba0172-7ca3-4122-af1b-f0da522318cb,6,"These highlights do not include all the information needed to use HYDROXYCHLOROQUINE SULFATE TABLETS safely and effectively. See full prescribing information for HYDROXYCHLOROQUINE SULFATE TABLETS.
+HYDROXYCHLOROQUINE SULFATE Tablets, for oral use
+Initial U.S. Approval: 1955",5521,hydroxychloroquine,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240217_03819118-86f6-4329-adaf-4599e7b71f46.json,03819118-86f6-4329-adaf-4599e7b71f46,29,"These highlights do not include all the information needed to use
+ 
+BUPRENORPHINE SUBLINGUAL TABLETS safely and effectively. See full prescribing information for BUPRENORPHINE
+ 
+SUBLINGUAL TABLETS.
+
+       
+
+BUPRENORPHINE 
+s
+ublingual 
+t
+ablets, CIII
+
+Initial U.S. Approval: 1981",1819,buprenorphine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230321_147e033d-d997-4ef6-8bb5-a9ba372590b2.json,147e033d-d997-4ef6-8bb5-a9ba372590b2,8,"DROPERIDOL INJECTION, USP",3648,droperidol,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20221230_f1906fc9-cb3c-4e13-8a4a-da76100c1bf3.json,f1906fc9-cb3c-4e13-8a4a-da76100c1bf3,10,"These highlights do not include all the information needed to use PRETOMANID TABLETS safely and effectively.  See full prescribing information for PRETOMANID TABLETS. 
+PRETOMANID tablets, for oral use
+Initial U.S. Approval: 2019LIMITED POPULATION",2198359,pretomanid,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240130_3d30eb8d-a62e-475f-926b-78ba63bee9c8.json,3d30eb8d-a62e-475f-926b-78ba63bee9c8,11,"FORANE (isoflurane, USP) liquid for inhalation",6026,isoflurane,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240130_3d30eb8d-a62e-475f-926b-78ba63bee9c8.json,3d30eb8d-a62e-475f-926b-78ba63bee9c8,11,"FORANE (isoflurane, USP) liquid for inhalation",6026,isoflurane,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20230615_9e1f2222-1d89-4e63-989c-ccebe2ab1eb4.json,9e1f2222-1d89-4e63-989c-ccebe2ab1eb4,11,"These highlights do not include all the information needed to use PEMAZYRE safely and effectively. See full prescribing information for PEMAZYRE.
+
+
+PEMAZYRE® (pemigatinib) tablets, for oral use
+
+Initial U.S. Approval: 
+2020",2359268,pemigatinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240216_6093952a-5248-45cb-ad17-33716a411146.json,6093952a-5248-45cb-ad17-33716a411146,37,"These highlights do not include all the information needed to use TASIGNA safely and effectively. See full prescribing information for TASIGNA.
+TASIGNA® (nilotinib) capsules, for oral use
+		Initial U.S. Approval: 2007",662281,nilotinib,10024803,long qt syndrome,
+../data/2024_latest_labels/latest_labels_ingredients/20240217_22174520-4b78-4841-96f7-530ba12d2cf1.json,22174520-4b78-4841-96f7-530ba12d2cf1,8,"Paroxetine Tablets USP, film coated for oral use",32937,paroxetine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240221_ed3039d8-3d27-4b71-a4b0-812943c9457f.json,ed3039d8-3d27-4b71-a4b0-812943c9457f,10,"These highlights do not include all the information needed to use TRAZODONE HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for TRAZODONE HYDROCHLORIDE TABLETS.
+
+
+
+
+
+TRAZODONE HYDROCHLORIDE tablets, for oral use
+
+
+
+
+Initial U.S. Approval: 1981",10737,trazodone,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_746f3ab9-9e6e-4ce8-9384-0c7a57de8007.json,746f3ab9-9e6e-4ce8-9384-0c7a57de8007,9,"Haloperidol Tablets, USP",5093,haloperidol,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240101_1aa40de5-c02d-49d6-8722-ed88c40c3ba6.json,1aa40de5-c02d-49d6-8722-ed88c40c3ba6,2,"Felbamate Tablets, USP
+
+(400 mg and 600 mg)
+
+
+Rx only",24812,felbamate,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240215_bda70104-d84b-4d3f-9ca0-5f4f1ca816ad.json,bda70104-d84b-4d3f-9ca0-5f4f1ca816ad,13,"These highlights do not include all the information needed to use VORICONAZOLE TABLETS safely and effectively. See full prescribing information for VORICONAZOLE TABLETS.VORICONAZOLE tablets, for oral useInitial U.S. Approval: 2002",121243,voriconazole,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20231201_38eea320-7e0c-485a-bc30-98c3c45e2763.json,38eea320-7e0c-485a-bc30-98c3c45e2763,24,"These highlights do not include all the information needed to use ZELBORAF safely and effectively. See full prescribing information for ZELBORAF. 
+ ZELBORAF® (vemurafenib) tablet for oral use  Initial U.S. Approval: 2011",1147220,vemurafenib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240223_0b8bf078-34c2-4f45-9012-38a8ac082b01.json,0b8bf078-34c2-4f45-9012-38a8ac082b01,6,"These highlights do not include all the information needed to use KRAZATI safely and effectively. See full prescribing information for KRAZATI. 
+ KRAZATI® (adagrasib) tablets, for oral use  Initial U.S. Approval: 2022",2625882,adagrasib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240221_6fc9c8e2-6f34-aa43-e053-2a91aa0ac377.json,6fc9c8e2-6f34-aa43-e053-2a91aa0ac377,10,"QUETIAPINE TABLETS. These highlights do not include all the information needed to use QUETIAPINE TABLETS safely and effectively. See full prescribing information for QUETIAPINE TABLETS.
+ 
+
+Quetiapine tablets, for oral use
+ 
+
+Initial U.S. Approval: 1997",51272,quetiapine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_56370be6-42a2-4962-acdc-22b7c6e0e7fe.json,56370be6-42a2-4962-acdc-22b7c6e0e7fe,8,"These highlights do not include all the information needed to use ZIPRASIDONE CAPSULES safely and effectively. See full prescribing information for ZIPRASIDONE CAPSULES.
+
+
+ZIPRASIDONE capsules, for oral use
+
+Initial U.S. Approval: 2001",115698,ziprasidone,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240208_5c8cebcd-699f-4c4c-900b-94e0fe519345.json,5c8cebcd-699f-4c4c-900b-94e0fe519345,100,"These highlights do not include all the information needed to use PROPAFENONE HYDROCHLORIDE TABLETS safely and effectively.  See full prescribing information for PROPAFENONE HYDROCHLORIDE TABLETS.
+PROPAFENONE HYDROCHLORIDE tablets, for oral useInitial U.S. Approval: 1989",8754,propafenone,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240220_f2f090c2-3ee1-7689-e053-2995a90abe38.json,f2f090c2-3ee1-7689-e053-2995a90abe38,3,"These highlights do not include all the information needed to use LEVOFLOXACIN TABLETS 
+  safely and effectively. See full prescribing information for LEVOFLOXACIN TABLETS. 
+ 
+
+
+
+
+LEVOFLOXACIN tablets, for oral use
+
+
+
+
+
+
+Initial U.S. Approval: 1996",82122,levofloxacin,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20230115_35addab5-09db-4f8a-9c69-6fbce33ecc37.json,35addab5-09db-4f8a-9c69-6fbce33ecc37,5,"These highlights do not include all the information needed to use GANCICLOVIR FOR INJECTION safely and effectively. See full prescribing information for GANCICLOVIR FOR INJECTION.GANCICLOVIR FOR INJECTION, for intravenous useInitial U.S. Approval: 1989Rx only",4678,ganciclovir,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20200922_cc7014b1-c775-411d-b374-8113248b4077.json,cc7014b1-c775-411d-b374-8113248b4077,4,"These highlights do not include all the information needed to use BESPONSA™ safely and effectively. See full prescribing information for BESPONSA.
+BESPONSA (inotuzumab ozogamicin) for injection, for intravenous useInitial U.S. Approval: 2017",1942950,inotuzumab ozogamicin,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20231012_0772eb61-ca42-39de-e063-6294a90a6632.json,0772eb61-ca42-39de-e063-6294a90a6632,1,"SUNITINIB MALATE
+ 
+
+These highlights do not include all the information needed to use SUNITINIB MALATE CAPSULES safely and effectively. See full prescribing information for SUNITINIB MALATE CAPSULES.
+ 
+
+Initial U.S. Approval: 2006",357977,sunitinib,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231214_5171d883-fe8f-482c-97ab-40b00975b64a.json,5171d883-fe8f-482c-97ab-40b00975b64a,21,"These highlights do not include all the information needed to use BRIDION safely and effectively. See full prescribing information for BRIDION. 
+BRIDION® (sugammadex) Injection, for intravenous use Initial U.S. Approval: 2015",1726988,sugammadex,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/gold_xml/20240207_eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7.json,eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7,13,"These highlights do not include all the information needed to use VOTRIENT safely and effectively. See full prescribing information for VOTRIENT.
+VOTRIENT® (pazopanib) tablets, for oral useInitial U.S. Approval: 2009",714438,pazopanib,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_a21006b7-6d6f-4f06-81b4-17978756452b.json,a21006b7-6d6f-4f06-81b4-17978756452b,6,"These highlights do not include all the information needed to use RUKOBIA safely and effectively.  See full prescribing information for RUKOBIA.
+RUKOBIA (fostemsavir) extended-release tablets, for oral useInitial U.S. Approval: 2020",2380373,fostemsavir,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240220_f2f090c2-3ee1-7689-e053-2995a90abe38.json,f2f090c2-3ee1-7689-e053-2995a90abe38,3,"These highlights do not include all the information needed to use LEVOFLOXACIN TABLETS 
+  safely and effectively. See full prescribing information for LEVOFLOXACIN TABLETS. 
+ 
+
+
+
+
+LEVOFLOXACIN tablets, for oral use
+
+
+
+
+
+
+Initial U.S. Approval: 1996",82122,levofloxacin,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240220_42989f90-8ff5-44d1-a462-28c18ce02738.json,42989f90-8ff5-44d1-a462-28c18ce02738,7,"Loperamide Hydrochloride Capsules USP
+
+8422901/0717
+
+Rx only",6468,loperamide,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20211217_52fea941-0b47-41c1-b00d-f88150e8ab93.json,52fea941-0b47-41c1-b00d-f88150e8ab93,13,WARNING,10502,thioridazine,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_00fb869a-40e7-4c85-8380-c5e0cdee8018.json,00fb869a-40e7-4c85-8380-c5e0cdee8018,4,"HiGHLIGHTS OF PRESCRIBING INFORMATIONThese highlights do not include all the information needed to use MARCAINE™ and MARCAINE™ WITH EPINEPHRINE safely and effectively. See full prescribing information for MARCAINE™ and MARCAINE™ WITH EPINEPHRINE.
+  MARCAINE™ (bupivacaine hydrochloride) injection, for infiltration, perineural, caudal, epidural, or retrobulbar useMARCAINE™ WITH EPINEPHRINE (bupivacaine hydrochloride and epinephrine) injection, for infiltration, perineural, caudal, or epidural useInitial U.S. Approval: 1972",1815,bupivacaine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240223_a6d46c03-bb1d-417b-b8e5-3bffe352fe29.json,a6d46c03-bb1d-417b-b8e5-3bffe352fe29,14,"These highlights do not include all the information needed to use RUBRACA safely and effectively. See full prescribing information for RUBRACA.
+ 
+RUBRACA 
+ ®(rucaparib) tablets, for oral use
+ 
+Initial U.S. Approval: 2016",1862579,rucaparib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_575da603-b038-421f-9894-6796d9ac33cc.json,575da603-b038-421f-9894-6796d9ac33cc,11,"These highlights do not include all the information needed to use SERTRALINE HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for SERTRALINE HYDROCHLORIDE TABLETS.
+ 
+
+SERTRALINE HYDROCHLORIDE tablets, for oral use
+ 
+Initial U.S. Approval: 1991",36437,sertraline,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240130_a68d1eff-5cbb-4a6e-98e7-0fb6590ce2a0.json,a68d1eff-5cbb-4a6e-98e7-0fb6590ce2a0,13,"ADENOSINE INJECTION, USP",296,adenosine,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240224_41c095b6-acd9-4627-a813-bbca7ecafee5.json,41c095b6-acd9-4627-a813-bbca7ecafee5,10,"These highlights do not include all the information needed to use DONEPEZIL HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for DONEPEZIL HYDROCHLORIDE TABLETS.
+ 
+
+DONEPEZIL HYDROCHLORIDE tablets, for oral use
+ 
+Initial U.S. Approval: 1996",135447,donepezil,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240110_cc0cb812-48f9-a138-e053-2a95a90a7666.json,cc0cb812-48f9-a138-e053-2a95a90a7666,7,"Chloroquine Phosphate Tablets, USP",2393,chloroquine,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240105_b605b541-4bfd-db3e-9710-11c27f6dee6c.json,b605b541-4bfd-db3e-9710-11c27f6dee6c,2,"These highlights do not include all the information needed to use BORTEZOMIB FOR INJECTION safely and effectively. See full prescribing information for BORTEZOMIB FOR INJECTION.
+ BORTEZOMIB for injection, for subcutaneous or intravenous useInitial U.S. Approval: 2003",358258,bortezomib,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20220929_ab23bc6e-b6a8-165f-e053-2a95a90ab144.json,ab23bc6e-b6a8-165f-e053-2a95a90ab144,6,"These highlights do not include all the information needed to use BARHEMSYS safely and effectively. See full prescribing information for BARHEMSYS. 
+BARHEMSYS® (amisulpride) injection, for intravenous use Initial U.S. Approval: 2020",46303,amisulpride,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240104_be4bc0de-0fdc-4d46-8d25-be43c79e6a06.json,be4bc0de-0fdc-4d46-8d25-be43c79e6a06,22,"These highlights do not include all the information needed to use VERZENIO safely and effectively. See full prescribing information for VERZENIO.
+VERZENIO® (abemaciclib) tablets, for oral useInitial U.S. Approval: 2017",1946825,abemaciclib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240214_f34c08e6-fe74-4de3-9e36-a82c3c1c183b.json,f34c08e6-fe74-4de3-9e36-a82c3c1c183b,9,"These highlights do not include all the information needed to use MOXIFLOXACIN TABLETS safely and effectively. See full prescribing information for MOXIFLOXACIN TABLETS.
+ MOXIFLOXACIN tablets, for oral use Initial U.S. Approval: 1999",139462,moxifloxacin,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_51a88e8e-da02-4b97-9e7e-442fbffd908d.json,51a88e8e-da02-4b97-9e7e-442fbffd908d,8,"These highlights do not include all the information needed to use AMIODARONE HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for AMIODARONE HYDROCHLORIDE TABLETS.
+ 
+
+AMIODARONE HYDROCHLORIDE tablets, for oral use
+ 
+Initial U.S. Approval: 1985",703,amiodarone,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240202_860c799c-5199-4f0c-b21b-9910273474d9.json,860c799c-5199-4f0c-b21b-9910273474d9,6,Pentamidine isethionate for injection,7994,pentamidine,10044066,torsade de pointes,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_746f3ab9-9e6e-4ce8-9384-0c7a57de8007.json,746f3ab9-9e6e-4ce8-9384-0c7a57de8007,9,"Haloperidol Tablets, USP",5093,haloperidol,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20221228_101db63d-2fe2-48df-8506-1382d6dcd4a3.json,101db63d-2fe2-48df-8506-1382d6dcd4a3,8,"These highlights do not include all the information needed to use XENLETA® safely and effectively. See full prescribing information for XENLETA.
+		
+XENLETA (lefamulin) injection, for intravenous use
+		XENLETA (lefamulin) tablets, for oral use
+		Initial U.S. Approval: 2019",2198944,lefamulin,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240207_8849c8f9-ee41-4ccd-8a62-67b04e80a276.json,8849c8f9-ee41-4ccd-8a62-67b04e80a276,1,"These highlights do not include all the information needed to use ARSENIC TRIOXIDE INJECTION safely and effectively. See full prescribing information for ARSENIC TRIOXIDE INJECTION. ARSENIC TRIOXIDE injection, for intravenous use Initial U.S. Approval: 2000",18330,arsenic trioxide,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20240224_9c9d9f5c-bfd1-4e2a-be4a-697344ca6833.json,9c9d9f5c-bfd1-4e2a-be4a-697344ca6833,11,"These highlights do not include all the information needed to use citalopram tablets safely and effectively. See full prescribing information for citalopram tablets.
+ 
+
+
+CITALOPRAM (Citalopram) tablets, for oral use
+ 
+
+
+Initial U.S. Approval: 1998",2556,citalopram,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20240111_0fdaee3c-2144-4ca7-9868-54d251f468c0.json,0fdaee3c-2144-4ca7-9868-54d251f468c0,3,"Milrinone Lactate Injection, USP",52769,milrinone,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240217_64b7df84-c990-49f7-bc04-0cccfd7d2019.json,64b7df84-c990-49f7-bc04-0cccfd7d2019,14,"These highlights do not include all the information needed to use TRAMADOL HYDROCHLORIDE TABLETS safely and effectively. See full prescribing information for TRAMADOL HYDROCHLORIDE TABLETS.
+ 
+
+
+
+TRAMADOL HYDROCHLORIDE tablets, for oral use, C-IV
+ 
+
+Initial U.S. Approval: 1995",10689,tramadol,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231118_4c61e68e-f2d1-4998-aae7-62997971dab7.json,4c61e68e-f2d1-4998-aae7-62997971dab7,4,"FOSCAVIR 
+ ® 
+
+
+(foscarnet sodium) INJECTION",33562,foscarnet,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20231205_17a8d11b-73b0-4833-a0b4-cf1ef85edefb.json,17a8d11b-73b0-4833-a0b4-cf1ef85edefb,29,"These highlights do not include all the information needed to use ARISTADA® safely and effectively. See full prescribing information for ARISTADA®.
+ARISTADA® (aripiprazole lauroxil) extended-release injectable suspension, for intramuscular useInitial U.S. Approval: 2015",1673265,aripiprazole lauroxil,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20231108_65d254c0-67ad-42c4-b972-ad463b755b2d.json,65d254c0-67ad-42c4-b972-ad463b755b2d,8,"These highlights do not include all the information needed to use TIBSOVO safely and effectively. See full prescribing information for TIBSOVO.
+ TIBSOVO® (ivosidenib tablets), for oral use Initial U.S. Approval: 2018",2049873,ivosidenib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240221_d3e8dd09-d7d2-43da-8f63-bdf0ea0fcdf5.json,d3e8dd09-d7d2-43da-8f63-bdf0ea0fcdf5,3,"These highlights do not include all the information needed to use PAZOPANIB TABLETS safely and effectively.  See full prescribing information for PAZOPANIB TABLETS.PAZOPANIB tablets, for oral useInitial U.S. Approval: 2009",714438,pazopanib,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20230523_6fa682c9-a312-4932-9831-f286908660ee.json,6fa682c9-a312-4932-9831-f286908660ee,34,"These highlights do not include all the information needed to use TECENTRIQ safely and effectively. See full prescribing information for TECENTRIQ. 
+ TECENTRIQ® (atezolizumab) injection, for intravenous use Initial U.S. Approval: 2016",1792776,atezolizumab,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240216_6093952a-5248-45cb-ad17-33716a411146.json,6093952a-5248-45cb-ad17-33716a411146,37,"These highlights do not include all the information needed to use TASIGNA safely and effectively. See full prescribing information for TASIGNA.
+TASIGNA® (nilotinib) capsules, for oral use
+		Initial U.S. Approval: 2007",662281,nilotinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20230930_f1a91500-a944-4cb8-b4a8-ae278bcf728d.json,f1a91500-a944-4cb8-b4a8-ae278bcf728d,4,"These highlights do not include all the information needed to use EXKIVITY safely and effectively. See full prescribing information for EXKIVITY.
+ EXKIVITY® (mobocertinib) capsules, for oral use Initial U.S. Approval: 2021",2570736,mobocertinib,10014387,electrocardiogram qt prolonged,1
+../data/2024_latest_labels/latest_labels_ingredients/20231122_2a51b0de-47d6-455e-a94c-d2c737b04ff7.json,2a51b0de-47d6-455e-a94c-d2c737b04ff7,43,"These highlights do not include all the information needed to use XALKORI® safely and effectively. See full prescribing information for XALKORI. 
+XALKORI® (crizotinib) capsules, for oral useXALKORI® (crizotinib) oral pelletsInitial U.S. Approval: 2011",1148495,crizotinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/train_xml/20231122_2a51b0de-47d6-455e-a94c-d2c737b04ff7.json,2a51b0de-47d6-455e-a94c-d2c737b04ff7,43,"These highlights do not include all the information needed to use XALKORI® safely and effectively. See full prescribing information for XALKORI. 
+XALKORI® (crizotinib) capsules, for oral useXALKORI® (crizotinib) oral pelletsInitial U.S. Approval: 2011",1148495,crizotinib,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240214_a0dc1a93-b7b8-4179-8ea7-ceecbe1ef243.json,a0dc1a93-b7b8-4179-8ea7-ceecbe1ef243,9,"These highlights do not include all the information needed to use GALANTAMINE TABLETS safely and effectively. See full prescribing information for GALANTAMINE TABLETS.
+ GALANTAMINE tablets, for oral use Initial U.S. Approval: 2001",4637,galantamine,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240110_f2feda53-54b9-4e40-8a01-9e7b45cb3d8c.json,f2feda53-54b9-4e40-8a01-9e7b45cb3d8c,9,"These highlights do not include all the information needed to use ARFORMOTEROL TARTRATE INHALATION SOLUTION safely and effectively. See full prescribing information for ARFORMOTEROL TARTRATE INHALATION SOLUTION.
+ ARFORMOTEROL TARTRATE inhalation solution Initial U.S. Approval: 2006",304962,arformoterol,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/train_xml/20220817_d5929f91-6496-4c0e-97e8-0bd524e15763.json,d5929f91-6496-4c0e-97e8-0bd524e15763,3,"These highlights do not include all the information needed to use BOSULIF safely and effectively. See full prescribing information for BOSULIF.
+ BOSULIF® (bosutinib) tablets, for oral use Initial U.S. Approval: 2012",1307619,bosutinib,10024803,long qt syndrome,
+../data/2024_latest_labels/latest_labels_ingredients/20240124_d2daba09-f1c2-4764-a567-1291be4892b9.json,d2daba09-f1c2-4764-a567-1291be4892b9,100,"These highlights do not include all the information needed to use
+POSACONAZOLE DELAYED-RELEASE TABLETS safely and effectively. See full prescribing information for
+
+POSACONAZOLE
+
+DELAYED-RELEASE TABLETS
+.
+
+
+
+POSACONAZOLE
+
+delayed-release tablets, for oral use
+
+Initial U.S. Approval: 2006",282446,posaconazole,10044066,torsade de pointes,
+../data/2024_latest_labels/latest_labels_ingredients/20240221_d138ab10-1ed9-44be-8d81-49dda1e434ac.json,d138ab10-1ed9-44be-8d81-49dda1e434ac,2,"These highlights do not include all the information needed to use ERAXIS safely and effectively. See full prescribing information for ERAXIS. 
+ERAXIS® (anidulafungin) for injection, for intravenous use Initial U.S. Approval: 2006",341018,anidulafungin,10014387,electrocardiogram qt prolonged,
+../data/2024_latest_labels/latest_labels_ingredients/20240129_0fb0298f-9756-26e8-e063-6294a90ae8f2.json,0fb0298f-9756-26e8-e063-6294a90ae8f2,1,"These highlights do not include all the information needed to use COCAINE HYDROCHLORIDE nasal solution safely and effectively. See full prescribing information for COCAINE HYDROCHLORIDE nasal solution.
+ 
+
+COCAINE HYDROCHLORIDE nasal solution, for intranasal use, CII
+ 
+Initial U.S. Approval: 2017",2653,cocaine,10014387,electrocardiogram qt prolonged,1
